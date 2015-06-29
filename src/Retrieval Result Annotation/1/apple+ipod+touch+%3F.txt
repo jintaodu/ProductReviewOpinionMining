@@ -1,0 +1,1514 @@
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+10011919#264#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Cnet</websource>
+<reviewid>10011919</reviewid>
+<reviewtitle>Loved the 2nd generation Ipod touch</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Loved the 2nd generation Ipod touch, Fanstastic Technology as usual by Apple</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No remote AM/FM radio !!!</sentcont>
+<sentcont>??</sentcont>
+<sentcont>Why</sentcont>
+<sentcont>Apple designed a remote radio for the Nano and Classic ipods</sentcont>
+<sentcont>Why not this one or at least add a radio feature within the configuration of the Ipod Touch.</sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>Loved the 2nd generation Ipod touch, Fanstastic Technology as usual by Apple.</sentcont></sentence>
+<sentence><sentcont>But the one feature that is missing is a remote AM/FM that the other Ipods uses.</sentcont></sentence>
+<sentence><sentcont>That is my only disapointment.</sentcont></sentence>
+<sentence><sentcont>I will have to carry my other Ipod nano to listen to my remote radio until Apple decide to create one for the Itouch.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000011#285#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000011</reviewid>
+<reviewtitle>this is the right ipod :]</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> internet wireless free, lots of features, easy to use </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> back gets scratched up </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>Many current music players are capable of doing a lot more than just playing music.</sentcont></sentence>
+<sentence><sentcont>And the latest Apple iPod touch is not an exception.</sentcont></sentence>
+<sentence><sentcont>It is a full media players equipped with innovative functions such as Internet, WiFi and an option to play YouTube videos for example.</sentcont></sentence>
+<sentence><sentcont>The Apple iPod touch came in a surprisingly compact box; only inches larger than the iPod touch itself.</sentcont></sentence>
+<sentence><sentcont>The iPod touch comes with a fully loaded battery, so it is not necessary to charge the battery before using the iPod touch.</sentcont></sentence>
+<sentence><sentcont>Even the date and time were set correctly on the iPod touch we received.</sentcont></sentence>
+<sentence><sentcont>Enough reasons for our partners at LetsGoMobile to test the iPod touch and offer you an extensive review.</sentcont></sentence>
+<sentence><sentcont>Unfortunately the iPod touch has not been equipped with a ditigal camera.</sentcont></sentence>
+<sentence><sentcont>It is possible however to synchronize the photos from your computer with the iPod touch through iTunes.</sentcont></sentence>
+<sentence><sentcont>Once the pictures are on your iPod you can watch them by touching the Pictures icon in the main menu on the iPod screen.</sentcont></sentence>
+<sentence><sentcont>Clicking on a picture will make it appear in a medium size in the centre of the screen.</sentcont></sentence>
+<sentence><sentcont>And also here, just as is the case when playing music, the picture is automatically rotated when turning your iPod into a different direction.</sentcont></sentence>
+<sentence><sentcont>If you turn the iPod one quarter, the picture will be rendered on full screen.</sentcont></sentence>
+<sentence><sentcont>The icon that tells you the number of the picture and a second one that lets you go on to the next or previous picture are still visible and available.</sentcont></sentence>
+<sentence><sentcont>??</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000464#738#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000464</reviewid>
+<reviewtitle>best apple ipod yet and so worth buying</reviewtitle>
+<rating>1.0</rating>
+<freereview><sentence><sentcont>the apple ipod touch 8gb 2nd generation is the best apple ipod product yet.</sentcont></sentence>
+<sentence><sentcont>everyone should have one.</sentcont></sentence>
+<sentence><sentcont>it has apps for almost everything and is fun to play games on.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+10019963#179#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Cnet</websource>
+<reviewid>10019963</reviewid>
+<reviewtitle>Luv It. Great Features.</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Beautiful graphics; internet; album artwork display; nice size; speaker; volume control; applications are wonderful</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Ipod Touch isn't flash player compatible; speaker sound is a little weak; might be too complicated for people not familiar with the software or wanting just a mp3 player</sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I have been in love with the ipod ever since I first got a first generation ipod nano way back in 2005.</sentcont></sentence>
+<sentence><sentcont>Ever since then I have been satisfied with the product.</sentcont></sentence>
+<sentence><sentcont>I have been thinking about getting an ipod touch for about 6 months.</sentcont></sentence>
+<sentence><sentcont>My ipod nano ran out of space and I wanted an ipod with bigger space.</sentcont></sentence>
+<sentence><sentcont>So I have been researching the ipod touch for sometime now.</sentcont></sentence>
+<sentence><sentcont>Luckily waiting this long the 2nd generation touch came out as well as a drop in price.</sentcont></sentence>
+<sentence><sentcont>I purchased the 32g and after 4 days of playing with it, am greatly satisfied.The</sentcont></sentence>
+<sentence><sentcont>graphics quickly caught my eye.</sentcont></sentence>
+<sentence><sentcont>I love the wifi and haven't ran into any wifi problems like some of the other reviews have mentioned.</sentcont></sentence>
+<sentence><sentcont>Youtube looks great and I love watching videos on the touch.</sentcont></sentence>
+<sentence><sentcont>There are a ton of downloadable applications that make the touch even better.</sentcont></sentence>
+<sentence><sentcont>Even though the speaker quality could be better, it is still a great feature and I listen to my music without headphones a lot.</sentcont></sentence>
+<sentence><sentcont>I love the album artwork and genius is great.</sentcont></sentence>
+<sentence><sentcont>Even though you need a lot of music on your ipod for genius to work, its a great feature.</sentcont></sentence>
+<sentence><sentcont>I was surprised at how accurate genius was and the great thing about it is its new so it will only get better after more people get itunes.I have seen a lot of cons about not having a camera.</sentcont></sentence>
+<sentence><sentcont>Remember guys this is an ipod, and even though that feature would be nice, we must remember what the ipod is for: Music.</sentcont></sentence>
+<sentence><sentcont>All of the other features are just perks (Great perks, but perks).</sentcont></sentence>
+<sentence><sentcont>Eventually I think apple will add other features in future ipods but this ipod 2nd generation touch beats the competition.</sentcont></sentence>
+<sentence><sentcont>Since I had my ipod I really haven't even listened to much music due to the many other things it does.</sentcont></sentence>
+<sentence><sentcont>I'm still in the process of figuring everything out but this new technology is scary.</sentcont></sentence>
+<sentence><sentcont>I can't even imagine what future ipods will be like.</sentcont></sentence>
+<sentence><sentcont>My only complaint is safari wont let you download flash player.</sentcont></sentence>
+<sentence><sentcont>It would have been nice to have been able to do this and this was the only reason that I didn't give the touch a perfect score.</sentcont></sentence>
+<sentence><sentcont>Never the less I have internet on my phone so Im not missing out on too much.</sentcont></sentence>
+<sentence><sentcont>Overall I would recommend this product to anyone who could afford it and really either size will be fine.</sentcont></sentence>
+<sentence><sentcont>If you are looking for a great mp3 player that does tons of other things, this is the product for you.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000487#761#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000487</reviewid>
+<reviewtitle>OMG, COOL AS HELL</reviewtitle>
+<rating>1.0</rating>
+<freereview><sentence><sentcont>MUST HAVE!?? Apple takes ipod to another geberation, with accelerometer, speakers, wifi capabilities, and more!?? Please don't take it away from me! ?? Price range:$183.98 - $199.99Compare prices:Amazon.com</sentcont></sentence>
+<sentence><sentcont>Marketplace $198.00PC</sentcont></sentence>
+<sentence><sentcont>Connection $189.99Amazon.com</sentcont></sentence>
+<sentence><sentcont>$183.99 ?? The good: The third generation of Apple's iPod Touch is still the king of the hill when it comes to portable, Wi-Fi wielding media players.</sentcont></sentence>
+<sentence><sentcont>New additions such as Voice Control, graphics enhancements, improved accessibility, higher capacity, and a faster processor help to refine and already excellent product.</sentcont></sentence>
+<sentence><sentcont>The bad: Apple's 8GB Touch doesn't share the same hardware improvements as its higher-capacity kin, and the video cameras found on the iPhone 3GS and iPod Nano remain conspicuously absent.</sentcont></sentence>
+<sentence><sentcont>The lack of refinements to its audio quality, hardware design, and video playback leave us feeling just a little uninspired.</sentcont></sentence>
+<sentence><sentcont>The bottom line: Though the updates are subtle, the third-generation iPod Touch still leaves its competitors in the dust.</sentcont></sentence>
+<sentence><sentcont>Read full reviewSee all pricesCompare this mp3 player to: * Apple iPod Touch Apple iPod Touch Starting at $183.</sentcont></sentence>
+<sentence><sentcont>98 * Apple iPod Touch Apple iPod Touch Starting at $356.</sentcont></sentence>
+<sentence><sentcont>98 o Editor's rating: 4.</sentcont></sentence>
+<sentence><sentcont>5 out of 5 * Apple iPod Touch Apple iPod Touch Starting at $269.</sentcont></sentence>
+<sentence><sentcont>98 o Editor's rating: 4.</sentcont></sentence>
+<sentence><sentcont>5 out of 5 * Apple iPod Nano Apple iPod Nano Starting at $133.</sentcont></sentence>
+<sentence><sentcont>98 o Editor's rating: 4.</sentcont></sentence>
+<sentence><sentcont>0 out of 5 * Apple iPod Touch Apple iPod Touch Starting at $171.</sentcont></sentence>
+<sentence><sentcont>98 o Editor's rating: 4.</sentcont></sentence>
+<sentence><sentcont>5 out of 5 * Compare selected CNET editors' review * CNET editors' rating: 4.</sentcont></sentence>
+<sentence><sentcont>0 stars Excellent Detailed editors' rating Design : 9.</sentcont></sentence>
+<sentence><sentcont>0 Features : 9.</sentcont></sentence>
+<sentence><sentcont>0 Performance : 8.</sentcont></sentence>
+<sentence><sentcont>0 Overall score: 8.</sentcont></sentence>
+<sentence><sentcont>7 (4.</sentcont></sentence>
+<sentence><sentcont>0 stars) * Reviewed by: Donald Bell * Reviewed on: 09/11/2009 * Released on: 09/09/2009 Editors' note: The rating of the 8GB iPod Touch is slightly less than the 32GB and 64GB models because of slight differences in processor speed and features.</sentcont></sentence>
+<sentence><sentcont>Photo gallery: Apple iPod Touch (third generation)Photo gallery:Apple iPod Touch (third generation) Now in its third year, Apple's iPod Touch has evolved so many features and uses beyond media playback that we're not really sure what to call it anymore.</sentcont></sentence>
+<sentence><sentcont>Some flock to the Touch for its first-class mobile Web browser and e-mail support, while others see it primarily as a portable gaming device, and some still pick it up for good old-fashioned music and video playback.</sentcont></sentence>
+<sentence><sentcont>No matter how you choose to define the iPod Touch, Apple's third-generation version has arrived, flaunting 8GB, 32GB, and 64GB capacities priced respectively at $199, $299, and $399.</sentcont></sentence>
+<sentence><sentcont>Its hardware design hasn't changed dramatically from the model we reviewed in 2008, but neither has its status as the world's most feature-packed portable media player.</sentcont></sentence>
+<sentence><sentcont>DesignFor better or worse, the first thing we noticed about the third-generation iPod Touch is how unchanged it looks.</sentcont></sentence>
+<sentence><sentcont>Side by side with the second-generation iPod Touch, you'd be hard-pressed to find a way to distinguish the two models from each other.</sentcont></sentence>
+<sentence><sentcont>Aside from minor differences in the etching on the back of the Touch, the second- and third-generation models are spitting images of each other Just like its phone-wielding sibling, the iPhone, the iPod Touch is a touch-screen device with a glass-covered 3.</sentcont></sentence>
+<sentence><sentcont>5-inch screen that sports a 480x320-pixel resolution.</sentcont></sentence>
+<sentence><sentcont>In spite of its touch-screen interface, Apple includes a few physical buttons, including a slim volume control on the left edge, a hold switch on the top, and a home button on the face of the player, placed below the screen.</sentcont></sentence>
+<sentence><sentcont>The bottom edge of the Touch includes the same universal dock port and 3.5-millimeter headphone jack as previous models, piercing the otherwise unbroken expanse of chromed steel that wraps around the back and edges of the device.</sentcont></sentence>
+<sentence><sentcont>The shape and dimensions of the Touch also remain unchanged (4.3 inches tall by 2.4 inches wide 0.33 inch thick), defined by a flat-glass front set inside a curved steel backing that feels natural in the hand but makes the iPod a little wobbly when you set it down on a table.</sentcont></sentence>
+<sentence><sentcont>Packaged with the Touch is an Apple universal dock connector USB cable, a pair of white earbuds that include a microphone and remote control on the cable, and a molded universal dock insert to use with any charging or speaker accessories.</sentcont></sentence>
+<sentence><sentcont>??</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+2138192#2835#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2138192</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> This IPod touch was a present for my son, he really enjoys it</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Like with IPhones, you can only put music or games on the Ipod through the apple application itunes, which is not always convenient</sentcont>
+<sentcont>Otherwise everything ok</sentcont>
+</sentence></con>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+10006607#116#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Cnet</websource>
+<reviewid>10006607</reviewid>
+<reviewtitle>Has everything I need!</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> The second-generation Apple iPod Touch has it all: music, videos, photos, podcasts, e-mail, Web browsing, Internet radio, games, Nike+, Wi-Fi music downloads, and an App Store for adding thousands of custom features</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The second-generation iPod Touch may be overwhelming to users looking for a simple music player; audio quality is average; and iTunes software is required </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>The second-generation iPod Touch includes features that are light-years ahead of the competition, its design has improved, and its price has finally come down to earth</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000381#655#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000381</reviewid>
+<reviewtitle>Ipod touch...the best mp3 player out right now</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Design, Quality, Sound, Any age can use this product </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> NONE</sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>The ipod touch is a great mp3 player.</sentcont></sentence>
+<sentence><sentcont>So far I have had two.</sentcont></sentence>
+<sentence><sentcont>I had the 1st generation and now I have the 2nd generation.</sentcont></sentence>
+<sentence><sentcont>I love the 2nd generation so much!</sentcont></sentence>
+<sentence><sentcont>One of the best new features is the side volume controls.</sentcont></sentence>
+<sentence><sentcont>Another great feature is the built-in speaker.</sentcont></sentence>
+<sentence><sentcont>The ipod touch can connect to the internet through wifi.</sentcont></sentence>
+<sentence><sentcont>The app store has so many different things to chose from.</sentcont></sentence>
+<sentence><sentcont>I have never had any problems with the ipod touch.</sentcont></sentence>
+<sentence><sentcont>I use it everyday.</sentcont></sentence>
+<sentence><sentcont>The ipod touch is easy to use, so people who aren't tech savvy can use it.</sentcont></sentence>
+<sentence><sentcont>The interface is minimal but it looks nice.</sentcont></sentence>
+<sentence><sentcont>I like that the ipod touch has a touch screen and is just like the iphone except that it doesn't make calls.</sentcont></sentence>
+<sentence><sentcont>The ipod touch is slim and lightweight.</sentcont></sentence>
+<sentence><sentcont>The ipod touch is also compatiable with every type of computer on the market today.</sentcont></sentence>
+<sentence><sentcont>Apple has done??a good job with introducing the ipodtouch.??I would??definitely recommend the ipod touch anyone.</sentcont></sentence>
+<sentence><sentcont>This is a great investment.</sentcont></sentence>
+<sentence><sentcont>??</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+586989#1692#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>586989</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> hi resolution touch screen, wifi, good sound quality and idiot proof interface </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> having to pay for extra software, memory size, included headphones poor and no wma support </sentcont>
+</sentence></con>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000398#672#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000398</reviewid>
+<reviewtitle>The Ipod Touch is a wonderful device and I use it everyday!</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Design, Easy to use, Quality, Sleek, Sound, very good looking, Fits right in your back pocket., Fun, Any age can use this product, Organization, cool, Can access the internet, Does everything!, Can't live without it, Perfect for ages 13-50, Wide Variety of applications, A great PDA, Very difficult to scratch the screen., amazing, Convenient, helpful, Holds Pictures, Podcasts and Music, it really does everything., Convenient!, decent price for all the features, Great battery, i love the design of the product </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No camera, Have to be hooked to WiFi internet, price, does not support flash, Some apps cannot function without a mic, Speaker isn't loud enough </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>The Apple Ipod Touch 2nd Generation??is a wonderful product and I would reccomend it to anyone!</sentcont></sentence>
+<sentence><sentcont>It does practically everything from photo editing, to gaming, to music... its amazing!</sentcont></sentence>
+<sentence><sentcont>Only complaints are no camera, for this particular product no built in wifi, price, doesnt support flash, and no built in mic.</sentcont></sentence>
+<sentence><sentcont>But some of these can be fixed!</sentcont></sentence>
+<sentence><sentcont>You can jailbreak it to use flash, get headphones with built in mic, and be in a wifi zone!</sentcont></sentence>
+<sentence><sentcont>The apps are amazing, so many to choose from!</sentcont></sentence>
+<sentence><sentcont>It is compact without being too small.</sentcont></sentence>
+<sentence><sentcont>You can get fun cases for it to personalize the product, and add whatever you want app, music, and photo wise.</sentcont></sentence>
+<sentence><sentcont>I love the ability to get on to itunes from the device and download songs or videos straight to the device!</sentcont></sentence>
+<sentence><sentcont>You can even get the apple store app to purchase products such as Ipods, Ipads, Macs, etc.</sentcont></sentence>
+<sentence><sentcont>To sum it up, the Ipod touch is an amazing product that I would easily reccomend to anyone!</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+10030753#254#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Cnet</websource>
+<reviewid>10030753</reviewid>
+<reviewtitle>Spectacular design and amazing software.</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> WiFi, design, thickness, chrome backside, background and icons</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Audio/sound quality when listening to music by the speaker Easily scratched Lacking bluetooth and camera </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>Handling, large display, memory, mobility, Wireless Internet and touchscreen are all really beautiful.</sentcont></sentence>
+<sentence><sentcont>It amazes me every time i look at this, really incredible multimedia player.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000445#719#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000445</reviewid>
+<reviewtitle>The Ipod touch has very good quailty and good sound.</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Perfect for ages 13-50, Design, Quality, Sound </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> NONE</sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>the apple Ipod touch is very user friendly.</sentcont></sentence>
+<sentence><sentcont>Has great picture quality and sound on it.</sentcont></sentence>
+<sentence><sentcont>I love it.</sentcont></sentence>
+<sentence><sentcont>I would recommend others to go out and buy one.??You can add music as well as pictures to it.</sentcont></sentence>
+<sentence><sentcont>You can also search the web.</sentcont></sentence>
+<sentence><sentcont>Add the apps that u want.</sentcont></sentence>
+<sentence><sentcont>Anyone that has been on a computer can work the ipod touch its that easy.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+2255279#2733#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2255279</reviewid>
+<reviewtitle>Casual listener</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Bought with a usb power adapter and case</sentcont>
+<sentcont>Very good quality and good price</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No bad points </sentcont>
+</sentence></con>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000075#349#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000075</reviewid>
+<reviewtitle>Excellent at holding music, videos and more.</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> light, lots of features, easy to use, great screen, lightweight, external volume control on the side, best ipod ever, Large Screen </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> must hook up to computer to charge only, upgrades cost money from apple </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>When I first decided to buy and iPod more than a year ago, I decided to go with something simple, inexpensive, and fairly easy to use before I bought an Apple iPod Touch (just in case I did not care for it).</sentcont></sentence>
+<sentence><sentcont>Since then I have given that one to my youngest son and bought myself an iPod Touch.</sentcont></sentence>
+<sentence><sentcont>Since I am technologically challenged it took me a while to figure out how to use it, but once I figured it out I have had fun with it ever since.</sentcont></sentence>
+<sentence><sentcont>The iPod comes with a few applications already on it with storage room for many more.</sentcont></sentence>
+<sentence><sentcont>The songs, videos, movies, pictures??that you choose are easy to load and move around on the iPod once a person figures out how to use it.</sentcont></sentence>
+<sentence><sentcont>About the only bad thing that I have found is that??you absolutely can not get access??to the internet unless you have some form of wireless service, or are in a building that offers free WIFI.</sentcont></sentence>
+<sentence><sentcont>The storage capacity on the iPod touch is amazing I have more than 300 pieces on my iPod with more than three quartes of storage capacity still avaliable for future use.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000178#452#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000178</reviewid>
+<reviewtitle>The apple ipod touch is a great product to have</reviewtitle>
+<rating>1.0</rating>
+<freereview><sentence><sentcont>I have had the apple Ipod touch for a few years now and have never had anyproblems other than the battery never lasting long enough when I play games.</sentcont></sentence>
+<sentence><sentcont>It has great battery life for all other tasks though.</sentcont></sentence>
+<sentence><sentcont>I have loaded tons of pictures and music, and still had tons of room for all kind of app downloads and still have alot of room left.</sentcont></sentence>
+<sentence><sentcont>This is a great product for all ages and is loved by many.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+1136892#3217#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>1136892</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Wi-Fi connectivity: Can surf the internet and read mail when in range of any free wireless hotspot</sentcont>
+<sentcont> Fantastic user interface</sentcont>
+<sentcont> iPod Dock adapter is included</sentcont>
+<sentcont> I use it with a Sena slimline leather case, and recommend this accessory</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Quickly gets covered in fingerprints (polishing cloth is provided)</sentcont>
+<sentcont> Smooth USB cable is difficult to remove from less accessible USB ports</sentcont>
+<sentcont> Does not recharge when used with Cambridge Audio ID10 iPod Dock, although it plays with no problems through this accessory</sentcont>
+<sentcont> On Facebook app, requests don't include associated text</sentcont>
+</sentence></con>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+2211026#2692#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2211026</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Build quality,Portability - On recent holiday to SW France I took it everywhere with me, by the pool, on the beach with XMI X-mini II speaker I was able to enjoy listening to all my music collection non-stop</sentcont>
+<sentcont>I haven't used the ear phones yet because the quality of sound is so good coming from the external speaker connection I've been using</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Lack of camera, it would be nice to be able to capture holiday photos etc and email them straight away</sentcont>
+<sentcont>Unable to use Web features unless it is within Wi Fi Zone, not easy when you are on a beach or on a motor way</sentcont>
+<sentcont>Only some large motor way service stations and MacDonald provide free Wi Fi service</sentcont>
+</sentence></con>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+10007974#190#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Cnet</websource>
+<reviewid>10007974</reviewid>
+<reviewtitle>Excellent Multimedia Device</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> -Multi-touch navigation-Incredible thinness-Nice, 3-inch screen-Wi-Fi-Great video quality-YouTube-Mobile OS X-18 Languages Supported-Thousands of applications at App Store -Average sound quality-Great iTunes software-Email-Speakers </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> -Ultra fingerprint-prone aluminum backing-Terribly scratch-able backing-Hard to use keyboard-Speakers have under OK audio quality, but too quiet-Apps are very expensive at times </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I had purchased my first generation Touch a week before this new second generation was released, but I was able to return it to my local Target.Physical</sentcont></sentence>
+<sentence><sentcont>SpecsThe entire front is just a beautiful, big, 3 in.</sentcont></sentence>
+<sentence><sentcont>screen.</sentcont></sentence>
+<sentence><sentcont>There are only three buttons, a small circular home button on the front, useful volume controls on the left side, and a power button on the top.</sentcont></sentence>
+<sentence><sentcont>It is only 8.5 mm thin, 4.3 in.</sentcont></sentence>
+<sentence><sentcont>in height, 2.4 in.</sentcont></sentence>
+<sentence><sentcont>in width, and 4.05 oz.</sentcont></sentence>
+<sentence><sentcont>Although thicker than the first generation, the contoured edges and curves, it feels even thinner and feels better to grasp.</sentcont></sentence>
+<sentence><sentcont>On the back there is Apple's signature aluminum backing that wraps around the front for a nice chrome bezel.</sentcont></sentence>
+<sentence><sentcont>I was disappointed at first for replacing the nice dark rim, but the new rim is thinner and looks better than the iPhone.</sentcont></sentence>
+<sentence><sentcont>On the upper left there is a newly shaped Wi-Fi antenna.</sentcont></sentence>
+<sentence><sentcont>It is shaped like a oval and is more attention grabbing to me.</sentcont></sentence>
+<sentence><sentcont>Although you can see yourself with the reflective backing, after a week of use, you won't be able to.</sentcont></sentence>
+<sentence><sentcont>Even putting it on any surface, the back will gain a couple scratches.</sentcont></sentence>
+<sentence><sentcont>Coupled with the greasy smudges produced by your fingers, the backing is a sight for sore eyes after a month of use.</sentcont></sentence>
+<sentence><sentcont>I suggest an invisible shield.</sentcont></sentence>
+<sentence><sentcont>I remember watching scratch test videos online for the indestructible first generation screen.</sentcont></sentence>
+<sentence><sentcont>I was amazed.</sentcont></sentence>
+<sentence><sentcont>I was soon amazed with the screen so I never put a screen protector on.</sentcont></sentence>
+<sentence><sentcont>There were no scratches.</sentcont></sentence>
+<sentence><sentcont>Unfortunately after a week I got the second generation iPod Touch, there was already a scratch.</sentcont></sentence>
+<sentence><sentcont>No biggie, right?</sentcont></sentence>
+<sentence><sentcont>It's very small and all, but if you go to a bright graphic, it clearly deteriorated the screen around it.</sentcont></sentence>
+<sentence><sentcont>The home button also has a much cheaper feel.</sentcont></sentence>
+<sentence><sentcont>The click feels completely different, and the sound it produces does not sound good.</sentcont></sentence>
+<sentence><sentcont>On the side there are volume controls that are quite helpful.</sentcont></sentence>
+<sentence><sentcont>Unfortunately, they are not very easy to click.</sentcont></sentence>
+<sentence><sentcont>Interestingly, if the iPod is switched to landscape mode, the volume controls don't switch with the direction.</sentcont></sentence>
+<sentence><sentcont>In other words, when tilted, the left volume control would raise the volume, and the right volume control lowers it.</sentcont></sentence>
+<sentence><sentcont>I wouldn't think of it as a bad thing though, just personal preference.</sentcont></sentence>
+<sentence><sentcont>At the bottom there is a USB connector for syncing and charging, and one headphone jack.</sentcont></sentence>
+<sentence><sentcont>There is also an internal speaker that seems to have audio coming from the USB connector.</sentcont></sentence>
+<sentence><sentcont>Software and PerformanceWith a mobile version of OS X, it is just like the iPhone without the phone features.</sentcont></sentence>
+<sentence><sentcont>Released with the new product was software version 2.1.</sentcont></sentence>
+<sentence><sentcont>Everything is done by navigating with touch, and is very simple and fun to use.</sentcont></sentence>
+<sentence><sentcont>Multi-touch is also possible on the BEAUTIFUL screen made of glass.</sentcont></sentence>
+<sentence><sentcont>Audio is average by headphones, but only if the dreadful provided earbuds are replaced.</sentcont></sentence>
+<sentence><sentcont>The internal speaker doesn't sound like complete crap, but is so quiet, the only way to hear it is to have no ambient noise.</sentcont></sentence>
+<sentence><sentcont>Video quality is beautiful and sharp.</sentcont></sentence>
+<sentence><sentcont>Movies, TV shows, and music videos can be bought from iTunes at reasonable prices.</sentcont></sentence>
+<sentence><sentcont>An Application store was released from software version 2.0, and allows further customization with applications such as games, utilities, and many other possibilities.</sentcont></sentence>
+<sentence><sentcont>Official game licenses release games, like EA, THQ, and Namco.</sentcont></sentence>
+<sentence><sentcont>Games are full-length, and sometimes look very nice.</sentcont></sentence>
+<sentence><sentcont>The Accelerometer is sometimes used to a fun advantage, and touch is mostly how everything is done.</sentcont></sentence>
+<sentence><sentcont>Applications range from many types, such as: Books, Business, Education, Entertainment, Finance, Games, Healthcare and Fitness, Lifestyle, Music, Navigation, News, Photography, Productivity, Reference, Social Networking, Sports, Travel, Utilities, and Weather.</sentcont></sentence>
+<sentence><sentcont>Unfortunately, developers of these applications can only configure things inside the application, and nothing to change the actual operation of anything outside the application.</sentcont></sentence>
+<sentence><sentcont>These apps definitely make this a deal-maker.</sentcont></sentence>
+<sentence><sentcont>Battery life is very good, rated life of 36 hours of audio, and 6 hours for video.</sentcont></sentence>
+<sentence><sentcont>There are also preloaded applications, such as: Mail, Calender, Clock, YouTube, Photos, Weather, Maps, Stocks, Calculator, Notes, Contacts, The App Store, and the iTunes Store.</sentcont></sentence>
+<sentence><sentcont>All do what their names inform you of.</sentcont></sentence>
+<sentence><sentcont>Safari is very useful, but only if you have a Wi-Fi connection.</sentcont></sentence>
+<sentence><sentcont>Mail is just POP or IMAP email that is OK, but is not viewable by landscape.</sentcont></sentence>
+<sentence><sentcont>YouTube is just YouTube, but doesn't feature EVERY SINGLE video.</sentcont></sentence>
+<sentence><sentcont>Although I'd say 99% of YouTube's database of videos will be found on this Wi-Fi application.</sentcont></sentence>
+<sentence><sentcont>iTunes Store is a Wi-Fi music store, and the App Store is the mobile Application Store.</sentcont></sentence>
+<sentence><sentcont>ConclusionIf you have the iPod Classic and have the money, I would still definitely recommend this media device.</sentcont></sentence>
+<sentence><sentcont>With so many features, I wouldn't consider it as just an MP3 player.</sentcont></sentence>
+<sentence><sentcont>Although it does have some build faults, I REALLY recommend the 2nd generation iPod Touch.It is a totally unique iPod with a plethora of features, combining simplicity and innovation to a revolutionary level.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000440#714#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000440</reviewid>
+<reviewtitle>The Apple Touch Ipod 2nd Generation</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Easy to use, Sleek, Fun, Sound, Fits right in your back pocket</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No camera, Have to be hooked to WiFi internet, price </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>The Apple Itouch 2nd Generation is just right.</sentcont></sentence>
+<sentence><sentcont>8 GB are perfect because I don't have a lot of songs and I am not an app fan, although I do have some apps.</sentcont></sentence>
+<sentence><sentcont>I would suggest that if you are an iPod freak like I am then you better get the Ipod touch 2nd Generation.</sentcont></sentence>
+<sentence><sentcont>Especially because it has a bigger screen.</sentcont></sentence>
+<sentence><sentcont>LOVE THE APPLE IPOD TOUCH 2ND GENERATION!!!!!!!!!!!!</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000318#592#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000318</reviewid>
+<reviewtitle>Almost Perfect</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Easy to use, Sleek, Fun, Quality, Fits right in your back pocket., very good looking </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No camera, Scratches easily., no radio without WiFi </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I have to admit that there have been few items that have captured and kept my enthusiasm for as long as the iPod Touch.</sentcont></sentence>
+<sentence><sentcont>Two years ago, I purchased the original Touch, last year I upgraded to the 32 GB, and now I have the 64GB version.</sentcont></sentence>
+<sentence><sentcont>Was the upgrade worth it?</sentcont></sentence>
+<sentence><sentcont>And what are the things yet to be imroved?</sentcont></sentence>
+<sentence><sentcont>Because even though the Touch is close to perfection, there are still many small things that can be improved.</sentcont></sentence>
+<sentence><sentcont>Hardware Physically, the new (64GB) Touch is identical to it's 2nd generation brethren.</sentcont></sentence>
+<sentence><sentcont>It's polished crome backplate is slightly curved, making it fit your palm perfectly.</sentcont></sentence>
+<sentence><sentcont>As before, the fact that it's made from polished chrome will guarantee that it attracts fingerprints and scratches almost magically.</sentcont></sentence>
+<sentence><sentcont>I'm no friend of any kind of protective covers, and my last (32GB) Touch had to live in my pocket with my keys, coins, and other stuff I threw in with it.</sentcont></sentence>
+<sentence><sentcont>After a year, the backplate did pick up a lot of scratches, and I expect that the 64GB to fare no better.</sentcont></sentence>
+<sentence><sentcont>Personally, I would have preferred a brushed finish for the backplate.</sentcont></sentence>
+<sentence><sentcont>This may have caused problems with the readability of the customized engraving that Apple applies to the Touch on the backplate for no additional charge (a nice 'touch' that becomes increasingly important as the Touch becomes more ubiquitious).</sentcont></sentence>
+<sentence><sentcont>This custom engraving you can only get if you order the Touch through Apple (it's also not available in the Apple Stores).</sentcont></sentence>
+<sentence><sentcont>The front plate is made from one of the most impressive glass enhancements I've ever seen.</sentcont></sentence>
+<sentence><sentcont>After a year of heavy abuse, my old Touch's glass front has not a single scratch - not one.</sentcont></sentence>
+<sentence><sentcont>I don't know how Apple does it, but this is really impressive.</sentcont></sentence>
+<sentence><sentcont>Remember, I don't use any protective covers or films.</sentcont></sentence>
+<sentence><sentcont>The screen itself is brilliant, bright, and can easily be read outside, wich is a feat in itself.</sentcont></sentence>
+<sentence><sentcont>The Touch has an ambient light sensor, so it can dim the screen when the surroundings are darker.</sentcont></sentence>
+<sentence><sentcont>This time around, the screen's color temperature has remained unchanged (the 2G shifted all colors from a blueish to a more golden tinge).</sentcont></sentence>
+<sentence><sentcont>Movie playback is simply astonishing.</sentcont></sentence>
+<sentence><sentcont>The image is crisp, and the on-screen controls natural.</sentcont></sentence>
+<sentence><sentcont>Again, there are niceties such as double-tapping the screen to change aspect ratio, or placing bookmarks etc.</sentcont></sentence>
+<sentence><sentcont>You still can't set a movie's contrast, but beyond that small issue, movie playback is perfect.</sentcont></sentence>
+<sentence><sentcont>Viewing movies on the Touch simply works great, but personally I think that the screen is too small to watch a full movie.</sentcont></sentence>
+<sentence><sentcont>Last week, I tried watching a TV episode while on a plane enroute to Hamburg (a 75 minute flight), but quickly decided against it, opting instead to play a game of 'Luxor'.</sentcont></sentence>
+<sentence><sentcont>Somehow I prefer a larger screen for consuming video, while I have no problems doing something interactive on it.</sentcont></sentence>
+<sentence><sentcont>Still, video plays great on the Touch.</sentcont></sentence>
+<sentence><sentcont>Button and interface lay-out has remained the same from the last generation: volume controls on the left side, top holds the 'exit/on' button, buttom has dock and phones connectors, and the front holds the single home button.</sentcont></sentence>
+<sentence><sentcont>There is one thing that can be improved here: I would have preferred the audio connector to be on top (or either side), as the current configuration precludes the use of many applications (e.g. News- and eBook readers) when you want to place it upright -- for example in the Gym.</sentcont></sentence>
+<sentence><sentcont>Some apps do use the accelerometers and can be used positioning the Touch upside down, though.</sentcont></sentence>
+<sentence><sentcont>The built-in speaker is unchanged from the last version.</sentcont></sentence>
+<sentence><sentcont>It's weak, tinny, mono, produces horrible sound, has no volume to speak of -- and yet it's one of the best additions to the Touch (the original didn't have it, the 2nd gen did).</sentcont></sentence>
+<sentence><sentcont>It simply makes casual gaming so much more fun.</sentcont></sentence>
+<sentence><sentcont>I don't care about the bad sound quality, I just love the fact that it's there.</sentcont></sentence>
+<sentence><sentcont>The signatory white earphones that Apple sells with the Touch may look good, but I don't like them.</sentcont></sentence>
+<sentence><sentcont>In my ears they are too uncomfortable.</sentcont></sentence>
+<sentence><sentcont>Since I'm no audiophile, I can't comment on their audio quality other than that it's good enough for me.</sentcont></sentence>
+<sentence><sentcont>Anyway, I replaced them with my favorite non-Apple version.</sentcont></sentence>
+<sentence><sentcont>The hitch here is that Apple now delivers the 64 GB (and 32 GB) with earphones that sport a built-in mic and remote.</sentcont></sentence>
+<sentence><sentcont>And my head phones don't have that.</sentcont></sentence>
+<sentence><sentcont>While the remote is nothing much to write home about (the way it works is just too complex), the mic works well, and has just the right fidelity to pick out voice over the background noise.</sentcont></sentence>
+<sentence><sentcont>So, for now, I keep the white buds with me in case I want to use the IP-telephony capabilities.</sentcont></sentence>
+<sentence><sentcont>Battery life appears to have been reduced somewhat from the 2nd gen - at least on paper.</sentcont></sentence>
+<sentence><sentcont>During the past few days the new 3rd gen Touch certainly performed as well as or even better than my 2nd gen - but then again, that one's battery is already one year old.</sentcont></sentence>
+<sentence><sentcont>One fact that I've become very fond of is the quick-charge ability, which works really well.</sentcont></sentence>
+<sentence><sentcont>The built-in wireless connectivity is really nice, with astonishingly well executed integration.</sentcont></sentence>
+<sentence><sentcont>The touch does all it's wireless networking over WiFi and Bluetooth.</sentcont></sentence>
+<sentence><sentcont>WiFi works really well (especially here in Switzerland where Hotspots are particularely dense), and Bluetooth integration (which I tried on the 3rd gen for the first time) is flawless.</sentcont></sentence>
+<sentence><sentcont>WiFi reception (range) lags somewhat behind that of a Wintel laptop (no doubt due to the metal backplate) and is pretty much on par with that of a 15" Macbook Pro (which is also somewhat lacking in WiFi reception range).</sentcont></sentence>
+<sentence><sentcont>WiFi is still the 'g' variant though [interestingly enough, the built-in hardware does support 11n, but so far Apple has chosen not to activate it, presumably to conserve battery.</sentcont></sentence>
+<sentence><sentcont>This is interesting also from the fact that in the 2G Touch, Apple initially included Bluetooth capabilities, but only activated it with a later OS release.</sentcont></sentence>
+<sentence><sentcont>Perhaps the same can be expected for 11n].</sentcont></sentence>
+<sentence><sentcont>Bluetooth now also works with headphones and BT-based car integration kits (works well in mine).</sentcont></sentence>
+<sentence><sentcont>I would have loved to try out BT-based printing from the Calender or Addressbook app, but hit a snag: it appears no Touch app supports printing.</sentcont></sentence>
+<sentence><sentcont>Missing Hardware There is some hardware that I expected, or whished that it was included in the Touch - especially as (some) of them are now present on other iPods: No camera.</sentcont></sentence>
+<sentence><sentcont>I was somewhat ambivalent about this.</sentcont></sentence>
+<sentence><sentcont>No camera means no pictures and/or movies.</sentcont></sentence>
+<sentence><sentcont>But it also means that I can keep handling it rough, as I do not have to worry abou the lens.</sentcont></sentence>
+<sentence><sentcont>Also, I don't have to worry about taking it to the Gym (my Gym has very strict rules towards camera-equipped items).</sentcont></sentence>
+<sentence><sentcont>All things being equal, the addition of a camera (still and/or video) would have been nice, but I don't miss it much (truth be told, I yet have to use the camera on my mobile phone).</sentcont></sentence>
+<sentence><sentcont>Unfortunately, there is also no built-in mic.</sentcont></sentence>
+<sentence><sentcont>This is much a more significant omission than having no camera.</sentcont></sentence>
+<sentence><sentcont>The Touch is a first class audio voice recorder and (more importantly for me) a first class Skype client.</sentcont></sentence>
+<sentence><sentcont>There are third party solutions for this (a mini-micro that directly plugs into the headphone connector), but if the touch had a built-in mike, it would make using world-class applications like Shazam (and Skype) so much easier Likewise, there is no compass, nor a GPS receiver present in the touch.</sentcont></sentence>
+<sentence><sentcont>I understand that these are left out to better differentiate the Touch from the iPhone, but I would have welcomed them in the top-of-the-line (64GB) version of the iPod.</sentcont></sentence>
+<sentence><sentcont>And, finally, there is no radio receiver.</sentcont></sentence>
+<sentence><sentcont>I'm definitely not a radio man, as I next to never listen to it.</sentcont></sentence>
+<sentence><sentcont>Still, some people do (as the ton of nicely selling IP radio applications shows), and anyway, the Nano has it now - even with a nice Tivoesque pause feature!</sentcont></sentence>
+<sentence><sentcont>Why not the Touch?</sentcont></sentence>
+<sentence><sentcont>Strange design choice.</sentcont></sentence>
+<sentence><sentcont>Internet While by itself the iPod Touch is an impressive and fun device, it comes into real swing when connected to the internet.</sentcont></sentence>
+<sentence><sentcont>The always-on nature and graceful handling of connection drops make the Touch one of the best internet devices I've used to day.</sentcont></sentence>
+<sentence><sentcont>The included Safari internet browser performs great - unless you try to load Flash-based content, which is not supported.</sentcont></sentence>
+<sentence><sentcont>The email client works great for receiving and viewing mail.</sentcont></sentence>
+<sentence><sentcont>Writing anything but the shortest of email is annoying, as the Touch is simply too small for comfortably entering any significant amount of text.</sentcont></sentence>
+<sentence><sentcont>Calendar and Address Book are well executed (even if entering a new date and merging multiple calenders is slightly more convoluted than necessary).</sentcont></sentence>
+<sentence><sentcont>Mail, Calendar and Addressbook can (if you have that service available) synch live to either mobile me (which Apple loves to sell you) or Exchange (which your employer loves to force on you) through a feature that is very similar to 'push' notification.</sentcont></sentence>
+<sentence><sentcont>In the past, using Exchange has been somewhat spotty, and mobile Me has had it's own share of problems.</sentcont></sentence>
+<sentence><sentcont>All in all, though both work nice, and exceedingly quick.</sentcont></sentence>
+<sentence><sentcont>You do need to be in range of a hotspot for this to function, though.</sentcont></sentence>
+<sentence><sentcont>Somewhat disappointing is the fact that notes are not synched.</sentcont></sentence>
+<sentence><sentcont>Another nice addition is 'Voice Memos' which is an audio recorder.</sentcont></sentence>
+<sentence><sentcont>Had the Touch an internal mic, this app would have been even better... Applications Next to the 'productivity' or 'PDA' suite (Mail, Calendar, Contacts) the touch comes with some other nice (but somewhat dull) apps (e.g. Maps, Stocks, YouTube) and two killer Apps: iTunes and App Store.</sentcont></sentence>
+<sentence><sentcont>While the former gives you instant access to all songs and movies that are currently available on iTunes (Warning: that, plus the incredible 'Shazam' can lead to unintented gross music spending), the latter (App Store) gives you equal instant access to an incredible number of applications that you can instantly download and use.</sentcont></sentence>
+<sentence><sentcont>The quality of applications on the App Store is quite uneven, and tends to cluster around some rather puerile topics (as a veritable, uh, heap, of Fart applications proves).</sentcont></sentence>
+<sentence><sentcont>That being said, there are a number of jaw-droppingly good applications that are able to utilize the touch interface (and other capabilities such as accelerometer) in new and surprising ways.</sentcont></sentence>
+<sentence><sentcont>Just to name a few are the aforementioned 'Shazam' that can identify a song being played and instantly link to iTunes (you have to see it in action to believe it), Flight Control, where you manage an airport by drawing the flight path for each plane.</sentcont></sentence>
+<sentence><sentcont>Bloomberg that provides stock information in an exhaustive way, and Wemlin that shows an up-to-date timetable for when the next tram arrives at my station.</sentcont></sentence>
+<sentence><sentcont>No matter what, there probably is an application that supports you with it.</sentcont></sentence>
+<sentence><sentcont>And then there are games.</sentcont></sentence>
+<sentence><sentcont>Apple had quickly recognized that the Touch represents an immensely attractive and powerful game platform.</sentcont></sentence>
+<sentence><sentcont>Performance, screen, connectivity and control capabilities make it the ideal casual gaming platform.</sentcont></sentence>
+<sentence><sentcont>Accordingly, games represent by far the largest category in the App store.</sentcont></sentence>
+<sentence><sentcont>While inevitably there are some truly awfully executed, or simply dull games, the majority of the available games are at least somewhat entertaining, while some rival and exceed those that can be had for thrice the price on dedicated gaming platforms.</sentcont></sentence>
+<sentence><sentcont>In the past, my Touch quickly filled up with app after app that I simply couldn't live without any more, and an unforseen limitation of the Touch's design surfaced: app management.</sentcont></sentence>
+<sentence><sentcont>Applications are arranged as icons on a 4x4 grid per page, with multiple pages that you can flick left and right to navigate.</sentcont></sentence>
+<sentence><sentcont>Unfortunately, re-arranging apps, although possible (and quite ingeniously implemented) is still a chore.</sentcont></sentence>
+<sentence><sentcont>Apple has done the right thing, and integrated a much nicer app manager into the (PC/Mac) iTunes application.</sentcont></sentence>
+<sentence><sentcont>Speed Improvement The iPod Touch, although seen by some as the 'iPhone's smaller sibling' was always either as nible as the phone, or even faster.</sentcont></sentence>
+<sentence><sentcont>The new, 3rd gen Touch is said to be 'up to 50% faster' than the previous generation.</sentcont></sentence>
+<sentence><sentcont>To be honest, I'm not sure that I see that speed improvent translate to much performance increase.</sentcont></sentence>
+<sentence><sentcont>That may be due to the fact that my Touch seldom maxes out on processor throughput or (for example when browsing) that WiFi bandwidth is the limiting factor.</sentcont></sentence>
+<sentence><sentcont>Some apps appear to be 'snappier' during start-up (smaller apps) or execution (games, mostly), but all in all, the Touch pretty much seems to be as fast as the last generation.</sentcont></sentence>
+<sentence><sentcont>This leads me to believe that the real bottleneck is it's internal execution memory (i.e. not the 64 GB storage, but processor memory), and ony applications that are specifically written to take advantage of new technology (e.g. OpenGL ES).</sentcont></sentence>
+<sentence><sentcont>Or in other words: the overall speed has not been improved that much.</sentcont></sentence>
+<sentence><sentcont>SDK So you want to be a geek?</sentcont></sentence>
+<sentence><sentcont>Already are?</sentcont></sentence>
+<sentence><sentcont>You can write your own applications for the Touch if you like.</sentcont></sentence>
+<sentence><sentcont>I've taken the plunge and downloaded the SDK.</sentcont></sentence>
+<sentence><sentcont>Note that you can download the SDK and develop for the Touch/iPhone without actually owning one.</sentcont></sentence>
+<sentence><sentcont>The development system comes with a iPhone simulator that you can use to test your applications without downloading them unto an actual device (it does have some limitations: for example, the accelerometers are not simulated, and you have no indication of the true execution speed).</sentcont></sentence>
+<sentence><sentcont>Well, you do need a Mac for this (although it can be a few years old).</sentcont></sentence>
+<sentence><sentcont>The SDK is impressive - overwhelming even if you are not used to Mac programming (and almost prohibitively complex if you are not used to frameworks like Cocoa and object-oriented programming).</sentcont></sentence>
+<sentence><sentcont>Still, crunching out your first (very basic) appliction is surprisingly easy, and if you roll that way, you'll get addicted quickly.</sentcont></sentence>
+<sentence><sentcont>Summary: It's the killer personal entertainment device.</sentcont></sentence>
+<sentence><sentcont>Buy it.</sentcont></sentence>
+<sentence><sentcont>You know you want it -- especially if you have read this far.</sentcont></sentence>
+<sentence><sentcont>If you have the 2nd gen iPod, you may need to ask yourself if the slight speed bump and the additional storage is worth the hefty price tag.</sentcont></sentence>
+<sentence><sentcont>To me it was, but your mileage may vary.</sentcont></sentence>
+<sentence><sentcont>pros + world class touch/gesture interface + best iPod audiovisual experience around (music, video, photos).</sentcont></sentence>
+<sentence><sentcont>killer feature: app store and application availability + killer feature: internet integration (browsing and push technology) + great movie playback.</sentcont></sentence>
+<sentence><sentcont>really good casual gaming device + slightly improved speed (allegedly, only for some games) + great integration with mobile me (calender, mail sync) or Exchange.</sentcont></sentence>
+<sentence><sentcont>really good SDK if you are geeky enough to roll your own apps cons - no built-in mic (headphones do have them) - polished chrome backplate (I would have preferred a brushed finish).</sentcont></sentence>
+<sentence><sentcont>no gps, camera, compass - no radio (nano has it?) - no sync of notes, no wireless sync of music/movies.</sentcont></sentence>
+<sentence><sentcont>- spotty voice recognition in languages other than english - no control over downsampling of photos - no search function for music inside the iPod app - no visualizer.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000003#277#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000003</reviewid>
+<reviewtitle>Not quite an iPhone, but VERY nice</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> 802.11g Wireless, large capacity, small, light, long battery life, Hackable, Large Screen </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Low capacity compared to the Classic, No email or other apps, No Bluetooth, Calendar is read only, Fixed in update, Needs new cables for TV out </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>The recent rage of Cell Phone land is, yes, that often mentioned, earth shattering invention known as the iPhone.</sentcont></sentence>
+<sentence><sentcont>For a LOT of people that device became the device of choice, however, for many of us, we could not bring ourselves to move to AT&T, even for the greatest thing from Cupertino since, well, the Mac itself.</sentcont></sentence>
+<sentence><sentcont>For the rest of us, there is the iPod Touch.</sentcont></sentence>
+<sentence><sentcont>This non iPhone clone is all the iPodish goodess of the phone without the celluar contracts.</sentcont></sentence>
+<sentence><sentcont>It boasts the same size screen but comes in at almost half as thick as its iPhone big brother.</sentcont></sentence>
+<sentence><sentcont>It has Audio and Video capabilities and even does the nifty "flip" thing the iPhone does to give you coverflow.</sentcont></sentence>
+<sentence><sentcont>With the Touch getting twice he storage capability at roughly the same price as the phone, it's a good trade off to only have 802.11g wireless capability.</sentcont></sentence>
+<sentence><sentcont>You have some apps from the iPhone to play with too.</sentcont></sentence>
+<sentence><sentcont>You have the calendar syncing capability which, for some unknown reason won't let you add events.</sentcont></sentence>
+<sentence><sentcont>(Update, this was "fixed" in the 1.1.2 firmware update.)</sentcont></sentence>
+<sentence><sentcont>You also get Safari for browsing the web when you are near a WiFi hotspot.</sentcont></sentence>
+<sentence><sentcont>Your Contacts and YouTube access are present as well.</sentcont></sentence>
+<sentence><sentcont>What's missing?</sentcont></sentence>
+<sentence><sentcont>How about Email?</sentcont></sentence>
+<sentence><sentcont>Not on the Touch.</sentcont></sentence>
+<sentence><sentcont>You don't get Bluetooth access either, so no wireless headsets without an adapter.</sentcont></sentence>
+<sentence><sentcont>Oh, and by the way, those video out cables you bought for your older Video iPod, don't even try it.</sentcont></sentence>
+<sentence><sentcont>Apple has decided to create a new "proprietary" cable setup which means you get to buy another set.</sentcont></sentence>
+<sentence><sentcont>The iPod Touch uses the same operating system as the iPhone which means, you guessed it, the same hacks for the iPhone work here too.</sentcont></sentence>
+<sentence><sentcont>I give you the same standard warnings here, however.</sentcont></sentence>
+<sentence><sentcont>Modifing your Touch WILL void your warranty and you do run the REAL risk of turning it into an expensive brick.</sentcont></sentence>
+<sentence><sentcont>That being said, I have personally jailbroken my Touch and gone through a firmware update with little issues other than having to start over after each one.</sentcont></sentence>
+<sentence><sentcont>It IS an iPod after all and a full restore is only a click away in iTunes.</sentcont></sentence>
+<sentence><sentcont>Overall, the iPod Touch is an excellent iPod for those of use who do not want, or need the iPhone.</sentcont></sentence>
+<sentence><sentcont>I recommend it to anyone who doesn't desire to carry their entire media library with them and wants excellent screen resolution, clarity, and battery life.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+1296298#1089#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>1296298</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Easy to use out of the box</sentcont>
+<sentcont>Good design quality</sentcont>
+<sentcont>THe touch provides more than just a fancy MP3 player with its ability to play video, games, access to the net and photo storage</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Having to use itunes</sentcont>
+<sentcont> lack of assessories supplied with the touch   a basic case and plug adapter for charging would complete the package</sentcont>
+</sentence></con>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000206#480#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000206</reviewid>
+<reviewtitle>I don't know what I would do with out my touch!</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> best ipod ever, Large Screen, internet wireless free, light, lots of features, great screen, Easy to Use, lightweight </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No Bluetooth, only offers music downloads on iTunes, no external speaker/volume controls </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I have the 16gb Apple Ipod Touch and it has been one of the best things I have EVER purchased.</sentcont></sentence>
+<sentence><sentcont>I use it ALL the time.</sentcont></sentence>
+<sentence><sentcont>It has SO many apps to choose from and all my music and wherever there is WIFI you can search the net and do all sorts of things!</sentcont></sentence>
+<sentence><sentcont>I would be lost with out my Apple Ipod Touch!</sentcont></sentence>
+<sentence><sentcont>Everyone should have one!</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+646787#795#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>646787</reviewid>
+<reviewtitle>Poverty Sticken Technology Fan</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Light and Stylish</sentcont>
+<sentcont>Excellent Touch Screen</sentcont>
+<sentcont>Music - Great Videos - Great Email - Superb Safari Internet - Genius Dual Touch Pinch to expand or shrink email / Web pages - Excellent </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Can't use it as a file storage device (e.g memory stick) Can't save YouTube Videos or web graphics or web pages for off line viewing Can't rotate email views</sentcont>
+<sentcont>Can't save maps for when you are out of range of a WiFi Signal</sentcont>
+<sentcont>Mains charging Adaptor is not included</sentcont>
+<sentcont>Fragile (does not bounce)</sentcont>
+<sentcont>On screen touch keyboard is a bit fiddly</sentcont>
+<sentcont> A stylus would be very helpful</sentcont>
+<sentcont>Does not work if you are wearing gloves</sentcont>
+<sentcont>Needs games</sentcont>
+<sentcont>I would love to see iTouch Backgammon on it</sentcont>
+</sentence></con>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+1482020#1656#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>1482020</reviewid>
+<reviewtitle>Gadget lover</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Good picture resolution Good storage capacity for music & pics</sentcont>
+<sentcont>Very Neat Desirable Touchy Feely Ideal in my workshop with a docking station amp with speakers and fm radio</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Confusing what to do when power suddenly goes down</sentcont>
+<sentcont>Still trying to work out which buttons to press and for how long to get the apple logo up to let me know it is still alive</sentcont>
+<sentcont>Computer does not give connection sound tone when connecting the ipod touch with little or no battery life</sentcont>
+<sentcont>Don't know if it is charging when plugged into computer if no sign of life on ipod touch</sentcont>
+<sentcont>Sound without external speakers is not good</sentcont>
+</sentence></con>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000492#766#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000492</reviewid>
+<reviewtitle>I don't know how I lived before I got this product!</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> surf the web, utilities, games, texting apps, touch screen, built in speaker, music in background of games or web </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No flash player support </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>So, let's begin:First - unless you've recently held a new 'Nano', you won't belive how thin the Touch is.</sentcont></sentence>
+<sentence><sentcont>The glass surface feels different from my iPod Classic (yeah, I'm a *serious* MP3 player addict, and have that one, too).</sentcont></sentence>
+<sentence><sentcont>I can't really put my finger on it (it's hard to resist puns like that), but it feels somewhat softer when tapping it with your finger nail.</sentcont></sentence>
+<sentence><sentcont>Surprisingly (for me at least) the Touch does not respond to finger nails - you need to touch the surface with your finger's skin.</sentcont></sentence>
+<sentence><sentcont>This can initially be confusing when you are used to pressure-sensitive touch-screens, and can become difficult when using the virtual keyboard.</sentcont></sentence>
+<sentence><sentcont>The touch-sensitive font plate has (so far) proven to be scratch-resistant (i've been carrying it around in my pocket for the past three days).In</sentcont></sentence>
+<sentence><sentcont>my hand it feels surprisingly hefty (sonsidering it's sleekness), and it is noticeably longer than the Classic.</sentcont></sentence>
+<sentence><sentcont>Like most other iPods, the Touch has a polished backside that magically attract fingerprints.</sentcont></sentence>
+<sentence><sentcont>This backplate also holds the customized engraving that Apple applied free of charge to my iPod.</sentcont></sentence>
+<sentence><sentcont>The headphone connector is on the bottom, and accepts any normal headphone jack (unlike the iPhone).</sentcont></sentence>
+<sentence><sentcont>The position of the connector would have been annyoing if you wanted to use it upright in a gym (natch, iPod nano!).</sentcont></sentence>
+<sentence><sentcont>But movies are viewed in landscape orientation, and the iPod's interface automatically detects it's orientation.</sentcont></sentence>
+<sentence><sentcont>Now that's design for you.</sentcont></sentence>
+<sentence><sentcont>The earbuds are the same that come with other new iPods (classic).</sentcont></sentence>
+<sentence><sentcont>They are ok, but unlikely to be your first choice.</sentcont></sentence>
+<sentence><sentcont>I use the those earbuds for running (with my shuffle), but third-party (B&O) earphones with the classic and touch.</sentcont></sentence>
+<sentence><sentcont>I'm no audiophile, so sound quality usually is good for me (this holds true for all my devices).</sentcont></sentence>
+<sentence><sentcont>But then, according to some people I'm only listening to trash anyway.</sentcont></sentence>
+<sentence><sentcont>I therefore recommend that you look at other reviews if you are in search for a tone perfect device.</sentcont></sentence>
+<sentence><sentcont>I like it.Controlling the iPod is a strange - great when you are looking at it, annoying if you can't see it (i.e. if it's in your pocket).</sentcont></sentence>
+<sentence><sentcont>As with all touch-interfaces that have no tactile feedback there is no way to 'blindly' control it, and sadly the Touch does not have a remote nor real buttons except 'sleep' and 'home'.</sentcont></sentence>
+<sentence><sentcont>The Touch desperately needs some hardware volume control.</sentcont></sentence>
+<sentence><sentcont>Looking at the screen I have to say that I am amazed at the clarity of the image.</sentcont></sentence>
+<sentence><sentcont>3.5 inches is still too small for me to comfortably watch a lengthy movie, but the 320x480 pixel wide-screen display is stunningly crisp.</sentcont></sentence>
+<sentence><sentcont>I re-ripped some TV shows that I originally ripped for the Classic and watched them on the Touch.</sentcont></sentence>
+<sentence><sentcont>The problem is that files ripped for the Touch's resolution are roughly twice as large as for the Classic - but the Touch has only a fraction of the available storage.</sentcont></sentence>
+<sentence><sentcont>Thus, I can't envision myself using the Touch for lengthy movie watching - but it is excellent for watching shorter clips (while I'm no youTube fan, I do have a lot of short clips shot with my handheld camera).</sentcont></sentence>
+<sentence><sentcont>The Touch's sceen is very bright - I can't confirm initial reports of 'inverse black' or other artifacts.</sentcont></sentence>
+<sentence><sentcont>It appears to have a light sensor built-in that dims the screen when in darker surroundings, and brightens the screen when in the sun.</sentcont></sentence>
+<sentence><sentcont>One small annoyance though: there is no way to control a movie's contrast.</sentcont></sentence>
+<sentence><sentcont>The docs claim that the Touch can play 5 hours of video on a single charge.</sentcont></sentence>
+<sentence><sentcont>I'm prepared to take this on face value - I'm certainly not going to stare into that small screen for so long just to verify this.</sentcont></sentence>
+<sentence><sentcont>It's long enough for one-and-half normal movies, but won't last a transatlantic.</sentcont></sentence>
+<sentence><sentcont>Nor would my eyes, though.</sentcont></sentence>
+<sentence><sentcont>Coverflow is drop-dead beautiful, and a real show-off.</sentcont></sentence>
+<sentence><sentcont>It requires that you add artwork for all your CD-ripped tunes, though.</sentcont></sentence>
+<sentence><sentcont>Otherwise missing covers are replaced by generic grey ones.</sentcont></sentence>
+<sentence><sentcont>It's a great way to browse your music if you don't know what you want to hear next.</sentcont></sentence>
+<sentence><sentcont>It's a silly way to look for a particular album, though.</sentcont></sentence>
+<sentence><sentcont>For this, however, you can still (luckily) use the normal artist/album/song browser with the (again drop-dead intuitive) new gesture-based interface.</sentcont></sentence>
+<sentence><sentcont>It works reall, really well.Like all iPods the Touch can play a large variety of file formats with the (expected) exceptions of WMA (protected and otherwise) and Ogg.</sentcont></sentence>
+<sentence><sentcont>I don't have to add that it plays AAC protected (iTunes).</sentcont></sentence>
+<sentence><sentcont>It can also display an impressive array of image and movie formats, even though I have the suspiction that some of the listed formats are transcoded on-the-fly by iTunes during sync.The Touch provides video out signals that can be set to either NTSC or PAL.</sentcont></sentence>
+<sentence><sentcont>For Europeans like me this is very important, but may be of limited use for people living in the US. What *really* annoyed me was the fact that Apple chose to change the video out cabling, and thus forced me to purchase new cables to connect the Touch to TV sets or beamers.</sentcont></sentence>
+<sentence><sentcont>WiFiThe Touch has 802.11b/g (but not 'n') WiFi built-in that can connect to the internet through normal hotspots.</sentcont></sentence>
+<sentence><sentcont>Since you can expect the iPod to be in many different locations, hooking it up to hotspots is an important feature that must be easy to use.</sentcont></sentence>
+<sentence><sentcont>The Touch can (and will) remember hotspots it has connected to, and asks when it connects to a new hotspot very much like your Laptop does.</sentcont></sentence>
+<sentence><sentcont>Connecting to open Hotspots is a snap: scan surroundings, pick from list, (enter password when protected), connect.</sentcont></sentence>
+<sentence><sentcont>You can turn it off for airplane travel or to conserve battery life.You connect to protected hotspots (using the virtual keyboard for password entry).</sentcont></sentence>
+<sentence><sentcont>Also you can use Safari for those annoying web-page-to-enter-billing-info based hotspots that hotels seem to like (and every one else hates).</sentcont></sentence>
+<sentence><sentcont>Connecting to a closed and secure WLAN is a bit more complex.</sentcont></sentence>
+<sentence><sentcont>My WLAN is configured to require any device to be known by MAC address, and looking up this info wasn't as intuitive as I thought it would be (I found it in the Info tab).</sentcont></sentence>
+<sentence><sentcont>I then entered Network Name and Password, and a few seconds later, my Touch had access to my WLAN.But what is so special about WiFi?</sentcont></sentence>
+<sentence><sentcont>To me, having access to the Web is a killer feature.</sentcont></sentence>
+<sentence><sentcont>I'm not talking about music here - but access to Google (but not the Google Apps just yet), Wikipedia, CNN, Amazon, and my web mail account.</sentcont></sentence>
+<sentence><sentcont>With just a little tap on the screen I can look at news, check my mail, track a package, fire off a note to someone, or answer a silly question that just entered my head.</sentcont></sentence>
+<sentence><sentcont>Anywhere, anytime (when in range of a hotspot.</sentcont></sentence>
+<sentence><sentcont>In Switzerland that's practically everywhere).</sentcont></sentence>
+<sentence><sentcont>To repeat: this is a killer feature.</sentcont></sentence>
+<sentence><sentcont>It turns this digital media player into a nearly fully fledged PDA.The Touch version of Safari is great (even though Google Docs does not yet support it, and there currently is no support for Flash), and very responsive.</sentcont></sentence>
+<sentence><sentcont>Using the virtual keyboard takes some time to getting used to (again the missing tactile feedback is annoying).</sentcont></sentence>
+<sentence><sentcont>Navigating the web is quick (provided you have a good connection), and using the gestures to move the obscured parts of web pages into view becomes natural after only a few moments.</sentcont></sentence>
+<sentence><sentcont>Summary:The Touch is (currently) the best flash-based media player around, with a stunning (even revolutionary) new gesture-based user interface that works.</sentcont></sentence>
+<sentence><sentcont>I would have welcomed a significantly larger main storage, but it's very good as it is now.</sentcont></sentence>
+<sentence><sentcont>As a media player it's main drawback derives from the purely touch-based interface: it could have profited from a tactive rotary controller for 'blind' control.</sentcont></sentence>
+<sentence><sentcont>The feature that separates the Touch from the rest is the addition of another killer feature: WiFi web browsing.</sentcont></sentence>
+<sentence><sentcont>WiFi based music purchase is a nice bonus.The</sentcont></sentence>
+<sentence><sentcont>Touch also comes with a number of (sometimes artificial) limitations that I hope will be resolved in the future.</sentcont></sentence>
+<sentence><sentcont>All in all I'm very, very satisfied with the Touch, even though the Touch experience can clearly be improved (e.g. by removing application restrictions, being able to pull in shared iTunes Libraries, sharing songs wirelessly, syncing wirelessly etc.).</sentcont></sentence>
+<sentence><sentcont>PLUS- great "video" iPod- WiFi web browsing with Safari (killer feature)- wide range of supported file formats (audio, video, images)- great display- phenomenally sharp images- drop-dead gesture/touch interface- both NTSC and PAL video out (important for us Europeans).</sentcont></sentence>
+<sentence><sentcont>- iTunes store wirelessly- TV PAL and NTSC out MINUS- no playlist groups- difficult to use 'blind'- no contrast control for movies- no disk mode (huh.</sentcont></sentence>
+<sentence><sentcont>?)- non-standard AV connector (again!)- artificial limitations on Calendar application- no Mail, Notes, Games applications.</sentcont></sentence>
+<sentence><sentcont>can't access iTunes shared libraries on WLAN- can't share songs with other Touch iPods- no wireless synching.</sentcont></sentence>
+<sentence><sentcont>16GB can be awfully small when ripping movies for Touch's resolution- no WiFi iTunes PodCasts By C.</sentcont></sentence>
+<sentence><sentcont>Franz (Zurich, ZH Switzerland).</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000056#330#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000056</reviewid>
+<reviewtitle>great fun toy (a tiny portable computer and a phone too)</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> internet wireless free, lots of features, lightweight </sentcont>
+</sentence></pro>
+<freereview><sentence><sentcont>I own a ipod touch 2nd generation, it's a great toy to play with - the best part is the wifi access.</sentcont></sentence>
+<sentence><sentcont>This turns the ipod touch into a?? mobile browser, although the size of the ipod touch is limited, I can live with it.</sentcont></sentence>
+<sentence><sentcont>There are tons of applications available for the ipod touch, a great one is the skype, and I happen to subscribe to skype service, which is inexpensive, this magically turns the ipod touch into a phone.</sentcont></sentence>
+<sentence><sentcont>Sadly, like all other apple accessories, the microphone is quite expensive.</sentcont></sentence>
+<sentence><sentcont>Ipod touch is light, versatile, and fits greatly in the palm.</sentcont></sentence>
+<sentence><sentcont>The battery is good, I can watch video on it for roughly anywhere between 2 and 3 hours, however, when I use it to make phone calls through skype, the battery seems to get drained pretty fast.</sentcont></sentence>
+<sentence><sentcont>The other great feature is the access to the youtube, essentially the content matters.</sentcont></sentence>
+<sentence><sentcont>Although ipod touch does not support the fully blown flash, it's still good as I can access the youtube, which uses flash.</sentcont></sentence>
+<sentence><sentcont>Apple provides the itune store and app store, which basically adds fuel to the power of the ipod touch and makes it a truly fun toy to play with.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000261#535#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000261</reviewid>
+<reviewtitle>this is soo fun.</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> 802.11g Wireless, great screen, best ipod ever, lots of features, lightweight, Large Screen </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> upgrades cost money from apple, no ac charger with unit </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>the apple touch it so much fun to play with.</sentcont></sentence>
+<sentence><sentcont>it has cool effects and makes listening tomusic even more fun.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000447#721#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000447</reviewid>
+<reviewtitle>Apple has done it again with the ipod Touch.</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Design, Easy to use, Quality, Sound, very good looking, Fits right in your back pocket., Fun, Any age can use this product </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> NONE</sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>The apple ipod touch is not that new anymore, but is still one the best ways the get your music, movie, and games.</sentcont></sentence>
+<sentence><sentcont>I have own my ipod touch for over a year and have never had one problem with it!</sentcont></sentence>
+<sentence><sentcont>I love they screen size and the possibilities are endless!</sentcont></sentence>
+<sentence><sentcont>One of my best investments, and it is definately worth the money.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+10008664#267#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Cnet</websource>
+<reviewid>10008664</reviewid>
+<reviewtitle>IPOD TOUCH POWNES THE COMPETITION!</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Apple iPod Touch has it all: music, videos, photos, podcasts, e-mail, Web browsing, Internet radio, games, Nike+, Wi-Fi music downloads, and an App Store for adding thousands of custom features</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> NO!!!!</sentcont>
+<sentcont>its all good sept the price can be altered i believe!</sentcont>
+</sentence></con>
+<freereview></freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000415#689#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000415</reviewid>
+<reviewtitle>I love my ipod touch, it's simply amazing!</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> A great PDA, Very difficult to scratch the screen., Wide Variety of applications, Design, Quality, Sound, Perfect for ages 13-50 </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> NONE!, No cons whatsoever </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>The ipod touch is my first mp3 player, and it is the only kind I would recommend ot my friends and family.</sentcont></sentence>
+<sentence><sentcont>Watchign videos and movies on a touch screen couldn't be better.</sentcont></sentence>
+<sentence><sentcont>Also with customized playlists and easy touch screen scrolling makes it easier to sort through music and listen to it.</sentcont></sentence>
+<sentence><sentcont>Also the ablility to be able to download apps and games for this device couldn't mak it any more better.</sentcont></sentence>
+<sentence><sentcont>Apple also made it to where you could pusrchase ipods according to your needs whether or not you need a big memory storage one, or something small adn simple like the 8 gig ipod.</sentcont></sentence>
+<sentence><sentcont>Hands down above all other mp3's, the ipod touch blows away the competition.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000395#669#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000395</reviewid>
+<reviewtitle>fun to play with but glitchy alll the same</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Easy to use, Sleek, Fun, Design, Quality, Sound, Fits right in your back pocket., very good looking, Any age can use this product </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No camera, Have to be hooked to WiFi internet, Scratches easily., no radio without WiFi, you have to use itunes, price </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I have had my ipod for over a year now and it is amazing.</sentcont></sentence>
+<sentence><sentcont>sometimes it freezes up though and that gets annoying after awhile. the one thing i do hate though is the fact that you can't transfer music from your ipod to your computer with the 2nd generation ipod touch.</sentcont></sentence>
+<sentence><sentcont>Otherwise it is a wonderful product.</sentcont></sentence>
+<sentence><sentcont>My favorite part about it is the wifi capabilities is has :) It is fun to use and people always want to play with it.</sentcont></sentence>
+<sentence><sentcont>(be careful there) Now that almost everyone owns an apple product, they aren't as great anymore, and sometimes I would highly recommend a product that is not by apple because apple over prices their products immensely.</sentcont></sentence>
+<sentence><sentcont>their customer service is amazing thought.</sentcont></sentence>
+<sentence><sentcont>THey game me new ipod after the warranty had expired, but that was only because I had a very rare problem.</sentcont></sentence>
+<sentence><sentcont>all in all the apple ipod touch is amazing and I would recommend it to anyone who can honestly afford it.</sentcont></sentence>
+<sentence><sentcont>If not, sucks for you :P</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+10043661#160#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Cnet</websource>
+<reviewid>10043661</reviewid>
+<reviewtitle>Best iPod Ever!!</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Cool Touch Technology, Outstanding Video Quality, Pretty Good Battery Life, Lots of Apps and Games!</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Music Quality is still Average, and iTunes Software is required</sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>The Apple iPod Touch (second generation, 16GB) is a great Music Player, Video Player, and Photo Viewer.</sentcont></sentence>
+<sentence><sentcont>Still Needs To Improve Music Quality, but other than that, it is the Best iPod Ever!!</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000132#406#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000132</reviewid>
+<reviewtitle>Apple ipod is unbeliveble product</reviewtitle>
+<rating>1.0</rating>
+<freereview><sentence><sentcont>Apple iPod Touch is a latest handset.</sentcont></sentence>
+<sentence><sentcont>Full with numerous features, Apple iPod Touch have a full-fledged web browser, internet video player (You Tube) and a multi-touch interface.??4 GB of data storage with sleek look and wider screen makes Apple iPod Touch more dashing.The</sentcont></sentence>
+<sentence><sentcont>look of the Apple iPod Touch is really nice.</sentcont></sentence>
+<sentence><sentcont>The iPod touch can play 22 hours of audio or five hours of video on a full charge and the screen is almost fully covered up when the tracks start to play in the "Now Playing" feature.</sentcont></sentence>
+<sentence><sentcont>Audio, video and photo storage and playback system is also available in Apple iPod Touch.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000417#691#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000417</reviewid>
+<reviewtitle>Great for when your bored on the bus</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Easy to use, Sleek, very good looking, Fits right in your back pocket., Fun, cool </sentcont>
+</sentence></pro>
+<freereview><sentence><sentcont>The good: The second-generation Apple iPod Touch has it all: music, videos, photos, podcasts, e-mail, Web browsing, Internet radio, games, Nike+, Wi-Fi music downloads, and an App Store for adding thousands of custom features.</sentcont></sentence>
+<sentence><sentcont>The bad: The second-generation iPod Touch may be overwhelming to users looking for a simple music player; audio quality is average; and iTunes software is required.</sentcont></sentence>
+<sentence><sentcont>The bottom line: The second-generation iPod Touch includes features that are light-years ahead of the competition, its design has improved, and its price has finally come down to earth.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+10003037#141#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Cnet</websource>
+<reviewid>10003037</reviewid>
+<reviewtitle>Excellent product</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Great Audio, External volume control, much improved software 2.1, Sleek design, Wifi, Mail, App store, Battery life, Stunning Video playbac </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Stainless steel back will be prone to scratches </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>Apple have got it perfect this time, my 16gb first gen Touch had good audio quality but it wasn't as good as my old 5.5 video ipod.</sentcont></sentence>
+<sentence><sentcont>I bought the new 32gb 2nd Gen touch and there is an improvement in audio.</sentcont></sentence>
+<sentence><sentcont>(Use quality headphones to hear the difference).</sentcont></sentence>
+<sentence><sentcont>32GG is plenty for me even though as I only carry about 1200 songs around plus I have 7 movies, and 14 tv shows and a good few Apps and I still have enough room left to handle impulse buys.</sentcont></sentence>
+<sentence><sentcont>The screen is gorgeous and very bright and clear, UI is much improved over 2.0.2 for the older models.</sentcont></sentence>
+<sentence><sentcont>The volume controls are a welcome addition as is the speaker, which although tinny it's fine for showing off the gaming capabilities of the touch.</sentcont></sentence>
+<sentence><sentcont>The ipod touch is a great little mobile device, ideal for gaming, music, video, photos, email, web browsing and lots of fun Apps as well.</sentcont></sentence>
+<sentence><sentcont>Overall this is a fantastic and worthy update to the iPod line, not a dramatic update but a welcome one.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000244#518#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000244</reviewid>
+<reviewtitle>More than just an MP3 player!</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> internet wireless free, great screen, lots of features, easy to use, best ipod ever, Large Screen, lightweight </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> upgrades cost money from apple </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>The Apple Ipod Touch is awesome.</sentcont></sentence>
+<sentence><sentcont>So much more than an MP3 player.</sentcont></sentence>
+<sentence><sentcont>Being able to download tons of different games and applications make this machine awesome.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+10016741#228#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Cnet</websource>
+<reviewid>10016741</reviewid>
+<reviewtitle>Nice a/v PDA, but falls short w/ Apple lossless format.</reviewtitle>
+<rating>0.4</rating>
+<pro><sentence>
+<sentcont> Elegantly simple and stylish w/ functionality to match in what's basically a software expandable multimedia PDA that's very much in line w/ Apple's approach to the Mac and iPod line of products</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> 1</sentcont>
+<sentcont>Very annoying frequent random audio dropouts when playing Apple's lossless format</sentcont>
+<sentcont>2</sentcont>
+<sentcont>Price vs storage: this would be more forgiveable if issue #1 did not exist</sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>Very nice multimedia PDA overall, but very disappointed to find that the audio frequently randomly drops out when playing back Apple's own lossless format, which was the main reason for me to even get the 32GB version.</sentcont></sentence>
+<sentence><sentcont>Would've probably just passed on it (at least until the problem was resolved), if I had known beforehand.</sentcont></sentence>
+<sentence><sentcont>I still have my old 4G iPod classic 60GB that played Apple lossless format just fine.</sentcont></sentence>
+<sentence><sentcont>Hope Apple will fix this problem soon.</sentcont></sentence>
+<sentence><sentcont>But until then, this issue remains a serious flaw for anyone who wants highest quality audio playback (and is the main reason why I gave it just 2 stars instead of say 4.5 stars).</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+10014298#186#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Cnet</websource>
+<reviewid>10014298</reviewid>
+<reviewtitle>i LOVE THIS IPOD TOUCH</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Everything about it makes me happy</sentcont>
+<sentcont>Easy to use and full of great features</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Doesn't have phone, but I heard that there are apps through iTunes that I can download and use a phone over Wi-fi</sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I love this iPod touch!</sentcont></sentence>
+<sentence><sentcont>Fantastic technology and intuitive!</sentcont></sentence>
+<sentence><sentcont>Thanks Apple!</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000062#336#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000062</reviewid>
+<reviewtitle>Easy to use, carry and play</reviewtitle>
+<rating>0.8</rating>
+<freereview><sentence><sentcont>I use the ipod touch mainly for the internet browsing and phone calls.</sentcont></sentence>
+<sentence><sentcont>There are many other features of the ipod touch, such as playing music, playing video, playing games, etc.</sentcont></sentence>
+<sentence><sentcont>I take the ipod touch as a convenient way of having a tiny computer in my palm, and a replacement of phone at home.</sentcont></sentence>
+<sentence><sentcont>Overall the battery life is good (normally two to three hours for my personal use per charge), the screen is crisp and the software/os is stable.</sentcont></sentence>
+<sentence><sentcont>The enlarge/shrink function of the touch screen is especially handy when the safari browser is used.</sentcont></sentence>
+<sentence><sentcont>With the help of many applications available through itunes store, it makes the ipod touch very attractive and productive to use.</sentcont></sentence>
+<sentence><sentcont>The on screen keyboard is not easy to use but I can adapt to it.</sentcont></sentence>
+<sentence><sentcont>The availablity of the skype on ipod makes it virtually a phone with the help of the microphone.</sentcont></sentence>
+<sentence><sentcont>The ipod touch itself is pretty light, and fits in the palm with comfort.</sentcont></sentence>
+<sentence><sentcont>Apple is great at creating the visually stunning while practical and useful products.</sentcont></sentence>
+<sentence><sentcont>The nice to have: a radio chip to make it into a radio.</sentcont></sentence>
+<sentence><sentcont>?? ??</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000035#309#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000035</reviewid>
+<reviewtitle>If it's not apple it's not worth buying</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> easy to find music alphabeticaly, easy to use, lightweight </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> no ac charger with unit </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>Apple did it again!</sentcont></sentence>
+<sentence><sentcont>The Ipod touch is by far the best portable media player money can buy.</sentcont></sentence>
+<sentence><sentcont>Actually calling it just a media player is an understatement.</sentcont></sentence>
+<sentence><sentcont>The device is a true piece of art starting from the attractive design which looks very similar to the iPhone, but almost twice slimmer.</sentcont></sentence>
+<sentence><sentcont>The user interface is very innovative featuring the "multi touch" technology which is very intuitive and easy to use.</sentcont></sentence>
+<sentence><sentcont>Menus are very user friendly with impressive graphics specially for scrolling your picture, video or music albums.</sentcont></sentence>
+<sentence><sentcont>The device comes with built in Wifi for internet browsing, and is the only portable device -along with the iPhone- that enables you the real Internet like you see it on your home PC and not a stripped down version of it.</sentcont></sentence>
+<sentence><sentcont>You can zoom in and out using 2 fingers, see your webpage in portrait or landscape simply by turning the device in the direction you want.</sentcont></sentence>
+<sentence><sentcont>The sound and video quality are great.</sentcont></sentence>
+<sentence><sentcont>The video specially is impressive since the 3.5" screen offers a great resolution and a crisp and sharp picture.</sentcont></sentence>
+<sentence><sentcont>Almost like having a little plasma TV in the palm of your hand.</sentcont></sentence>
+<sentence><sentcont>I would've loved it even more if the battery would last more specially when playing lots of videos or browsing the web.</sentcont></sentence>
+<sentence><sentcont>The battery life is decent though if you listen to music more often than watch videos.</sentcont></sentence>
+<sentence><sentcont>Also no charger is included, only the USB cable, which means you need to use your PC to charge your ipod.</sentcont></sentence>
+<sentence><sentcont>That is kind of annoying specially that the device is not cheap.</sentcont></sentence>
+<sentence><sentcont>It wouldn't have cost Apple that much to throw in a charger or even a nice docking station instead of selling them separately.</sentcont></sentence>
+<sentence><sentcont>Although the screen has some anti scratch coating, I noticed that the shiny back of the device is very easily scratched.</sentcont></sentence>
+<sentence><sentcont>Apple should've thought of coating the device front and back.</sentcont></sentence>
+<sentence><sentcont>Having a camera would've also been a nice addition, though the iPhone already comes with it.</sentcont></sentence>
+<sentence><sentcont>Overall, this is a must have gadget for any portable media or technology enthusiast.</sentcont></sentence>
+<sentence><sentcont>The 16 GB version is also available if you're willing to spend a $100 more.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+10013293#221#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Cnet</websource>
+<reviewid>10013293</reviewid>
+<reviewtitle>Very unhappy with Apple</reviewtitle>
+<rating>0.1</rating>
+<pro><sentence>
+<sentcont> Excellent marketing hype </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Apple does not stand behind their products </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>STAY AWAY FROM THE APPLE IPOD TOUCH My son received an IPOD touch as a gift from his grandparents.</sentcont></sentence>
+<sentence><sentcont>It failed in less than two months.</sentcont></sentence>
+<sentence><sentcont>We purchased the extended warranty thinking we were safe from this type of loss.</sentcont></sentence>
+<sentence><sentcont>We took it back to the Apple store in Syracuse and were told the sensor in the headphone opening was tripped (turned pink), meaning the unit had water damage.</sentcont></sentence>
+<sentence><sentcont>My son walked home from the bus in a snowstorm carrying his IPOD in his front pants pocket the day his IPOD failed.</sentcont></sentence>
+<sentence><sentcont>This is the only moisture that came into contact with this unit.</sentcont></sentence>
+<sentence><sentcont>The real message from Apple is DO NOT TAKE THIS UNIT OUTSIDE.</sentcont></sentence>
+<sentence><sentcont>THIS IS A SENSITIVE ELECTRONIC DEVICE THAT WILL FAIL COMING INTO CONTACT WITH MOISTURE.</sentcont></sentence>
+<sentence><sentcont>Unbelievable!! Apple developed a clever way not to cover warranty claims.</sentcont></sentence>
+<sentence><sentcont>There is definitely a dark side to all of the Apple Glitz</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000043#317#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000043</reviewid>
+<reviewtitle>It is the best ipod ever!!</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> internet wireless free, light, 802.11g Wireless, lots of features, great screen, easy to use, best ipod ever, lightweight, Large Screen </sentcont>
+</sentence></pro>
+<freereview><sentence><sentcont>The Apple - iPod Touch is the best ipod i have ever had!.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000080#354#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000080</reviewid>
+<reviewtitle>Everything you need in a MP3 player</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> internet wireless free, lots of features, easy to use, best ipod ever, lightweight </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No Bluetooth, upgrades cost money from apple </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I got my Ipod touch when I bought my Mac book last year and I love it!</sentcont></sentence>
+<sentence><sentcont>I use my Ipod touch for everything.</sentcont></sentence>
+<sentence><sentcont>I can check my emails, play games, surf online and all the features are FREE! of course the only negative part is that you need Wi-Fi to get connected.</sentcont></sentence>
+<sentence><sentcont>With the Ipod touch i can watch videos, share pictures, and listen to music all in one MP3.</sentcont></sentence>
+<sentence><sentcont>I can't leave my house without my Ipod touch.</sentcont></sentence>
+<sentence><sentcont>I listen to it in the car and the battery life for the Ipod touch is very good.</sentcont></sentence>
+<sentence><sentcont>I will be using the Ipod touch for two days and the battery life is still good.</sentcont></sentence>
+<sentence><sentcont>Apple has done a very good job with the Ipod touch and with the new 3.0 version softeare update of the Ipod touch, I can search for apps or emails faster than ever.</sentcont></sentence>
+<sentence><sentcont>With just a touch of a button I can find my songs faster.</sentcont></sentence>
+<sentence><sentcont>The Ipod touch is incredible and it's amazing.</sentcont></sentence>
+<sentence><sentcont>I will be devasting if anything happens to my Ipod touch.</sentcont></sentence>
+<sentence><sentcont>If you are planning on getting yourself an MP3 player, Ipod touch is the best one out there.</sentcont></sentence>
+<sentence><sentcont>Its worth your money and you will never regret it.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+987895#2644#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>987895</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> INTERNET CONNECTIVITY , TOUCH SCREEN </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> MEMORY SIZE, PRICE </sentcont>
+</sentence></con>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000241#515#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000241</reviewid>
+<reviewtitle>IPOD touch - My favourite music player</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> lots of features, easy to use, great screen, best ipod ever, Large Screen </sentcont>
+</sentence></pro>
+<freereview><sentence><sentcont>Apple I-POD has finally came up with new features of Touch screen with?? widescreen capabilities and WiFi.</sentcont></sentence>
+<sentence><sentcont>The iPod Touch is a big hit??Get one, you won't regret it</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+10008916#148#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Cnet</websource>
+<reviewid>10008916</reviewid>
+<reviewtitle>Poor Audio Performance But Versatile Device</reviewtitle>
+<rating>0.6</rating>
+<pro><sentence>
+<sentcont> Sleek design</sentcont>
+<sentcont>Interesting operating system</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Average audio performance</sentcont>
+<sentcont>Some cheap disposal battery operated MP3 players sound better</sentcont>
+<sentcont>Ipod Shuffle sounds much better</sentcont>
+<sentcont>This is no match to iRiver Clix 2 which may be the best sounding MP3 player</sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>Lots of accessories, particularly sound docks.</sentcont></sentence>
+<sentence><sentcont>Still overpriced.</sentcont></sentence>
+<sentence><sentcont>Could improve the sound by better electronics.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+10009035#265#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Cnet</websource>
+<reviewid>10009035</reviewid>
+<reviewtitle>Charging is a problem with some accessories</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> I upgraded from a 16 G Touch, The internal speaker and extenal volume controls are great</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Apple changed the way this ipod charges it's internal battery - The 1st generation touch could be charged via USB or Firewire pins on it's connector</sentcont>
+<sentcont>The 2nd Gen</sentcont>
+<sentcont>will only charge with pins (connecter) for USB Many accessories use the firewire option </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>Still a great ipod, lots of memory for applications, video and music</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000218#492#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000218</reviewid>
+<reviewtitle>Sound quality is good</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> lots of features, easy to use, great screen, lightweight, Large Screen, internet wireless free, light, easy to find music alphabeticaly, hack it and its got a lot of great apps, large capacity, fun, Bright screen, Durable, Easy to see, Over 100,000 Apps to choose from, touchable, Free apps games, Watch Videos, email feature is great, Feels pretty sturdy, good graphics, Great Quality, Mp3 player is cool</sentcont>
+<sentcont>Similar to iphone, Zoom option is outstanding, Awesome features such as Wifi, External speakers & volume, internet is awesome, lots of storage, Syncs to Itunes easily, APPS APPS APPS!!!!, google maps feature is great, great text input, Hackable, holds a large music library, Music & Video, Safari, Seemingly unending apps, shows great videos, Fun </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> upgrades cost money from apple, back gets scratched up, no ac charger with unit, No Bluetooth, a camera would be nice, no java!!!!, internet connection is slow, internet doesnt always work, Not enough wireless spots around, Safari crashes randomly, game applications dont always work, Needs a good carrying case for running, No camera, no constant internet connection, No wall charger or an adapter, Touch screen is moody, Charge does no hold long, hard for parent to check up on kids, Have to re-sync to new computer, internet NEEDS wifi, kind of pricey, limited out of box functionality, low battery life with wifi, low security, No multitasking, not as portable as some iPods, External speaker suckd, Crashs alot, Have to update regularly </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I own two of these and enjoy them a lot.</sentcont></sentence>
+<sentence><sentcont>There fun to play alone or with someone.</sentcont></sentence>
+<sentence><sentcont>You can get apps to just about any thing.</sentcont></sentence>
+<sentence><sentcont>The wifi feature helps a lot when wanting to surf the web outside of home.</sentcont></sentence>
+<sentence><sentcont>It's a little slow sometimes when uploading photos or downloading videos.</sentcont></sentence>
+<sentence><sentcont>Over all it's a good buy</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+585336#1577#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>585336</reviewid>
+<reviewtitle>ipod user since 1stgeneration</reviewtitle>
+<rating>0.7</rating>
+<pro><sentence>
+<sentcont> Nice product over all, easy to use,lots and lots of storage,very good sound quality</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Not very slick,gets scracth easily,limited no</sentcont>
+<sentcont>of file type support, doesn't play video songs continuously (stops after each song),only four icons can be added to dock,expensive than what it should be</sentcont>
+</sentence></con>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000319#593#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000319</reviewid>
+<reviewtitle>Best Mobile Device</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Easy to use, Design, Sleek, Quality, Sound, Fun, Fits right in your back pocket., very good looking </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No camera, Have to be hooked to WiFi internet, Scratches easily., no radio without WiFi, price </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>The ipod touch The good: The third generation of Apple's iPod Touch is still the king of the hill when it comes to portable, Wi-Fi wielding media players.</sentcont></sentence>
+<sentence><sentcont>New additions such as Voice Control, graphics enhancements, improved accessibility, higher capacity, and a faster processor help to refine and already excellent product.</sentcont></sentence>
+<sentence><sentcont>The bad: Apple's 8GB Touch doesn't share the same hardware improvements as its higher-capacity kin, and the video cameras found on the iPhone 3GS and iPod Nano remain conspicuously absent.</sentcont></sentence>
+<sentence><sentcont>The lack of refinements to its audio quality, hardware design, and video playback leave us feeling just a little uninspired.</sentcont></sentence>
+<sentence><sentcont>The bottom line: Though the updates are subtle, the third-generation iPod Touch still leaves its competitors in the dust.</sentcont></sentence>
+<sentence><sentcont>Review: Editors' note, June 23, 2010: With the release of iOS4 (a free upgrade for iPod Touch users) Apple has added several improvements to the iPod Touch.</sentcont></sentence>
+<sentence><sentcont>Because the 8GB third-generation Touch (shown here) is technically identical to the second-generation model, we've assigned it a slightly lower rating than the more capable 32GB and 64GB versions.</sentcont></sentence>
+<sentence><sentcont>We've also?? explaining what iOS4 features will work on various models, bearing in mind that iPod Touch shown here falls under the classification of second-generation hardware.</sentcont></sentence>
+<sentence><sentcont>?? The third generation of Apple's iPod Touch is still the king of the hill when it comes to portable, Wi-Fi wielding media players.</sentcont></sentence>
+<sentence><sentcont>New additions such as Voice Control, graphics enhancements, improved accessibility, higher capacity, and a faster ... Apple's 8GB Touch doesn't share the same hardware improvements as its higher-capacity kin, and the video cameras found on the iPhone 3GS and iPod Nano remain conspicuously absent.</sentcont></sentence>
+<sentence><sentcont>The lack of refinements to its audio quality, hardware design, and ... Though the updates are subtle, the third-generation iPod Touch still leaves its competitors in the dust.</sentcont></sentence>
+<sentence><sentcont>Provided become proficient with its touch-screen keyboard, the iPod Touch is... ?? The third generation of Apple's iPod Touch is still the king of the hill when it comes to portable, Wi-Fi-wielding media players.</sentcont></sentence>
+<sentence><sentcont>New additions such as Voice Control, graphics enhancements, improved accessibility, higher capacity, and a faster ... The video cameras found on the iPhone 3GS and iPod Nano remain conspicuously absent.</sentcont></sentence>
+<sentence><sentcont>The lack of refinements to its audio quality, hardware design, and video playback leave us feeling just a little uninspired Though the updates are subtle, the third-generation iPod Touch leaves its competitors in the dust.</sentcont></sentence>
+<sentence><sentcont>?? Pros: Attractive, your friends will desire one too, it will entertain you, nice to touch Cons: Misses the basic functionality Summary: This beauty queen certainly wins in looks and will entertain you in the talent competition with all the apps and games; but on the every day?</sentcont></sentence>
+<sentence><sentcont>can it be productive?</sentcont></sentence>
+<sentence><sentcont>indispensable?</sentcont></sentence>
+<sentence><sentcont>not the ipod touch.</sentcont></sentence>
+<sentence><sentcont>?? Play the latest head-to-head games with a friend ??? whether your friend is sitting next to you or across the country.</sentcont></sentence>
+<sentence><sentcont>?? It's easy to think of the touch as a stripped-down version of the instead of a souped-up iPod.</sentcont></sentence>
+<sentence><sentcont>The iPod touch and iPhone look similar, featuring the same wide touchscreen with a sleek black border and single home button.</sentcont></sentence>
+<sentence><sentcont>The iPod touch is a little smaller and weighs a little less than the iPhone, partly because the iPhone has a cellular transceiver.</sentcont></sentence>
+<sentence><sentcont>The iPod Touch's home screen also looks like the iPhone's, but with fewer icons -- at least, until you start installing new applications.</sentcont></sentence>
+<sentence><sentcont>From the home screen, you can get to the iPhone's?? client,?? capabilities,?? and collection of mini-applications called widgets.</sentcont></sentence>
+<sentence><sentcont>And, of course, you can also use the iPhone as a .</sentcont></sentence>
+<sentence><sentcont>The iPod touch doesn't share any of these features, but the two devices do have a few things in common, including: ??(8, 16 or 32 GB for the iPhone, 32 or 64 GB for the iPod touch) capabilities (802.11b/g)</sentcont></sentence>
+<sentence><sentcont>Safari Web browser Audio, video and photo storage and playback YouTube video player Calendar and contacts that synch with your computer Clock and calculator applications Access to the.</sentcont></sentence>
+<sentence><sentcont>via WiFi More than 140,000 apps you can install from the App Store via WiFi or a wired computer connection Dock and headphone connections Earphones with remote controls and a microphone.</sentcont></sentence>
+<sentence><sentcont>The iPod touch also costs roughly the same amount as an iPhone or an iPod classic, but each of these devices has significantly different features and capabilities.</sentcont></sentence>
+<sentence><sentcont>Here's a run-down of the costs: iPod touch: $199 for 8 GB, $299 for 32 GB, $399 for 64 GB iPhone: $99 for 8 GB (3G); $199 for 16 GB or $299 for 32 GB (3GS), plus the cost of a mobile phone service plan iPod classic: $249 for 160 GB iPod nano: $149 for 8GB, $179 for 16 GB iPod shuffle: $59 for 2 GB, $79 for 4 GB.</sentcont></sentence>
+<sentence><sentcont>[source: In terms of storage space, the iPod touch is comparable to the iPhone and the iPod nano, although it also comes in a 64 GB model.</sentcont></sentence>
+<sentence><sentcont>The iPod touch also has far less storage space than the iPod classic, but their prices are roughly the same.</sentcont></sentence>
+<sentence><sentcont>So when you buy an iPod touch, you won't necessarily get more storage room than on other iPod models.</sentcont></sentence>
+<sentence><sentcont>Instead, you'll get WiFi capabilities plus the large touch-sensitive screen and application interface of the iPhone.</sentcont></sentence>
+<sentence><sentcont>??Next, we'll take a look at exactly what's behind the iPod touch's most distinctive feature.??</sentcont></sentence>
+<sentence><sentcont>It's easy to think of the?? touch as a stripped-down version of the instead of a souped-up iPod.</sentcont></sentence>
+<sentence><sentcont>The iPod touch and iPhone look similar, featuring the same wide touchscreen with a sleek black border and single home button.</sentcont></sentence>
+<sentence><sentcont>The iPod touch is a little smaller and weighs a little less than the iPhone, partly because the iPhone has a cellular transceiver.</sentcont></sentence>
+<sentence><sentcont>The iPod Touch's home screen also looks like the iPhone's, but with fewer icons -- at least, until you start installing new applications.</sentcont></sentence>
+<sentence><sentcont>From the home screen, you can get to the iPhone's client,?? capabilities, and collection of mini-applications called widgets.</sentcont></sentence>
+<sentence><sentcont>And, of course, you can also use the iPhone as a .</sentcont></sentence>
+<sentence><sentcont>The iPod touch doesn't share any of these features, but the two devices do have a few things in common, including: ??(8, 16 or 32 GB for the iPhone, 32 or 64 GB for the iPod touch) ??capabilities (802.11b/g)</sentcont></sentence>
+<sentence><sentcont>Safari Web browser Audio, video and photo storage and playback YouTube video player Calendar and contacts that synch with your computer Clock and calculator applications Access to the.</sentcont></sentence>
+<sentence><sentcont>via WiFi More than 140,000 apps you can install from the App Store via WiFi or a wired computer connection Dock and headphone connections Earphones with remote controls and a microphone The iPod touch also costs roughly the same amount as an iPhone or an iPod classic, but each of these devices has significantly different features and capabilities.</sentcont></sentence>
+<sentence><sentcont>Here's a run-down of the costs: iPod touch: $199 for 8 GB, $299 for 32 GB, $399 for 64 GB iPhone: $99 for 8 GB (3G); $199 for 16 GB or $299 for 32 GB (3GS), plus the cost of a mobile phone service plan iPod classic: $249 for 160 GB iPod nano: $149 for 8GB, $179 for 16 GB iPod shuffle: $59 for 2 GB, $79 for 4 GB [source: ] In terms of storage space, the iPod touch is comparable to the iPhone and the iPod nano, although it also comes in a 64 GB model.</sentcont></sentence>
+<sentence><sentcont>The iPod touch also has far less storage space than the iPod classic, but their prices are roughly the same.</sentcont></sentence>
+<sentence><sentcont>So when you buy an iPod touch, you won't necessarily get more storage room than on other iPod models.</sentcont></sentence>
+<sentence><sentcont>Instead, you'll get WiFi capabilities plus the large touch-sensitive screen and application interface of the iPhone.</sentcont></sentence>
+<sentence><sentcont>??Next, we'll take a look at exactly what's behind the iPod touch's most distinctive feature.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+000029#303#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Viewpoints</websource>
+<reviewid>000029</reviewid>
+<reviewtitle>This is the best</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> lightweight, best ipod ever, Large Screen, internet wireless free, light, 802.11g Wireless, lots of features, easy to use, great screen </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> There are none </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>The good: The second-generation Apple iPod Touch has it all: music, videos, photos, podcasts, e-mail, Web browsing, Internet radio, games, Nike+, Wi-Fi music downloads, and an App Store for adding thousands of custom features.</sentcont></sentence>
+<sentence><sentcont>The bad: The second-generation iPod Touch may be overwhelming to users looking for a simple music player; audio quality is average; and iTunes software is required.</sentcont></sentence>
+<sentence><sentcont>The bottom line: The second-generation iPod Touch includes features that are light-years ahead of the competition, its design has improved, and its price has finally come down to earth.</sentcont></sentence>
+<sentence><sentcont>Specifications: Device type: Digital player ; Flash memory installed: 32 GB; Digital player supported digital audio standards: AAC , MP3 , WAV , AIFF , Audible , Apple Lossless Design Apple's updates to the iPod Touch's design are subtle, but the hardware has definitely changed for the better.</sentcont></sentence>
+<sentence><sentcont>A slim volume switch now graces the left edge of the Touch, making it easier to make quick volume adjustments.</sentcont></sentence>
+<sentence><sentcont>The chromed steel back of the second-generation iPod Touch now mimics the rounded design of the iPhone 3G, giving the device a slimmer profile at its edges.</sentcont></sentence>
+<sentence><sentcont>Whether psychological or by design, the second-generation iPod Touch feels less fragile than last year's model and makes the plastic enclosure of the iPhone 3G feel cheap by comparison.</sentcont></sentence>
+<sentence><sentcont>Minor improvements aside, the second-generation iPod Touch hardware is largely unchanged.</sentcont></sentence>
+<sentence><sentcont>Both the first- and second-generation iPod Touch share the same dimensions (4.3 inches by 2.4 inches by 0.31 inch), same glass-covered screen (3.5 inch), and same arrangement of headphone jack, dock connector, sleep button, and home button.</sentcont></sentence>
+<sentence><sentcont>Features Priced at $229 (8GB), $299 (16GB), and $399 (32GB), the second-generation iPod Touch still commands a fairly high price compared with other MP3 players with similar capacities.</sentcont></sentence>
+<sentence><sentcont>When you weigh the price of the iPod Touch against its features, however, the device becomes much more attractive.</sentcont></sentence>
+<sentence><sentcont>Out of the box, the second-generation iPod Touch includes an amazing music player, podcast support, video playback (including iTunes rentals and a YouTube player).</sentcont></sentence>
+<sentence><sentcont>a Safari Web browser, photo viewer, an e-mail reader (compatible with Outlook, Exchange, MobileMe, Gmail, Yahoo, AOL, or any POP e-mail service), an integrated Wi-Fi iTunes music store, and a host of smaller utilities (weather, calendar, maps, stocks, notes, voice memos, clock, contacts, and calculator).</sentcont></sentence>
+<sentence><sentcont>Provided you can become proficient with its touch-screen keyboard, the iPod Touch is more pocket PC than MP3 player.</sentcont></sentence>
+</freereview>
+
+
+query=apple ipod touch ? file format||insurance plan||technology||operating system||e-mail||memory_storage||usability||operation||service_support||software||power||feature||processor||video||protection||screen||charging||recommendation||peripheral||display||equalizer||size||picture||price||playback||sound||recorder||quality||warranty||id3 tags||internet||weight||hardware||power adapter||usb||resolution||intelligent features||bandwidth||headphone||looking||remote control||accessory||file transfer||performance||timer||battery||customization||functionality||feel||application||keyboard||audio||speed||speaker||camera||connectivity||service provider||interface||customer service||general||memory||dimension||wifi||color||design||browsing||storage|| ipod_touch
+
+776913#2455#Apple_iPod_Touch_2.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>776913</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Purchased 2 apple ipod touch for my children (12 & 7) They have both found it very easy to use and would I highly recommend this product</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+

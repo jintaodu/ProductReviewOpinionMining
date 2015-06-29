@@ -1,0 +1,1978 @@
+Result size=34
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+1110630#12530#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>1110630</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>NOKIA PRESS RELEASE March 22, 2007    Nokia N95 multimedia computer starts shipping      Espoo, Finland - Nokia today announced that the Nokia N95 started shipping in key European, Asian and Middle Eastern markets, with expanded shipments to other markets in those regions in the coming weeks.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 is an all-in-one multimedia computer with a unique 2-way slide design, integrated GPS functionality, a 5 megapixel camera and support for high-speed mobile networks, making it easier to watch and record videos, listen to songs, take high-quality photos, browse the internet, or catch up on email while on the move.</sentcont></sentence>
+<sentence><sentcont>"The Nokia N95 is the ultimate multimedia computer and a fantastic example of what Nokia Nseries devices can deliver," said Juha Putkiranta, senior vice president, Multimedia, Nokia.</sentcont></sentence>
+<sentence><sentcont>"It easily replaces a number of single purpose devices with a well designed package that is with you and connected.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 is what computers have become - personal, powerful and connected devices."</sentcont></sentence>
+<sentence><sentcont>Designed for High Speed Downlink Packet Access (HSDPA) networks and with support for WLAN, EDGE and WCDMA networks, the Nokia N95 provides excellent coverage and connection speeds.</sentcont></sentence>
+<sentence><sentcont>Browsing the internet and subscribing to your favourite news feeds is a pleasure using the Nokia Web Browser with Mini Map.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 offers a well rounded entertainment experience with a sharp color display, built-in stereo speakers, a standard 3.5 mm audio connector and support for compatible microSD memory cards.</sentcont></sentence>
+<sentence><sentcont>With powerful 3D graphics, the Nokia N95 has a stunning user interface that makes it intuitive to find the features and services you want.</sentcont></sentence>
+<sentence><sentcont>With its integrated GPS and Nokia Maps application, finding your way just got easier.</sentcont></sentence>
+<sentence><sentcont>The Nokia Maps application includes maps for more than 150 countries, enabling users to explore the world, find specific routes or locate services such as restaurants and hotels and covering more than 15 million points of interest.</sentcont></sentence>
+<sentence><sentcont>You can also purchase additional features, such as city guides and voice guided navigation.</sentcont></sentence>
+<sentence><sentcont>The innovative 2-way slide design makes it easy to switch between different modes, going from reading maps to watching a video with a simple slide.</sentcont></sentence>
+<sentence><sentcont>With Carl Zeiss optics on the 5 megapixel camera, you can capture print quality photos and DVD-like quality video clips.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 is based on the world's leading S60 software on Symbian OS, enabling you to personalize your device from a wide choice of compatible applications that can be downloaded to the Nokia N95, including games, navigation, entertainment, productivity and creativity.</sentcont></sentence>
+<sentence><sentcont>Notes to editors  For full technical specifications, visit www.nseries.com/n95</sentcont></sentence>
+<sentence><sentcont>For more information about Nokia Maps, visit www.smart2go.com</sentcont></sentence>
+<sentence><sentcont>About Nokia Nseries  Nokia Nseries is a range of high performance multimedia computers that delivers unparalleled mobile multimedia experiences by combining the latest technologies with stylish design and ease of use.</sentcont></sentence>
+<sentence><sentcont>With Nokia Nseries products, consumers can use a single device to enjoy entertainment, access information and to capture and share pictures and videos, on the go at any time.</sentcont></sentence>
+<sentence><sentcont>About Nokia  Nokia is a world leader in mobile communications, driving the growth and sustainability of the broader mobility industry.</sentcont></sentence>
+<sentence><sentcont>Nokia connects people to each other and the information that matters to them with easy-to-use and innovative products like mobile phones, devices and solutions for imaging, games, media and businesses.</sentcont></sentence>
+<sentence><sentcont>Nokia provides equipment, solutions and services for network operators and corporations.</sentcont></sentence>
+<sentence><sentcont>www.nokia.com</sentcont></sentence>
+<sentence><sentcont>Media Enquiries:     Nokia, Multimedia  Communications  Tel.</sentcont></sentence>
+<sentence><sentcont>+358 7180 45667     Nokia  Communications  Tel.</sentcont></sentence>
+<sentence><sentcont>+358 7180 34900  Email: press.office@nokia.com     www.nokia.com</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+118333#10233#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>118333</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>If you have upgraded the software(fw)it does preform a little better but yes the device is quite slow.Install</sentcont></sentence>
+<sentence><sentcont>3rd party apps onto memory card and free up as much RAM as possible.Hopefully</sentcont></sentence>
+<sentence><sentcont>future firmware will make the unit preform faster.To the other guy-Nokia are heavily tied with symbian so unfortunately if you want a nokia smartphone you have to put up with symbian inadequaties.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+117903#9803#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>117903</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Lots of questions are going on about this phone here I see.</sentcont></sentence>
+<sentence><sentcont>Well lets start from the bottom.</sentcont></sentence>
+<sentence><sentcont>For the dude who talk about ASIA with the 1-MP phone, Sorry buddy that phone you're talking about is barely a concept in development by Samsung and Sony that prove to be a current failure.</sentcont></sentence>
+<sentence><sentcont>Both company fine the phone to be difficult to pack so much features into it when it's incompatible with other neccesary things.</sentcont></sentence>
+<sentence><sentcont>The network for those phone doesnt even works here in the US so please stay relevant to your post and be sure you are talking about US compatible phone here.</sentcont></sentence>
+<sentence><sentcont>The touch screen is the one thing i hate most on phone.</sentcont></sentence>
+<sentence><sentcont>Wait and see the Iphone get complains about their touch screen and finger print.</sentcont></sentence>
+<sentence><sentcont>People demand for things they cant accept, weird.</sentcont></sentence>
+<sentence><sentcont>Also, if you EVER had a chance to even Touch one of these n95, you would know the n95 map ALSO have a 3D option for the map and it does show which direction you're facing my friend.</sentcont></sentence>
+<sentence><sentcont>This show that you are Clueless about the phone itself.</sentcont></sentence>
+<sentence><sentcont>2GB isnt so tough in Japan.</sentcont></sentence>
+<sentence><sentcont>Nokia already surpass that that line with the N91 Black edition with 8GB, please check on that and ill get back to you about how much better Nokia is.</sentcont></sentence>
+<sentence><sentcont>Sliding phone has been out since the 90s in Asia?</sentcont></sentence>
+<sentence><sentcont>well if am not wrong, the flip phone and bar phone been out since before sliding and sliding phone is making big hit right now in over all sale, also please read more on that.</sentcont></sentence>
+<sentence><sentcont>Ok now that we answer your issue lets move on.</sentcont></sentence>
+<sentence><sentcont>Yes this phone should work with the Asia area map, if its not there is always an option where you can pay your service provider to give you the even BETTER GPS service that navigate you throughout then country and so forth.</sentcont></sentence>
+<sentence><sentcont>So worry free my friend.</sentcont></sentence>
+<sentence><sentcont>The optical zoom and digital zoom make great differences but with this phone ive been using it on digital zoom and it works fine.</sentcont></sentence>
+<sentence><sentcont>Some of you dont know but this N95 does have an IS(image sabilization) unit install inside.</sentcont></sentence>
+<sentence><sentcont>So it also have a decent image with even digital zoom.</sentcont></sentence>
+<sentence><sentcont>Trust me, for a camera phone this N95 wont get old anytime soon.</sentcont></sentence>
+<sentence><sentcont>The battery life of the N95 isnt as bad as most of you said it is.</sentcont></sentence>
+<sentence><sentcont>Ive gone two days without charging on it.</sentcont></sentence>
+<sentence><sentcont>If you buy this phone and use it like a media device more than a phone then please do expect the phone to drain out of its juice.</sentcont></sentence>
+<sentence><sentcont>Just to remind some of my friends here that this thing is a phone after all.</sentcont></sentence>
+<sentence><sentcont>Even with a big battery the Sony PSP can only provide about 6-7 hours of game play.</sentcont></sentence>
+<sentence><sentcont>Most other electronic device with media cant do any better.</sentcont></sentence>
+<sentence><sentcont>So for a phone that last you an entire day with GPS and gaming and mp3 and big pixel camera, its holding up very good.</sentcont></sentence>
+<sentence><sentcont>Just be sure to lower the lighting and the WLAN search of you are not using it.</sentcont></sentence>
+<sentence><sentcont>As for the TFT screen quality, its a phone screen.</sentcont></sentence>
+<sentence><sentcont>Why are there people talking about HDTV quality here?</sentcont></sentence>
+<sentence><sentcont>its not a TV!</sentcont></sentence>
+<sentence><sentcont>Its a HD phone!.</sentcont></sentence>
+<sentence><sentcont>Maybe you guys are not spending enough time to convert your video files.</sentcont></sentence>
+<sentence><sentcont>Im getting exceptionally good quality off of my videos and every where i watched it people are wowful into the qualit it produce.</sentcont></sentence>
+<sentence><sentcont>Even the new Iphone can only offer the same amount of colors.</sentcont></sentence>
+<sentence><sentcont>To what i know, this N95 wont be out class until another AT LEAST 1 year.</sentcont></sentence>
+<sentence><sentcont>The time i bought one of the first 2mp camera phone, it take THIS LONG to have something surpassed it. 2 WHOLE YEARS just to surpassed a 2mp phone.</sentcont></sentence>
+<sentence><sentcont>5mp?</sentcont></sentence>
+<sentence><sentcont>it's going to take a while.</sentcont></sentence>
+<sentence><sentcont>Do any of you hear anything about SE or samsung crawling any where near 4mp yet?</sentcont></sentence>
+<sentence><sentcont>they are barely stuck on 3.2 mode.</sentcont></sentence>
+<sentence><sentcont>Sony are so proud of their 3.2 right now they are partying over it.</sentcont></sentence>
+<sentence><sentcont>Samsung as we all know ever since the D900 3.2mp they didnt really improve much on megapixel either.</sentcont></sentence>
+<sentence><sentcont>Apple iphone which will release soon with all these ALMOST comparable features still have to bow down to the N95 5mp.</sentcont></sentence>
+<sentence><sentcont>So in term of US compatible phones, the N95 will stick around for a LONG time.</sentcont></sentence>
+<sentence><sentcont>Even its forefather the N80 can still beat most of the phones out there.</sentcont></sentence>
+<sentence><sentcont>Japan make good phones i admit, but there is a different between a Good phone, and a EXtrEmEly Good PHONE!.</sentcont></sentence>
+<sentence><sentcont>We all know European get real advance when it come to the extreme stuffs.</sentcont></sentence>
+<sentence><sentcont>Cars, phones, Convention, and other technologies.</sentcont></sentence>
+<sentence><sentcont>So The ASIA Phone Talk need to listen to the European Phone Talk now.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+118526#10426#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>118526</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>sorry guys ,but you are comparing the N95 to the HTC and you really are not fair.</sentcont></sentence>
+<sentence><sentcont>just comparing symbian (N95) to windows mobile  5.0 0r 6.0 (HTC, I-mate, ASUS,....) is not fair, because windows mobile is by far more important, applicable ,and above all stable.</sentcont></sentence>
+<sentence><sentcont>no, it is not true that symbian does not lock or freez, the true is that symbian is the worst oparating system as far as stability is concern.</sentcont></sentence>
+<sentence><sentcont>moreover, symbian compared to mobile windows is complicated for simple casual users, while windows ....even a 5 year old boy can work on it.</sentcont></sentence>
+<sentence><sentcont>so, please be objective and stop praising the symbian machines because someday nokia will shift into windows.</sentcont></sentence>
+<sentence><sentcont>finally let me tell you the N95 cons    1- very low battery life.</sentcont></sentence>
+<sentence><sentcont>2- 5 mega picture with NO natural colors.</sentcont></sentence>
+<sentence><sentcont>3- the GPS is SIRF II not SIRF III this means that sensitivity is low.</sentcont></sentence>
+<sentence><sentcont>4- the GPS can not work with other than the build in applications.</sentcont></sentence>
+<sentence><sentcont>5- it freezes 2-3 times per day and you need to remove the battery to restart it.</sentcont></sentence>
+<sentence><sentcont>6- the restart takes about 1-3 minutes.</sentcont></sentence>
+<sentence><sentcont>7- very slow menu navigation.</sentcont></sentence>
+<sentence><sentcont>8- No handwriting screens  9- no keyboard  10- no jogdial.</sentcont></sentence>
+<sentence><sentcont>so guys the only innovation in this phone is a big screen, and even it is not that big.</sentcont></sentence>
+<sentence><sentcont>so pray that the nokia engineer will reach a day to update the n95 firmware to solve these issues.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+000003#183#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Viewpoints</websource>
+<reviewid>000003</reviewid>
+<reviewtitle>THE BEST NOKIA I HAVE EVER SEEN</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Freedom, 5mp Camera, 850,900,1800,1900,2100 3G, Functionality, GPS, MP3 Player, Wi-Fi </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No QWERTY board, No touchscreen, kind of big </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>First of all i would have to say this phone has the best speakerphone i have ever had on a cell phone.</sentcont></sentence>
+<sentence><sentcont>Very crisp, and can be turned up extremely loud.</sentcont></sentence>
+<sentence><sentcont>I've had it for almost a year now, and I haven't had any problems with it. it works great, you can use one hand to operate it and it's??jus that??easy.</sentcont></sentence>
+<sentence><sentcont>It has everything you would want in a cellphone well i believe.</sentcont></sentence>
+<sentence><sentcont>Batterylife, well, I only make calls when needed or if it's really important.</sentcont></sentence>
+<sentence><sentcont>because it consumes your battery more than if you will send text messages.</sentcont></sentence>
+<sentence><sentcont>Instead.</sentcont></sentence>
+<sentence><sentcont>I highly recommend it.</sentcont></sentence>
+<sentence><sentcont>It offers a lot of options.</sentcont></sentence>
+<sentence><sentcont>However I would have to say on the other hand the call quality of using the handset is??above average to me.</sentcont></sentence>
+<sentence><sentcont>Even when the volume is turned all the way up, it is sometimes??easy to hear who you are talking to on the other end, and that can be annoying lol depending on who it is.. (:-) .</sentcont></sentence>
+<sentence><sentcont>Sometimes I am forced to turn the speakerphone on when I would prefer to use the handset when in the car??without blue tooth.</sentcont></sentence>
+<sentence><sentcont>The downloadable applications are very impressive, alot of options as far as those are concerned.</sentcont></sentence>
+<sentence><sentcont>The camera takes great pics.</sentcont></sentence>
+<sentence><sentcont>The battery does get used up fast when you are using the applications.</sentcont></sentence>
+<sentence><sentcont>One other thing is that the lcd screen will scratch and show marks, so I would highly recommend some type of shield or screen protector.</sentcont></sentence>
+<sentence><sentcont>Overall a solid phone, I would say above average in most aspects.</sentcont></sentence>
+<sentence><sentcont>let me tell you before buying this phone i did alot of research on a number of phones and i chose this one.I had a list of things I wanted in a phone and I have to say, this phone not only had everything I've ever needed, but I was surprised on things I didn't know about!</sentcont></sentence>
+<sentence><sentcont>For instance, I didn't even know it had an accelerometer when I bought it!</sentcont></sentence>
+<sentence><sentcont>But for now I'll just list the major features and review them:  CAMERA(s): The main 5MP camera takes great pictures.</sentcont></sentence>
+<sentence><sentcont>Obviously it's not the same quality as a stand alone, say Sony Cybershot of equal quality.</sentcont></sentence>
+<sentence><sentcont>But the different scene shots and bright flash make up for that.</sentcont></sentence>
+<sentence><sentcont>(portrait, night shots, fast-moving, etc) Video is as good if not better than a Sony Cybershot point and shoot camera.</sentcont></sentence>
+<sentence><sentcont>(You can even edit pictures right on your phone!)CALL QUALITY/SPEAKERPHONE: Call quality has been very good.</sentcont></sentence>
+<sentence><sentcont>Speakerphone is VERY loud thanks to the pair of high quality speakers.GPS:</sentcont></sentence>
+<sentence><sentcont>The assisted GPS antenna on the device is pretty good.</sentcont></sentence>
+<sentence><sentcont>When using Nokia Maps to navigate, it takes very little time to connect (5-10 secs mostly) You have to keep the slider open however to get good signal.</sentcont></sentence>
+<sentence><sentcont>If you don't like nokia maps, you can always buy/download other software like Google maps, TomTom, etc. Very handy.BLUETOOTH:</sentcont></sentence>
+<sentence><sentcont>Basically like any other bluetooth.</sentcont></sentence>
+<sentence><sentcont>It can connect to headsets, other devices, computers, and it also is compatible with A2DPEMAIL: It its own email client that you can set whatever address to or you could use the free Gmail app if you have gmail.</sentcont></sentence>
+<sentence><sentcont>(thats what I do)MUSIC PLAYER: 8GB memory.</sentcont></sentence>
+<sentence><sentcont>To today's standards, thats not a very big size for a primary music player.</sentcont></sentence>
+<sentence><sentcont>However, when you transfer music to the device from Nokia's PC Suite, it asks you if you want to convert the songs to a smaller format (~5 times smaller) which is very helpful in storing more songs.</sentcont></sentence>
+<sentence><sentcont>Other than that, its a great player with many features.</sentcont></sentence>
+<sentence><sentcont>(Playlists, shuffle, album art, EQ, etc) Great speakers too.WiFi/3G:</sentcont></sentence>
+<sentence><sentcont>WiFi connects very quickly and smoothly.</sentcont></sentence>
+<sentence><sentcont>3G signal is great too.</sentcont></sentence>
+<sentence><sentcont>Every now and then it will cut out but will automatically continue.</sentcont></sentence>
+<sentence><sentcont>Even reaches 3.5G speeds (HSDPA) on AT&T's network.CALENDAR:</sentcont></sentence>
+<sentence><sentcont>Nicely laid out with many viewing options.</sentcont></sentence>
+<sentence><sentcont>Can add new memo's, tasks, meetings, and anniversaries.</sentcont></sentence>
+<sentence><sentcont>Can also sync with computer.</sentcont></sentence>
+<sentence><sentcont>(Assuming outlook, but don't use)ACCELEROMETER: VERY cool to have.</sentcont></sentence>
+<sentence><sentcont>Enables the phone to auto-rotate when phone is flipped sideways.</sentcont></sentence>
+<sentence><sentcont>Also automatically straightens pictures that were taken sideways.</sentcont></sentence>
+<sentence><sentcont>And MANY more applications that you can download that use the accelerometer like games or cool apps like Step Counter.COMPUTER SOFTWARE: Didn't realize this was a big thing until I tried to sync a Blackberry to a computer one time.</sentcont></sentence>
+<sentence><sentcont>Not very user friendly.</sentcont></sentence>
+<sentence><sentcont>But Nokia's PC Suit is the most simple, yet powerful sync program I've ever seen.</sentcont></sentence>
+<sentence><sentcont>Can easily use phone to connect your computer to the internet with the touch of a button.</sentcont></sentence>
+<sentence><sentcont>Or you can read, sort, and reply to your text messages on your computer.</sentcont></sentence>
+<sentence><sentcont>Very, very nicely designed.BATTERY</sentcont></sentence>
+<sentence><sentcont>LIFE: As the N95 was my first smartphone I've ever had, I didn't realize this was as big of an issue.</sentcont></sentence>
+<sentence><sentcont>But sadly on the N95, the battery life is terribly underrated for the many features this phone has.</sentcont></sentence>
+<sentence><sentcont>I charge it every night and even when doing minimal things on the phone, it will usually die around 6pm.</sentcont></sentence>
+<sentence><sentcont>Nokia knows this, which is why they offer different types of portable battery packs and ways to charge your phone.</sentcont></sentence>
+<sentence><sentcont>Gets very irritating at times but just make sure you carry an extra battery or 7 around with you.</sentcont></sentence>
+<sentence><sentcont>:)  So overall, this phone has been everything you really need in a phone.</sentcont></sentence>
+<sentence><sentcont>I get comments all the time on the lack of a touchscreen and full keypad.</sentcont></sentence>
+<sentence><sentcont>Truth is, you really don't need either.</sentcont></sentence>
+<sentence><sentcont>The predictive text function does the job good enough and touch screens don't do much for me.</sentcont></sentence>
+<sentence><sentcont>This phone is focused around applications.</sentcont></sentence>
+<sentence><sentcont>There are hundreds and hundreds of applications (usually free) you can download that do anything from make your phone into a portable lightsaber to turning your phone into it's own WiFi Hotspot.</sentcont></sentence>
+<sentence><sentcont>The options are limitless with apps."</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+114045#5945#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Gsmarena</websource>
+<reviewid>114045</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I just bought one today.</sentcont></sentence>
+<sentence><sentcont>Its a fuse between N95 8Gb n N95 with 79MB of free RAM after booting.</sentcont></sentence>
+<sentence><sentcont>Has the exact Camera as N95 8Gb n has MC slot.</sentcont></sentence>
+<sentence><sentcont>Nokia customer care told me its authentic n its made in Finland.</sentcont></sentence>
+<sentence><sentcont>Who has one like this?</sentcont></sentence>
+<sentence><sentcont>I love it!</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+114784#6684#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>114784</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>the change is-  1.the more free ram is up to 30mb.</sentcont></sentence>
+<sentence><sentcont>2.adding n-gage platform n 2 demo game (fifa 07 n asphalt).</sentcont></sentence>
+<sentence><sentcont>3.the multimedia menu when we slide down is disappear n screen is straight to lanscape (like n95 8gb)  4-few new icons like MUSIC FOLDER containing music player app,radio,podcast n music store.</sentcont></sentence>
+<sentence><sentcont>UTILITIES FOLDER in tools folder.</sentcont></sentence>
+<sentence><sentcont>MY NOKIA,SHARE ONLINE.</sentcont></sentence>
+<sentence><sentcont>5-New active standby interface with search n larger image wallpaper.</sentcont></sentence>
+<sentence><sentcont>6-The themes icon is no longer available except its set in apps in standby and changing the themes can only be done in Setting->General->Personalisation.</sentcont></sentence>
+<sentence><sentcont>7-Camera interface is updated,mb same as new Nseries camera interface like GRID Viewfinder,Colour tone,etc.also</sentcont></sentence>
+<sentence><sentcont>image is processing with blank screen when camera saving the picture.</sentcont></sentence>
+<sentence><sentcont>8.Gallery is more faster.</sentcont></sentence>
+<sentence><sentcont>9.Phone speed is more faster to respond,exp i noticed when replying the massage when message is using memory card,bit slow..  10-Music player has new album art  image.</sentcont></sentence>
+<sentence><sentcont>11-Menu interfase is updated and so difference compared to previous menu interface.</sentcont></sentence>
+<sentence><sentcont>12-Font is bold exp apps font in menu interface.</sentcont></sentence>
+<sentence><sentcont>*Sorry if i missed to inform and please correct and adding the new update if anyone has update.</sentcont></sentence>
+<sentence><sentcont>*Sorry for my bad english..    (overall this update is soo perfect to our N95 because it has lot of improvement and changing..i'm soo sastify with this update..Hurry,update it and see its difference.)</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+119314#11214#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>119314</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I grabbed my n95 day of release, thrilled to think that one year ago the rumours that were being spread of an n83 had truly been turned into the actual n95.</sentcont></sentence>
+<sentence><sentcont>now i'm having seccond thoughts...was it worth my $1254 aud?</sentcont></sentence>
+<sentence><sentcont>yes i know i cbf shopping around.</sentcont></sentence>
+<sentence><sentcont>firstly, gps- so slow.... takes me about 5 minutes to conect to sat.</sentcont></sentence>
+<sentence><sentcont>although i've never used another gps system, i am guessing this is not normal.</sentcont></sentence>
+<sentence><sentcont>I have heard other people complain of this too, but they say it gets quicker with time.</sentcont></sentence>
+<sentence><sentcont>loading google maps is good, but the onboard mapping system is just as good i think.</sentcont></sentence>
+<sentence><sentcont>i've found google maps requires you to have internet connection to be able to see the actual map(so great if ur in a wifi area.</sentcont></sentence>
+<sentence><sentcont>but bad if u don't have cheap gprs connections...) anybody know a workaround?</sentcont></sentence>
+<sentence><sentcont>onboard mapping software allowed me to see where i was without connection to network.</sentcont></sentence>
+<sentence><sentcont>although i was driving 15 minutes away, it took 5-8 minutes to connect to sat.</sentcont></sentence>
+<sentence><sentcont>to get coordinates and then after another 2 mintues of fumbling buttons to set destination and start trip calculations, i was about 200 m from destination (i had to park because i wanted to see it in action!!!)    so when it was working it seemed fine.</sentcont></sentence>
+<sentence><sentcont>but, as other people have found, voice nav.</sentcont></sentence>
+<sentence><sentcont>requires $$$$ and it came up with an annoying statement etc asking me to subscribe.</sentcont></sentence>
+<sentence><sentcont>imagine i was really lost, there goes my $ subscribing to year of nokia maps.</sentcont></sentence>
+<sentence><sentcont>Actual phone is a bit of a letdown, lags, resets itself randomly (4times in 4 days) keep pressing menu button by accident instead of left or right arrow key.</sentcont></sentence>
+<sentence><sentcont>so what i have big thumbs.</sentcont></sentence>
+<sentence><sentcont>camera lags when on 5mp mode.</sentcont></sentence>
+<sentence><sentcont>havnt tried any other mode.</sentcont></sentence>
+<sentence><sentcont>but its about 2-5 seconds b/w pressing the button to take pic and actually seeing the image on screen of ur final pic...strange.</sentcont></sentence>
+<sentence><sentcont>on n95 screen, pics seem a liiiitle grainy...    wifi keeps dropping me out.</sentcont></sentence>
+<sentence><sentcont>well, this may be due to my network, and i hope it is for the n95s repuation... but it really shits me.</sentcont></sentence>
+<sentence><sentcont>downloading videos off the included reuters links, get dropped out from wireless...    3.5mm headphone jack is great.</sentcont></sentence>
+<sentence><sentcont>great sound quality, i personally believe (although i havn't heard it through a good pair of headphones) inbuilt speakers have an amazing ability to project themselves...and also have an amazing ability to split ear drums with high pitched onboard nokia tones...argh!</sentcont></sentence>
+<sentence><sentcont>Battery life is the other m a j o r letdown.</sentcont></sentence>
+<sentence><sentcont>with using wifi maybe 5 minutes, gps on my 15 min car ride which turned into 20 cos i stopped to play with gps, about 5 minutes of normal call time and 5minutes of bluetooth call time and about 3 minutes of speaker call time, my battery is wailing for a charge as I type.</sentcont></sentence>
+<sentence><sentcont>-i have not got more than one day with propper use of functions without either needing to charge or noticing it was on one bar and thinking it would die tomorrow if i listen to mp3.</sentcont></sentence>
+<sentence><sentcont>Although I knew what it's size was before I got it, i still miss the slim 8250 in my pocket.</sentcont></sentence>
+<sentence><sentcont>god i love that phone.</sentcont></sentence>
+<sentence><sentcont>=P    So after closely following rumours and exclusive reviews posted all over the net, desperately awaiting the device that is not just one thing, it's many.... i've almost convinced myself its not worth the price.</sentcont></sentence>
+<sentence><sentcont>ALMOST.</sentcont></sentence>
+<sentence><sentcont>-happy with reception (as you would expect fomr a high end phone)  -dual slide ability is fantastic   -screen is awesome, colorful, bright biiiig...  -music playback is to me ipod comparable (well i have 3gipod,time for new1)  -inbox equipment is more than generous.</sentcont></sentence>
+<sentence><sentcont>nokia included 1gb in the box and shop gave me a free 2gb...so thats sweet.</sentcont></sentence>
+<sentence><sentcont>inbox case is pretty protective and stylish...although i have worries about camera safety.</sentcont></sentence>
+<sentence><sentcont>~my zeiss optics!</sentcont></sentence>
+<sentence><sentcont>IS N95 WORTH IT??? DOES IT LIVE UPTO THE HYPE???  well, i'll leave that up to you to decide, i still can't decide.</sentcont></sentence>
+<sentence><sentcont>basically, i think, if you have the means, get it, but if ur jobless like me...don't waste all your money on release date!!! haha -but its damn sexy.</sentcont></sentence>
+<sentence><sentcont>cheers.</sentcont></sentence>
+<sentence><sentcont>wongiez.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+1110840#12740#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>1110840</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>hi PFQR,    I have over a dozen appz and 80+ games downloaded free on my N73, so i would say it  is definitely the "best" possible all rounder set i can get.</sentcont></sentence>
+<sentence><sentcont>if anyone got $ to spare, they can always buy the N95, but i would say it is not a very rational decision to pay such a high premium over N73, for things like 3.5 mm audio output jack, TV out, dual slide mechanism, Wi-Fi, and 5 mpg camera.</sentcont></sentence>
+<sentence><sentcont>It's battery life, if you take note, is also less than N73's.</sentcont></sentence>
+<sentence><sentcont>Map applications, if available, is also at a cost to user for usage i believe.</sentcont></sentence>
+<sentence><sentcont>First batches of any new nokia models always comes with bugs etc, so y be the first to get it?</sentcont></sentence>
+<sentence><sentcont>Mobile phones prices also drop drastically over 3-6 mths anyway, and when 6 months or more passed, you be seeing newer models like, maybe N97, N99 or watever new nokia models again.........so wat's the point of getting one set so fast, for the sake of it?</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+116158#8058#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>116158</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Ok i test this  n95 an its good phone but the battery is very bad an the free memory is  20mb thats  is not enough for this phone thats y it freeze when you start to open big web pages on the net so far every thing else is good on the phone to me.</sentcont></sentence>
+<sentence><sentcont>Now i see nokia going to have out a black n95 with 8gb internal memory so hope they put let say 80mb or 100mb free memory that the phone will be stable an will not freeze that easyly am looking for this cause if the black n95 comes with just 80mb or higher than this will be the best phone in the world or an the battery have to be good to.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+569740#354#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>569740</reviewid>
+<reviewtitle>I am alive still</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> The best Symbian device on the marker (atm)</sentcont>
+<sentcont>Great memory, speed and 3d accelleration (hey Quake plays great)</sentcont>
+<sentcont>In addition to that lot's of third party applications makes this phone great for any task</sentcont>
+<sentcont>I personaly use it for ebook reading and it's a great companion </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The worst thing about this phone is the 8gb flash memory speed</sentcont>
+<sentcont>It's so slow that you can forget about quick music synchronisation a'la ipod</sentcont>
+<sentcont>The transfer is horribly slow and Nokia really should spent a little more money on a quality flash and not a cheap and slow implementation like it is now</sentcont>
+</sentence></con>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+115727#7627#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>115727</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Nokia N95 8GB    CPU:  Dual CPU  CPU Type: ARM 11  CPU Clock Rate: 332 MHz  3D Graphics HW Accelerator  Memory:  Max User Storage: 8 GB  NAND Memory: 256 MB  SDRAM Memory: 128 MB  ~90 MB Free Executable RAM Memory  Unlimited Heap size  Unlimited Jar size</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+115878#7778#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>115878</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>The differences between N95 & N95 8GB    1)  N95 with camera lens cover, 8GB removed the cover to free the space for bigger battery  2) N95 LCD display is slightly smaller than 8GB but the resolution is the same.</sentcont></sentence>
+<sentence><sentcont>3) 8GB's betteries is stronger than N95  4) 8GB without memory card slot but with built in memory  5) 8GB is abt 8 gram heavier than N95.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+115357#7257#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Gsmarena</websource>
+<reviewid>115357</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Hello N95 Fans  I have used N95 before for 5 months.</sentcont></sentence>
+<sentence><sentcont>Only difference you can see in New 95 is 2.8inch display instead of 2.6inch, Battery is 1200mah instead of 950mah.</sentcont></sentence>
+<sentence><sentcont>8Gb internal memory instead of 160Mb, No Micro SD Card slot, Weight 129gm compared to 120gm and 1mm length more.</sentcont></sentence>
+<sentence><sentcont>Symbian OS 9.2, S60 rel.</sentcont></sentence>
+<sentence><sentcont>3.1 is same for both, so the software and application bugs will be same of old N95.</sentcont></sentence>
+<sentence><sentcont>Application manager crashes N95 OS several times, this is a major Issue.</sentcont></sentence>
+<sentence><sentcont>Keypad is a great disadvantage for N95, it get loosened so fast.</sentcont></sentence>
+<sentence><sentcont>Mine is loosened in am month usage.</sentcont></sentence>
+<sentence><sentcont>Same thing, the old keypad will be there in New 8Gb N95.</sentcont></sentence>
+<sentence><sentcont>Design look too old.</sentcont></sentence>
+<sentence><sentcont>Not Stylish.</sentcont></sentence>
+<sentence><sentcont>Nokia have to compete for other good mobiles vendors.</sentcont></sentence>
+<sentence><sentcont>I bought the Motorola MotoRockr E6 mobile last month.</sentcont></sentence>
+<sentence><sentcont>Its too good mobile with enormous features.</sentcont></sentence>
+<sentence><sentcont>Ofcourse the camera is 2mp, it takes a sharp image in outdoor.</sentcont></sentence>
+<sentence><sentcont>Rockr has a business card reader, that scan n recognize the business cards and store into its phonebook.</sentcont></sentence>
+<sentence><sentcont>Wifi is not there, but I am using wap in Opera browser more user freindly due to its touch screen facility.</sentcont></sentence>
+<sentence><sentcont>Touch makes its user friendly as compared with N95.</sentcont></sentence>
+<sentence><sentcont>Not even one time Rockr E6 OS is crashed for me.</sentcont></sentence>
+<sentence><sentcont>Rockr's performance is far far better than N95.</sentcont></sentence>
+<sentence><sentcont>It has 1000mah battery which gives 5 days battery backup with less usage.</sentcont></sentence>
+<sentence><sentcont>You can watch movies, songs mp3 in 64 channel output.</sentcont></sentence>
+<sentence><sentcont>Movie quality in sound and video is amazing and superb and battery backup also too good.</sentcont></sentence>
+<sentence><sentcont>U can easily watch around 3 movies continously around 3:00 hrs each (total ard 9:00 hrs), still after u will get battery backup to another day.</sentcont></sentence>
+<sentence><sentcont>Mp3 Playback of 14 hrs continuous.</sentcont></sentence>
+<sentence><sentcont>Overall features are 2 times more than Nokia N95.</sentcont></sentence>
+<sentence><sentcont>Once if u use, u will feel the difference, that why I am critising Nokia N95.</sentcont></sentence>
+<sentence><sentcont>I am not campaigning you ppls to buy Rock E6, I am telling my view about N95.</sentcont></sentence>
+<sentence><sentcont>Check Motorola MotoRockr E6 reviews.</sentcont></sentence>
+<sentence><sentcont>Free to mail me if you have any doubts about both Rockr as well as N95  Regards  Kailas Senan  Larsen & Toubro Limited  Embedded System Software Engineer  Kailas.Senan@Lntemsys.com</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+113613#5513#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>113613</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>www.mosh.nokia.com has alot of free apps, themes and games ect all you need to do is dwnld the program then go onto nokia pc suite then go to install applications and put it on your phone.</sentcont></sentence>
+<sentence><sentcont>i have found alot of really good things on there so go hav a look i hav dwlded about 50 things and most have been good.</sentcont></sentence>
+<sentence><sentcont>Most of the programs on the site will work on most of the newer nokia but pretty much all work on the n95.</sentcont></sentence>
+<sentence><sentcont>so have a look :)</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+116724#8624#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>116724</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>to andy burgin,,also the sandisk 8gb micro sd card could be with us sooner than expected as flash memory is really taking off as computers will start to use more of it in future.</sentcont></sentence>
+<sentence><sentcont>Altho they have 32 gb its far to big to put in a mobile but as you already know the micro-sd card and sonys micro 2 cards will both eventually go to 32gb.</sentcont></sentence>
+<sentence><sentcont>This is the longest im going to keep a fone,ive signed up for 18 months but usuall get more on payg or sim free to keep up but in really satisfied with the n95 for some reason and with a new shell as they come onto the market and 8gb card on the horizon its the n95i but better as you reatain the gps.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+118205#10105#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>118205</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Hi guys.</sentcont></sentence>
+<sentence><sentcont>I would like to give some different look on the comments of this phone.</sentcont></sentence>
+<sentence><sentcont>I am still thinking whether go for this phone or not.</sentcont></sentence>
+<sentence><sentcont>Besides I have some bad experience with N80 last year.</sentcont></sentence>
+<sentence><sentcont>I played with a N95 of a friend of mine, but just for 2 days so I cannot make some solid conclusion based on such short experience.</sentcont></sentence>
+<sentence><sentcont>So I am very cautious.</sentcont></sentence>
+<sentence><sentcont>Let us try to make some objective and reasonable judgments in order to get a more comprehensive picture of the, let call it this way, "the real N95":).</sentcont></sentence>
+<sentence><sentcont>Having read a lot of opinions here (I am following them from the beginning of the year) I would try to draw some of the main groups of problems giving some general or specific comments on cons.</sentcont></sentence>
+<sentence><sentcont>Also to point out not only the weak points but also the strong and "innovative" features.</sentcont></sentence>
+<sentence><sentcont>(Because it can obviously be seen that the majority of posts here are totally opposite - one are saying "this is the best phone I have ever had", while the other are saying - "this is the worst phone, dont buy it".</sentcont></sentence>
+<sentence><sentcont>).</sentcont></sentence>
+<sentence><sentcont>So let?s group the points of interest like this.</sentcont></sentence>
+<sentence><sentcont>1.</sentcont></sentence>
+<sentence><sentcont>Battery life; 2.</sentcont></sentence>
+<sentence><sentcont>The 5 MP camera; 3.</sentcont></sentence>
+<sentence><sentcont>Video; 4.</sentcont></sentence>
+<sentence><sentcont>The phone hangs; 5.</sentcont></sentence>
+<sentence><sentcont>Problems during a call; 6.</sentcont></sentence>
+<sentence><sentcont>GPS; 7.</sentcont></sentence>
+<sentence><sentcont>Music; 8.</sentcont></sentence>
+<sentence><sentcont>Display; 9.</sentcont></sentence>
+<sentence><sentcont>Robustness of the design.</sentcont></sentence>
+<sentence><sentcont>1.</sentcont></sentence>
+<sentence><sentcont>Battery life.</sentcont></sentence>
+<sentence><sentcont>The disappointing battery life was expected.</sentcont></sentence>
+<sentence><sentcont>In the posts from January-February a very few guys were reporting the phone should be charged daily or even twice a day; because only few had the chance to use the pilot release and because the rest were dazzled by the specs of the phone and eager to get some kind "Lord of the phones" (there were such expression in a post here).</sentcont></sentence>
+<sentence><sentcont>Nevertheless, having the experience with N80, everyday charge is something very boring.</sentcont></sentence>
+<sentence><sentcont>Especially after elapsing the first one-two months when the delight of using such a complicated device is gone.</sentcont></sentence>
+<sentence><sentcont>The second battery partially solves the problem but still you have to pay to much care for that - always to have the spare battery charged, to replace batteries when the one in the phone is drained.</sentcont></sentence>
+<sentence><sentcont>The other approach is to restrain from playing with the wifi browsing, or shooting videos if you are on the move during the day and cannot plug in the charger.</sentcont></sentence>
+<sentence><sentcont>In a moment you start asking yourself - does the phone serve you or you serve the phone?</sentcont></sentence>
+<sentence><sentcont>Or there are some ?tricks? to prolong the batt life - disable 3G, or reduce wifi sensitivity, or not to shoot to much, or not to listen to the music too much, or not use the GPS, etc - well, why should you buy such device if you do not use its features?</sentcont></sentence>
+<sentence><sentcont>Someone here were giving the example with Ferrari - they say the Ferrari consumes too much fuel but still it is a Ferrari - ok the comparison is not that correct.</sentcont></sentence>
+<sentence><sentcont>Fuel consumption is not the analogue of the power (battery) consumption though both are related to energy; here the issue is the USABILITY OF PERFORMANCE ?</sentcont></sentence>
+<sentence><sentcont>a ?fuel</sentcont></sentence>
+<sentence><sentcont>hungry" Ferrari is giving its full performance to the user, but a ?power/battery</sentcont></sentence>
+<sentence><sentcont>hungry?</sentcont></sentence>
+<sentence><sentcont>phone cannot deliver its potential to the user because it simply cannot last enough to give the overall performance to be consumed (?overall?</sentcont></sentence>
+<sentence><sentcont>means all features, not use only gps, or use only camera, or only make voice calls).</sentcont></sentence>
+<sentence><sentcont>If you have a Ferrari, would you close it in the garage and drive it rarely ?on last Sunday of the month?</sentcont></sentence>
+<sentence><sentcont>or would you enjoy it everyday as much as possible - if you are happy with the speed and acceleration, etc of a standard car, why should you go for a Ferrari?</sentcont></sentence>
+<sentence><sentcont>Right?</sentcont></sentence>
+<sentence><sentcont>However let?s gulp down this problem and take it for granted that we cannot have normal battery last in a ?multimedia?</sentcont></sentence>
+<sentence><sentcont>N-phone (?normal? is something between 3-5 days; or at least firmly over 2 full days (48 hours), regardless of usage of the features, OK?).</sentcont></sentence>
+<sentence><sentcont>Of course some will say - well you have all-in-one device, so how could you expect longer time?</sentcont></sentence>
+<sentence><sentcont>OK, to that statement I would oppose the above mentioned question - do the phone serves you or you serve the phone?</sentcont></sentence>
+<sentence><sentcont>And what is better, to have 10 separate devices that are giving their full performance, or one single device combining them but giving you just one feature at a time of all these 10?</sentcont></sentence>
+<sentence><sentcont>Is it a kind of philosophical question?:)</sentcont></sentence>
+<sentence><sentcont>?</sentcont></sentence>
+<sentence><sentcont>no it is a technical question - the device should support all the features it is designed to.</sentcont></sentence>
+<sentence><sentcont>Again with the car analogy ? the car should perform as a car despite of whether you dirve it in the summer (hot) or in the winter (cold), or whether you drive it in a sunny day (no light, heaters, fans, etc) or in a rainy evening (with all electrical stuff switched on), Right?</sentcont></sentence>
+<sentence><sentcont>So, in the end, there is no excuse for the poor battery life.</sentcont></sentence>
+<sentence><sentcont>2. The 5 MP camera.</sentcont></sentence>
+<sentence><sentcont>It is clear that a phone camera will never be at the level of the current dedicated cameras.</sentcont></sentence>
+<sentence><sentcont>So wheter it is 5 MP or 3.2 MP, it is almost the same.</sentcont></sentence>
+<sentence><sentcont>Further more, it is welknown that Nokia still cannot reach the quality of the SonyEricsson competitors in the mobilephone cameras.</sentcont></sentence>
+<sentence><sentcont>So do not expect the unexpected in this area.</sentcont></sentence>
+<sentence><sentcont>No need to go deeper in the subject, everything is clear I think.</sentcont></sentence>
+<sentence><sentcont>3. Video  Here I think we should give the deserved for the phone.</sentcont></sentence>
+<sentence><sentcont>The feature of VGA video shooting is very very nice.</sentcont></sentence>
+<sentence><sentcont>Again to expect hte quality of dedicated videocamera is irrelevant.</sentcont></sentence>
+<sentence><sentcont>But compared to the CIF and QVGA resolutions in previous phones, the VGA video in your phone is quite usefull and handy.</sentcont></sentence>
+<sentence><sentcont>4. The phone hangs  Well this should be precicsely specified when it hangs.</sentcont></sentence>
+<sentence><sentcont>We cannot expect this phone to behave like a computer, desipte that it is equipped with a 330 MHz processor.</sentcont></sentence>
+<sentence><sentcont>At the time of the 300 MHz Pentiums we had not have so rich multimedia content, right?</sentcont></sentence>
+<sentence><sentcont>In my N80, I couldn't open a pdf or doc bigger then 800-900 KB.</sentcont></sentence>
+<sentence><sentcont>Here we also have 64 MB RAM, of whic about 20-22 MB free (as far as I saw when played with a N95).</sentcont></sentence>
+<sentence><sentcont>Here may be the ad "a multimedia computer" plyes a bad joke for the users - remember this is not a computer, so do not expect to perform like a PC (how often your PC hangs when running some big or complex stuff?</sentcont></sentence>
+<sentence><sentcont>for me, relatively often the Windows Media Player or Real Player hang when starting a movie).</sentcont></sentence>
+<sentence><sentcont>But the bad thing is that the phone realy behaves slow when opening the images/videos.</sentcont></sentence>
+<sentence><sentcont>that is something that I definately observed in my short test with the phone.</sentcont></sentence>
+<sentence><sentcont>5. Problems during a call (Noise or fuzz or buzzz or whatever during a call)  That is a serious problem (if present).</sentcont></sentence>
+<sentence><sentcont>I have not noticed it but saw several posts about it.</sentcont></sentence>
+<sentence><sentcont>So pls say how many of you have noticed it in your phones.</sentcont></sentence>
+<sentence><sentcont>6. GPS  The chipset in N95 is a Texas Instruments one, not a Sirf III or RFMD, or not even a Sirf II.</sentcont></sentence>
+<sentence><sentcont>So do not expect to have the performance of them.</sentcont></sentence>
+<sentence><sentcont>Here the real problem is in the time to wait for lockon the satellites.</sentcont></sentence>
+<sentence><sentcont>Waiting over 3-4 minutes makes the GPS a thoughtless feature.</sentcont></sentence>
+<sentence><sentcont>Lot of people complain they were waiting 10 or even 15 minutes for "satellite signal".</sentcont></sentence>
+<sentence><sentcont>(Me personally could not start the gps at all ...).</sentcont></sentence>
+<sentence><sentcont>The other "problem" here is that the phone could not use the built in GPS receiver with third party navigation programs.</sentcont></sentence>
+<sentence><sentcont>On the phone I played with, I used a Holluv Sirf III GPS and connected it via Bluetooth to N95 and it worked perfect with TomTOm6.</sentcont></sentence>
+<sentence><sentcont>But why is the built in GPS chip than?</sentcont></sentence>
+<sentence><sentcont>Concerning the maps of "over 100 countries or so" - the idea of having all the info accessible from a app like smart2go in the Nokia is very good.</sentcont></sentence>
+<sentence><sentcont>But still it is not yet fully-usable worldwide (apparently).</sentcont></sentence>
+<sentence><sentcont>But still it is a very good idea so let us be more patient and understanding.</sentcont></sentence>
+<sentence><sentcont>So about the GPS we may want a lot of improvements, both in the phone firmware and hardware and in the info database from Nokia.    7. Music  Playing music is better than N80.</sentcont></sentence>
+<sentence><sentcont>About the sound quality - I expected much better from the "stereo" speakers.</sentcont></sentence>
+<sentence><sentcont>But if you plug in good earphones (not these coming with the phone) it is absolutely ok.</sentcont></sentence>
+<sentence><sentcont>Again do not expect this device to sound like your home stereo.</sentcont></sentence>
+<sentence><sentcont>8. Display  Notably worse than in N80 - we have larger screen with smaller resolution in N95.</sentcont></sentence>
+<sentence><sentcont>It is obvious when look on the very nice data given in the gsmarena.com</sentcont></sentence>
+<sentence><sentcont>review:   Nokia N95 	40 x 53 mm 	240 x 320 pixels 	3,623 pixels/cm 2  Nokia N80 	35 x 41 mm 	352 x 416 pixels 	10,204 pixels/cm 2    9. Robustness of the design  Some people, also in the reviews, it is reported of noises when sliding the slide, or when pressing the buttons on the slide.</sentcont></sentence>
+<sentence><sentcont>This is something that was present in N80 too.</sentcont></sentence>
+<sentence><sentcont>But in N80 also the battery door on the back was loose, something that in N95 is amended.</sentcont></sentence>
+<sentence><sentcont>WHen we have a slide, it just could not be as robust as the bar.</sentcont></sentence>
+<sentence><sentcont>If you were not bored in reading all this, I would ask you to help in trying to expand the list of problem groups.</sentcont></sentence>
+<sentence><sentcont>In this way we can justify reasonably and get a clear overall picture of "the real N95" and not just to say - this is the a "crown", or this is a "rubbish".</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+1111836#13736#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>1111836</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>September 26, 2006.</sentcont></sentence>
+<sentence><sentcont>Nokia Open Studio 2006, New York, US - Nokia today introduced the Nokia N95, an all-in-one multimedia computer with a pioneering 2-way slide concept, integrated GPS functionality, a 5 megapixel camera and support for high-speed mobile networks, making it easier to watch and record videos, listen to songs, take high-quality photos, browse the internet, or catch up on email while on the move.</sentcont></sentence>
+<sentence><sentcont>"The Nokia N95 brings a range of multimedia ingredients together, such as a fantastic display, outstanding photo and video capability and high-speed connectivity, making it the ultimate multimedia computer," said Anssi Vanjoki, Executive Vice President, Multimedia, Nokia.</sentcont></sentence>
+<sentence><sentcont>"This single device - which fits easily in your pocket - can replace stand-alone devices that you no longer need, whether it's your music player, your digital camera, PDA or navigation device.</sentcont></sentence>
+<sentence><sentcont>Most importantly, the Nokia N95 is with you and connected when you want to use it."</sentcont></sentence>
+<sentence><sentcont>The innovative 2-way slide concept makes it easy to switch between different modes, going from reading maps to watching a video with a simple slide.</sentcont></sentence>
+<sentence><sentcont>A numeric keypad slides out from one end of the device while dedicated media keys slide out from the opposite direction, converting the display into full screen landscape mode.</sentcont></sentence>
+<sentence><sentcont>With powerful 3D graphics, the Nokia N95 has a stunning user interface that makes it intuitive to find the features and services you want.</sentcont></sentence>
+<sentence><sentcont>With its integrated GPS at your fingertips, finding your way just got easier.</sentcont></sentence>
+<sentence><sentcont>The Maps application includes maps for more than 100 countries, enabling users to explore the world, find specific routes or locate services such as restaurants and hotels and covering more than 15 million points of interest.</sentcont></sentence>
+<sentence><sentcont>You can also purchase additional features, such as city guides and voice guided navigation.</sentcont></sentence>
+<sentence><sentcont>With the Carl Zeiss optics on the 5 megapixel camera, you can capture print quality photos and DVD-like quality video clips.</sentcont></sentence>
+<sentence><sentcont>Photos and video clips can be enjoyed on a compatible television thanks to the device's TV out feature and support for Universal Plug and Play (UPnP) technology.</sentcont></sentence>
+<sentence><sentcont>Designed for High Speed Downlink Packet Access (HSDPA) networks and with support for WLAN, EDGE and WCDMA networks, the Nokia N95 provides excellent coverage and speeds wherever you may be.</sentcont></sentence>
+<sentence><sentcont>In HSDPA networks, browsing the internet, reading email, streaming video and downloading large files can be carried out up to 10 times faster than with 3G.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 also offers a first class entertainment experience with the combination of a large 2.</sentcont></sentence>
+<sentence><sentcont>6" QVGA 16 million color display, impressive 3D graphics, built-in stereo speakers offering a 3D stereo effect, standard 3.</sentcont></sentence>
+<sentence><sentcont>5 mm audio jack, support for compatible microSD cards and mini USB for convenient data transfer.</sentcont></sentence>
+<sentence><sentcont>Browsing the internet on the Nokia N95 is a pleasure using the Nokia Web Browser with Mini Map, with new features such as a floating toolbar, password manager and auto complete, as well as web feeds with support for Atom and auto update.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 is based on the world's leading S60 software on Symbian OS, enabling you to personalize your device from a wide choice of compatible applications that can be downloaded to the Nokia N95, including games, navigation, entertainment, productivity and creativity.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 comes out of the box ready to create, connect, consume and interact with some of the internet's most popular services.</sentcont></sentence>
+<sentence><sentcont>Use Yahoo!</sentcont></sentence>
+<sentence><sentcont>Search to search for and find most anything on the web, scroll though a book with Amazon's MobiPocket Reader or snap a photo and send it directly to your Flickr site.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 is expected to start shipping in volumes during the first quarter of 2007 at an estimated unsubsidized retail price of 550 euros</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+1111837#13737#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1111837</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>September 26th     Nokia have announced the Nokia N95, featuring an innovative double slide design with multimedia controls and a keypad on opposite end of the phones.</sentcont></sentence>
+<sentence><sentcont>Read on for full details, pictures and the full press release.</sentcont></sentence>
+<sentence><sentcont>Summary: The N95 is Nokia's first HSDPA (3.5G) device, but also boasts Wi-Fi, WCDMA, quad-band GSM, Bluetooth (including A2DP), IrDA and USB 2.0 connectivity (via  mini USB connector).</sentcont></sentence>
+<sentence><sentcont>Other hardware features include a 5 megapixel camera, a built in GPS, TV-Out, 3.5mm audio jack, FM Radio, a MicroSD memory card slot and 150MB of internal memory.</sentcont></sentence>
+<sentence><sentcont>In the hand the most impressive aspect of the device, given its feature set, is its size.</sentcont></sentence>
+<sentence><sentcont>At 99mm x 20mm x 53mm (90cc), the N93 packs an impressively amount into a small space.</sentcont></sentence>
+<sentence><sentcont>Nokia have managed to add two major technologies to the Nseries line (GPS and HSDPA) while significantly reducing the volume of the device.</sentcont></sentence>
+<sentence><sentcont>In length and width dimensions it is larger that the other Nseries slider - the N80, but it is considerably thinner.</sentcont></sentence>
+<sentence><sentcont>HSPDA is the next generationin cellular connectivity.</sentcont></sentence>
+<sentence><sentcont>The N95 is a category 6 HSPDA device which means it is up to 10 times faster that WCDMA (3G).</sentcont></sentence>
+<sentence><sentcont>Clearly HSDPA support is required at a network level, but many networks have already begun their testing or roll out periods.</sentcont></sentence>
+<sentence><sentcont>The faster connection speeds make downloading media (such as podcasts via the in built Podcast application) more palatable and should also improve latency/round trip times.</sentcont></sentence>
+<sentence><sentcont>Wi-Fi, WCDMA (3G) connectivity, together with quad band GSM and EDGE are also supported.</sentcont></sentence>
+<sentence><sentcont>Bluetooth 2.0, IrDA and USB make up the local connectivity options.</sentcont></sentence>
+<sentence><sentcont>The 5.0 megapixel camera uses Carl Zeiss Optics with autofocus and digital zoom with a dedicated 2 stage capture button on the side of the phone.</sentcont></sentence>
+<sentence><sentcont>Video capture at near DVD quality is also supported.</sentcont></sentence>
+<sentence><sentcont>On the side of the device there are several buttons dedicated to camera usage.</sentcont></sentence>
+<sentence><sentcont>This allows the device to be held in a similar way to a traditional camera with the screen, in landscape mode, used as the view finder and the shutter button on bottom right hand side of the device (top right when phone is held horizontally).</sentcont></sentence>
+<sentence><sentcont>On the rear of the device, next to the camera is the slide switch, which is used to open the lens aperture and activate camera mode.</sentcont></sentence>
+<sentence><sentcont>Although it is difficult to judge the image quality at this stage the evidence we saw suggest that the N95 will be on of the most capable camera phones available.</sentcont></sentence>
+<sentence><sentcont>Nokia N95 - [updated, official]  Published by Rafe Blandford at 14:20 BST, September 26th     Nokia have announced the Nokia N95, featuring an innovative double slide design with multimedia controls and a keypad on opposite end of the phones.</sentcont></sentence>
+<sentence><sentcont>Read on for full details, pictures and the full press release.</sentcont></sentence>
+<sentence><sentcont>Summary: The N95 is Nokia's first HSDPA (3.5G) device, but also boasts Wi-Fi, WCDMA, quad-band GSM, Bluetooth (including A2DP), IrDA and USB 2.0 connectivity (via  mini USB connector).</sentcont></sentence>
+<sentence><sentcont>Other hardware features include a 5 megapixel camera, a built in GPS, TV-Out, 3.5mm audio jack, FM Radio, a MicroSD memory card slot and 150MB of internal memory.</sentcont></sentence>
+<sentence><sentcont>In the hand the most impressive aspect of the device, given its feature set, is its size.</sentcont></sentence>
+<sentence><sentcont>At 99mm x 20mm x 53mm (90cc), the N93 packs an impressively amount into a small space.</sentcont></sentence>
+<sentence><sentcont>Nokia have managed to add two major technologies to the Nseries line (GPS and HSDPA) while significantly reducing the volume of the device.</sentcont></sentence>
+<sentence><sentcont>In length and width dimensions it is larger that the other Nseries slider - the N80, but it is considerably thinner.</sentcont></sentence>
+<sentence><sentcont>HSPDA is the next generationin cellular connectivity.</sentcont></sentence>
+<sentence><sentcont>The N95 is a category 6 HSPDA device which means it is up to 10 times faster that WCDMA (3G).</sentcont></sentence>
+<sentence><sentcont>Clearly HSDPA support is required at a network level, but many networks have already begun their testing or roll out periods.</sentcont></sentence>
+<sentence><sentcont>The faster connection speeds make downloading media (such as podcasts via the in built Podcast application) more palatable and should also improve latency/round trip times.</sentcont></sentence>
+<sentence><sentcont>Wi-Fi, WCDMA (3G) connectivity, together with quad band GSM and EDGE are also supported.</sentcont></sentence>
+<sentence><sentcont>Bluetooth 2.0, IrDA and USB make up the local connectivity options.</sentcont></sentence>
+<sentence><sentcont>The 5.0 megapixel camera uses Carl Zeiss Optics with autofocus and digital zoom with a dedicated 2 stage capture button on the side of the phone.</sentcont></sentence>
+<sentence><sentcont>Video capture at near DVD quality is also supported.</sentcont></sentence>
+<sentence><sentcont>On the side of the device there are several buttons dedicated to camera usage.</sentcont></sentence>
+<sentence><sentcont>This allows the device to be held in a similar way to a traditional camera with the screen, in landscape mode, used as the view finder and the shutter button on bottom right hand side of the device (top right when phone is held horizontally).</sentcont></sentence>
+<sentence><sentcont>On the rear of the device, next to the camera is the slide switch, which is used to open the lens aperture and activate camera mode.</sentcont></sentence>
+<sentence><sentcont>Although it is difficult to judge the image quality at this stage the evidence we saw suggest that the N95 will be on of the most capable camera phones available.</sentcont></sentence>
+<sentence><sentcont>A GPS is integrated into the device with anticipated accuracy of around 10m (satellite signal permitting).</sentcont></sentence>
+<sentence><sentcont>The devices will ship with an application called Maps which has global overview maps built in.</sentcont></sentence>
+<sentence><sentcont>More detailed maps (with coverage over more than 100 different countries available) can be downloaded for free from an online server.</sentcont></sentence>
+<sentence><sentcont>The detail available varies from country to country, but in many cases it is available down to street level.</sentcont></sentence>
+<sentence><sentcont>A point of interest (POI) database is also included.</sentcont></sentence>
+<sentence><sentcont>All the maps are available for free, as is basic route planning, but navigation functionality (with voice and on screen prompts) will be available as a pay-for add on.</sentcont></sentence>
+<sentence><sentcont>City Guides will also be available for purchase and other services are likely to be made available in the future.</sentcont></sentence>
+<sentence><sentcont>The mapping software and services is likely to based on technology from gate5, a company which Nokia recently announced it was acquiring.</sentcont></sentence>
+<sentence><sentcont>Music playback is also a major focus of the device.</sentcont></sentence>
+<sentence><sentcont>The dedicated multimedia keys on the top flip of the device are primarily designed for music playback (although can also be used in other multimedia contexts).</sentcont></sentence>
+<sentence><sentcont>Wireless stereo sound output (via the A2DP Bluetooth profile) is also supported, and stereo audio output is also supported by the TV output feature and the on board stereo speakers.</sentcont></sentence>
+<sentence><sentcont>The music formats supported include MP3, AAC, AAC+ and WMA.</sentcont></sentence>
+<sentence><sentcont>Video playback on the QVGA screen is excellent and supported video formats include 3GP, Real Video and MP4 with support for the latest AVC codec.</sentcont></sentence>
+<sentence><sentcont>The multimedia key now leads to a revamped application and multimedia shorcut view which now supports both a greater number of shortcuts (applications, multimedia files and bookmarks) and more flexible personalisation.</sentcont></sentence>
+<sentence><sentcont>As a result it  is now a more generic shortcut key mechansim and offers an alternative to the standard application launcher.</sentcont></sentence>
+<sentence><sentcont>The N95 uses S60 3rd Edition Feature Pack 1 (Symbian 9.2) and as such includes version 2.0 of the open source Nokia web browser (supporting WML, XHTML and HTML in one browser), Flash Lite 2.0, FOTA (firmware over the air updates) and more.</sentcont></sentence>
+<sentence><sentcont>The N95 uses the same small power port as other S60 3rd Edition devices, but the in-box charger is considerably smaller than the existing models (up to 60% smaller).</sentcont></sentence>
+<sentence><sentcont>The N95 has a 950 mAh battery, it is likely that the N95 will require a daily charge with moderate to heavy use, although 3-6 days may be possible with lighter use (dependent on network strength, type and other factors).</sentcont></sentence>
+<sentence><sentcont>The N95 will be available in Q1 2007 and the approximate unsubsidised price is ?550. Initially it will be available in the EMEA market.</sentcont></sentence>
+<sentence><sentcont>It will not be officially available in the US although gray imports are very likely.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+1110088#11988#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1110088</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>- screen provides good vivid colors and brightness control by sensor is good (16 million colour).</sentcont></sentence>
+<sentence><sentcont>- Battery life is quite acceptable at least 2 days (if not using Wi-Fi) still can improved somemore - 5 Megapixel Carl Zeiss Tessar autofocus camera with LED flash had improved over the last few models.</sentcont></sentence>
+<sentence><sentcont>- N95 is powered by the fastest processor called ARM11 OMAP2420 running at 330 MHz.</sentcont></sentence>
+<sentence><sentcont>The processor is the same used in the Nokia N93/N93i.</sentcont></sentence>
+<sentence><sentcont>- Build in 160 MB internal phone memory and 1GB microSD cards.</sentcont></sentence>
+<sentence><sentcont>- N95 built-in GPS receiver is quite sensitive and after obtaining coordinates, it'll keeps working under normal SG roads.</sentcont></sentence>
+<sentence><sentcont>The only area which lost the signal is the CTE underground tunnel.</sentcont></sentence>
+<sentence><sentcont>- GPS used Smart2Go software, maps are free for downloading   - Navigation and voice guides services need to be purchased (optional).</sentcont></sentence>
+<sentence><sentcont>- Nokia N95 is a quadband GSM (850/900/1800/1900 MHz) and WCDMA 2100 MHz phone(3.5G).</sentcont></sentence>
+<sentence><sentcont>- Fast USB 2.0 Full Speed (12 Mbit/s) via Mini USB   - N95 is a Symbian OS 9.2 S60 3.1 (3rd Edition Feature Pack 1) phone.</sentcont></sentence>
+<sentence><sentcont>- Good news is that N95 is compatible with most of the existing S60 3rd Edition software.</sentcont></sentence>
+<sentence><sentcont>- N95's screen supports landscape mode and portrait mode.</sentcont></sentence>
+<sentence><sentcont>- When sliding the keypad back in place, it will auto keylock after about 1.5 secs.</sentcont></sentence>
+<sentence><sentcont>- For Web browsing, it's faster and less memory hungry.</sentcont></sentence>
+<sentence><sentcont>Had not experienced any errors while surfing.</sentcont></sentence>
+<sentence><sentcont>If not wrong, this is a new Nokia Web Browser version 2.0.</sentcont></sentence>
+<sentence><sentcont>- Music Player with equalizer supporting MP3/AAC/AAC+/eAAC+/WMA/M4A.   - Playback of videos is smooth and movies look great due to the huge screen.</sentcont></sentence>
+<sentence><sentcont>- Video formats are MPEG-4, H.264/AVC, H.263/3GPP.</sentcont></sentence>
+<sentence><sentcont>Also believed it support Real Video.</sentcont></sentence>
+<sentence><sentcont>Conclusions:   This is definitely a good multimedia phone and performance is fast!</sentcont></sentence>
+<sentence><sentcont>The speed is even faster than other previous model phone.</sentcont></sentence>
+<sentence><sentcont>The screen is good, powerful processor with 2D/3D graphics and video acceleration.</sentcont></sentence>
+<sentence><sentcont>Connectivity and data transmission options including HSDPA, WLAN b/g, UPnP, USB 2.0 and Bluetooth 2.0.</sentcont></sentence>
+<sentence><sentcont>Able to record video clips of DVD quality, good MP3 player (with Sony earpiece).</sentcont></sentence>
+<sentence><sentcont>Audio and video playback capabilities via TV out connector.</sentcont></sentence>
+<sentence><sentcont>Built-in GPS receiver and good mapping software</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+111885#3785#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>111885</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Free online chatting?</sentcont></sentence>
+<sentence><sentcont>Well, that's one way to meet stalkers/pedophiles!</sentcont></sentence>
+<sentence><sentcont>All I'm saying is why buy this NOW?</sentcont></sentence>
+<sentence><sentcont>Surely a N95 8gb is more value for money!</sentcont></sentence>
+<sentence><sentcont>Mind you I think some people here walk into a phone shop and get sucked in by commission driven sales people claiming: "Well this N95 does EVERYTHING you could want it to do!</sentcont></sentence>
+<sentence><sentcont>And MORE!" When reality is it's an old stocked phone and they get double the commission for selling it!</sentcont></sentence>
+<sentence><sentcont>But think what you like, it WAS a decent phone... But is soon to be out dated.</sentcont></sentence>
+<sentence><sentcont>Why get such an old phone when you have the choice of a brand new one?</sentcont></sentence>
+<sentence><sentcont>Meh, whatever blows your skirt up!</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+2441756#18#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Cnet</websource>
+<reviewid>2441756</reviewid>
+<reviewtitle>Many promises, few facts</reviewtitle>
+<rating>0.1</rating>
+<pro><sentence>
+<sentcont> none for me </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> very expensive </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>One month ago I purchased a Nokia n95 in Spain (from Movistar).</sentcont></sentence>
+<sentence><sentcont>In general, my experience with the phone has been very bad, the main reasons for this so desfavorable opinion are:First at all, the Nokia n95 is a very expensive phone with a lot of potential utilities that doesn?t work in the real world.At the beginning the interruptions and blockages were very common, and the change for the new firmware only improves the number of these adverse events, but doesn?t arrange the basic problem.The camera, despite the announced 5 megapixels, is worse than my old nikon with only 4 megap.</sentcont></sentence>
+<sentence><sentcont>The reason is that the lens is not equiparable.</sentcont></sentence>
+<sentence><sentcont>The maximum size with the nokia is 1MB, a small size nowadays that is worse than the obtained with any cheap digital camera.The</sentcont></sentence>
+<sentence><sentcont>GPS is very slow to positionate at first, and really, doesn?t</sentcont></sentence>
+<sentence><sentcont>work with the slider closed, that makes impracticable to use frequently.</sentcont></sentence>
+<sentence><sentcont>The navigation is not free.....The batteries need to be recharged every 24 hours...Has been impossible to me to connect the WLAN with my router (plug and play????).Finally, the display is fragile, and brokens with a minimal shock.I</sentcont></sentence>
+<sentence><sentcont>do not recommend the purchase of this terminal.</sentcont></sentence>
+<sentence><sentcont>Probably, there are better phones from Nokia and no so expensive like this is.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+732818#578#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>732818</reviewid>
+<reviewtitle>Phone is a tool</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Free ActiveSync client so it connects to my company's Exchange Server and synchronises Calendar, Contact and E-mails</sentcont>
+<sentcont>Loads of applications like Ulitmate VR which records calls, 8GB of memory so tons for Music, Video and Pictures</sentcont>
+<sentcont>A really good Music player that I use in the gym all the time and connect to my car stereo</sentcont>
+<sentcont>A brilliant video camera that I've used to uploads videos to Youtube.com AND the amazing Nokia Lifeblog application that keeps a record of my life with pictures, videos, texts and calls in date order </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The battery could do with being a bit bigger but it's better than the original N95 and about the same as my N80 so overall I'm very happy</sentcont>
+</sentence></con>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+1112892#14792#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1112892</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I have been using Nokia all my life.</sentcont></sentence>
+<sentence><sentcont>Now I want out!</sentcont></sentence>
+<sentence><sentcont>Bloody slow software, this Symbian.</sentcont></sentence>
+<sentence><sentcont>Most UNRELIABLE.</sentcont></sentence>
+<sentence><sentcont>Hangs every time u leave a few applications open.</sentcont></sentence>
+<sentence><sentcont>BUTTTT.... the N95 and N80 look soooo tempting.</sentcont></sentence>
+<sentence><sentcont>Any good reasons why I should stick to Nokia?</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+2557163#132#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Cnet</websource>
+<reviewid>2557163</reviewid>
+<reviewtitle>Amazing piece of finnish tech</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Customization; Coolness factor; iPhone eater </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Bulky; Feels slow at moments; </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I was looking for an iPhone killer, you know what they say: "Another day, another iPhone killer"; and during my search I found the N95; Nokia knows the cell phone bussiness as no one else and they've always made reliable phones with great signal reception rates usually out performing the likes of Motorola, SE and any other.</sentcont></sentence>
+<sentence><sentcont>When you are not using it as a cell phone, this gadget does everything else.</sentcont></sentence>
+<sentence><sentcont>GPS, Camera, Video camera, Music player, portable console, Internet tablet (using Opera Mini on it is an absolute plus) and a large ETC.And when you think that is it, that you got a phone with everything already bundled, you search the web for software and you'll get a blast, hundreds of utilities and applications, games and non-senses everywhere.</sentcont></sentence>
+<sentence><sentcont>Absolutely amazing, the Symbian platform is superb, that is the main factor why this cell phone is better than the All-Mighty iPhone (which is already impressive) try one and you'll love it, own one and you'll forget any other gadget around.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+2437538#3#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Cnet</websource>
+<reviewid>2437538</reviewid>
+<reviewtitle>One phone to suit all your needs</reviewtitle>
+<rating>0.7</rating>
+<pro><sentence>
+<sentcont> Great connectivity and wide range of software change the way you use the internet</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Low Battery Life, Easily heated up during long calls or VoIP calls, Music player errors, GPS cant connect, 2-way slider</sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I eagerly awaited the launch of this phone and got it on the first day of launch.</sentcont></sentence>
+<sentence><sentcont>It was great in terms of design.</sentcont></sentence>
+<sentence><sentcont>Although in many ways it looks like a brick, compared to the N80, the N95 is slimmer and lighter and packs more features.The</sentcont></sentence>
+<sentence><sentcont>best part was the wifi connectivity it offered.</sentcont></sentence>
+<sentence><sentcont>Although in terms of battery life, you may not be able to sustain the handphone while surfing wirelessly all day, it did change the way i used the internet.</sentcont></sentence>
+<sentence><sentcont>Booking tickets online was a breeze (i could just connect in a hotspot at starbucks).</sentcont></sentence>
+<sentence><sentcont>I could still be on MSN while away from my computer.</sentcont></sentence>
+<sentence><sentcont>I used the VoIP whenever i could find a hotspot, thus saving on hefty phone bills through free calls.</sentcont></sentence>
+<sentence><sentcont>There were many.</sentcont></sentence>
+<sentence><sentcont>Surely the E65 would have offered me the same wifi advantages plus a longer battery life, but this was running on Symbian OS 9.2 and had a larger and clearer display.The</sentcont></sentence>
+<sentence><sentcont>2-way slider was great when it came to viewing videos.</sentcont></sentence>
+<sentence><sentcont>Having such a large screen and speakers that could go real loud, it was almost an ipod video by itself.</sentcont></sentence>
+<sentence><sentcont>I rarely used the music player buttons however and the only reason i found myself sliding the other way often is to rotate the display view.The 5 megapixel camera is a godsend.</sentcont></sentence>
+<sentence><sentcont>Although i could not really take clear pictures compared to a normal 7megapix camera, it was great for a camera phone.</sentcont></sentence>
+<sentence><sentcont>The bigger deal was the video.</sentcont></sentence>
+<sentence><sentcont>Videos have never been this clear on a camera phone before.I didn't try using the visual radio service as i wanted to avoid any GPRS charges so as to keep my bill as low as possible.</sentcont></sentence>
+<sentence><sentcont>So far my bill dropped by about 30% with VoIP calls and wifi surfing instead of GPRS.Here comes the sad news - This phone can be equally as bad.I used it almost as i would use PC.</sentcont></sentence>
+<sentence><sentcont>Although i cannot view videos on youtube, i was able to download some and view on the realplayer.</sentcont></sentence>
+<sentence><sentcont>While i was at it, once i stumbled upon some 50mb video.</sentcont></sentence>
+<sentence><sentcont>Halfway through the download i was worried if the phone could support such a large file and cancelled the download.</sentcont></sentence>
+<sentence><sentcont>My web became inaccessible.</sentcont></sentence>
+<sentence><sentcont>Everytime i clicked on web, it would auto-close application.</sentcont></sentence>
+<sentence><sentcont>Even after a few restarts the phone was still the same.</sentcont></sentence>
+<sentence><sentcont>I then had to install a browser software to clear the cache (the root of the problem).Another</sentcont></sentence>
+<sentence><sentcont>major problem is that the N95 auto-closes applications when they are not in use for a small period of time.</sentcont></sentence>
+<sentence><sentcont>Supposing you were in the middle of a game and had to attend a 2 minute call.</sentcont></sentence>
+<sentence><sentcont>Once you're done, your game has already been closed.I also had some embarrassing moments with the Music player.</sentcont></sentence>
+<sentence><sentcont>I'm happy that it came with the headphone jack.</sentcont></sentence>
+<sentence><sentcont>However, when i accidentally loosened the connection between the jack and the phone, the music player automatically switched to speakers and started blasting my music in public.Another</sentcont></sentence>
+<sentence><sentcont>problem was that when using the provided earphones with the music control, the music is momentarily played on the speaker for a second or two when you're switching tracks while playing the music.</sentcont></sentence>
+<sentence><sentcont>Yet another embarrassing moment.The 2 way slider is another big problem.</sentcont></sentence>
+<sentence><sentcont>So much for advertising "What's in your pocket?" when the phone is so pocket unfriendly.</sentcont></sentence>
+<sentence><sentcont>Imagine this, when the phone is put inside the jeans pocket, it tends to slide upwards to reveal the keypad since the slider is that smooth.</sentcont></sentence>
+<sentence><sentcont>It slides the other way when it is removed from the pocket.</sentcont></sentence>
+<sentence><sentcont>So usually when i take it out, the display is in landscape mode and that makes me look unprofessional sliding my phone all the time.My 1.5 month old N95 recently went for repairs after the display light died.</sentcont></sentence>
+<sentence><sentcont>The phone was still perfectly working.</sentcont></sentence>
+<sentence><sentcont>Just the display backlight.</sentcont></sentence>
+<sentence><sentcont>It was a slow death from the heavy usage from someone like me.</sentcont></sentence>
+<sentence><sentcont>Thankfully there's a firmware upgrade for this phone and i hope it will solve some of the many problems for the N95.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+112678#4578#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Gsmarena</websource>
+<reviewid>112678</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Love my N95...better than my iphone witch i gave to my wife!</sentcont></sentence>
+<sentence><sentcont>The iphone i have to admit is a fun toy...some people may prefere it to the N95...faster response on applications and iphone screen is cool...when you have your 2 hands free!</sentcont></sentence>
+<sentence><sentcont>The N95 is light,easier to handle with one hand.</sentcont></sentence>
+<sentence><sentcont>fit in your suit pocket.</sentcont></sentence>
+<sentence><sentcont>solid.</sentcont></sentence>
+<sentence><sentcont>but camera pictures give great results.</sentcont></sentence>
+<sentence><sentcont>but applications are slower.</sentcont></sentence>
+<sentence><sentcont>recording while you are on the phone with someone almost impossible.</sentcont></sentence>
+<sentence><sentcont>taking a fast moment picture is also impossible.</sentcont></sentence>
+<sentence><sentcont>some application takes time.</sentcont></sentence>
+<sentence><sentcont>!.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+611199#404#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>611199</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> The N95 8GB is a feature-laden handset which I find invaluable whilst travelling</sentcont>
+<sentcont> I can especially recommend the email facility, the camera is amazing for a mobile phone, the web browsing is wonderful and is wireless enabled so I can browse for free when on certain trains and also at home when needed</sentcont>
+<sentcont> It is a large handset (compared to others on the market) but I personally like the weighty feeling and it is something I am willing to compromise on when it means I have so much functionality</sentcont>
+<sentcont> Highly recommended</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The battery life of this phone is awful!!</sentcont>
+<sentcont> It is not something that I would take into account when thinking about buying it however, you just have to make sure that you charge it frequently which to be honest most people do anyway</sentcont>
+<sentcont> A handy tip is to purchase the Nokia car charger and plug the phone in during all your journeys (long or short) which tops up the power nicely</sentcont>
+</sentence></con>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+118487#10387#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>118487</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>the best companies are.</sentcont></sentence>
+<sentence><sentcont>NOKIA SONYERICSSON.</sentcont></sentence>
+<sentence><sentcont>but do the math yea se have good camera or battery but that s it.</sentcont></sentence>
+<sentence><sentcont>nokia will beat all the phones with overall features and connectivity.</sentcont></sentence>
+<sentence><sentcont>wi fi b/g/i/e on e series most of all the new nokia are quadband.</sentcont></sentence>
+<sentence><sentcont>e series blackberry.</sentcont></sentence>
+<sentence><sentcont>they are now putting better prosessers in there phones like the 5700 or the e90.</sentcont></sentence>
+<sentence><sentcont>the best se phone to have is a w810i or k790.</sentcont></sentence>
+<sentence><sentcont>but now i have a htc s620 s621 from rogers, and its better in all then the new sony ericsson p1 compare it you ll see.</sentcont></sentence>
+<sentence><sentcont>now iphone will not be a os where you can add applications for free and easy , it s just a good mp3 player phone but heres my problem is touch screen all ipod users agree that touchscreen is easely dammagable a .</sentcont></sentence>
+<sentence><sentcont>if you want the iphone and like doing sports stick to a n73 or w810i now compare these phones with the n95 so now compare the phones with the ones with the best features iphone vs n95 the only problem with the nokia is that you need more then one battery to use all the features in one day , i phone will have up to 15h mp3 playback ok if you want that get a n73 , 53 or 5700 or a sonyericsson w810.</sentcont></sentence>
+<sentence><sentcont>what im saying is nokia have more features then most phones only phones that can do alot of things are pocket pc windows mobile it works with windows so you can do alot like skype remote descktop access change things on servers.</sentcont></sentence>
+<sentence><sentcont>so if you want something good get a htc tytn or nokia n95 f++k the rest.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+2430784#5#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Cnet</websource>
+<reviewid>2430784</reviewid>
+<reviewtitle>All your dreams...in the palm of your hand</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> WiFi, GPS, Bluetooth 2.0+EDR, Symbian OS based, Map application, large screen, dual slider, intuitive user interface, 5MP camera </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Battery life poor, but it is fine w/ a nightly recharge, not made of anodized aluminum </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>This phone does everything imaginable.</sentcont></sentence>
+<sentence><sentcont>It's pretty much a full computer in your pocket.Camera:5MP is phenomenal for a cell phone.</sentcont></sentence>
+<sentence><sentcont>It also has many advanced functions such as aperture settings, exposure compensation, white balance, self timer, and red-eye flash settings.</sentcont></sentence>
+<sentence><sentcont>On top of that, the video camera is very very good but not DVD quality as Nokia says.</sentcont></sentence>
+<sentence><sentcont>It even has image stabilization built in.</sentcont></sentence>
+<sentence><sentcont>In other reviews, you may have read that the "camera was slow" or something along those lines.</sentcont></sentence>
+<sentence><sentcont>The truth is that the shutter itself is not slow, but the response time between pushing the button and the clicking of the shutter is long.GPS: Really useful and neat feature to have.</sentcont></sentence>
+<sentence><sentcont>Be sure to clear all maps first using the PC map loader (if it was not bought in the US--mine was an Asian model) Then load your US maps into the memory card.</sentcont></sentence>
+<sentence><sentcont>The map goes down to street level and is fairly up-to-date.</sentcont></sentence>
+<sentence><sentcont>The accuracy of the GPS is around 150 feet.</sentcont></sentence>
+<sentence><sentcont>It even indicates altitude and speed of your vehicle.Video/Music Playback:The media centre of this phone has some impressive animation, and plays videos and songs in stereo sound with impressive quality.</sentcont></sentence>
+<sentence><sentcont>Plus, it can be hooked up to any TV so you can blow it up on a larger screen.WiFi:Fairly good.</sentcont></sentence>
+<sentence><sentcont>Regular sites don't load as fast as a normal comp, but that's because of the overall processing power/RAM of the unit.</sentcont></sentence>
+<sentence><sentcont>WiFi also saves you on expensive data costs that you would prob encounter with your wireless carrier.</sentcont></sentence>
+<sentence><sentcont>It's really useful for checking email and browsing your favorite sites.Bluetooth:The</sentcont></sentence>
+<sentence><sentcont>EDR really helps when you sync your media files from your computer.</sentcont></sentence>
+<sentence><sentcont>It also helps increase the range between your computer and the N95.User interface:The Symbian OS is very intuitive and clean.</sentcont></sentence>
+<sentence><sentcont>Occasionally, it lags but this wasn't a big issue for me.</sentcont></sentence>
+<sentence><sentcont>Even more complex apps like the Map application loads and quits efficiently without hanging up.</sentcont></sentence>
+<sentence><sentcont>The unit only freezes after applying a more complex setting such as changing the system theme or something.</sentcont></sentence>
+<sentence><sentcont>It can be fixed by a simple restart of the device.</sentcont></sentence>
+<sentence><sentcont>However, this should've been fixed by Nokia through a simple message telling you to restart your device the way you'd restart your computer after installing an update or program.Battery:This</sentcont></sentence>
+<sentence><sentcont>seems to be a big point of critisism for the editors and other users of this phone.</sentcont></sentence>
+<sentence><sentcont>The honest bottom line is this: it doesn't go about 14 hrs without a recharge.</sentcont></sentence>
+<sentence><sentcont>(that is w/ use of WiFi, GPS, and Bluetooth).</sentcont></sentence>
+<sentence><sentcont>If you use the phone just for talking w/ idling, the battery lasts a comfortable 21 hrs.</sentcont></sentence>
+<sentence><sentcont>The best thing to do is to probably charge it overnight daily.</sentcont></sentence>
+<sentence><sentcont>Then you'll be fine.PDA</sentcont></sentence>
+<sentence><sentcont>functionality:The address book, calandar, and document viewers are excellent.</sentcont></sentence>
+<sentence><sentcont>Multiple numbers per contact w/ room for email addresses, home addresses etc.</sentcont></sentence>
+<sentence><sentcont>The calandar has many options for appts, meetings, and alarms.</sentcont></sentence>
+<sentence><sentcont>The document viewer not only opens regular text docs, but also spreadsheets and some kind of file that resembles PowerPoint.</sentcont></sentence>
+<sentence><sentcont>Checking email is also easy as setting up your account with the wizard is a snap.</sentcont></sentence>
+<sentence><sentcont>It works of WiFi or through your wireless carrier.Screen:The</sentcont></sentence>
+<sentence><sentcont>size is really nice and the important info such as time, date, etc show up nice and large so it's easy to read.</sentcont></sentence>
+<sentence><sentcont>For videos and the GPS, it's perfect.</sentcont></sentence>
+<sentence><sentcont>The ambient light sensor works well.Physical</sentcont></sentence>
+<sentence><sentcont>feel:The phone has a solid feel.</sentcont></sentence>
+<sentence><sentcont>It's also slimmer than it looks.</sentcont></sentence>
+<sentence><sentcont>When I saw the pics on the Nokia site, it def looked thicker than when I actually had the unit in my hand.</sentcont></sentence>
+<sentence><sentcont>The fact that the sliding mechanism isn't assisted isn't a big deal for me.</sentcont></sentence>
+<sentence><sentcont>The two-way slider is also pretty neat.</sentcont></sentence>
+<sentence><sentcont>However, the slider, when open, has a slight flimsy feel to it.</sentcont></sentence>
+<sentence><sentcont>It's also made of plastic, and not anodized aluminum like a lot of new electronics (eg.</sentcont></sentence>
+<sentence><sentcont>iPod) which is surprising for such a high-tech device.</sentcont></sentence>
+<sentence><sentcont>The plastic is wrapped tightly and solidly around the device though and doesn't "squeak" or "creak" when being handled.Overall, this phone is really THE THING as it surpasses the typical smartphone.</sentcont></sentence>
+<sentence><sentcont>Despite a few minor faults, it is an amazing device with tremendous functionality.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+112512#4412#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>112512</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>wow thanks for the compliment sir dani hehehe.</sentcont></sentence>
+<sentence><sentcont>sir lattroteuse, sorry to hear about your unfortunate experience about nokia and the n95, hopefully they will sort it out.</sentcont></sentence>
+<sentence><sentcont>maybe you can file a complaint at nokia.</sentcont></sentence>
+<sentence><sentcont>com.</sentcont></sentence>
+<sentence><sentcont>?.</sentcont></sentence>
+<sentence><sentcont>dear sir arepeaceDNA,.</sentcont></sentence>
+<sentence><sentcont>first you can only turn off the camera sound completely if you have a euro1 euro2 or balkan firmware version (just turn the "warning tone" off).</sentcont></sentence>
+<sentence><sentcont>if you have an asian one or from the U.</sentcont></sentence>
+<sentence><sentcont>S.</sentcont></sentence>
+<sentence><sentcont>you may not be able to turn off the sound, there are ways to reflash your unit to euro1 or euro 2 or even balkan firmware though so you can turn the camera sound off.</sentcont></sentence>
+<sentence><sentcont>or you can just download the application "ccam" it lets you use the camera with no camera sound nor red light.</sentcont></sentence>
+<sentence><sentcont>Quite cool hehehe just search it.</sentcont></sentence>
+<sentence><sentcont>its a free application btw hehehe.</sentcont></sentence>
+<sentence><sentcont>btw.</sentcont></sentence>
+<sentence><sentcont>if you have firmware 20 and above, you will notice a significant improvement of the battery life and the super speed of the phone overall ehehe.</sentcont></sentence>
+<sentence><sentcont>in my case I use my n95 extensively, so I kinda charge it every night.</sentcont></sentence>
+<sentence><sentcont>my battery is depleted once I use the phone for 6-8 hours.</sentcont></sentence>
+<sentence><sentcont>used for gaming(most of the time), viewing videos, and using the camera etc.</sentcont></sentence>
+<sentence><sentcont>and if your phone doesnt vibrate even when its on.</sentcont></sentence>
+<sentence><sentcont>i think you have a defective battery.</sentcont></sentence>
+<sentence><sentcont>sir gana,.</sentcont></sentence>
+<sentence><sentcont>you have every right to change your phone to whatever you choose, If it will make you feel better to change your n95 for an n82 then by all means please do so and you are entitled for your opinion, You can say that n82 is superior(which in some factors, crucial to others, yes it is ).</sentcont></sentence>
+<sentence><sentcont>but n95 holds its own against n82, minute details that makes the n95 worth considering compared to the n82.</sentcont></sentence>
+<sentence><sentcont>in terms of flash, xenon is bar none definitely the most powerful and most suited for photography, but using the xenon flash extensively.</sentcont></sentence>
+<sentence><sentcont>drains the battery big time.</sentcont></sentence>
+<sentence><sentcont>and in macro or close up scenes.</sentcont></sentence>
+<sentence><sentcont>there is a high chance you'd get overexposed pics because of the powerful light of xenon.</sentcont></sentence>
+<sentence><sentcont>whilest on the n95s case, the modest light that the underated led flash emits is really good at macro and closeups, AND you can use it extensively at close intervals in between usage unlike xenon.</sentcont></sentence>
+<sentence><sentcont>and n95's led flash is one of the most powerful led flashes around beating that of the dual led flash of w960(google it).</sentcont></sentence>
+<sentence><sentcont>n95 has a bigger screen you can toy around its construction as it is dual slide with bigger and more keys.</sentcont></sentence>
+<sentence><sentcont>has infrared not as useable for file transfers as bluetooth but you can use it for certain applications such as tv remote.</sentcont></sentence>
+<sentence><sentcont>motion detector etc has a comprehensive video editing suite on board the phone (which the n82 nor the n95 8gb doesnt have).</sentcont></sentence>
+<sentence><sentcont>to some, n95 has an edge in form factor over the n82.</sentcont></sentence>
+<sentence><sentcont>to some n82 is just too classy to compare it to the n95.</sentcont></sentence>
+<sentence><sentcont>ultimately its your choice no one is stopping you from going with what you want.</sentcont></sentence>
+<sentence><sentcont>but to n95 users.</sentcont></sentence>
+<sentence><sentcont>apparently n95 is "the phone" and is simply the better choice.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+119286#11186#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>119286</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I grabbed my n95 day of release, thrilled to think that one year ago the rumours that were being spread of an n83 had truly been turned into the actual n95.</sentcont></sentence>
+<sentence><sentcont>now i'm having seccond thoughts...was it worth my $1254 aud?</sentcont></sentence>
+<sentence><sentcont>yes i know i cbf shopping around.</sentcont></sentence>
+<sentence><sentcont>firstly, gps- so slow.... takes me about 5 minutes to conect to sat.</sentcont></sentence>
+<sentence><sentcont>although i've never used another gps system, i am guessing this is not normal.</sentcont></sentence>
+<sentence><sentcont>I have heard other people complain of this too, but they say it gets quicker with time.</sentcont></sentence>
+<sentence><sentcont>loading google maps is good, but the onboard mapping system is just as good i think.</sentcont></sentence>
+<sentence><sentcont>i've found google maps requires you to have internet connection to be able to see the actual map(so great if ur in a wifi area.</sentcont></sentence>
+<sentence><sentcont>but bad if u don't have cheap gprs connections...) anybody know a workaround?</sentcont></sentence>
+<sentence><sentcont>onboard mapping software allowed me to see where i was without connection to network.</sentcont></sentence>
+<sentence><sentcont>although i was driving 15 minutes away, it took 5-8 minutes to connect to sat.</sentcont></sentence>
+<sentence><sentcont>to get coordinates and then after another 2 mintues of fumbling buttons to set destination and start trip calculations, i was about 200 m from destination (i had to park because i wanted to see it in action!!!)    so when it was working it seemed fine.</sentcont></sentence>
+<sentence><sentcont>but, as other people have found, voice nav.</sentcont></sentence>
+<sentence><sentcont>requires $$$$ and it came up with an annoying statement etc asking me to subscribe.</sentcont></sentence>
+<sentence><sentcont>imagine i was really lost, there goes my $ subscribing to year of nokia maps.</sentcont></sentence>
+<sentence><sentcont>Actual phone is a bit of a letdown, lags, resets itself randomly (4times in 4 days) keep pressing menu button by accident instead of left or right arrow key.</sentcont></sentence>
+<sentence><sentcont>so what i have big thumbs.</sentcont></sentence>
+<sentence><sentcont>camera lags when on 5mp mode.</sentcont></sentence>
+<sentence><sentcont>havnt tried any other mode.</sentcont></sentence>
+<sentence><sentcont>but its about 2-5 seconds b/w pressing the button to take pic and actually seeing the image on screen of ur final pic...strange.</sentcont></sentence>
+<sentence><sentcont>on n95 screen, pics seem a liiiitle grainy...    wifi keeps dropping me out.</sentcont></sentence>
+<sentence><sentcont>well, this may be due to my network, and i hope it is for the n95s repuation... but it really shits me.</sentcont></sentence>
+<sentence><sentcont>downloading videos off the included reuters links, get dropped out from wireless...    3.5mm headphone jack is great.</sentcont></sentence>
+<sentence><sentcont>great sound quality, i personally believe (although i havn't heard it through a good pair of headphones) inbuilt speakers have an amazing ability to project themselves...and also have an amazing ability to split ear drums with high pitched onboard nokia tones...argh!</sentcont></sentence>
+<sentence><sentcont>Battery life is the other m a j o r letdown.</sentcont></sentence>
+<sentence><sentcont>with using wifi maybe 5 minutes, gps on my 15 min car ride which turned into 20 cos i stopped to play with gps, about 5 minutes of normal call time and 5minutes of bluetooth call time and about 3 minutes of speaker call time, my battery is wailing for a charge as I type.</sentcont></sentence>
+<sentence><sentcont>-i have not got more than one day with propper use of functions without either needing to charge or noticing it was on one bar and thinking it would die tomorrow if i listen to mp3.</sentcont></sentence>
+<sentence><sentcont>Although I knew what it's size was before I got it, i still miss the slim 8250 in my pocket.</sentcont></sentence>
+<sentence><sentcont>god i love that phone.</sentcont></sentence>
+<sentence><sentcont>=P    So after closely following rumours and exclusive reviews posted all over the net, desperately awaiting the device that is not just one thing, it's many.... i've almost convinced myself its not worth the price.</sentcont></sentence>
+<sentence><sentcont>ALMOST.</sentcont></sentence>
+<sentence><sentcont>-happy with reception (as you would expect fomr a high end phone)  -dual slide ability is fantastic   -screen is awesome, colorful, bright biiiig...  -music playback is to me ipod comparable (well i have 3gipod,time for new1)  -inbox equipment is more than generous.</sentcont></sentence>
+<sentence><sentcont>nokia included 1gb in the box and shop gave me a free 2gb...so thats sweet.</sentcont></sentence>
+<sentence><sentcont>inbox case is pretty protective and stylish...although i have worries about camera safety.</sentcont></sentence>
+<sentence><sentcont>~my zeiss optics!</sentcont></sentence>
+<sentence><sentcont>IS N95 WORTH IT??? DOES IT LIVE UPTO THE HYPE???  well, i'll leave that up to you to decide, i still can't decide.</sentcont></sentence>
+<sentence><sentcont>basically, i think, if you have the means, get it, but if ur jobless like me...don't waste all your money on release date!!! haha -but its damn sexy.</sentcont></sentence>
+<sentence><sentcont>cheers.</sentcont></sentence>
+<sentence><sentcont>wongiez.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+2532342#147#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Cnet</websource>
+<reviewid>2532342</reviewid>
+<reviewtitle>Almost a Perfect 10</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Overall this phone is jam pack with many features and heaps of 3rd party apps and freeware available for it</sentcont>
+<sentcont>The phone looks elegant and professional with its all black finish</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The lack of a lens cover and no memory slot </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>After using the phone for a week, my 1st impression of the phones were positive.</sentcont></sentence>
+<sentence><sentcont>The overall size of the phone was not as large as thought.</sentcont></sentence>
+<sentence><sentcont>It is a good size phone that fits comfortably in the hands.</sentcont></sentence>
+<sentence><sentcont>Negative side is the make, it has a plastic feeling, its light and seems very breakable.</sentcont></sentence>
+<sentence><sentcont>Phone reception is clear and conversation through the loudspeaker was no problem as compared to other phones.</sentcont></sentence>
+<sentence><sentcont>Taking pictures and video are the best aspect.</sentcont></sentence>
+<sentence><sentcont>At 5 mp, the pictures are clear and video recording became fun on a mobile phone.</sentcont></sentence>
+<sentence><sentcont>The are so many apps for the phone.</sentcont></sentence>
+<sentence><sentcont>Purchasing this, one will find many descent product to add to the Nokia N95.Media playback was an ease with its sliding mechanism.</sentcont></sentence>
+<sentence><sentcont>One slide to media mode exposes play/pause fast/rewind buttons and screen adjust for full view.</sentcont></sentence>
+<sentence><sentcont>The downside is the software bundle that came with the Nokia N95 8gb.</sentcont></sentence>
+<sentence><sentcont>I find it is great for the average user but those wanting more might be dissappointed.</sentcont></sentence>
+<sentence><sentcont>The lack of a memory slot also made transfer of files a hassle having to connect via bluetooth, usb, or even IR. And the data transfer rate is slow for large files like movies but transferring of songs is a breeze.</sentcont></sentence>
+<sentence><sentcont>Just a list of the main features on hardware:TV out - watched record videos on TVGPS/integrated5 mp camera w/ flashWi-fi8gb memorystandard headphone jackIR portTwo speakers on sideOverall, I love this phone.</sentcont></sentence>
+<sentence><sentcont>I continue to learn more about it and find new features about it everyday.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 8GB Applications? software||third party application||nokia_n95||
+
+117114#9014#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>117114</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I read and hear people discuss this phone and some enthusiasts are adamant about it being fast.From</sentcont></sentence>
+<sentence><sentcont>personal experience I know this phone is slow!5mp camera,gps,wi-fi etc is great but i'm not sure of the need for symbian os(=slow phone).What</sentcont></sentence>
+<sentence><sentcont>real benefit does it offer on a set like n95?do you really want to install 3rd party programs that are fairly poor c'mon how many of you guys need to use those symbian applications?isn't it far far better and more appropriate to use your notebook?I mean it's not like your ever going to do anything serious on a n95.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+114609#6509#Nokia_N95.txt####Manual Annotation Score =0
+
+<websource>Gsmarena</websource>
+<reviewid>114609</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>i kove the nokia n95 and nokia n95 8gb</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+114606#6506#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>114606</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>This nokia n95 is old news.</sentcont></sentence>
+<sentence><sentcont>It came out last april nearly 9 months ago.</sentcont></sentence>
+<sentence><sentcont>Terrible battery life and slow applications.</sentcont></sentence>
+<sentence><sentcont>Why do you think there is now a nokia n95 8gb?</sentcont></sentence>
+<sentence><sentcont>To improve on the flaws of this one.</sentcont></sentence>
+<sentence><sentcont>Buy the new nokia n95 8 gb and avoid this old one.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+114566#6466#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>114566</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>@ emil...    i dun have much idea about the n95 8gb battery... but i wud recommend u 2 buy n95-1 coz i have it n it is really convinient for tranferin songs n 3rd party application.</sentcont></sentence>
+<sentence><sentcont>n95 can even support upto 32gb micro sd (as it is in the news)... well otherwise its all in ur hands..</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+112848#4748#Nokia_N95.txt####Manual Annotation Score =0
+
+<websource>Gsmarena</websource>
+<reviewid>112848</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Nokia n95 8gb is better than this.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+115105#7005#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>115105</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>This is the best phone nokia has ever released!!!Can anyone tell me that n95 or n95 8gb is better??Brunei sold nokia n95 8gb for only BND$1248 and n95 for only BND$918...Pls Tell me.Thks</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+115356#7256#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>115356</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Hello Friends  Moto Rockr can handle maximum of 7 applications at a time.</sentcont></sentence>
+<sentence><sentcont>Switching between the applications are faster as compared with Nokia's N95.</sentcont></sentence>
+<sentence><sentcont>N95 will hang if more than 4 applications is running and if u switches fast between the application and also if the application hangs the OS too hangs and you need to remove the battery to reboot.</sentcont></sentence>
+<sentence><sentcont>Whereas in Moto Rockr E6, if the application doesn't respond(worst case), you can kill the application from the OS, no chance of hang or rebooting.</sentcont></sentence>
+<sentence><sentcont>Rockr application will not hang since it has a good processing capability for application than N95.</sentcont></sentence>
+<sentence><sentcont>Rockr won't hang at all, it rocks against Nokia N95.</sentcont></sentence>
+<sentence><sentcont>Overall Moto Rockr is faster than N95.</sentcont></sentence>
+<sentence><sentcont>Regards  Kailas Senan  Larsen & Toubro Limited  Embedded System Software Engineer  Kailas.Senan@Lntemsys.com</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+112704#4604#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>112704</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>There are a number of fake nokias eg N95, N95 8GB, N82, N96 etc.</sentcont></sentence>
+<sentence><sentcont>They look exactly the same and comes with the original box.</sentcont></sentence>
+<sentence><sentcont>The only way to spot the fake is by the software.</sentcont></sentence>
+<sentence><sentcont>and camera quality.</sentcont></sentence>
+<sentence><sentcont>Be carefull as people advertise these as originals or for eg: "N95 8GB Slide Style" Fake 8GB usually come with 1gb cards as well as it doesnt have 8GB on board memory</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+114106#6006#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>114106</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>what about the GPS.</sentcont></sentence>
+<sentence><sentcont>DOes anyone use CoPilot or other 3rd party software and which is the best for the N95?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+116908#8808#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Gsmarena</websource>
+<reviewid>116908</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>ok can someone who knows about n95 advise me.</sentcont></sentence>
+<sentence><sentcont>I have installed 14 3rd party applications and have firmware 12.</sentcont></sentence>
+<sentence><sentcont>0.</sentcont></sentence>
+<sentence><sentcont>013 my problem being pretty slow and sometimes reboots(always happens when using mini opera for a sustained period),the apps take a while to load and the inbuilt browser is very slow and won't even download.</sentcont></sentence>
+<sentence><sentcont>rar.</sentcont></sentence>
+<sentence><sentcont>files.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+116955#8855#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>116955</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Introducing the Nokia N95 8GB Edition    - All Black Covers  - 8GB Flash Memory  - Support for MicroSD (Another 8GB)  - Total Memory 16GB  - Better Battery Life    Now this is the Real N95.</sentcont></sentence>
+<sentence><sentcont>N93, N93i & N95 were 1st Generations Nokia phone wid loads of features n stuff N nokia marketing scam.</sentcont></sentence>
+<sentence><sentcont>Nokia ditched support for N93,N93i N now soon for N95.</sentcont></sentence>
+<sentence><sentcont>Due to the real N95 8GB Edition releasing soon.</sentcont></sentence>
+<sentence><sentcont>More Info.</sentcont></sentence>
+<sentence><sentcont>http://www.symbian-freak.com/n.../n95_8gb.htm</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+113658#5558#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>113658</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>How do u put the Nokia Search application on the mainscreen like there are wlan and calender options like they have put the Nokia Search app on N95 8GB mainscreen.</sentcont></sentence>
+<sentence><sentcont>p.s. i have Nokia Search ver 4.0    thnx in advance...    Arslan.Burki@gmail.com</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+114509#6409#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>114509</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>im thinking of buying the N95.</sentcont></sentence>
+<sentence><sentcont>The N95 8GB is too expensive for me but i want to know if this N95 will support games of the N81 & N95 8GB?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+111421#3321#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>111421</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>hi eric           what does module needed by the Text-To-Speech app mean.i dont understand.please</sentcont></sentence>
+<sentence><sentcont>tell me if i download 3rd party application can n95 support.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+1110888#12788#Nokia_N95.txt####Manual Annotation Score =0
+
+<websource>Gsmarena</websource>
+<reviewid>1110888</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>hitting the nokia n95 launch party in sydney next wednesday... cant wait , shoulnt be too long till it hits stores</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+113637#5537#Nokia_N95.txt####Manual Annotation Score =0
+
+<websource>Gsmarena</websource>
+<reviewid>113637</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>buy Nokia N95 8GB.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+113659#5559#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>113659</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>How do u put the Nokia Search application on the mainscreen like there are wlan and calender options like they have put the Nokia Search app on N95 8GB mainscreen.</sentcont></sentence>
+<sentence><sentcont>p.s. i have Nokia Search ver 4.0</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+271479#285#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>271479</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> the amount of third party apps that can be added to this is emense there is no limit to what you n95 can do </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Did have a few software glitches at the start but i think if you want the most up to date device as soon as its out then thats always gonna happen dont let that put you off get get today </sentcont>
+</sentence></con>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+112101#4001#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>112101</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>hi carloud,  can the n95 display lyrics for mp3.does it need third party application?,or</sentcont></sentence>
+<sentence><sentcont>can it play automatically.pls reply soon</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+116719#8619#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>116719</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>there is only a nokia n95 8gb music edition that nokias coming out with around october- december.</sentcont></sentence>
+<sentence><sentcont>there isnt a nokia n95i coming out.</sentcont></sentence>
+<sentence><sentcont>also the only difference with this nokia n95 and the nokia n95 8gb music edition is, the music edition will be black and has 8gb, no gps.</sentcont></sentence>
+<sentence><sentcont>thats the only differences between nokia n95 8gb and nokia n95.</sentcont></sentence>
+<sentence><sentcont>do your research on the internet, see for yourself.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+110801#2701#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>110801</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Could anyone advice why Nokia discontinued this model?</sentcont></sentence>
+<sentence><sentcont>N95 (normal) is not available in UAE shops.</sentcont></sentence>
+<sentence><sentcont>Only N95 8GB available here.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+110168#2068#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>110168</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Great phone.</sentcont></sentence>
+<sentence><sentcont>Today it is somewhat outdated.</sentcont></sentence>
+<sentence><sentcont>Worth it if you can get it for less than $200.</sentcont></sentence>
+<sentence><sentcont>Originally over $600.</sentcont></sentence>
+<sentence><sentcont>The phone has a great video cam, and pictures are great.</sentcont></sentence>
+<sentence><sentcont>You can get third party applications.</sentcont></sentence>
+<sentence><sentcont>Play gameboy, edit office documents, watch movies, live youtube, skype, msn, video calls, great sound, nice screen.</sentcont></sentence>
+<sentence><sentcont>I added a 8gb card, so I can fit more of my stuff.</sentcont></sentence>
+<sentence><sentcont>Lots of apps for symbian, but require more technical skill, compared to other phones like the iphone.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+110344#2244#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>110344</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>replace battery bl-5f(Nokia N95) with bl-6f(Nokia N95 8GB) and u will have a long life battery.</sentcont></sentence>
+<sentence><sentcont>see ya</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+116952#8852#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>116952</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>WOW!!! Finally Nokia launch a sexy black version of N95,like they done it in N73ME & N91 8GB,Great Job Nokia!</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+115306#7206#Nokia_N95.txt####Manual Annotation Score =0
+
+<websource>Gsmarena</websource>
+<reviewid>115306</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>does nokia N95 support 4gb and 8gb micro sd's???...please do reply...</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+114616#6516#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>114616</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I got the nokia n95 6 months ago and got rid of it.</sentcont></sentence>
+<sentence><sentcont>Battery life is awful.</sentcont></sentence>
+<sentence><sentcont>I also found it slow when opening new applications.</sentcont></sentence>
+<sentence><sentcont>I hope they have improved these on the new nokia n95 8gb.</sentcont></sentence>
+<sentence><sentcont>SE k850i, LG viewty and Iphone are better than this first nokia n95, and i should know because i have had all these phones.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+112029#3929#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>112029</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>has anyone tried using an 8gb card with nokia n95?</sentcont></sentence>
+<sentence><sentcont>any problems with it?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+115986#7886#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>115986</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Guys brace yourselves for the Nokia N95 8Gb black edition, you'll be overwhelmed by its rocking features.</sentcont></sentence>
+<sentence><sentcont>Nokia rules!</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+115355#7255#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>115355</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>i love my nokia n95  bring on the 8gb version    nokia rocks - i have had no problems at all with my n95 - i love it to bits!</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+116369#8269#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>116369</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I work for Nokia.</sentcont></sentence>
+<sentence><sentcont>There will be NO N95 8Gb.</sentcont></sentence>
+<sentence><sentcont>Sorry</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+117209#9109#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>117209</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Syncro. ur fone with a computer copy all ur contacts to ur comp.</sentcont></sentence>
+<sentence><sentcont>then tranfer it ur N95.. make sure u use a third party software like mobile connect etc.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+624561#681#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>624561</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.7</rating>
+<pro><sentence>
+<sentcont> Wide Range Nokia Software and application compatability</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Battery is absolutely terrible</sentcont>
+</sentence></con>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+115088#6988#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>115088</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I got this gadget two days ago.</sentcont></sentence>
+<sentence><sentcont>I have n91 8gb and now this new baby with me,musicwise no dought N91 8GB extremely strong contender,its unbittable.</sentcont></sentence>
+<sentence><sentcont>When the thing comes on video quality N95 is unbittable.</sentcont></sentence>
+<sentence><sentcont>crystel clear huge screen,a lot of rich connectivity options,I can safely say that right now N95 is a finest multimedia phone ever from nokia.</sentcont></sentence>
+<sentence><sentcont>Hats off for nokia N91 8GB  hats off for nokia N95.</sentcont></sentence>
+<sentence><sentcont>CHEERS..................</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+116036#7936#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>116036</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>N95 is am awesome phone..</sentcont></sentence>
+<sentence><sentcont>People planning to buy N95, just wait for a short while until N95 8GB is launched & then the prices of N95(normal one) would drop like hell.</sentcont></sentence>
+<sentence><sentcont>And, when N95 8GB is launched, then people who can afford to buy N95 8GB, go 4 it, you would not regret it.</sentcont></sentence>
+<sentence><sentcont>Keep up the good work Nokia, badly waiting for 29th August, the launch date of few other New Nokia Phones.</sentcont></sentence>
+<sentence><sentcont>Cheers!!</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+113902#5802#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>113902</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>since Nokia N95 has battery 950mAh, while Nokia N95 8GB has battery 1200mAh, is it possible to switch the battery in Nokia N95 with the one from Nokia N95 8 GB? Would that harm the phone?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+1112101#14001#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1112101</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>www.symbianv3.com</sentcont></sentence>
+<sentence><sentcont>--Free Symbian Games applications and themes for Nokia N95</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+116037#7937#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>116037</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>the nokia n95 is the number 1 phone on the market so far.this</sentcont></sentence>
+<sentence><sentcont>phone rocks.but 1 thing to bad for n95 users like me that just bought this phone.nokia is gonna have a nokia n95 8gb.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+118338#10238#Nokia_N95.txt####Manual Annotation Score =0
+
+<websource>Gsmarena</websource>
+<reviewid>118338</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>i downloaded the map loader application in my Nokia N73, it's work !!! ,,,, hahaa.... no need buy Nokia N95 also can have GPS software....       How cool ?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+112799#4699#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>112799</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Where can get full screen wallpaper application for Nokia N95?</sentcont></sentence>
+<sentence><sentcont>Thanks in advance.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+117514#9414#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>117514</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Great phone but really wish it didn't have Symbian os.Symbian is dreadful,even windows is more stable and has far better/fuller 3rd party apps</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+116402#8302#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>116402</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Expect no N95 8GB!</sentcont></sentence>
+<sentence><sentcont>There ain't no N95 8GB coming!</sentcont></sentence>
+<sentence><sentcont>But sure Nseries fans will be delighted to know that some good high-end phones are REALLY COMING officially this Aug. 29.</sentcont></sentence>
+<sentence><sentcont>One of them is the Nokia N81, new flagship music phone in 4GB/8GB!</sentcont></sentence>
+<sentence><sentcont>Here are the live photos of N81:  http://www.symbian-freak.com/n..._live_ll.htm</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+113138#5038#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>113138</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Hi I am going to buy a phone tonight but don't know if the N95i is worth the extra money over the N95 the only real difference I can see is that The N95i or 8gb has 8gb of memory but I have an 8GB card I can put in the N95 is there anything else I should know that would tell me to get the 8GB over the standard N95.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+110354#2254#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>110354</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>this phone has a history of bad battery problems... u shud have gone for nokia n95 8gb version</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+607842#860#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>607842</reviewid>
+<reviewtitle>Company designs software</reviewtitle>
+<rating>0.7</rating>
+<pro><sentence>
+<sentcont> Great functionality - and applications work well</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Each application has absurdly different controls so learning is hard</sentcont>
+<sentcont> Example: Some zoom with keys 1,3, some with *,# some with the side zoom buttons</sentcont>
+<sentcont>Key pad a bit fiddly</sentcont>
+<sentcont>NO COPY OR PASTE functions</sentcont>
+</sentence></con>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+112420#4320#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>112420</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>It's not just going out of production.</sentcont></sentence>
+<sentence><sentcont>It's discontinued already.</sentcont></sentence>
+<sentence><sentcont>Meaning, Nokia will no longer produce any N95 unit, be it N95 or N95 8Gb.</sentcont></sentence>
+<sentence><sentcont>It's not phased out.</sentcont></sentence>
+<sentence><sentcont>It is still phasing out.</sentcont></sentence>
+<sentence><sentcont>Just like N81 8Gb.</sentcont></sentence>
+<sentence><sentcont>N81 8Gb was released in November 2007 and after just 10 months it's already discontinued.</sentcont></sentence>
+<sentence><sentcont>However, the microSD edition of N81 is still on production.</sentcont></sentence>
+<sentence><sentcont>If you read the interview of Nseries vice president in some other site, it's in WOMWORLD NOKIA, both N96 and N85 are replacing N95 8Gb and N95 in the market and thus the only way to do so is to discontinue their production for good.</sentcont></sentence>
+<sentence><sentcont>N95 8Gb has the same fate of N93i and N91 8Gb.</sentcont></sentence>
+<sentence><sentcont>They were released as improvement over their original version.</sentcont></sentence>
+<sentence><sentcont>They were phased out in just less than a year since they were released.</sentcont></sentence>
+<sentence><sentcont>Their price never got lower than USD450 before they got phased out.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+117263#9163#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>117263</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>n95 having huge software problems.</sentcont></sentence>
+<sentence><sentcont>Guys think before u buy it.</sentcont></sentence>
+<sentence><sentcont>Battery life poor due to its heavy applications.</sentcont></sentence>
+<sentence><sentcont>Camera less than 5mp.</sentcont></sentence>
+<sentence><sentcont>:(</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+113354#5254#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>113354</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>N95 8GB and N82   were just the Improved versions of N95     this N95 is the *Original*     and i still like it along with the K850i and W960i and N95 8GB</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+110177#2077#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>110177</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>hey, i have an original n95 for 2 years, and last week i did a software uprgade (from nokia pc suite), and it enabled the accelerometer, both for pictures, videos, and UI  i always knew that only the 8gb version had it, but ..</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+111054#2954#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>111054</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>If you have n95 original , you don't have to buy n95 8GB , you can buy 8GB micro SD and it goes without problems.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+521466#366#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>521466</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> very customizable, lot's of useful 3rd party applications available</sentcont>
+<sentcont>Very smart, smartphone </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> battery life</sentcont>
+<sentcont>Needs charging once a day </sentcont>
+</sentence></con>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+115296#7196#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>115296</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Im thinking whether I should get a N95, N95 8GB, N81 8GB or N76.</sentcont></sentence>
+<sentence><sentcont>Camera doesnt matter to me.</sentcont></sentence>
+<sentence><sentcont>I see no practical use for a 5Mpix camera, so 2Mpix is more than enough for me.</sentcont></sentence>
+<sentence><sentcont>But I want that DVD-like quality video recording & TV out.</sentcont></sentence>
+<sentence><sentcont>Thats awesome.</sentcont></sentence>
+<sentence><sentcont>Music matters most for me.</sentcont></sentence>
+<sentence><sentcont>N95 has all of these but its software is kind of outdated already.</sentcont></sentence>
+<sentence><sentcont>Plus Im afraid of N95's loose slider.</sentcont></sentence>
+<sentence><sentcont>The N76 has better audio quality through the 3.5mm jack, faster processor, larger RAM, newer software & cheaper than N95 but doesn't have GPS, HSDPA, WiFi.</sentcont></sentence>
+<sentence><sentcont>Well, who needs GPS that takes ages to work?</sentcont></sentence>
+<sentence><sentcont>Huh?</sentcont></sentence>
+<sentence><sentcont>But N95 again has stereo speakers but not so impressive audio quality through 3.5mm jack.</sentcont></sentence>
+<sentence><sentcont>N95 8GB has everything, except the fastest processor, but it's too pricey.</sentcont></sentence>
+<sentence><sentcont>N81 8GB is just so cool.</sentcont></sentence>
+<sentence><sentcont>Its the perfect slider Ive seen.</sentcont></sentence>
+<sentence><sentcont>I think its perfect for music.</sentcont></sentence>
+<sentence><sentcont>I just hope that its sound through 3.5mm jack is the same as N91 cuz N91 has the best audio quality so far.</sentcont></sentence>
+<sentence><sentcont>But N81 8GB has no TV out, HSDPA.</sentcont></sentence>
+<sentence><sentcont>I dont care about GPS.</sentcont></sentence>
+<sentence><sentcont>I wont be needing that.</sentcont></sentence>
+<sentence><sentcont>N95 & N76 both support 4GB & 6GB microSDHC cards.</sentcont></sentence>
+<sentence><sentcont>N95 8GB & N81 8GB has already large built in memory.</sentcont></sentence>
+<sentence><sentcont>N76 has better sound than N95 at least through 3.5mm jack.</sentcont></sentence>
+<sentence><sentcont>N95 has more extra features than N76.</sentcont></sentence>
+<sentence><sentcont>They say N81 8GB has same audio quality as N91.</sentcont></sentence>
+<sentence><sentcont>But it's not yet out so nobody can really confirm.</sentcont></sentence>
+<sentence><sentcont>N95 8GB is just too ambitious.</sentcont></sentence>
+<sentence><sentcont>Im really torn.</sentcont></sentence>
+<sentence><sentcont>Which is which?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+117070#8970#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>117070</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>YES its true, there will be a Black N95 8GB edition.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+113137#5037#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>113137</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>to mathew..    buy the n95 8gb.. its screen size is fantastic.. you will enjoy the games,videos, pictures, etc.. with the n95 8gb.. plus you dont have to buy memory card coz it is 8gb..    think again..</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+1111424#13324#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>1111424</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>some symbian applications will not work from the n80 the the n95 , n 95 will open 3rd ed  applications but most applications will be updated to work with n95 .</sentcont></sentence>
+<sentence><sentcont>not all 3rd ed will work but you will see new aoolications and new company coming with solutions with the n95 .</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+111454#3354#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>111454</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>N95-1 - original N95, the silver one, microsd support   N95-2 - Called N95 8GB, built in 8GB of memory, no microsd support, bigger screen.</sentcont></sentence>
+<sentence><sentcont>N95-3 - N95 US version      Differences in a nutshell, there are more, don't flame me.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+116088#7988#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>116088</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>To: Aikon N  I don't think N95 8gb is the Music Edition.</sentcont></sentence>
+<sentence><sentcont>It was not mentioned even once that N95 8gb is a Music Edition, meaning N95 8gb is only an upgraded(?)version of the present N95.</sentcont></sentence>
+<sentence><sentcont>There are also rumors for N95i and a real N95 Music Edition.</sentcont></sentence>
+<sentence><sentcont>What I really wanted (let say for N95i) a bigger screen size either 3" or 3.5" considering that it has already a 16M color resolution and a first N-series touch screen.</sentcont></sentence>
+<sentence><sentcont>Or NOKIA would be making this feature on their next N-series like N98 or N99 as rumored many months ago?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+110822#2722#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>110822</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>yes phone will be slow if u put 8gb memoey but n95 simple doez not support 8gb mmc i hv dz mob</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 8gb applications? software||third party application|| apps
+
+115324#7224#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>115324</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>The Nokia N95-3 will be on equal par with most of the functions on the 8gb N95,1200mah battery,improved ram an don"t forget you will see a big price difference with these two phones as you will be pay.</sentcont></sentence>
+<sentence><sentcont>ng alot just for the 8gb of memory,an do you really need that much memory 8gb on your mobile,i doubt that so the price difference will be really wide,an the front buttons on the Black N95 do not look large enough i think ,so the N95-3 is worth getting i think,just go onto www.</sentcont></sentence>
+<sentence><sentcont>nokiablog.</sentcont></sentence>
+<sentence><sentcont>com an you will see a review of the N95-3 an the back of it looks identical to 8gb N95 with no camera shutter.</sentcont></sentence>
+</freereview>
+
+

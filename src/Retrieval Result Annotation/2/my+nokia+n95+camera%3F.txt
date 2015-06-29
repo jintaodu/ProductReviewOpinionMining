@@ -1,0 +1,701 @@
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+729213#934#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>729213</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> very easy to use, excellent picture quality </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> camera shutter opens easily if knocked and this means it goes to camera mode when you don't necessarily want it to</sentcont>
+</sentence></con>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+1113013#14913#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>1113013</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>everything is good about the N95 the downfall of the handset is the camera feature.</sentcont></sentence>
+<sentence><sentcont>this means it has a high 5mp camera with Carl sensis lens but not optical zoom if it had optical zoom like n93 it will be great</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+111994#3894#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>111994</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>which phone is better regarding the sound quality,photo quality and looking good.nokia</sentcont></sentence>
+<sentence><sentcont>N95 or E66??</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+1113216#15116#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>1113216</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Hi this is Farid from Bangladesh.This year Dr.Mohammad Unus has won NOBEL Prize for peace.However</sentcont></sentence>
+<sentence><sentcont>Nokia N95 is excellent.But</sentcont></sentence>
+<sentence><sentcont>I would like to know about the picture quality.Is the Video quality is same as other Video Camera has?Because</sentcont></sentence>
+<sentence><sentcont>I know the picture quality will be very high.If Video quality is high than I need not to buy another Video Camera.With thanks.Mr.Farid</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+769656#333#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>769656</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.5</rating>
+<pro><sentence>
+<sentcont> the picture quality is brillant, when taking photo's and recieving photo messages</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> the battery life is not at all good</sentcont>
+</sentence></con>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+112777#4677#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>112777</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>the n93 is quite a big thing and yes it has dual speakers      optical zoom is when you can zoom into something without losing quality.      the n95 has digital zoom which just loses quality.</sentcont></sentence>
+<sentence><sentcont>other optical zoom phones consist of the g800 and the g810.</sentcont></sentence>
+<sentence><sentcont>g800 sucks though</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+115639#7539#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>115639</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Godsgift,    The N93i,  -Bigger  -3.2Mp camera 3X OPTICAL ZOOM  -Has a camcorder like form Factor    N95  -Smaller  -Better screen  -5MP camera no optical zoom  -VGA video @30fps    Bottom line,  N93i is more expensive with same stuff but a downgraded camera with Optical zoom.</sentcont></sentence>
+<sentence><sentcont>Its flip, 1 of 2 N series phones that is a clamshell.</sentcont></sentence>
+<sentence><sentcont>N95 is more of a good all rounder.</sentcont></sentence>
+<sentence><sentcont>If you are media oriented in video, camera, wifi and such go N93i.</sentcont></sentence>
+<sentence><sentcont>If you're all rounder go N95.</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+118731#10631#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>118731</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I read a few review, see the photo taken by n95, some of the photo produced seems something wrong with the white balance.</sentcont></sentence>
+<sentence><sentcont>and no optical zoom for this model.</sentcont></sentence>
+<sentence><sentcont>sad for nokia.</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+735899#462#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>735899</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> endless memory, great sound quality, great picture quality, zoom not so good at a distance but over wise great, looks great, easy to use, great features </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> battery dies within 24 hours and if your lucky 36 hours, slider not amazing, feels slightley loose, quite big and slightley heavey </sentcont>
+</sentence></con>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+1195112#811#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>1195112</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Ease of use, good size screen, picture quality, sound, memory </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Battery life although the N95 8GB is better than the N95</sentcont>
+</sentence></con>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+113505#5405#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>113505</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I want a Suggestion:  which phone has the best Display quality(Resoulation & Brightness) & Sound Quality (Through Speaker & Headphone)   between Nokia N958Gb, Nokia N95 and Nokia N82?</sentcont></sentence>
+<sentence><sentcont>Plz post comments those r used these sets.Im using N73ME right now.I m fan of Music throguh headphone as   well as want to very good picture Camera.So, Plz suggest me which set should I go for music,Camera,Display?</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+1113066#14966#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>1113066</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Is it real that N95 with 5MP camera had just 1X optical zoom...  If this is true it's realy SUX</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+1110832#12732#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>1110832</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I saw some photo sample shot by N95 photos are not just clear but super clear even though it dont have xenon flash like SE k800i i think Nokia is preparing for camera quality to beat SE cybershot phones the disadvantage of Nokia N95 is "$$$$and$"</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+1113039#14939#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>1113039</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Whats the point of having excelent camera without birght flash!</sentcont></sentence>
+<sentence><sentcont>3.2mb or 5mb when the camera is low light (even compare to SE W800) the picture quality reduces significantly..</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+113562#5462#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>113562</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>dear johnny the sliding thing part is actually meant not to automatically launch the "multimedia menu" its a new feature I think noia opted it to be that way since most people exit the multimedia aka fun menu after sliding the n95 to open the multimedia keys hehe.</sentcont></sentence>
+<sentence><sentcont>dear annalyn.</sentcont></sentence>
+<sentence><sentcont>Physically it seems the chinese "fake" n95 have exactly copied the original asian n95 except the camera with the carl zeiss label in the fake one it seems the carl zeiss label lens cover is made of aluminum foil while on the original its gray plastic.</sentcont></sentence>
+<sentence><sentcont>if you are not too familiar with the original n95's physical aspects.</sentcont></sentence>
+<sentence><sentcont>here's a sure way to ensure your n95 is genuine.</sentcont></sentence>
+<sentence><sentcont>first inspect the battery if it has a genuine nokia seal.</sentcont></sentence>
+<sentence><sentcont>second upon turning on the phone the nokia logo startup with the familiar nokia tune should be normal and fast.</sentcont></sentence>
+<sentence><sentcont>the animation of holding hands shouldnt be laggy.</sentcont></sentence>
+<sentence><sentcont>and the nokia tune is exactly the same tune with that of other nokia models the fake n95 has an extended version of this tune after powring it on there would be an extension of the menu and the nokia logo would be laggy.</sentcont></sentence>
+<sentence><sentcont>now when the menu shows up there should be a WLAN scanning option at the lower middle of the active standby screen as only the original n95 has wlan/wifi.</sentcont></sentence>
+<sentence><sentcont>second if you are familiar with series 60 3rd edition interface you will instantly recognize that the fake n95 has a different menu layout upon entering the "messaging folder" applications folder.</sentcont></sentence>
+<sentence><sentcont>etc if you are not too familiar try pressing the multimedia key located at the right of the center button of n95 it should give you a good graphical interface and give you more options.</sentcont></sentence>
+<sentence><sentcont>next slide the n95 downwards fake n95's either cant slide down to show the multimedia keys or if they can the fake n95 will launch the music application automatically as the fake n95's multimedia keys(the ff,rew,stop,pause) keys can only be used for music.</sentcont></sentence>
+<sentence><sentcont>THE genuine n95 can use the multimedia keys to play videos and the fake ones cannot.</sentcont></sentence>
+<sentence><sentcont>!.</sentcont></sentence>
+<sentence><sentcont>next check the camera open up the camera see if it is autofocus if you are not familiar with autofocus it's the white square in the middle of the viewfinder of the camera when you are taking a picture check if the camera while moving has a smooth and fast response time genuine n95 has a smooth camera viewfinder just like a regular digicam.</sentcont></sentence>
+<sentence><sentcont>! if it lags or the picture lags specially on poor lighting conditions its a fake.</sentcont></sentence>
+<sentence><sentcont>!.</sentcont></sentence>
+<sentence><sentcont>try to check the settings there you will find the picture quality fake n95's would only give you VGA resolution and some fake n95's has the "2mp" label on the back even though it is only VGA.</sentcont></sentence>
+<sentence><sentcont>genuine n95 has 5mp picture.</sentcont></sentence>
+<sentence><sentcont>!.</sentcont></sentence>
+<sentence><sentcont>try recording some videos and see if it is smooth and of good quality if it is good quality and the framerate doesnt lag except when set to night mode fake n95's lag terribly and only shoot at CIF at 15fps max and its quality is terrible (very out of focus) compared to CIF videos taken with genuine phones.</sentcont></sentence>
+<sentence><sentcont>hope this helps^_^.</sentcont></sentence>
+<sentence><sentcont>dear new user, yov been able to create themes then?.</sentcont></sentence>
+<sentence><sentcont>hehe congrats sir btw there is a tutorial at ownskin .</sentcont></sentence>
+<sentence><sentcont>com hehe</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+820962#977#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>820962</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Camera is good, picture quality is good</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Bulky, software is bit slow, key pad is small </sentcont>
+</sentence></con>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+1110211#12111#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>1110211</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>i finally bought Nokia N93i after a long time of thinking but i have been sure this time that the Nokia N93i camera is better than N95 bcaus there is optical zoom and better quality camera type and the N93i is 1 of the greatest designs that i ever saw in my life so dont be dumb with buying this useless N95.</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+1111259#13159#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>1111259</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>at 350 euro i bought panasonic fx50 photo camera with 7.2 megapixels, wide-vga 848x480 hq video rec,3 inch display,iso at 3200,super real blitz,optical zoom and the panasonic camera is smaller than this phone.</sentcont></sentence>
+<sentence><sentcont>what do you want more.go for panasonic fx50,best photo-video deal,believe me.</sentcont></sentence>
+<sentence><sentcont>wide-vga videos are superb!!</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+1111936#13836#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>1111936</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I'm using N93 now.</sentcont></sentence>
+<sentence><sentcont>Good video but photo is not as perfect.</sentcont></sentence>
+<sentence><sentcont>Was wondering if N95 has the 3x Optical Zoom like the N93?</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+113537#5437#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>113537</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>fake n05s (all of them) doesznt have autofocus nor macro.</sentcont></sentence>
+<sentence><sentcont>but it does have an extensive list of settings such as EV, whitebalance etc.</sentcont></sentence>
+<sentence><sentcont>but the time that it takes to actually snap a picture and to save it is even longer than a true autofocus camera.</sentcont></sentence>
+<sentence><sentcont>one thing that the fake n95 can do better than the original n95.</sentcont></sentence>
+<sentence><sentcont>is that the fake n95's external speakers are louder.</sentcont></sentence>
+<sentence><sentcont>actually very very loud and is of good quality too.</sentcont></sentence>
+<sentence><sentcont>headphones arent on par though.</sentcont></sentence>
+<sentence><sentcont>doesnt give a full stereo sound.</sentcont></sentence>
+<sentence><sentcont>more like mono with very noticeable hissing noises hehe.</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+114345#6245#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>114345</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>n95 is very good if nokia try to make xenon flash and windows mobile ana media player and optical zoom is good</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+116469#8369#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>116469</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>uhhh, N95 isn't "just released"...</sentcont></sentence>
+<sentence><sentcont>It's been out for a good number of months now.</sentcont></sentence>
+<sentence><sentcont>Anyway, someone said "wtf are you gonna do with 5mp?</sentcont></sentence>
+<sentence><sentcont>print a billboard?"</sentcont></sentence>
+<sentence><sentcont>K first of all 5mp isn't near billboard size, but aside from that, the reason you want high res photos is for CROPPING.</sentcont></sentence>
+<sentence><sentcont>With the exception of the absofrigginlutely massive N93, no camera phones have optical zoom.</sentcont></sentence>
+<sentence><sentcont>So how to do you "zoom in" on something?</sentcont></sentence>
+<sentence><sentcont>You crop the photo!</sentcont></sentence>
+<sentence><sentcont>What lets you crop your photo and retain quality?</sentcont></sentence>
+<sentence><sentcont>High resoltion!</sentcont></sentence>
+<sentence><sentcont>Now i'm not a nokia fan boy, nor am I a fan boy of any brand watsoever, so I will say that the new K850 fromy Sony Ericsson will probably take better pictures than the N95.</sentcont></sentence>
+<sentence><sentcont>But there are a ton of other things that the N95 does whereas Sony's K line are basically phones with awesome cameras and not a hellva lot more.</sentcont></sentence>
+<sentence><sentcont>I like the N series 'cause it takes from best from the W, K and P series of SE and puts them into one.</sentcont></sentence>
+<sentence><sentcont>Unfortunately they often sacrifice certain things to do so.</sentcont></sentence>
+<sentence><sentcont>In the case of the N95, those sacrifices were 1) Battery life and 2) Stability.</sentcont></sentence>
+<sentence><sentcont>Will the N95 ever outshoot a phone that is designed to be first and foremost a camera like the N93 or the K850?</sentcont></sentence>
+<sentence><sentcont>No. But it will outperform them in almost every other aspect.</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+116549#8449#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>116549</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>yah its true that n95 recording in mono but AAC encoding.</sentcont></sentence>
+<sentence><sentcont>thats like a mono encoding in a stereo audio sounds quality. the n93 video only records at a 160x128 video size with 30 fps in mpeg4 format.</sentcont></sentence>
+<sentence><sentcont>not bad.</sentcont></sentence>
+<sentence><sentcont>bat wait the n95 video record at a 640x480 size with 30fps in mpeg4 format.</sentcont></sentence>
+<sentence><sentcont>theres a big diffrens from the video size and almost a slight diffrens in the quality.</sentcont></sentence>
+<sentence><sentcont>i have a n93 and a n95. the n95 record much better video than the n93.</sentcont></sentence>
+<sentence><sentcont>and did u heard about the 3gp2?</sentcont></sentence>
+<sentence><sentcont>sounds not good quality format of video but beats all mp4 format.</sentcont></sentence>
+<sentence><sentcont>thats y dont under estimate the sound quality of the n95 in a mono format with an AAC sounds. the sounds is great.</sentcont></sentence>
+<sentence><sentcont>in terms in the picture quality the 5 mega pixel is a big diffrens from the 3 mega.</sentcont></sentence>
+<sentence><sentcont>the picture taken from the n95 is compressed but with the high quality pic taken from it. it means less space and a sharp picture.</sentcont></sentence>
+<sentence><sentcont>i compared the pics taken from my n93, a pic from n73 and a pic taken from my n95 n95 still the sharpest.</sentcont></sentence>
+<sentence><sentcont>and dont ever compare a 5mp to a 3.2mp.</sentcont></sentence>
+<sentence><sentcont>the picture sample here from the n95 was compare to a 5mp SONY DIGI CAM. the 3mp is way behind to a 5mp.so dont compare it.</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+114340#6240#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>114340</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>N95 is very good if i would like nokia to make windows mobile and media player and optical zoom.</sentcont></sentence>
+</freereview>
+
+
+query=null
+
+1111907#13807#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>1111907</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I wonder when Sony Ericsson will come out with a 5 megapixel camera to compete with Nokia N95...</sentcont></sentence>
+</freereview>
+
+
+query=null
+
+113994#5894#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>113994</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>i jumped from n95 to toshiba 920t and i tell u that nokia can close their business.n95 was pcs.</sentcont></sentence>
+<sentence><sentcont>of scrap againist toshiba.so</sentcont></sentence>
+<sentence><sentcont>many gaps, so awfull plastic,so bad camera,nokia never again!</sentcont></sentence>
+</freereview>
+
+
+query=null
+
+117536#9436#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>117536</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Nokia n95 is another nokia creation that can preform many functions-not simultaneously!!!LOL.. but dosen't do anything particularly well(beside video,maybe camera!)</sentcont></sentence>
+</freereview>
+
+
+query=null
+
+119028#10928#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>119028</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>i recieved the nokia n95 the first day it came out and the camera is bloody amazing</sentcont></sentence>
+</freereview>
+
+
+query=null
+
+116790#8690#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>116790</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>SE K850i VS. Nokia N95: 5 Mpix camera performance    http://www.mobile-review.com/r...cam-en.shtml</sentcont></sentence>
+</freereview>
+
+
+query=null
+
+110574#2474#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>110574</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>raju i now whay do you want nokia n95 sound off for camera and video.you</sentcont></sentence>
+<sentence><sentcont>want make asses pictures and movis )))))))))))))))))))))</sentcont></sentence>
+</freereview>
+
+
+query=null
+
+116205#8105#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>116205</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>hi  i got n73 it rocks but n95 i m not satisfy with this phone really coz of camera quality n73 beats this phones in camera really i sold my n73 and then i bought nokia 5700 i m satisfy with 5700 i recommend buy n73 or nokia 5700 both are rocks,n95 camera sucks</sentcont></sentence>
+</freereview>
+
+
+query=null
+
+111316#3216#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>111316</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>k800 vs nokia n95?</sentcont></sentence>
+<sentence><sentcont>for the camera phone and video quality    n95 vs e63?</sentcont></sentence>
+<sentence><sentcont>for the camera phone and video quality</sentcont></sentence>
+</freereview>
+
+
+query=null
+
+110515#2415#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>110515</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>i have a nokia n73 and i want to sell my n73 and buy n95 but i think that the camera result of n73 is better than n95 although n95 is 5mp and n73 is 3.2mp but i think so please guide me to get n95 or not</sentcont></sentence>
+</freereview>
+
+
+query=null
+
+115713#7613#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>115713</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>ultimate challenge to digital camera  check this out n73 beats n95 in camera and sound  http://www.nokia.ca/english/media/pr/n73.asp</sentcont></sentence>
+</freereview>
+
+
+query=null
+
+117846#9746#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>117846</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Breaking news!</sentcont></sentence>
+<sentence><sentcont>Nokia has been ordered to stop production of n95 because of its poor built quality & a fake 5 megapixel camera.</sentcont></sentence>
+</freereview>
+
+
+query=null
+
+113877#5777#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>113877</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>im planning to buy a phone..i'm a little bit confused choosing between nokia n95 and motorola v9......plz help me guys..    is nokia n95 has a dual camera????      thanks</sentcont></sentence>
+</freereview>
+
+
+query=null
+
+112684#4584#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>112684</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>i think you should go for samsung g800.it has the best 5megapixel camera even better than nokia n95 and sony ericsson k850.</sentcont></sentence>
+</freereview>
+
+
+query=null
+
+119564#11464#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>119564</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>All you wanting a review of the camera on the N95 go to www.mobile-review.com</sentcont></sentence>
+<sentence><sentcont>they give superb reviews of handsets an the review of the camera on the N95 really shows Nokia up an the ?500</sentcont></sentence>
+<sentence><sentcont>price tag is a rip-off an they say wait till September when Sony ericsson will be releasing there 5 mega-pixel camera an Nokia will then realise they will be shown up by a cheaper handset with a much better camera WHY?</sentcont></sentence>
+</freereview>
+
+
+query=null
+
+111116#3016#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>111116</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>the N95 is everlasting; I think NOKIA didn`t invent any phone better & didn`t add more to their new phones   I used both N95 & N95 8GB the N95 is much better in camera & slide technique .</sentcont></sentence>
+</freereview>
+
+
+query=null
+
+1112964#14864#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>1112964</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>hopefully nokia is planning to offer a new year suprise with feature riched camera phone like n95 having otical zoom.</sentcont></sentence>
+</freereview>
+
+
+query=null
+
+119416#11316#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>119416</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>i just recieved the N95... best handset nokia have ever producted... only downside camera speed</sentcont></sentence>
+</freereview>
+
+
+query=null
+
+115046#6946#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>115046</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>if i will not use wifi bluetooth .camera.sp then y i got n95  some users of n95 say that dont use wifi ,camera,bluetooth,music,  tell me one thing so y u got n95.only 4 calls  if u wanna listen call then move to nokia 3310 lolzzzzzzzzzzz.use</sentcont></sentence>
+<sentence><sentcont>common sense who says that .... dont use camera,wifi,music</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+117909#9809#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>117909</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Louie, digital zoom causes deterioration in picture quality whereas optical zoom maintains picture quality.</sentcont></sentence>
+<sentence><sentcont>This is one area where the N93 and N93i surpass the N95, which has no optical zoom.</sentcont></sentence>
+<sentence><sentcont>To the guy who spoke of 10MP Asian cameraphones with GPS; you did not name any models, and are they compatible with Western networks??</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+119044#10944#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>119044</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>i have k 750i earlier which was 2 mp.but my dad bought N95.i can bet to say that quality picture is taken by k 750i is much better than N 95 5mp camera.shame</sentcont></sentence>
+<sentence><sentcont>to u nokia</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+1110875#12775#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>1110875</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>N95 camera specs sucks.</sentcont></sentence>
+<sentence><sentcont>N95     No xenon flash  No optical zoom ( only has digital zoom, up to 10 x and VGA up to 4x )  Focal length of N95: 5.6/35 mm (35 mm equivalent)       Nokia N73    no optical zoom, 20x digital zoom  focal length: 5.6 mm  focus range: 10 cm ~ infinity</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+1111373#13273#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>1111373</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>N95 why doe sit not have zoom on the camera?</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+1111260#13160#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>1111260</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>the photo-video performance of n95(5mp,vga video)is maximum at the level of a photo camera about 130 euro,a panasonic-lumix,let's say.and</sentcont></sentence>
+<sentence><sentcont>this mobile is 750 euro!!! for what??? not to mention that bitrate and video processor delivers much better picture from a tiny photo camera,even at vga resolution.</sentcont></sentence>
+<sentence><sentcont>just compare vga video from n93 with vga video from a photo camera at 130-150 euro.</sentcont></sentence>
+<sentence><sentcont>so,no comment</sentcont></sentence>
+</freereview>
+
+
+query=my nokia n95 camera? hardware||autofocus||picture quality||zoom||photo||
+
+1110154#12054#Nokia_N95.txt####Manual Annotation Score =
+
+<websource>Gsmarena</websource>
+<reviewid>1110154</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>who can tell me y the whoha ova tis fone?</sentcont></sentence>
+<sentence><sentcont>dun get it.</sentcont></sentence>
+<sentence><sentcont>megapixels alone does not define a quality camera.</sentcont></sentence>
+<sentence><sentcont>N95.</sentcont></sentence>
+<sentence><sentcont>No xenon flash No optical zoom ( only has digital zoom, up to 10 x and VGA up to 4x ) Focal length of N95: 5.</sentcont></sentence>
+<sentence><sentcont>6/35 mm (35 mm equivalent).</sentcont></sentence>
+<sentence><sentcont>Nokia N73.</sentcont></sentence>
+<sentence><sentcont>no optical zoom, 20x digital zoom focal length: 5.</sentcont></sentence>
+<sentence><sentcont>6 mm focus range: 10 cm ~ infinity.</sentcont></sentence>
+</freereview>
+
+

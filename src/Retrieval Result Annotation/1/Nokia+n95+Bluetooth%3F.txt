@@ -1,0 +1,2586 @@
+Result size=36
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+118706#10606#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>118706</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>i sell mobile phones for a living, i think the n 95 is way overated!</sentcont></sentence>
+<sentence><sentcont>i have had about ten n 95's in and have sold all of them.</sentcont></sentence>
+<sentence><sentcont>we have had 5 back already!!!!!!!! also i had one guy come back for an exchange because his broke so we replaced it.</sentcont></sentence>
+<sentence><sentcont>now 4 days later his phone has broken again!. nokia need to sort ther phones out asap otherwise sony ericsson will just be too far ahead to catch up.</sentcont></sentence>
+<sentence><sentcont>don't buy N95 or N73! you'll just have a terrible experience.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+117975#9875#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>117975</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>i've had the nokia n95 for about 2 months now and i've had no problems at all.</sentcont></sentence>
+<sentence><sentcont>the many features of this phone have come in very handy and i have the most powerful fone in my household.</sentcont></sentence>
+<sentence><sentcont>the only thng that are wrong wth this phone is the battery life and the lack of RAM! it comes standard with 64mb worth of ram which is quite scarce for a phone with this many features bt as soon as you boot up yhe phone, ur only left with 20mb! now that's just ridiculous!.</sentcont></sentence>
+<sentence><sentcont>putting together a fone with just 64mb ram is just pointless and vurtually makes simple applications or even multitasking impossible!</sentcont></sentence>
+<sentence><sentcont>if you try and browse something over the net, and the web page is full of complex media, which most web pages do have nowerdays, then it most certainly will close!</sentcont></sentence>
+<sentence><sentcont>RAM is the only thing that is affecting this fone otherwise it would've been perfect, i've heard that incrasing ram would drain the battery power to the max but there's a simple answer 2 that - supply the nokia n95 with a better phone!</sentcont></sentence>
+<sentence><sentcont>i hope this is the last time nokia puts this low amount of ram into their high end phones because the way fone technology is advancing now, 64mb of ram will not be enough to suit our demands from our fones!</sentcont></sentence>
+<sentence><sentcont>so this isn't what computers have become but they aren't far off, keep on going nokia!</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+119314#11214#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>119314</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I grabbed my n95 day of release, thrilled to think that one year ago the rumours that were being spread of an n83 had truly been turned into the actual n95.</sentcont></sentence>
+<sentence><sentcont>now i'm having seccond thoughts...was it worth my $1254 aud?</sentcont></sentence>
+<sentence><sentcont>yes i know i cbf shopping around.</sentcont></sentence>
+<sentence><sentcont>firstly, gps- so slow.... takes me about 5 minutes to conect to sat.</sentcont></sentence>
+<sentence><sentcont>although i've never used another gps system, i am guessing this is not normal.</sentcont></sentence>
+<sentence><sentcont>I have heard other people complain of this too, but they say it gets quicker with time.</sentcont></sentence>
+<sentence><sentcont>loading google maps is good, but the onboard mapping system is just as good i think.</sentcont></sentence>
+<sentence><sentcont>i've found google maps requires you to have internet connection to be able to see the actual map(so great if ur in a wifi area.</sentcont></sentence>
+<sentence><sentcont>but bad if u don't have cheap gprs connections...) anybody know a workaround?</sentcont></sentence>
+<sentence><sentcont>onboard mapping software allowed me to see where i was without connection to network.</sentcont></sentence>
+<sentence><sentcont>although i was driving 15 minutes away, it took 5-8 minutes to connect to sat.</sentcont></sentence>
+<sentence><sentcont>to get coordinates and then after another 2 mintues of fumbling buttons to set destination and start trip calculations, i was about 200 m from destination (i had to park because i wanted to see it in action!!!)    so when it was working it seemed fine.</sentcont></sentence>
+<sentence><sentcont>but, as other people have found, voice nav.</sentcont></sentence>
+<sentence><sentcont>requires $$$$ and it came up with an annoying statement etc asking me to subscribe.</sentcont></sentence>
+<sentence><sentcont>imagine i was really lost, there goes my $ subscribing to year of nokia maps.</sentcont></sentence>
+<sentence><sentcont>Actual phone is a bit of a letdown, lags, resets itself randomly (4times in 4 days) keep pressing menu button by accident instead of left or right arrow key.</sentcont></sentence>
+<sentence><sentcont>so what i have big thumbs.</sentcont></sentence>
+<sentence><sentcont>camera lags when on 5mp mode.</sentcont></sentence>
+<sentence><sentcont>havnt tried any other mode.</sentcont></sentence>
+<sentence><sentcont>but its about 2-5 seconds b/w pressing the button to take pic and actually seeing the image on screen of ur final pic...strange.</sentcont></sentence>
+<sentence><sentcont>on n95 screen, pics seem a liiiitle grainy...    wifi keeps dropping me out.</sentcont></sentence>
+<sentence><sentcont>well, this may be due to my network, and i hope it is for the n95s repuation... but it really shits me.</sentcont></sentence>
+<sentence><sentcont>downloading videos off the included reuters links, get dropped out from wireless...    3.5mm headphone jack is great.</sentcont></sentence>
+<sentence><sentcont>great sound quality, i personally believe (although i havn't heard it through a good pair of headphones) inbuilt speakers have an amazing ability to project themselves...and also have an amazing ability to split ear drums with high pitched onboard nokia tones...argh!</sentcont></sentence>
+<sentence><sentcont>Battery life is the other m a j o r letdown.</sentcont></sentence>
+<sentence><sentcont>with using wifi maybe 5 minutes, gps on my 15 min car ride which turned into 20 cos i stopped to play with gps, about 5 minutes of normal call time and 5minutes of bluetooth call time and about 3 minutes of speaker call time, my battery is wailing for a charge as I type.</sentcont></sentence>
+<sentence><sentcont>-i have not got more than one day with propper use of functions without either needing to charge or noticing it was on one bar and thinking it would die tomorrow if i listen to mp3.</sentcont></sentence>
+<sentence><sentcont>Although I knew what it's size was before I got it, i still miss the slim 8250 in my pocket.</sentcont></sentence>
+<sentence><sentcont>god i love that phone.</sentcont></sentence>
+<sentence><sentcont>=P    So after closely following rumours and exclusive reviews posted all over the net, desperately awaiting the device that is not just one thing, it's many.... i've almost convinced myself its not worth the price.</sentcont></sentence>
+<sentence><sentcont>ALMOST.</sentcont></sentence>
+<sentence><sentcont>-happy with reception (as you would expect fomr a high end phone)  -dual slide ability is fantastic   -screen is awesome, colorful, bright biiiig...  -music playback is to me ipod comparable (well i have 3gipod,time for new1)  -inbox equipment is more than generous.</sentcont></sentence>
+<sentence><sentcont>nokia included 1gb in the box and shop gave me a free 2gb...so thats sweet.</sentcont></sentence>
+<sentence><sentcont>inbox case is pretty protective and stylish...although i have worries about camera safety.</sentcont></sentence>
+<sentence><sentcont>~my zeiss optics!</sentcont></sentence>
+<sentence><sentcont>IS N95 WORTH IT??? DOES IT LIVE UPTO THE HYPE???  well, i'll leave that up to you to decide, i still can't decide.</sentcont></sentence>
+<sentence><sentcont>basically, i think, if you have the means, get it, but if ur jobless like me...don't waste all your money on release date!!! haha -but its damn sexy.</sentcont></sentence>
+<sentence><sentcont>cheers.</sentcont></sentence>
+<sentence><sentcont>wongiez.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+112706#4606#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>112706</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>The N95 is NO WAY touch screen!</sentcont></sentence>
+<sentence><sentcont>Not sure what you have got there...a possible fake?</sentcont></sentence>
+<sentence><sentcont>Also, to the person who says they get only 7 hours on standby....What are you doing?</sentcont></sentence>
+<sentence><sentcont>I NEVER got this on my N95.</sentcont></sentence>
+<sentence><sentcont>Sometimes I would not have to charge it for 2 days before it got down to 3 bars and that would be by  listening to at least 3 hours of music, calls and texts and Internet usage.</sentcont></sentence>
+<sentence><sentcont>I work for a known Mobile Phone retailer and I have realised that a lot of the times when customers claim 'poor battery life', this is due to a number of things.    1) Check that none of the applications are left running and are closed properly when you have finished using them.</sentcont></sentence>
+<sentence><sentcont>If there is a small blue circle next to an application, this will indicate it is still running and has not been closed properly.</sentcont></sentence>
+<sentence><sentcont>The best way to close it is to go to Options and select EXIT.</sentcont></sentence>
+<sentence><sentcont>Repeat this as many times neccessary to get you back to the home screen.</sentcont></sentence>
+<sentence><sentcont>2) Having Bluetooth, Infrared, etc running also affects how many hours you will get from one charge cycle.</sentcont></sentence>
+<sentence><sentcont>If it is a NEW phone you have just got, be sure to charge for AT LEAST 12 hours before using.</sentcont></sentence>
+<sentence><sentcont>Even if it indicates fully charged after an hour or so, still let it charge minimum 12 hours, maximum 24 hours.</sentcont></sentence>
+<sentence><sentcont>Check you have the latest Software.</sentcont></sentence>
+<sentence><sentcont>Go to Nokia website for instructions on how to check this and update if neccesary....a SW update does wonders for loads of areas of the fone....</sentcont></sentence>
+<sentence><sentcont>There is no way you would get 7 hours from the battery in Standby mode.</sentcont></sentence>
+<sentence><sentcont>Though this can also depend on how long you have had the fone/battery and how many times it has been charged and if it has been used strenuously which in turn would increas the amount of times it needs to be charged.</sentcont></sentence>
+<sentence><sentcont>If none of the above work, it is a relatively new fone then I can only assume you have a dodgy battery/fone.</sentcont></sentence>
+<sentence><sentcont>change the battery first (if all the above options fail) and take it from there.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+1110840#12740#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1110840</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>hi PFQR,    I have over a dozen appz and 80+ games downloaded free on my N73, so i would say it  is definitely the "best" possible all rounder set i can get.</sentcont></sentence>
+<sentence><sentcont>if anyone got $ to spare, they can always buy the N95, but i would say it is not a very rational decision to pay such a high premium over N73, for things like 3.5 mm audio output jack, TV out, dual slide mechanism, Wi-Fi, and 5 mpg camera.</sentcont></sentence>
+<sentence><sentcont>It's battery life, if you take note, is also less than N73's.</sentcont></sentence>
+<sentence><sentcont>Map applications, if available, is also at a cost to user for usage i believe.</sentcont></sentence>
+<sentence><sentcont>First batches of any new nokia models always comes with bugs etc, so y be the first to get it?</sentcont></sentence>
+<sentence><sentcont>Mobile phones prices also drop drastically over 3-6 mths anyway, and when 6 months or more passed, you be seeing newer models like, maybe N97, N99 or watever new nokia models again.........so wat's the point of getting one set so fast, for the sake of it?</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+1111834#13734#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>1111834</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Nokia N95 3G SmartPhone Review  The Nokia N95 is a 3G smartphone which comes is a clever two way slider opening mechanism.</sentcont></sentence>
+<sentence><sentcont>The phone can be opened either way which provides the user with a keypad when the screen is moved in the up position, a set of multimedia controls when the screen is moved in the down position & when in the closed position the user can use the navigation & shortcut keys.</sentcont></sentence>
+<sentence><sentcont>The user can use their Nokia N95 in landscape mode which is when the screen is moved to the down position which is ideal for all multimedia purposes & accessing the Internet.</sentcont></sentence>
+<sentence><sentcont>The screen is 2.6 Inches in size & provides a 240 x 320 pixel screen resolution on a 16 million colour TFT display.</sentcont></sentence>
+<sentence><sentcont>The mobile handset weighs only 120 gram which is unbelievable considering all the built in technology & capabilities.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 measures 99 x 53 x 21 mm which provides the user with a useable handset which has a solid feel to it.</sentcont></sentence>
+<sentence><sentcont>The phone comes with 160 bytes of internal memory & the user can expand the phones memory capabilities by adding a MicroSD?</sentcont></sentence>
+<sentence><sentcont>memory card up to 2 Gbytes.</sentcont></sentence>
+<sentence><sentcont>The N95 comes with a 128 Mbytes MicroSD?</sentcont></sentence>
+<sentence><sentcont>memory card included wit the start up kit.</sentcont></sentence>
+<sentence><sentcont>The phone comes with an integrated GPS navigation feature which supports maps for more than one hundred countries.</sentcont></sentence>
+<sentence><sentcont>The GPS navigation system displays the maps in clear detail on the 2.6 inch colour screen & will assist the user to find their desired location.</sentcont></sentence>
+<sentence><sentcont>The N95 works on a Symbian operating system with S60 which provides the user with high quality smartphone applications which include photo & video editing programs, music player programs & management applications.</sentcont></sentence>
+<sentence><sentcont>The user can enjoy their phone world wide as the N95 works over a quad band network which includes GSM 850, GSM 900, GSM 1800, GSM 1900 & the Nokia N95 supports HSDPA which provides high speed data.</sentcont></sentence>
+<sentence><sentcont>The user can enjoy an advanced Internet experience on their mobile phone as the phone supports XHTML & HTML Internet browsing.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 is a highly capable mobile handset that offers the user high quality connectivity to compatible devices & fast speed data transfer rate thanks to EDGE technology, WLAN Wi-Fi, USB cable connection, infra red Pop Port?</sentcont></sentence>
+<sentence><sentcont>connection & Bluetooth?</sentcont></sentence>
+<sentence><sentcont>wireless technology.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 comes with a fitted battery which will provide the user with up to 220 hours of standby battery time & approximately six & a half hours talk time.</sentcont></sentence>
+<sentence><sentcont>The user can take a still photo or record video clips using the built in 5 megapixel camera feature which comes with a Carl Zeiss optics tessar?</sentcont></sentence>
+<sentence><sentcont>lens.</sentcont></sentence>
+<sentence><sentcont>The camera facility is both user friendly & a high quality feature for the user to enjoy.</sentcont></sentence>
+<sentence><sentcont>The camera comes with a digital zoom, flash option & an auto focus feature.</sentcont></sentence>
+<sentence><sentcont>The user can select a style of scene they wish to capture & change the colour tones to they desire for their photo or video clip.</sentcont></sentence>
+<sentence><sentcont>The N95 makes it all so easy for the user to capture the perfect finish to their photos & video clips.</sentcont></sentence>
+<sentence><sentcont>The video recorder feature provides the user with the high quality viewing experience that is gained from a DVD type recording.</sentcont></sentence>
+<sentence><sentcont>The user can use the second camera to take part in a video call which brings a real feel to a face to face call experience.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 comes with music features which include a stereo FM radio, visual radio & a music player which supports MP3, AAC, AAC+, eAAC+ & WMA music formats.</sentcont></sentence>
+<sentence><sentcont>The user can use their music playing features when the phones screen is in it's slide down position which allows the user to view their music information in the landscape mode.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 has been designed with high quality & easy to operate multimedia features.</sentcont></sentence>
+<sentence><sentcont>The phone comes complete with a set of headphones which allows the user to have a private listening experience.</sentcont></sentence>
+<sentence><sentcont>The visual radio feature allows the user to gain access to information which has been provided by the radio station which is being listened too.</sentcont></sentence>
+<sentence><sentcont>The music management application will assist the user when transferring music files & managing their music.</sentcont></sentence>
+<sentence><sentcont>The user can stay in contact with compatible contacts by using the messaging service on their N95 which include text messaging, multimedia messaging, email service & instant messaging.</sentcont></sentence>
+<sentence><sentcont>The multimedia messaging service allows the user to create, send & receive messages with text input, with either a photo or a video clip which can be enhanced with music.</sentcont></sentence>
+<sentence><sentcont>The email service allows the user to stay in contact with any compatible email contacts & the email service supports file attachments in popular file formats.</sentcont></sentence>
+<sentence><sentcont>The user can have an online conversation which other instant messaging contacts which works like an online chat with text & symbols.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 comes with voice features which include voice dialling, a voice record which is ideal for recording a reminder or memorandum & voice commands.</sentcont></sentence>
+<sentence><sentcont>The user can user the handsfree speakerphone which allows the user to have a call over the phones speakers without having to hold the handset.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+117734#9634#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>117734</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Ok Ok...I know i'm always knocking Nokia for being dull and boring....but when they bought out the n95, even i bought one!</sentcont></sentence>
+<sentence><sentcont>I can't quite tell if i like it or not...</sentcont></sentence>
+<sentence><sentcont>I mean, it's got the SAT NAV system, and the 5MP camera With Wi-fi, EDGE and the fancy slide look, but is it all actually worth it?</sentcont></sentence>
+<sentence><sentcont>Well...YES!</sentcont></sentence>
+<sentence><sentcont>For once Nokia have actually produced something that the public will like...    lets look at the SAT NAV...no need for a Bluetooth GPS as it's already built in, even though it does kill your bat!</sentcont></sentence>
+<sentence><sentcont>The software is quite user freindly, but it still takes getting used to...</sentcont></sentence>
+<sentence><sentcont>The 5MP camera is great fun with it's TV out.</sentcont></sentence>
+<sentence><sentcont>It probably has one of the best cameras for a phone in this range, but it's proper slow to load up and to take a pic.</sentcont></sentence>
+<sentence><sentcont>But none of that matters, as the n95 is probably the best phone out on the market today with leading technology!</sentcont></sentence>
+<sentence><sentcont>Well Nokia you suprised me once again!</sentcont></sentence>
+<sentence><sentcont>Thats the kind of technology we need to justify you as being one of the biggest selling mobile phone brand in the world!</sentcont></sentence>
+<sentence><sentcont>www.mkconnectonline.co.uk</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+116083#7983#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>116083</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>This is my reasons for why w960 is the best pic for me right now.</sentcont></sentence>
+<sentence><sentcont>The diffrent mobiles im concidering for my next buy.</sentcont></sentence>
+<sentence><sentcont>nokia n95, apple iphone, htc shift, nokia e90 comunicator, sony ericsson w960, sony ericsson p1.</sentcont></sentence>
+<sentence><sentcont>Compare good and bad in relation to the other candidates.</sentcont></sentence>
+<sentence><sentcont>nokia n95  good: gps, vibrant high-res screen, 5 MP camera, vga video recording, hsdpa,   bad: short battery life, ugly, vuneruble dubble slide design, big, not touch screen.</sentcont></sentence>
+<sentence><sentcont>apple iphone  good: super screen, intuitive navigation, looks nice, nice webbrowser.</sentcont></sentence>
+<sentence><sentcont>bad: no hsdpa or 3g, no 3:e party program, no games, no custuomizations, no java, no multitasking, no mms, hard text entry, no office document editing, no camera autofocus, no videorecording, no camer.</sentcont></sentence>
+<sentence><sentcont>settings,no memory slot, hard to transfere and share images and music, no usb mass storage, no radio, stereo bluetooth, must use itunes to transfer music, no hardware music keys, no custum ring signals,.</sentcont></sentence>
+<sentence><sentcont>htc shift good: has everything bad: huge (a small laptop).</sentcont></sentence>
+<sentence><sentcont>nokia e90 comunicator good: has everything bad: big, borderline ugly.</sentcont></sentence>
+<sentence><sentcont>sony ericsson w960 good: 8GB memory, stereo bluetooth headset, looks nice, touch screen, walkman.</sentcont></sentence>
+<sentence><sentcont>bad: no memory slot, low resoulution on that big screen, no hsdpa.</sentcont></sentence>
+<sentence><sentcont>sony ericsson p1 good: qwerty keyboard, card slot bad: hard qwerty keyboard, low resoulution on that big screen, borderline ugly, no hsdpa.</sentcont></sentence>
+<sentence><sentcont>To summerize this the n95 is a super phone beacuse it packs all features exept touch screen in a compact format but it falls away beacuse of short batterytime and low build quality and that it is a bit on the big size (just little to big.</sentcont></sentence>
+<sentence><sentcont>), iPhone is joke its just a ipod video with a nice screen and webbrowser and a phone feature it lacks in all departments, htc shift is amazing it realy is a super tiny laptop with touchscreen but you cant have it in your pocket and that is not acceptble, e90 has everything including a keyboard and .</sentcont></sentence>
+<sentence><sentcont>sdpa in a small package I defenitly have to look at it in the stores before I buy w960 im just afraid e90 will look ugly and big in real life, p1 and w960 is the same phone diffrence is that p1 has cardslot and qwerty keyboard and that w960 has 8GB memory with no cardslot and a regular phone look a.</sentcont></sentence>
+<sentence><sentcont>d a music and finger oriented interface and bundeled bluetooth headphones, the p1 is kund of geeky and ugly in real life and the keyboard is way to unnatural to use so if I have to choose between them it must be w960.</sentcont></sentence>
+<sentence><sentcont>To summerize the summerization it stands between the e90 and the w960,  e90 has advantages such as full qwert keyboard, hsdpa, gps, exelent screen, allmost full laptop replacement.</sentcont></sentence>
+<sentence><sentcont>But w960 has som advantages such as allmost normal phone size and normal phone looks and touch screen and bundeled stereo bluetooth headset.</sentcont></sentence>
+<sentence><sentcont>Price is bound to be lower for w960 to.</sentcont></sentence>
+<sentence><sentcont>So i guess it comes down to these questions:  Is money not a problem?</sentcont></sentence>
+<sentence><sentcont>Do you want a real buissniess phone?</sentcont></sentence>
+<sentence><sentcont>Want gps, hsdpa, highres screen?</sentcont></sentence>
+<sentence><sentcont>Is it ok with a big phone that fills your entire pocket and weighs a bit and looks like a small laptop and looks a bit nerdy?</sentcont></sentence>
+<sentence><sentcont>Then I think e90 is the right choice!</sentcont></sentence>
+<sentence><sentcont>Do you want a phone that looks like a phone?</sentcont></sentence>
+<sentence><sentcont>Do you want lots of buisnesiss features and touchscreen that is navigated both with fingers or stylus?</sentcont></sentence>
+<sentence><sentcont>Is UMTS ok speed for your mobile surfing needs nearest 1-2 years?</sentcont></sentence>
+<sentence><sentcont>Can you live without GPS 1-2 years?</sentcont></sentence>
+<sentence><sentcont>Do you want to pay as little as possible for this device with bundled stereo bluetooth headphones?</sentcont></sentence>
+<sentence><sentcont>Will you mostly use your device as a mp3 player and phone?</sentcont></sentence>
+<sentence><sentcont>Then maby the w960 is more correct.</sentcont></sentence>
+<sentence><sentcont>(Remember n95 have much of what e90 have but with short battery time it disqualify itself before the race.)    Hope someone had benefit from this text.</sentcont></sentence>
+<sentence><sentcont>:-)    From actual opinion user miLH "nerdy"</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+1111859#13759#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Gsmarena</websource>
+<reviewid>1111859</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>The positive and innovative aspects of the N95 are out of question.</sentcont></sentence>
+<sentence><sentcont>But let us focus on a detail that will become a great issue when the initial enthusiasm of getting the phone is gone - the batery life.</sentcont></sentence>
+<sentence><sentcont>If the battery performance is like in N80 - it will be a shame.</sentcont></sentence>
+<sentence><sentcont>I got a N80 last summer and was very happy of all its features, but the battery was draining every day, and when using a bluetooth handset even couldn't last from morning to the eveneing without a recharge.</sentcont></sentence>
+<sentence><sentcont>I am afraid (hope I am wrong) that the situation with N95 will be close to its predecessor N80, a 970 mAh are obviuosly not enough for such device (compare with the Pocjet PCs, almost all of them have at least 1200 mAh and I wonder why Nokia did not take lesson from the N80).</sentcont></sentence>
+<sentence><sentcont>So please post your comments on the battery life of N95 if you already have it, it is very important, because it clear than everyday recharge will be quite annoying for phone costing well over 500 euro irrespective of all its features and merits.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+112304#4204#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>112304</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>n85 is really improved version not only of n95 but of n81 and otther previous slider phones.</sentcont></sentence>
+<sentence><sentcont>no more wobbles, no more creaks, no more loose slider, no more cheap plastic that easily gets scratched on n85.</sentcont></sentence>
+<sentence><sentcont>sound quality now is one of the best, support for a standard usb charging, more ram, better dual led flash, 3.</sentcont></sentence>
+<sentence><sentcont>5mm jack conveniently placed at the top, lock switch key on the right side as opposed to n91 n81 n96's inconvenient placement at the top, slimmer dimension, new screen technology that reproduces more realistic picture quality, improved user interface, faster processor, higher capacity battery, better power management.</sentcont></sentence>
+<sentence><sentcont>so everything is improved on n85.</sentcont></sentence>
+<sentence><sentcont>it's the perfect nokia slider.</sentcont></sentence>
+<sentence><sentcont>n85 starting price is same as n81's starting price so it won't be that much expensive compared to the initial price of n95, n95 8gb, n96.</sentcont></sentence>
+<sentence><sentcont>n85 is the evolution of nokia's previous slider phones.</sentcont></sentence>
+<sentence><sentcont>it's more close to being perfect.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+1110081#11981#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1110081</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Advantages about N95: * Fast OS and powerful processor running at 330 MHz.</sentcont></sentence>
+<sentence><sentcont>* Improved 5 MPix Carl Zeiss Tessar camera with autofocus as compared with previous models.</sentcont></sentence>
+<sentence><sentcont>* Built-in GPS receiver.</sentcont></sentence>
+<sentence><sentcont>* Huge 2.</sentcont></sentence>
+<sentence><sentcont>6" screen.</sentcont></sentence>
+<sentence><sentcont>* Quadband 850/900/1800/1900 GSM, 2100 WCDMA.</sentcont></sentence>
+<sentence><sentcont>* Wireless LAN 802.</sentcont></sentence>
+<sentence><sentcont>11 b/g 54 Mbps.</sentcont></sentence>
+<sentence><sentcont>* Bluetooth 2.</sentcont></sentence>
+<sentence><sentcont>0 EDR (3 Mbps).</sentcont></sentence>
+<sentence><sentcont>* A2DP profile for stereo audio over Bluetooth Headset.</sentcont></sentence>
+<sentence><sentcont>* DVD quality video recording @ 30 frames per second.</sentcont></sentence>
+<sentence><sentcont>* Able to use our own 3.</sentcont></sentence>
+<sentence><sentcont>5mm earpiece.</sentcont></sentence>
+<sentence><sentcont>* USB 2.</sentcont></sentence>
+<sentence><sentcont>0 Full speed rather than previously "fast speed" (which is not very fast).</sentcont></sentence>
+<sentence><sentcont>* Able to set a duration to auto Keylock.</sentcont></sentence>
+<sentence><sentcont>* Able to set a duration to auto Lock the phone with a password.</sentcont></sentence>
+<sentence><sentcont>* Very light weight.</sentcont></sentence>
+<sentence><sentcont>* Fast Start-up and shutdown (as compared to previous models).</sentcont></sentence>
+<sentence><sentcont>* Voice recordings duration of 1 hour instead of 1 min.</sentcont></sentence>
+<sentence><sentcont>Disadvantages about N95:   * The slider can easily slide open the keypad if the jean is too tight.</sentcont></sentence>
+<sentence><sentcont>* Battery life-span very fast 1 day if using Wi-Fi or GPS  (normal usage - est 2 days, hoped Nokia can come out a higher capacity battery for N95)  *As for camera u can compared the photos & reviews from this website:  http://www.allaboutsymbian.com...e_Camera.php</sentcont></sentence>
+<sentence><sentcont>PS: This review is based on my personal opinions.</sentcont></sentence>
+<sentence><sentcont>Overall it is amazing phone but a expensive phone.Thank</sentcont></sentence>
+<sentence><sentcont>you.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+115357#7257#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>115357</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Hello N95 Fans  I have used N95 before for 5 months.</sentcont></sentence>
+<sentence><sentcont>Only difference you can see in New 95 is 2.8inch display instead of 2.6inch, Battery is 1200mah instead of 950mah.</sentcont></sentence>
+<sentence><sentcont>8Gb internal memory instead of 160Mb, No Micro SD Card slot, Weight 129gm compared to 120gm and 1mm length more.</sentcont></sentence>
+<sentence><sentcont>Symbian OS 9.2, S60 rel.</sentcont></sentence>
+<sentence><sentcont>3.1 is same for both, so the software and application bugs will be same of old N95.</sentcont></sentence>
+<sentence><sentcont>Application manager crashes N95 OS several times, this is a major Issue.</sentcont></sentence>
+<sentence><sentcont>Keypad is a great disadvantage for N95, it get loosened so fast.</sentcont></sentence>
+<sentence><sentcont>Mine is loosened in am month usage.</sentcont></sentence>
+<sentence><sentcont>Same thing, the old keypad will be there in New 8Gb N95.</sentcont></sentence>
+<sentence><sentcont>Design look too old.</sentcont></sentence>
+<sentence><sentcont>Not Stylish.</sentcont></sentence>
+<sentence><sentcont>Nokia have to compete for other good mobiles vendors.</sentcont></sentence>
+<sentence><sentcont>I bought the Motorola MotoRockr E6 mobile last month.</sentcont></sentence>
+<sentence><sentcont>Its too good mobile with enormous features.</sentcont></sentence>
+<sentence><sentcont>Ofcourse the camera is 2mp, it takes a sharp image in outdoor.</sentcont></sentence>
+<sentence><sentcont>Rockr has a business card reader, that scan n recognize the business cards and store into its phonebook.</sentcont></sentence>
+<sentence><sentcont>Wifi is not there, but I am using wap in Opera browser more user freindly due to its touch screen facility.</sentcont></sentence>
+<sentence><sentcont>Touch makes its user friendly as compared with N95.</sentcont></sentence>
+<sentence><sentcont>Not even one time Rockr E6 OS is crashed for me.</sentcont></sentence>
+<sentence><sentcont>Rockr's performance is far far better than N95.</sentcont></sentence>
+<sentence><sentcont>It has 1000mah battery which gives 5 days battery backup with less usage.</sentcont></sentence>
+<sentence><sentcont>You can watch movies, songs mp3 in 64 channel output.</sentcont></sentence>
+<sentence><sentcont>Movie quality in sound and video is amazing and superb and battery backup also too good.</sentcont></sentence>
+<sentence><sentcont>U can easily watch around 3 movies continously around 3:00 hrs each (total ard 9:00 hrs), still after u will get battery backup to another day.</sentcont></sentence>
+<sentence><sentcont>Mp3 Playback of 14 hrs continuous.</sentcont></sentence>
+<sentence><sentcont>Overall features are 2 times more than Nokia N95.</sentcont></sentence>
+<sentence><sentcont>Once if u use, u will feel the difference, that why I am critising Nokia N95.</sentcont></sentence>
+<sentence><sentcont>I am not campaigning you ppls to buy Rock E6, I am telling my view about N95.</sentcont></sentence>
+<sentence><sentcont>Check Motorola MotoRockr E6 reviews.</sentcont></sentence>
+<sentence><sentcont>Free to mail me if you have any doubts about both Rockr as well as N95  Regards  Kailas Senan  Larsen & Toubro Limited  Embedded System Software Engineer  Kailas.Senan@Lntemsys.com</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+116740#8640#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>116740</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Hello, I'm new in the forum and I would just like to say that the Nokia N95 may not be the perfect phone, like any other phone, it has its pros and cons.</sentcont></sentence>
+<sentence><sentcont>So far, I've had no trouble with my N95, no crashing, no errors, even before I updated my phone to version 12.0.013,</sentcont></sentence>
+<sentence><sentcont>I've had no incident of those issues.</sentcont></sentence>
+<sentence><sentcont>Yes, battery life is crappy, but you cannot actually take it literally when nokia said "It's what computers have become".</sentcont></sentence>
+<sentence><sentcont>This phone is a mobile device, with lots of features, it's only but natural that the multi features will eat up the battery of the phone.</sentcont></sentence>
+<sentence><sentcont>If battery is your problem, always have a spare battery around, or bring your charger.</sentcont></sentence>
+<sentence><sentcont>As for the crashing and error issues, you may have to consider the fact that you bought a defective unit, sad but it might be the reason.</sentcont></sentence>
+<sentence><sentcont>also, you may be putting in applications that the N95 cannot handle (3rd party softwares).</sentcont></sentence>
+<sentence><sentcont>I'm not bias, I respect sony ericson, samsung, and other brands, I've owned some of their "crowned jewels" like Sony P990i, and the unit proved its worth.</sentcont></sentence>
+<sentence><sentcont>So, before you snap and further destroy your N95, take it back to your distributer, have it checked, and pray that its a defect and have them replace the unit.</sentcont></sentence>
+<sentence><sentcont>As simple as that...Thanks.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+112599#4499#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>112599</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>i agree wit u nokia master.</sentcont></sentence>
+<sentence><sentcont>i bought nokia 5300 last summer 2008 and it was gud and the only thing i dont like wit dat fon is dat it has sensitive LCD and a fragile loudspeaker.</sentcont></sentence>
+<sentence><sentcont>so i sell it and i bought a nokia 6300 coz it really catches my attention so much because of its stylish design yet i finally realized dat it was made from china.</sentcont></sentence>
+<sentence><sentcont>you can power on its bluetooth but bluetooth enable fon such as n70(bought in saudi arabia) can't detect my 6300.</sentcont></sentence>
+<sentence><sentcont>i wonder why does dat n70 had detected my brothers fon(sony ericsson k800i) so i sell it again to another mobile fone repairmen and i bought again a nokia n95 8g and sad to say it seems dat history repeats itself.</sentcont></sentence>
+<sentence><sentcont>at first i havent noticed dat ive bought a china made n95 8g.</sentcont></sentence>
+<sentence><sentcont>heres some problems dat ive encountered wit all new n95 8g of china.</sentcont></sentence>
+<sentence><sentcont>1) it doesnt have video call or 3G capabilities.</sentcont></sentence>
+<sentence><sentcont>2) it says hir dat it was already furnished wid an 8 GIGABYTES internal memory but its still slow.</sentcont></sentence>
+<sentence><sentcont>3) im looking 4 its GPS but i cant even activate it or even open it.</sentcont></sentence>
+<sentence><sentcont>4) in summary: i cant find all those features related to a n95 fon.</sentcont></sentence>
+<sentence><sentcont>nokia 3310 is much better rather to buy a nokia china fone the only thing separates old 3310 from new n95 china fone is dat a huge LCD display, a camera, and a polyphonic tones.</sentcont></sentence>
+<sentence><sentcont>n95 china is just a larger version of 3310.</sentcont></sentence>
+<sentence><sentcont>i dont know if i should call myself such stupid why choosing dis n95 china fone but is der any such actions for dus manufacturers to minimize using names of original nokia?.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+000004#184#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Viewpoints</websource>
+<reviewid>000004</reviewid>
+<reviewtitle>carry your computer on your pocket</reviewtitle>
+<rating>1.0</rating>
+<freereview><sentence><sentcont>Nokia's N95 superphone is complicated, taking days for even the most experienced gadget journo to digest.</sentcont></sentence>
+<sentence><sentcont>That's why lots of reviews I've seen so far are either extremely light or 10,000 word stunners: This is one of those long ones.</sentcont></sentence>
+<sentence><sentcont>It's likely easier to pore over the phone yourself in our hardware and software gallery walkthroughs, and come up with your own opinion.</sentcont></sentence>
+<sentence><sentcont>But If you want the text heavy version, here's what's great and terrible about this phone.</sentcont></sentence>
+<sentence><sentcont>Aside from call quality, why Nokia's N95 Rocks:1.GPS:</sentcont></sentence>
+<sentence><sentcont>The GPS is really GPS, not some assisted-GPS that Sprint and Verizon have in their phones.</sentcont></sentence>
+<sentence><sentcont>That means you can really navigate with it, like I did, to streets around SF I wasn't too familiar with.</sentcont></sentence>
+<sentence><sentcont>(Specifically, the corner of Washington and Cherry, close to where the Zodiac killer blew away a Cabbie so many years ago.)</sentcont></sentence>
+<sentence><sentcont>The point of interest database is sizable and you can search for things by proximity (the nearest ATM or liquor store), and then get the phone dialing right up.</sentcont></sentence>
+<sentence><sentcont>Turn by turn is a subscription that'll cost you about $10 a month, and the voice nav won't read street names, but that, and the phone's persistant Lag aside, it rocks.</sentcont></sentence>
+<sentence><sentcont>2.Camera: I detect a decent level of grain in these 5mp shots, and the shutter lag is horrendous, but WTF, it's a 5mp camera with a Carl Zeiss 2.8/5.6 autofocusing lens in a phone.</sentcont></sentence>
+<sentence><sentcont>There are great controls for ISO, white balance, sharpness, contrast, and flash.</sentcont></sentence>
+<sentence><sentcont>And video comes in at 640 by 480 at 30fps.</sentcont></sentence>
+<sentence><sentcont>Not shabby.</sentcont></sentence>
+<sentence><sentcont>And the editing programs are powerful, especially the photo editor's clip art feature.</sentcont></sentence>
+<sentence><sentcont>Proof is in the pudding: Check out Flickr's N95 photos.</sentcont></sentence>
+<sentence><sentcont>3. Lifeblog: Like other N-series phones, this one can post any text/video/image you take with the phone to a blog.</sentcont></sentence>
+<sentence><sentcont>I'm addicted to this.</sentcont></sentence>
+<sentence><sentcont>This can be done through the Lifeblog software, which will combine text and images into a blog post on Typepad.</sentcont></sentence>
+<sentence><sentcont>The phone will send pictures Flickr's API, too.</sentcont></sentence>
+<sentence><sentcont>(And via Flickr's blog API, can send photos to most other blog ware.) Right now, Vox is the only site that will accept automated upload videos.</sentcont></sentence>
+<sentence><sentcont>But I'm willing to bet there's even a youtube uploader out there, considering the Symbian OS's dev community.</sentcont></sentence>
+<sentence><sentcont>4. Media Playback: The mp3/video player is fairly straight forward, and that's why I like it.</sentcont></sentence>
+<sentence><sentcont>The speakers are unreasonably loud, in a good way, for a device of this side - as loud as the Samsung K5 with external speakers - and there's an EQ as well as visualizations.</sentcont></sentence>
+<sentence><sentcont>File support includes MP3/WMA/M4A, and AAC support for those soon to be unlocked iTunes/EMI files.</sentcont></sentence>
+<sentence><sentcont>The media playback buttons aren't the easiest to press, but they add to the simplicity and dedication this device has to AV. Add in support for Podcasts, even those of the video variety, and you're talking.</sentcont></sentence>
+<sentence><sentcont>(MPEG-4, H.264/AVC, H.263/3GPP, RealVideo 8/9/10) 5. Extras: I admit this is cheating on a list of 5, but all the little included apps really help bring the Nokia up.</sentcont></sentence>
+<sentence><sentcont>There are office document readers/editors, a standard convertor, calculator, zip utilities, GPS utilities, VOIP (Gizmo Project), a uPNP media server, and all your basic txt/sms/email/browsing/bluetooth, on and on and on.</sentcont></sentence>
+<sentence><sentcont>Feature-wise, it is what a phone could be, given today's technology, minus phone carrier greed.</sentcont></sentence>
+<sentence><sentcont>(All in our feature walkthrough.)</sentcont></sentence>
+<sentence><sentcont>Why Nokia's N95 Sucks:1.</sentcont></sentence>
+<sentence><sentcont>Battery: No matter what anyone says, the battery life on the N95 isn't good.</sentcont></sentence>
+<sentence><sentcont>You can justify it by considering how much power true GPS, WiFi, and those booming speakers take.</sentcont></sentence>
+<sentence><sentcont>Even turning off 3G access, as you won't find reception in the US, the phone will be begging for DC after an 18 hour day of moderate/heavy use.</sentcont></sentence>
+<sentence><sentcont>2. HSDPA Europe only: This phone is a European variant, and its WCDMA 2100 radio can't tap Cingular's US band HSDPA.</sentcont></sentence>
+<sentence><sentcont>So, you're stuck with EDGE speeds when you're not close to WiFi.</sentcont></sentence>
+<sentence><sentcont>Here's a tip: Turn off the 3G support to save some battery life.</sentcont></sentence>
+<sentence><sentcont>And get used to using WiFi for the heavy Audio/Video Tranfers.</sentcont></sentence>
+<sentence><sentcont>3. Laggy OS: I don't know whether to blame Symbian or Nokia, but I don't really care, who's fault it is: This phone is sluggish.5.</sentcont></sentence>
+<sentence><sentcont>Hardware Feels Junky:Two words: Fisher Price.</sentcont></sentence>
+<sentence><sentcont>They should have packed these components into a denser package.</sentcont></sentence>
+<sentence><sentcont>The world's most powerful handset is also the thickest modern phone without a QWERTY.</sentcont></sentence>
+<sentence><sentcont>But consider all it does, and the fact that its still pocketable, and you can over look its rather portly 0.8 inch thickness.</sentcont></sentence>
+<sentence><sentcont>Full hardware rundown here.</sentcont></sentence>
+<sentence><sentcont>5. Price: $750 dollars is an unsubsidized price, and I commend Nokia for bringing this unlocked beast of a phone to the US without carriers who'll lock up both the SIM slot and the multimedia features.</sentcont></sentence>
+<sentence><sentcont>But that's a lot of money.</sentcont></sentence>
+<sentence><sentcont>I'd find that more acceptable if the GPS didn't require a subscription, the office software edited without buying an upgrade, and if the rest of my complaints were firmly answered.</sentcont></sentence>
+<sentence><sentcont>You have to use this phone for yourself (or go on through the walkthroughs below) before you spend this much cash on a portable computer/phone/thingy.</sentcont></sentence>
+<sentence><sentcont>Even then, only the die hardest phone geeks and those who can benefit from the phone's liveblogging capabilities should consider it.</sentcont></sentence>
+<sentence><sentcont>??</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+118205#10105#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>118205</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Hi guys.</sentcont></sentence>
+<sentence><sentcont>I would like to give some different look on the comments of this phone.</sentcont></sentence>
+<sentence><sentcont>I am still thinking whether go for this phone or not.</sentcont></sentence>
+<sentence><sentcont>Besides I have some bad experience with N80 last year.</sentcont></sentence>
+<sentence><sentcont>I played with a N95 of a friend of mine, but just for 2 days so I cannot make some solid conclusion based on such short experience.</sentcont></sentence>
+<sentence><sentcont>So I am very cautious.</sentcont></sentence>
+<sentence><sentcont>Let us try to make some objective and reasonable judgments in order to get a more comprehensive picture of the, let call it this way, "the real N95":).</sentcont></sentence>
+<sentence><sentcont>Having read a lot of opinions here (I am following them from the beginning of the year) I would try to draw some of the main groups of problems giving some general or specific comments on cons.</sentcont></sentence>
+<sentence><sentcont>Also to point out not only the weak points but also the strong and "innovative" features.</sentcont></sentence>
+<sentence><sentcont>(Because it can obviously be seen that the majority of posts here are totally opposite - one are saying "this is the best phone I have ever had", while the other are saying - "this is the worst phone, dont buy it".</sentcont></sentence>
+<sentence><sentcont>).</sentcont></sentence>
+<sentence><sentcont>So let?s group the points of interest like this.</sentcont></sentence>
+<sentence><sentcont>1.</sentcont></sentence>
+<sentence><sentcont>Battery life; 2.</sentcont></sentence>
+<sentence><sentcont>The 5 MP camera; 3.</sentcont></sentence>
+<sentence><sentcont>Video; 4.</sentcont></sentence>
+<sentence><sentcont>The phone hangs; 5.</sentcont></sentence>
+<sentence><sentcont>Problems during a call; 6.</sentcont></sentence>
+<sentence><sentcont>GPS; 7.</sentcont></sentence>
+<sentence><sentcont>Music; 8.</sentcont></sentence>
+<sentence><sentcont>Display; 9.</sentcont></sentence>
+<sentence><sentcont>Robustness of the design.</sentcont></sentence>
+<sentence><sentcont>1.</sentcont></sentence>
+<sentence><sentcont>Battery life.</sentcont></sentence>
+<sentence><sentcont>The disappointing battery life was expected.</sentcont></sentence>
+<sentence><sentcont>In the posts from January-February a very few guys were reporting the phone should be charged daily or even twice a day; because only few had the chance to use the pilot release and because the rest were dazzled by the specs of the phone and eager to get some kind "Lord of the phones" (there were such expression in a post here).</sentcont></sentence>
+<sentence><sentcont>Nevertheless, having the experience with N80, everyday charge is something very boring.</sentcont></sentence>
+<sentence><sentcont>Especially after elapsing the first one-two months when the delight of using such a complicated device is gone.</sentcont></sentence>
+<sentence><sentcont>The second battery partially solves the problem but still you have to pay to much care for that - always to have the spare battery charged, to replace batteries when the one in the phone is drained.</sentcont></sentence>
+<sentence><sentcont>The other approach is to restrain from playing with the wifi browsing, or shooting videos if you are on the move during the day and cannot plug in the charger.</sentcont></sentence>
+<sentence><sentcont>In a moment you start asking yourself - does the phone serve you or you serve the phone?</sentcont></sentence>
+<sentence><sentcont>Or there are some ?tricks? to prolong the batt life - disable 3G, or reduce wifi sensitivity, or not to shoot to much, or not to listen to the music too much, or not use the GPS, etc - well, why should you buy such device if you do not use its features?</sentcont></sentence>
+<sentence><sentcont>Someone here were giving the example with Ferrari - they say the Ferrari consumes too much fuel but still it is a Ferrari - ok the comparison is not that correct.</sentcont></sentence>
+<sentence><sentcont>Fuel consumption is not the analogue of the power (battery) consumption though both are related to energy; here the issue is the USABILITY OF PERFORMANCE ?</sentcont></sentence>
+<sentence><sentcont>a ?fuel</sentcont></sentence>
+<sentence><sentcont>hungry" Ferrari is giving its full performance to the user, but a ?power/battery</sentcont></sentence>
+<sentence><sentcont>hungry?</sentcont></sentence>
+<sentence><sentcont>phone cannot deliver its potential to the user because it simply cannot last enough to give the overall performance to be consumed (?overall?</sentcont></sentence>
+<sentence><sentcont>means all features, not use only gps, or use only camera, or only make voice calls).</sentcont></sentence>
+<sentence><sentcont>If you have a Ferrari, would you close it in the garage and drive it rarely ?on last Sunday of the month?</sentcont></sentence>
+<sentence><sentcont>or would you enjoy it everyday as much as possible - if you are happy with the speed and acceleration, etc of a standard car, why should you go for a Ferrari?</sentcont></sentence>
+<sentence><sentcont>Right?</sentcont></sentence>
+<sentence><sentcont>However let?s gulp down this problem and take it for granted that we cannot have normal battery last in a ?multimedia?</sentcont></sentence>
+<sentence><sentcont>N-phone (?normal? is something between 3-5 days; or at least firmly over 2 full days (48 hours), regardless of usage of the features, OK?).</sentcont></sentence>
+<sentence><sentcont>Of course some will say - well you have all-in-one device, so how could you expect longer time?</sentcont></sentence>
+<sentence><sentcont>OK, to that statement I would oppose the above mentioned question - do the phone serves you or you serve the phone?</sentcont></sentence>
+<sentence><sentcont>And what is better, to have 10 separate devices that are giving their full performance, or one single device combining them but giving you just one feature at a time of all these 10?</sentcont></sentence>
+<sentence><sentcont>Is it a kind of philosophical question?:)</sentcont></sentence>
+<sentence><sentcont>?</sentcont></sentence>
+<sentence><sentcont>no it is a technical question - the device should support all the features it is designed to.</sentcont></sentence>
+<sentence><sentcont>Again with the car analogy ? the car should perform as a car despite of whether you dirve it in the summer (hot) or in the winter (cold), or whether you drive it in a sunny day (no light, heaters, fans, etc) or in a rainy evening (with all electrical stuff switched on), Right?</sentcont></sentence>
+<sentence><sentcont>So, in the end, there is no excuse for the poor battery life.</sentcont></sentence>
+<sentence><sentcont>2. The 5 MP camera.</sentcont></sentence>
+<sentence><sentcont>It is clear that a phone camera will never be at the level of the current dedicated cameras.</sentcont></sentence>
+<sentence><sentcont>So wheter it is 5 MP or 3.2 MP, it is almost the same.</sentcont></sentence>
+<sentence><sentcont>Further more, it is welknown that Nokia still cannot reach the quality of the SonyEricsson competitors in the mobilephone cameras.</sentcont></sentence>
+<sentence><sentcont>So do not expect the unexpected in this area.</sentcont></sentence>
+<sentence><sentcont>No need to go deeper in the subject, everything is clear I think.</sentcont></sentence>
+<sentence><sentcont>3. Video  Here I think we should give the deserved for the phone.</sentcont></sentence>
+<sentence><sentcont>The feature of VGA video shooting is very very nice.</sentcont></sentence>
+<sentence><sentcont>Again to expect hte quality of dedicated videocamera is irrelevant.</sentcont></sentence>
+<sentence><sentcont>But compared to the CIF and QVGA resolutions in previous phones, the VGA video in your phone is quite usefull and handy.</sentcont></sentence>
+<sentence><sentcont>4. The phone hangs  Well this should be precicsely specified when it hangs.</sentcont></sentence>
+<sentence><sentcont>We cannot expect this phone to behave like a computer, desipte that it is equipped with a 330 MHz processor.</sentcont></sentence>
+<sentence><sentcont>At the time of the 300 MHz Pentiums we had not have so rich multimedia content, right?</sentcont></sentence>
+<sentence><sentcont>In my N80, I couldn't open a pdf or doc bigger then 800-900 KB.</sentcont></sentence>
+<sentence><sentcont>Here we also have 64 MB RAM, of whic about 20-22 MB free (as far as I saw when played with a N95).</sentcont></sentence>
+<sentence><sentcont>Here may be the ad "a multimedia computer" plyes a bad joke for the users - remember this is not a computer, so do not expect to perform like a PC (how often your PC hangs when running some big or complex stuff?</sentcont></sentence>
+<sentence><sentcont>for me, relatively often the Windows Media Player or Real Player hang when starting a movie).</sentcont></sentence>
+<sentence><sentcont>But the bad thing is that the phone realy behaves slow when opening the images/videos.</sentcont></sentence>
+<sentence><sentcont>that is something that I definately observed in my short test with the phone.</sentcont></sentence>
+<sentence><sentcont>5. Problems during a call (Noise or fuzz or buzzz or whatever during a call)  That is a serious problem (if present).</sentcont></sentence>
+<sentence><sentcont>I have not noticed it but saw several posts about it.</sentcont></sentence>
+<sentence><sentcont>So pls say how many of you have noticed it in your phones.</sentcont></sentence>
+<sentence><sentcont>6. GPS  The chipset in N95 is a Texas Instruments one, not a Sirf III or RFMD, or not even a Sirf II.</sentcont></sentence>
+<sentence><sentcont>So do not expect to have the performance of them.</sentcont></sentence>
+<sentence><sentcont>Here the real problem is in the time to wait for lockon the satellites.</sentcont></sentence>
+<sentence><sentcont>Waiting over 3-4 minutes makes the GPS a thoughtless feature.</sentcont></sentence>
+<sentence><sentcont>Lot of people complain they were waiting 10 or even 15 minutes for "satellite signal".</sentcont></sentence>
+<sentence><sentcont>(Me personally could not start the gps at all ...).</sentcont></sentence>
+<sentence><sentcont>The other "problem" here is that the phone could not use the built in GPS receiver with third party navigation programs.</sentcont></sentence>
+<sentence><sentcont>On the phone I played with, I used a Holluv Sirf III GPS and connected it via Bluetooth to N95 and it worked perfect with TomTOm6.</sentcont></sentence>
+<sentence><sentcont>But why is the built in GPS chip than?</sentcont></sentence>
+<sentence><sentcont>Concerning the maps of "over 100 countries or so" - the idea of having all the info accessible from a app like smart2go in the Nokia is very good.</sentcont></sentence>
+<sentence><sentcont>But still it is not yet fully-usable worldwide (apparently).</sentcont></sentence>
+<sentence><sentcont>But still it is a very good idea so let us be more patient and understanding.</sentcont></sentence>
+<sentence><sentcont>So about the GPS we may want a lot of improvements, both in the phone firmware and hardware and in the info database from Nokia.    7. Music  Playing music is better than N80.</sentcont></sentence>
+<sentence><sentcont>About the sound quality - I expected much better from the "stereo" speakers.</sentcont></sentence>
+<sentence><sentcont>But if you plug in good earphones (not these coming with the phone) it is absolutely ok.</sentcont></sentence>
+<sentence><sentcont>Again do not expect this device to sound like your home stereo.</sentcont></sentence>
+<sentence><sentcont>8. Display  Notably worse than in N80 - we have larger screen with smaller resolution in N95.</sentcont></sentence>
+<sentence><sentcont>It is obvious when look on the very nice data given in the gsmarena.com</sentcont></sentence>
+<sentence><sentcont>review:   Nokia N95 	40 x 53 mm 	240 x 320 pixels 	3,623 pixels/cm 2  Nokia N80 	35 x 41 mm 	352 x 416 pixels 	10,204 pixels/cm 2    9. Robustness of the design  Some people, also in the reviews, it is reported of noises when sliding the slide, or when pressing the buttons on the slide.</sentcont></sentence>
+<sentence><sentcont>This is something that was present in N80 too.</sentcont></sentence>
+<sentence><sentcont>But in N80 also the battery door on the back was loose, something that in N95 is amended.</sentcont></sentence>
+<sentence><sentcont>WHen we have a slide, it just could not be as robust as the bar.</sentcont></sentence>
+<sentence><sentcont>If you were not bored in reading all this, I would ask you to help in trying to expand the list of problem groups.</sentcont></sentence>
+<sentence><sentcont>In this way we can justify reasonably and get a clear overall picture of "the real N95" and not just to say - this is the a "crown", or this is a "rubbish".</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+2417427#12#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Cnet</websource>
+<reviewid>2417427</reviewid>
+<reviewtitle>Great phone, absolutely worth the $$$!!!!!!!!!</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Best display, tons of great & useful apps, best camera </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> GPS maps should've been pre-installed on the memory card </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>Purchased N95 last week.</sentcont></sentence>
+<sentence><sentcont>Before I used a 8801, N93, N80, 6270, 6280, Razr V3, Sony Ericsson w850i, e.t.c....too many to list.</sentcont></sentence>
+<sentence><sentcont>For those of you who are still wondering weather or not it's a good phone for the $, if you have an extra $700 - this is the phone to get.</sentcont></sentence>
+<sentence><sentcont>It has all the features that the phone can have, excellent camera, GPS, e.t.c.Let me start with the camera.</sentcont></sentence>
+<sentence><sentcont>I can only say positive things about it, since it provides excellent pictures not only outside, as many of other users stated, but in the dark as well!</sentcont></sentence>
+<sentence><sentcont>The color balance is great.</sentcont></sentence>
+<sentence><sentcont>Although I would wish some optical zoom...</sentcont></sentence>
+<sentence><sentcont>I took some pictures in a totally dark environment without any light - came out great!! This can really substitute for a digital camera, if you don't care about optical zoom.GPS needs upgrading.</sentcont></sentence>
+<sentence><sentcont>I didn't find any pre-loaded maps, and you need a wi-fi connection to download them.</sentcont></sentence>
+<sentence><sentcont>Speaking of which, i found wifi to be a great upgrade over the N80's first edition.</sentcont></sentence>
+<sentence><sentcont>N80 always gave me 'out of memory' errors whenever browsing the web, as I'm a heavy i-net user, working as an IT. On the other hand, you can see Nokia fixed it with the N95.</sentcont></sentence>
+<sentence><sentcont>Only once I got that same error message, while having multiple apps running on the background, which is understandable with MP3 player, Real player, Snakes 3D, and browsing the web.The phone comes with the 'downloads' link, where you can download some nice free apps as well, such as antivirus, games, ringtones.Bluetooth</sentcont></sentence>
+<sentence><sentcont>works great, I would suggest one to download an upgraded version of Nokia PC Suite (6.83 I believe) because it fixes many known bugs.</sentcont></sentence>
+<sentence><sentcont>Mp3 player is great too, it comes with visualizations, so your friends will go 'WoooooooW'!!!!The battery life is desent for this type of phone with that many features.</sentcont></sentence>
+<sentence><sentcont>Nokia once again upgraded the battery to BL-5F.</sentcont></sentence>
+<sentence><sentcont>It's a litttle bigger, but provides a much longer talking time over the other N-series.</sentcont></sentence>
+<sentence><sentcont>Using the phone all day, playing MP3's for an hour at the gym, with bluetooth turned on all day long, it finally needed charging at night.</sentcont></sentence>
+<sentence><sentcont>Finally, the video camera also doesn't disappoint.</sentcont></sentence>
+<sentence><sentcont>The videos are great, although not DVD-quality like Nokia suggests, they are the best I've ever seen on a cellular phone, much better than on the N93i.One more thing I wanted to mention -- the phone is very well balanced, and feels great in hand.</sentcont></sentence>
+<sentence><sentcont>I love the slider, eventhough it's not an 'assisted one', it still feels much better than over the worst sliding mechanism - N80.</sentcont></sentence>
+<sentence><sentcont>The buttom row of buttons (* 0 #) is very close to the edge, which can make it hard for text messaging.</sentcont></sentence>
+<sentence><sentcont>The number pad, on the other hand, has a great feel to it, so you don't have to look at it all the time while dialing (I txt message a lot, so had to memorize all the letters)).So, for thouse of you, folks, that are still wondering what to do with your $700...</sentcont></sentence>
+<sentence><sentcont>I think N95 is definitely worth considering.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+1110862#12762#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1110862</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>hi PFQR,    SGD$1500??? only rich suckers will that kind of $$$ for a mobile.</sentcont></sentence>
+<sentence><sentcont>I tested prototype set before, and it is sad to say it does not have xenon flash like K800 to take  night shots, or shots in low light condition.</sentcont></sentence>
+<sentence><sentcont>The megapixels is just part of what constitutes a good camera, it is not everything?.N95 has no xenon flash or optical zoom !!!</sentcont></sentence>
+<sentence><sentcont>The keypads is even more difficult to get used to compared to N73, which took me a while to get used to small keypads.</sentcont></sentence>
+<sentence><sentcont>You can easily mixed up the ?C? or cancel button, and the red colour disconnect button if you try to type fast.</sentcont></sentence>
+<sentence><sentcont>The keypads is also very ?plastic?</sentcont></sentence>
+<sentence><sentcont>like, and hard to key on, wonder why nokia designed such a keypad?.</sentcont></sentence>
+<sentence><sentcont>N95.</sentcont></sentence>
+<sentence><sentcont>No xenon flash No optical zoom ( only has digital zoom, up to 10 x and VGA up to 4x ) Focal length of N95: 5.</sentcont></sentence>
+<sentence><sentcont>6/35 mm (35 mm equivalent).</sentcont></sentence>
+<sentence><sentcont>On the plus side, it has 3.</sentcont></sentence>
+<sentence><sentcont>5 mm audio output jack, TV out and the ultra cool dual slide design with a totally different user interface compared to other N series, which changes to landscape or portrait view when you slide to either direction.</sentcont></sentence>
+<sentence><sentcont>Not to forget that it supports Wi-Fi., and has 5 mpg camera.</sentcont></sentence>
+<sentence><sentcont>Overall, I would think it?s not really worth trading in my N73 for this???..although many people think other wise?.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+2407992#1#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Cnet</websource>
+<reviewid>2407992</reviewid>
+<reviewtitle>1st Class Phone</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Great all-round device that does everything </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Slight delays when using some functionality </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>Having read the editor's review you'd end up thinking that the phone didn't look that good, have great build quality or respond well, and possibly also that it wasn't the best thing since sliced bread.</sentcont></sentence>
+<sentence><sentcont>The truth is that this is one of the best looking and feeling handsets out there.</sentcont></sentence>
+<sentence><sentcont>The build quality is very solid and it's snappy for all the key phone functions.Having</sentcont></sentence>
+<sentence><sentcont>used every kind of handset ranging from the Palm based Treo to a multitude of Windows and Series 60 phones over the recent years they've all fallen well short of being an ideal phone.</sentcont></sentence>
+<sentence><sentcont>This is the first one which genuinely starts to deliver the goods.The</sentcont></sentence>
+<sentence><sentcont>overall feel of using the N95 is that it is simply phenomenal and without doubt is a milestone in mobile phone development.</sentcont></sentence>
+<sentence><sentcont>I'm fortunate to be based in London and get to benefit from all the 3G goodness and speed, and have to say that the browsing, navigation (GPS) and multimedia goodies such as playing the games on my wide screen television make this handset an unbelievably useful and fun device.Other</sentcont></sentence>
+<sentence><sentcont>great features are the performance for syncing, it used to take ages to sync a Nokia phone, but this one syncs faster than you realise, so much so, that I've set it to auto sync via Bluetooth whenever it's near my laptop.The 3G connectivity means that surfing and emailing through the PC or N800 are now a joy on the move as well as in the office.The</sentcont></sentence>
+<sentence><sentcont>other thing to note is that the connectivity in general and especially the Wifi works extremely well.</sentcont></sentence>
+<sentence><sentcont>The phone seems to instantly detect wireless networks, at least three or four times faster than Windows and allows easy switching between the wifi and 3G connections allowing you to save on your bandwidth bill.What is clear though is that some of the functionality is in effect 'back-up' to dedicated devices.</sentcont></sentence>
+<sentence><sentcont>I'd always prefer to take photos with a dedicated digital camera although the camera works very well in good light (although it is slow).</sentcont></sentence>
+<sentence><sentcont>The GPS (Maps) application is great and the ability to drill down into street level in villages in Hungary (where my wife is from and currently visiting) is something I've never found before in a GPS device.</sentcont></sentence>
+<sentence><sentcont>I would still use my Nuvi though to navigate around most of Europe since it does a great job and has a bigger screen.This is also the first Nokia which is 'standard' in that it has standard headphone jack and USB connectors.</sentcont></sentence>
+<sentence><sentcont>It means it actually starts to feel like a tiny computer rather than simply a phone.</sentcont></sentence>
+<sentence><sentcont>If you compare the performance of this device with PCs it comes on top in all kinds of scenarios.</sentcont></sentence>
+<sentence><sentcont>The multi-tasking nature of the N95 is also great.</sentcont></sentence>
+<sentence><sentcont>It allows you to flick through songs using the dedicated keys, whilst reading a travel guide and plotting your route to the next destination, all to be gently interrupted by an incoming call with a 3D ringtone which zooms from one side to the other.Having looked at some of the reviews and my own experience, and compared them with the editor's review it's clear that the editor has got this one seriously wrong.</sentcont></sentence>
+<sentence><sentcont>I can appreciate that there's a couple of disadvantages in using the handset in the US but even then the general performance should simply blow you away.There's no device that comes close to this phone as an all-round handy device which really works.</sentcont></sentence>
+<sentence><sentcont>It certainly means I'll be carrying a lot fewer devices on a day-to-day basis</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+115725#7625#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>115725</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Use the Nokia N95 for connecting to mobile Broadband using WLAN or HSDPA (3.5G) with up to 10 times faster downloading than 3G.</sentcont></sentence>
+<sentence><sentcont>Find directions and locations with the integrated GPS and included maps.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 is a GSM/WCDMA dual mode portable multimedia computer supporting EGSM 850/900/1800/1900 and WCDMA 2100 HSDPA.</sentcont></sentence>
+<sentence><sentcont>Use the Nokia N95 to take photos with a 5 megapixel autofocus camera and enjoy videos, music and graphics with crystal clarity on the 2.6?</sentcont></sentence>
+<sentence><sentcont>QVGA (240 x 320 pixels), 16M color display.</sentcont></sentence>
+<sentence><sentcont>Listen to music with enhanced ?3D</sentcont></sentence>
+<sentence><sentcont>stereo?</sentcont></sentence>
+<sentence><sentcont>using the built-in dual speakers or for a big screen experience, connect the Nokia N95 to a compatible TV using direct TV out connectivity or via Wireless LAN and UPnP technology.</sentcont></sentence>
+<sentence><sentcont>Additional Nokia N95 features include USB 2.0, Bluetooth 2.0 EDR with A2DP stereo audio, and MicroSD memory card support.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+1110980#12880#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>1110980</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Just read on www.</sentcont></sentence>
+<sentence><sentcont>nokiablog.</sentcont></sentence>
+<sentence><sentcont>om that the gprs maps my not be usable at all an that the vidoe a music output might be mono instead of steroe,an with the price of the N95 not many people will be buying this mobile as its a bit to e.</sentcont></sentence>
+<sentence><sentcont>pensive for those who just use there mobiles for talking an texting,an the battery on the N95 is not great an will need charging everyday if you are using the mobiles music an camera plus radio functions an thats another thing Nokia should have thought about before producing the N95 with all the functions on it how long can it last but they haven"t thought about that at all why?.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+117126#9026#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>117126</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Nokia N95 Technical Specs Operating System:.</sentcont></sentence>
+<sentence><sentcont>Symbian OS v9.</sentcont></sentence>
+<sentence><sentcont>2 Developer Platform:.</sentcont></sentence>
+<sentence><sentcont>S60 3rd Edition, Feature Pack 1 Frequency Band:.</sentcont></sentence>
+<sentence><sentcont>GSM 850.</sentcont></sentence>
+<sentence><sentcont>GSM 900.</sentcont></sentence>
+<sentence><sentcont>GSM 1800.</sentcont></sentence>
+<sentence><sentcont>GSM 1900.</sentcont></sentence>
+<sentence><sentcont>WCDMA 2100 Regional Availability:.</sentcont></sentence>
+<sentence><sentcont>Africa.</sentcont></sentence>
+<sentence><sentcont>Asia-Pacific.</sentcont></sentence>
+<sentence><sentcont>China.</sentcont></sentence>
+<sentence><sentcont>Europe.</sentcont></sentence>
+<sentence><sentcont>Middle East Display:.</sentcont></sentence>
+<sentence><sentcont>Resolution: 240 x 320.</sentcont></sentence>
+<sentence><sentcont>Color Depth: 24 bit CPU:.</sentcont></sentence>
+<sentence><sentcont>Dual CPU.</sentcont></sentence>
+<sentence><sentcont>CPU Type: ARM 11.</sentcont></sentence>
+<sentence><sentcont>CPU Clock Rate: 332 MHz.</sentcont></sentence>
+<sentence><sentcont>3D Graphics HW Accelerator Memory:.</sentcont></sentence>
+<sentence><sentcont>Max User Storage: 160 MB.</sentcont></sentence>
+<sentence><sentcont>NAND Memory: 256 MB.</sentcont></sentence>
+<sentence><sentcont>SDRAM Memory: 64 MB.</sentcont></sentence>
+<sentence><sentcont>~18 MB Free Executable RAM Memory.</sentcont></sentence>
+<sentence><sentcont>Memory Card: Micro SD.</sentcont></sentence>
+<sentence><sentcont>Max Memory Card Size: 2 GB.</sentcont></sentence>
+<sentence><sentcont>Memory Card Feature: Hot Swap.</sentcont></sentence>
+<sentence><sentcont>Unlimited Heap size.</sentcont></sentence>
+<sentence><sentcont>Unlimited Jar size Network Data Support:.</sentcont></sentence>
+<sentence><sentcont>HSDPA.</sentcont></sentence>
+<sentence><sentcont>WCDMA.</sentcont></sentence>
+<sentence><sentcont>EGPRS.</sentcont></sentence>
+<sentence><sentcont>GPRS.</sentcont></sentence>
+<sentence><sentcont>HSCSD.</sentcont></sentence>
+<sentence><sentcont>CSD OMA Device Management:.</sentcont></sentence>
+<sentence><sentcont>OMA Client Provisioning v1.</sentcont></sentence>
+<sentence><sentcont>1.</sentcont></sentence>
+<sentence><sentcont>OMA Device Management v1.</sentcont></sentence>
+<sentence><sentcont>1.</sentcont></sentence>
+<sentence><sentcont>2.</sentcont></sentence>
+<sentence><sentcont>Additional Info OMA Data Synchronization:.</sentcont></sentence>
+<sentence><sentcont>OMA Data Synchronization v1.</sentcont></sentence>
+<sentence><sentcont>2.</sentcont></sentence>
+<sentence><sentcont>Additional Info Local Connectivity:.</sentcont></sentence>
+<sentence><sentcont>Bluetooth 2.</sentcont></sentence>
+<sentence><sentcont>0 +EDR.</sentcont></sentence>
+<sentence><sentcont>Infrared.</sentcont></sentence>
+<sentence><sentcont>Mini Stereo Plug 3.</sentcont></sentence>
+<sentence><sentcont>5mm.</sentcont></sentence>
+<sentence><sentcont>Mini USB.</sentcont></sentence>
+<sentence><sentcont>Nokia Audio Visual Plug 3.</sentcont></sentence>
+<sentence><sentcont>5mm.</sentcont></sentence>
+<sentence><sentcont>UPnP.</sentcont></sentence>
+<sentence><sentcont>USB 2.</sentcont></sentence>
+<sentence><sentcont>0.</sentcont></sentence>
+<sentence><sentcont>USB Cable Nokia DKE-2.</sentcont></sentence>
+<sentence><sentcont>USB Mass Storage.</sentcont></sentence>
+<sentence><sentcont>WLAN.</sentcont></sentence>
+<sentence><sentcont>Additional Info.</sentcont></sentence>
+<sentence><sentcont>WLAN Support:.</sentcont></sentence>
+<sentence><sentcont>802.</sentcont></sentence>
+<sentence><sentcont>11b/g.</sentcont></sentence>
+<sentence><sentcont>WPA.</sentcont></sentence>
+<sentence><sentcont>WPA2 (AES/TKIP).</sentcont></sentence>
+<sentence><sentcont>Additional Info.</sentcont></sentence>
+<sentence><sentcont>VoIP:.</sentcont></sentence>
+<sentence><sentcont>Nokia VoIP 2.</sentcont></sentence>
+<sentence><sentcont>1 Bluetooth Profiles:.</sentcont></sentence>
+<sentence><sentcont>A2DP, AVRCP, BIP, BPP, DUN, FTP, GAVDP, GOEP, HFP, HSP, OPP, SAP Java Technology:.</sentcont></sentence>
+<sentence><sentcont>MIDP 2.</sentcont></sentence>
+<sentence><sentcont>0.</sentcont></sentence>
+<sentence><sentcont>CLDC 1.</sentcont></sentence>
+<sentence><sentcont>1.</sentcont></sentence>
+<sentence><sentcont>JSR 135 Mobile Media API.</sentcont></sentence>
+<sentence><sentcont>JSR 172 Web Services API.</sentcont></sentence>
+<sentence><sentcont>JSR 177 Security and Trust Services API.</sentcont></sentence>
+<sentence><sentcont>JSR 179 Location API.</sentcont></sentence>
+<sentence><sentcont>JSR 180 SIP API.</sentcont></sentence>
+<sentence><sentcont>JSR 184 Mobile 3D Graphics API.</sentcont></sentence>
+<sentence><sentcont>JSR 185 JTWI.</sentcont></sentence>
+<sentence><sentcont>JSR 205 Wireless Messaging API.</sentcont></sentence>
+<sentence><sentcont>JSR 226 Scalable 2D Vector Graphics API.</sentcont></sentence>
+<sentence><sentcont>JSR 234 Advanced Multimedia Supplements.</sentcont></sentence>
+<sentence><sentcont>JSR 75 FileConnection and PIM API.</sentcont></sentence>
+<sentence><sentcont>JSR 82 Bluetooth API.</sentcont></sentence>
+<sentence><sentcont>Nokia UI API Java Verified Root Certificate:.</sentcont></sentence>
+<sentence><sentcont>UTI Root Symbian Certificates:.</sentcont></sentence>
+<sentence><sentcont>A, B, C, D Browser:.</sentcont></sentence>
+<sentence><sentcont>HTML over TCP/IP.</sentcont></sentence>
+<sentence><sentcont>S60 OSS Browser.</sentcont></sentence>
+<sentence><sentcont>WAP 2.</sentcont></sentence>
+<sentence><sentcont>0.</sentcont></sentence>
+<sentence><sentcont>XHTML over TCP/IP.</sentcont></sentence>
+<sentence><sentcont>Additional Info Flash Lite:.</sentcont></sentence>
+<sentence><sentcont>Flash Lite 2.</sentcont></sentence>
+<sentence><sentcont>0 Messaging:.</sentcont></sentence>
+<sentence><sentcont>MMS.</sentcont></sentence>
+<sentence><sentcont>MMS+SMIL.</sentcont></sentence>
+<sentence><sentcont>SMS Email Protocol:.</sentcont></sentence>
+<sentence><sentcont>IMAP4.</sentcont></sentence>
+<sentence><sentcont>POP3.</sentcont></sentence>
+<sentence><sentcont>SMTP Digital Rights Management:.</sentcont></sentence>
+<sentence><sentcont>OMA DRM Forward Lock.</sentcont></sentence>
+<sentence><sentcont>OMA DRM v1.</sentcont></sentence>
+<sentence><sentcont>0.</sentcont></sentence>
+<sentence><sentcont>OMA DRM v2.</sentcont></sentence>
+<sentence><sentcont>0.</sentcont></sentence>
+<sentence><sentcont>Windows Media DRM 10.</sentcont></sentence>
+<sentence><sentcont>Additional Info.</sentcont></sentence>
+<sentence><sentcont>DRM Delivery Method:.</sentcont></sentence>
+<sentence><sentcont>HTTP Download.</sentcont></sentence>
+<sentence><sentcont>MMS.</sentcont></sentence>
+<sentence><sentcont>OMA Download.</sentcont></sentence>
+<sentence><sentcont>Additional Info Camera:.</sentcont></sentence>
+<sentence><sentcont>Resolution: 2582 x 1944.</sentcont></sentence>
+<sentence><sentcont>Sensor: CMOS 5.</sentcont></sentence>
+<sentence><sentcont>0 Megapixels.</sentcont></sentence>
+<sentence><sentcont>Focal length 5.</sentcont></sentence>
+<sentence><sentcont>6 mm.</sentcont></sentence>
+<sentence><sentcont>F-Stop/Aperture f/2.</sentcont></sentence>
+<sentence><sentcont>8.</sentcont></sentence>
+<sentence><sentcont>Focus range 10 cm to infinity.</sentcont></sentence>
+<sentence><sentcont>Digital Zoom: 20 x.</sentcont></sentence>
+<sentence><sentcont>Image Format: JPEG/Exif.</sentcont></sentence>
+<sentence><sentcont>Feature: Auto Focus, Carl Zeiss Optics, Flash, Red-Eye Reduction, Self Timer.</sentcont></sentence>
+<sentence><sentcont>Video Resolution: 640 x 480.</sentcont></sentence>
+<sentence><sentcont>Video Frame Rate: 30 fps.</sentcont></sentence>
+<sentence><sentcont>Video Zoom: 10 x.</sentcont></sentence>
+<sentence><sentcont>Video Format: H.</sentcont></sentence>
+<sentence><sentcont>263, MPEG-4 Secondary Camera:.</sentcont></sentence>
+<sentence><sentcont>Resolution: 320 x 240.</sentcont></sentence>
+<sentence><sentcont>Focal length 43 mm.</sentcont></sentence>
+<sentence><sentcont>F-Stop/Aperture f/2.</sentcont></sentence>
+<sentence><sentcont>8.</sentcont></sentence>
+<sentence><sentcont>Focus range 10 cm to infinity.</sentcont></sentence>
+<sentence><sentcont>Digital Zoom: 2 x.</sentcont></sentence>
+<sentence><sentcont>Image Format: JPEG/Exif.</sentcont></sentence>
+<sentence><sentcont>Video Resolution: 176 x 144.</sentcont></sentence>
+<sentence><sentcont>Video Frame Rate: 15 fps.</sentcont></sentence>
+<sentence><sentcont>Video Zoom: 2 x.</sentcont></sentence>
+<sentence><sentcont>Video Format: H.</sentcont></sentence>
+<sentence><sentcont>263 Video Features:.</sentcont></sentence>
+<sentence><sentcont>Video Call.</sentcont></sentence>
+<sentence><sentcont>Video Editor.</sentcont></sentence>
+<sentence><sentcont>Video Player.</sentcont></sentence>
+<sentence><sentcont>Video Recorder.</sentcont></sentence>
+<sentence><sentcont>Video Sharing.</sentcont></sentence>
+<sentence><sentcont>Video Streaming Video Formats:.</sentcont></sentence>
+<sentence><sentcont>3GPP formats (H.</sentcont></sentence>
+<sentence><sentcont>263).</sentcont></sentence>
+<sentence><sentcont>H.</sentcont></sentence>
+<sentence><sentcont>264/AVC.</sentcont></sentence>
+<sentence><sentcont>MPEG-4.</sentcont></sentence>
+<sentence><sentcont>RealVideo 7,8,9/10.</sentcont></sentence>
+<sentence><sentcont>Additional Info Audio Features:.</sentcont></sentence>
+<sentence><sentcont>Audio Equalizer.</sentcont></sentence>
+<sentence><sentcont>Audio Recording AAC stereo, 48kHz.</sentcont></sentence>
+<sentence><sentcont>Audio Streaming.</sentcont></sentence>
+<sentence><sentcont>Music Player.</sentcont></sentence>
+<sentence><sentcont>Stereo Audio Formats:.</sentcont></sentence>
+<sentence><sentcont>AAC, AAC+, eAAC, eAAC+, MP3, MP4, M4A, WMA, Mobile XMF, SP-MIDI, AMR (NB-AMR), MIDI Tones (poly 64), RealAudio 7,8,10, True tones (WB-AMR), WAV.</sentcont></sentence>
+<sentence><sentcont>Additional Info Document Formats:.</sentcont></sentence>
+<sentence><sentcont>Excel, PDF, Powerpoint, Word, Zip Graphics Formats:.</sentcont></sentence>
+<sentence><sentcont>BMP, EXIF, GIF87a, GIF89a, JPEG, JPEG 2000, PNG, WBMP Extra Features:.</sentcont></sentence>
+<sentence><sentcont>Digital Recorder.</sentcont></sentence>
+<sentence><sentcont>GPS.</sentcont></sentence>
+<sentence><sentcont>OpenGL ES 1.</sentcont></sentence>
+<sentence><sentcont>1 Plugin.</sentcont></sentence>
+<sentence><sentcont>PoC (Push-to-talk over Cellular).</sentcont></sentence>
+<sentence><sentcont>Stereo FM Radio.</sentcont></sentence>
+<sentence><sentcont>Stereo Handsfree Speakers.</sentcont></sentence>
+<sentence><sentcont>Still Image Editor.</sentcont></sentence>
+<sentence><sentcont>SyncML.</sentcont></sentence>
+<sentence><sentcont>Themes.</sentcont></sentence>
+<sentence><sentcont>TV Out.</sentcont></sentence>
+<sentence><sentcont>Visual Radio Keypad Description:.</sentcont></sentence>
+<sentence><sentcont>2 Labeled Soft Keys.</sentcont></sentence>
+<sentence><sentcont>5-way Scrolling.</sentcont></sentence>
+<sentence><sentcont>Dedicated Media Keys.</sentcont></sentence>
+<sentence><sentcont>Side Key Mat Power Management:.</sentcont></sentence>
+<sentence><sentcont>2.</sentcont></sentence>
+<sentence><sentcont>0mm Charger Connector Battery Capacity:.</sentcont></sentence>
+<sentence><sentcont>BL-5F 3.</sentcont></sentence>
+<sentence><sentcont>7v 1100 mAh Talk Time (estimated):.</sentcont></sentence>
+<sentence><sentcont>GSM: up to 4 hours.</sentcont></sentence>
+<sentence><sentcont>WCDMA: up to 2.</sentcont></sentence>
+<sentence><sentcont>7 hours Standby Time (estimated):.</sentcont></sentence>
+<sentence><sentcont>GSM: up to 9.</sentcont></sentence>
+<sentence><sentcont>3 days.</sentcont></sentence>
+<sentence><sentcont>WCDMA: up to 8.</sentcont></sentence>
+<sentence><sentcont>3 days Size:.</sentcont></sentence>
+<sentence><sentcont>99 x 53 x 21 mm Weight:.</sentcont></sentence>
+<sentence><sentcont>120 g.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+115358#7258#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>115358</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Hello Friends,  Please consider all the above few negative points before buying.</sentcont></sentence>
+<sentence><sentcont>This is a truth for N95    No Touch screen?</sentcont></sentence>
+<sentence><sentcont>I think Nokia is not confident in making touch screen mobiles or they want to make profit, anyway we are forced to use the old keypad.</sentcont></sentence>
+<sentence><sentcont>You cannot see the screen in bright sun, the screen get blackened make poor visibility even the display brightness is set to 100%.</sentcont></sentence>
+<sentence><sentcont>Battery backup less than a day, if you use wlan/mp3.</sentcont></sentence>
+<sentence><sentcont>If not using battery charge will last for hardly 2 days Application manager hangs the phones several times.</sentcont></sentence>
+<sentence><sentcont>This is a serious issue, most of the customer doesn't know sis support not there.</sentcont></sentence>
+<sentence><sentcont>only sisx n jar support.</sentcont></sentence>
+<sentence><sentcont>No USB charging, only thr 230v supply, cannot charge ur cell from laptop.</sentcont></sentence>
+<sentence><sentcont>See Sony Errision & Motorola, how good in charging the battery using USB.</sentcont></sentence>
+<sentence><sentcont>Bluetooth paring is too slow n transfer speed is too slow.</sentcont></sentence>
+<sentence><sentcont>This is applicable for those who use bluetooth in data transfer You cannot transfer files via blutooth more than 160MB in old N95.</sentcont></sentence>
+<sentence><sentcont>I don't know about new N95.</sentcont></sentence>
+<sentence><sentcont>Camera lens is not covered in new N95, Old one have a projected cover.</sentcont></sentence>
+<sentence><sentcont>Accumulation of dirt n getting scratch in lens area in ur precious 5 mp camera.</sentcont></sentence>
+<sentence><sentcont>Accessories are too costly.</sentcont></sentence>
+<sentence><sentcont>keypad will get loosen very fast, no life for the keypad, nokia have to do some thing for this.</sentcont></sentence>
+<sentence><sentcont>Without good keypad whatz the use of mobile.</sentcont></sentence>
+<sentence><sentcont>Not user friendly for browsing net in wireless lan.</sentcont></sentence>
+<sentence><sentcont>keypad problem.</sentcont></sentence>
+<sentence><sentcont>Poor battery life, depends on the usage above said.</sentcont></sentence>
+<sentence><sentcont>No option to kill the application, if the phone hangs, u need to remove the battery to reboot.</sentcont></sentence>
+<sentence><sentcont>This is shame for all N serie.</sentcont></sentence>
+<sentence><sentcont>Sim card is behind the battery.</sentcont></sentence>
+<sentence><sentcont>Can't turn off the network when phone is switched on.</sentcont></sentence>
+<sentence><sentcont>Advantage for  Motorola new series like Rockr E6. small keypad make it difficult in typing.</sentcont></sentence>
+<sentence><sentcont>Calender entry is not as user friendly.</sentcont></sentence>
+<sentence><sentcont>Battery backup only 2 days.</sentcont></sentence>
+<sentence><sentcont>Talktime 4 hrs.</sentcont></sentence>
+<sentence><sentcont>Mp3 only 5 hrs.</sentcont></sentence>
+<sentence><sentcont>Call are getting rejected frequently when the buttons gets pressed inside the pocket, even the phone is locked.</sentcont></sentence>
+<sentence><sentcont>Phone will dial itself in pocket, if it is not key pad locked.</sentcont></sentence>
+<sentence><sentcont>Sliding get loosed so fast.</sentcont></sentence>
+<sentence><sentcont>mine was loosened in a month use.</sentcont></sentence>
+<sentence><sentcont>Interfacing N95 with our pc/laptop is very tedious, It take time for both in bluetooth n thr USB.</sentcont></sentence>
+<sentence><sentcont>Transfer rate through USB is slow.</sentcont></sentence>
+<sentence><sentcont>Battery cover is too thin, the clip can get break easily.</sentcont></sentence>
+<sentence><sentcont>Thickeness is more for this cell(21mm).</sentcont></sentence>
+<sentence><sentcont>TV out, audio output fails.</sentcont></sentence>
+<sentence><sentcont>video does'nt hva good quality in TV Out.</sentcont></sentence>
+<sentence><sentcont>FM Sound output is too low.</sentcont></sentence>
+<sentence><sentcont>Bass Boosting is not good.</sentcont></sentence>
+<sentence><sentcont>U will not feel the boosting in bass.</sentcont></sentence>
+<sentence><sentcont>Overall feature ratings are poor.</sentcont></sentence>
+<sentence><sentcont>I will rate 6 of 10. Need more features like Business card reader, Office editor, USB charging, touch screen, FM stereo output.</sentcont></sentence>
+<sentence><sentcont>Office word will not show pictures n tables, No power management feature, Video flickers and drags in night mode, slow bluetooth n USB tansfer, No body think that you will clear pictures always in its 5 mp camera, its not a digital camera, its a mobile.</sentcont></sentence>
+<sentence><sentcont>Why am telling this, I have compared Sony 5 mp digital camera pictures with that of N95 5mp pictures.</sentcont></sentence>
+<sentence><sentcont>The picture clarity is for Sony's 5 mp cam though one picture size is 4.5MB jpeg, whereas the picture size of N95 5mp picture is 800Kb max in jpeg (less than 1MB).</sentcont></sentence>
+<sentence><sentcont>Here it goes, the jpeg picture quality is reduced if the picture is compressed less than 1 MB. N95 could retain the actual picture quality rather goes for image compression loosing the jpeg informations.</sentcont></sentence>
+<sentence><sentcont>There is no option to vary the compression or settings to improve the picture quality with increase in size of each captured image.</sentcont></sentence>
+<sentence><sentcont>Kailas Senan  Larsen & Toubro Limited  Embedded System Software Engineer  Kailas.Senan@Lntemsys.com</sentcont></sentence>
+<sentence><sentcont>Ph: 9448847754</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+116919#8819#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Gsmarena</websource>
+<reviewid>116919</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>This is -almost- an amazing phone.</sentcont></sentence>
+<sentence><sentcont>It's so close to being great, but it misses out on a few important things.</sentcont></sentence>
+<sentence><sentcont>First, there's the battery.</sentcont></sentence>
+<sentence><sentcont>Even with all the features like bluetooth turned off and the phone on the lowest battery use possible with just a regular user's calls and text usage you'll be lucky to get two days out of it.</sentcont></sentence>
+<sentence><sentcont>Considering many phones these days have batteries that last more than a week, it's just not good enough.</sentcont></sentence>
+<sentence><sentcont>I understand that a complicated phone like this will drain the battery more, but most people don't care about that and require more than that.</sentcont></sentence>
+<sentence><sentcont>Second, the sat-nav.</sentcont></sentence>
+<sentence><sentcont>It's a great feature to have on a phone, and kudos to Nokia for being the first to put it into a popular handset.</sentcont></sentence>
+<sentence><sentcont>But, it's buggy.</sentcont></sentence>
+<sentence><sentcont>It can jump from place to place, it doesn't flow smoothly, it's slow to load, and getting the maps loaded and updated is a hassle.</sentcont></sentence>
+<sentence><sentcont>Plus there's not enough space on the phone really to store all of that.</sentcont></sentence>
+<sentence><sentcont>Third, the memory.</sentcont></sentence>
+<sentence><sentcont>A handset with a 5MP camera and built in sat nav not coming with a large internal memory or a decent sized memory card in the box just doesn't make sense.</sentcont></sentence>
+<sentence><sentcont>I can understand how they want extra money through accessory sales, but when you market a handset for certain purposes it makes sense to give the customer the full package.</sentcont></sentence>
+<sentence><sentcont>It's an expensive phone with impressive features.</sentcont></sentence>
+<sentence><sentcont>If only there had been that little bit more care put into it.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+2430784#5#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Cnet</websource>
+<reviewid>2430784</reviewid>
+<reviewtitle>All your dreams...in the palm of your hand</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> WiFi, GPS, Bluetooth 2.0+EDR, Symbian OS based, Map application, large screen, dual slider, intuitive user interface, 5MP camera </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Battery life poor, but it is fine w/ a nightly recharge, not made of anodized aluminum </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>This phone does everything imaginable.</sentcont></sentence>
+<sentence><sentcont>It's pretty much a full computer in your pocket.Camera:5MP is phenomenal for a cell phone.</sentcont></sentence>
+<sentence><sentcont>It also has many advanced functions such as aperture settings, exposure compensation, white balance, self timer, and red-eye flash settings.</sentcont></sentence>
+<sentence><sentcont>On top of that, the video camera is very very good but not DVD quality as Nokia says.</sentcont></sentence>
+<sentence><sentcont>It even has image stabilization built in.</sentcont></sentence>
+<sentence><sentcont>In other reviews, you may have read that the "camera was slow" or something along those lines.</sentcont></sentence>
+<sentence><sentcont>The truth is that the shutter itself is not slow, but the response time between pushing the button and the clicking of the shutter is long.GPS: Really useful and neat feature to have.</sentcont></sentence>
+<sentence><sentcont>Be sure to clear all maps first using the PC map loader (if it was not bought in the US--mine was an Asian model) Then load your US maps into the memory card.</sentcont></sentence>
+<sentence><sentcont>The map goes down to street level and is fairly up-to-date.</sentcont></sentence>
+<sentence><sentcont>The accuracy of the GPS is around 150 feet.</sentcont></sentence>
+<sentence><sentcont>It even indicates altitude and speed of your vehicle.Video/Music Playback:The media centre of this phone has some impressive animation, and plays videos and songs in stereo sound with impressive quality.</sentcont></sentence>
+<sentence><sentcont>Plus, it can be hooked up to any TV so you can blow it up on a larger screen.WiFi:Fairly good.</sentcont></sentence>
+<sentence><sentcont>Regular sites don't load as fast as a normal comp, but that's because of the overall processing power/RAM of the unit.</sentcont></sentence>
+<sentence><sentcont>WiFi also saves you on expensive data costs that you would prob encounter with your wireless carrier.</sentcont></sentence>
+<sentence><sentcont>It's really useful for checking email and browsing your favorite sites.Bluetooth:The</sentcont></sentence>
+<sentence><sentcont>EDR really helps when you sync your media files from your computer.</sentcont></sentence>
+<sentence><sentcont>It also helps increase the range between your computer and the N95.User interface:The Symbian OS is very intuitive and clean.</sentcont></sentence>
+<sentence><sentcont>Occasionally, it lags but this wasn't a big issue for me.</sentcont></sentence>
+<sentence><sentcont>Even more complex apps like the Map application loads and quits efficiently without hanging up.</sentcont></sentence>
+<sentence><sentcont>The unit only freezes after applying a more complex setting such as changing the system theme or something.</sentcont></sentence>
+<sentence><sentcont>It can be fixed by a simple restart of the device.</sentcont></sentence>
+<sentence><sentcont>However, this should've been fixed by Nokia through a simple message telling you to restart your device the way you'd restart your computer after installing an update or program.Battery:This</sentcont></sentence>
+<sentence><sentcont>seems to be a big point of critisism for the editors and other users of this phone.</sentcont></sentence>
+<sentence><sentcont>The honest bottom line is this: it doesn't go about 14 hrs without a recharge.</sentcont></sentence>
+<sentence><sentcont>(that is w/ use of WiFi, GPS, and Bluetooth).</sentcont></sentence>
+<sentence><sentcont>If you use the phone just for talking w/ idling, the battery lasts a comfortable 21 hrs.</sentcont></sentence>
+<sentence><sentcont>The best thing to do is to probably charge it overnight daily.</sentcont></sentence>
+<sentence><sentcont>Then you'll be fine.PDA</sentcont></sentence>
+<sentence><sentcont>functionality:The address book, calandar, and document viewers are excellent.</sentcont></sentence>
+<sentence><sentcont>Multiple numbers per contact w/ room for email addresses, home addresses etc.</sentcont></sentence>
+<sentence><sentcont>The calandar has many options for appts, meetings, and alarms.</sentcont></sentence>
+<sentence><sentcont>The document viewer not only opens regular text docs, but also spreadsheets and some kind of file that resembles PowerPoint.</sentcont></sentence>
+<sentence><sentcont>Checking email is also easy as setting up your account with the wizard is a snap.</sentcont></sentence>
+<sentence><sentcont>It works of WiFi or through your wireless carrier.Screen:The</sentcont></sentence>
+<sentence><sentcont>size is really nice and the important info such as time, date, etc show up nice and large so it's easy to read.</sentcont></sentence>
+<sentence><sentcont>For videos and the GPS, it's perfect.</sentcont></sentence>
+<sentence><sentcont>The ambient light sensor works well.Physical</sentcont></sentence>
+<sentence><sentcont>feel:The phone has a solid feel.</sentcont></sentence>
+<sentence><sentcont>It's also slimmer than it looks.</sentcont></sentence>
+<sentence><sentcont>When I saw the pics on the Nokia site, it def looked thicker than when I actually had the unit in my hand.</sentcont></sentence>
+<sentence><sentcont>The fact that the sliding mechanism isn't assisted isn't a big deal for me.</sentcont></sentence>
+<sentence><sentcont>The two-way slider is also pretty neat.</sentcont></sentence>
+<sentence><sentcont>However, the slider, when open, has a slight flimsy feel to it.</sentcont></sentence>
+<sentence><sentcont>It's also made of plastic, and not anodized aluminum like a lot of new electronics (eg.</sentcont></sentence>
+<sentence><sentcont>iPod) which is surprising for such a high-tech device.</sentcont></sentence>
+<sentence><sentcont>The plastic is wrapped tightly and solidly around the device though and doesn't "squeak" or "creak" when being handled.Overall, this phone is really THE THING as it surpasses the typical smartphone.</sentcont></sentence>
+<sentence><sentcont>Despite a few minor faults, it is an amazing device with tremendous functionality.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+2444814#17#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Cnet</websource>
+<reviewid>2444814</reviewid>
+<reviewtitle>This phone is fantastic....the review didn't scratch the surface!!</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Great GPS</sentcont>
+<sentcont>Synchs with my MS Office clients</sentcont>
+<sentcont>Great picture and video Quality</sentcont>
+<sentcont>Can make VoIP/SIP phone calls</sentcont>
+<sentcont>Super interface!</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Battery Life!</sentcont>
+<sentcont>Camera flash is LED instead of a xenon</sentcont>
+<sentcont>Battery Life!</sentcont>
+<sentcont>Not ideal for those that aren't tech savvy</sentcont>
+<sentcont>Limited use of US "3G" </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I'll make this short and sweet.</sentcont></sentence>
+<sentence><sentcont>I was waiting 6 months for this phone to come out.</sentcont></sentence>
+<sentence><sentcont>I've owned it since the 2nd day it was available in Europe and it was everything I wanted and more.I have intergrated my life into one device.</sentcont></sentence>
+<sentence><sentcont>My work mail(exchange) and my g-mail work flawlessly.</sentcont></sentence>
+<sentence><sentcont>All of my appointments and to-dos are synched with my MS office client and now i never miss a birthday, appointment or flight.The</sentcont></sentence>
+<sentence><sentcont>GPS is perfect for getting around town and thus far I've used it in Washington DC, Baltimore, San Francisco, Philly and NYC.</sentcont></sentence>
+<sentence><sentcont>I never get lost anymore!! Oh and if you plan on using this phone get the proclip for your car...it will save your life!!</sentcont></sentence>
+<sentence><sentcont>You can either look up locations by address or if it's featured in the in-phone database.</sentcont></sentence>
+<sentence><sentcont>Don't be unrealistic when looking up addresses with this phone.</sentcont></sentence>
+<sentence><sentcont>Like any GPS you have to be practical, you can't just follow it blindly and expect to be exactly where it tells you.</sentcont></sentence>
+<sentence><sentcont>You can also save landmarks for future use, so if you're at a location you want to find easily again you can just save it on your phone and find your way back their easily from that point on.Swear to god the phone weighs less than a pack of cards and a little more than a pack of cigarettes.I work for a VoIP provider and have gotten the Internet Calling to function and it's fantastic.</sentcont></sentence>
+<sentence><sentcont>Nothing beats bypassing the cell phone carrier and calling France, London or Japan for pennies.</sentcont></sentence>
+<sentence><sentcont>Or being at London Heathrow and being able to call home from and internet Kiosk and to everyone backhome it's a local call and costs me nothing!!I could get into the camers but that would take forever and I've alrady praised this phone enough now for the cons.Firstly the battery life is pretty short.</sentcont></sentence>
+<sentence><sentcont>This phone needs to be charged at every oppertunity.</sentcont></sentence>
+<sentence><sentcont>Realistically it's got too many features for it not to be a power vampire.</sentcont></sentence>
+<sentence><sentcont>I'm sure the engineers at Nokia could have doubled or tripled the battery life but then the device would not maintain its light weight.</sentcont></sentence>
+<sentence><sentcont>Between Wifi, bluetooth, camera, GPS, a bright and sharp screen that will light up a dark room, this device has a real world 12-24 hours of use before needing a charge.People are also very disappointed that it doesn't have a touch screen like the iphone.</sentcont></sentence>
+<sentence><sentcont>Again I'm pretty sure this relates to power.</sentcont></sentence>
+<sentence><sentcont>That would just be another featre that would shorten it's lifespan.People</sentcont></sentence>
+<sentence><sentcont>compare my N95 to the IPhone all the time and I lay it down for them.</sentcont></sentence>
+<sentence><sentcont>My nokia blows the Ipohone out of the water 8 out of 10 times.</sentcont></sentence>
+<sentence><sentcont>The only features that the IPhone can boast over the N95 are the touchscreen and the beautiful screen.</sentcont></sentence>
+<sentence><sentcont>But you are comparing apples to oranges.</sentcont></sentence>
+<sentence><sentcont>The IPhone is 80% media player and 20% cell phone.</sentcont></sentence>
+<sentence><sentcont>The Nokia is 20%laptop 20%camera 20%GPS and 40% cell phone.</sentcont></sentence>
+<sentence><sentcont>If you want an all in one device, can tolerate charging your phone every chance you get, and don't mind having to one finger your typing...this phone is for you Any questions?</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+119706#11606#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Gsmarena</websource>
+<reviewid>119706</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>My comment for the new Nokia N95 is perfect man.</sentcont></sentence>
+<sentence><sentcont>Firstly it is packed with 5 megapixel camera.</sentcont></sentence>
+<sentence><sentcont>WiFi and GPS included in the phone bluetooth enabled tv-output it is really worth the money to get this kind of phone with all the function already pre-loaded inside the phone.</sentcont></sentence>
+<sentence><sentcont>Last word for this newly launch Nokia Phone.</sentcont></sentence>
+<sentence><sentcont>You're Perfect Man.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+10007032#161#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Cnet</websource>
+<reviewid>10007032</reviewid>
+<reviewtitle>How To: Convert DVD Movies and Videos for Nokia Series</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> How to convert DVD Movies and video clips for Nokia series How to convert video files in batches for Nokia series How to capture video from DV for Nokia series How to trim video that you need How to extract audio from video clips for Nokia series </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Key points </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>Key points: How to convert DVD Movies and video clips for Nokia series How to convert video files in batches for Nokia series How to capture video from DV for Nokia series How to trim video that you need How to extract audio from video clips for Nokia series  I will show you how you can convert your favorite DVD movies and video clips from your computer to watch right on the Nokia series default movie player.</sentcont></sentence>
+<sentence><sentcont>Take Nokia N95 for example, the Nokia N95 supports H.264 playback.</sentcont></sentence>
+<sentence><sentcont>Other models like Nokia N93i, Nokia N82 can also play excellent quality H.264 videos.</sentcont></sentence>
+<sentence><sentcont>H.264 in simple words: high quality videos at small file sizes.</sentcont></sentence>
+<sentence><sentcont>Enough techno blabber!</sentcont></sentence>
+<sentence><sentcont>Find out how right now!</sentcont></sentence>
+<sentence><sentcont>When we google a video conversion tool, we may find that there are a lot of such programs.</sentcont></sentence>
+<sentence><sentcont>Right here, I will take the professional tool Clone2go DVD Ripper as an exampleas it has powerful parameter settings and ready-made format export.</sentcont></sentence>
+<sentence><sentcont>The conversion is quick and pretty simple.</sentcont></sentence>
+<sentence><sentcont>Here we go: Download the latest version of Clone2go DVD Ripper at http://www.clone2go.com</sentcont></sentence>
+<sentence><sentcont>After installation, launch the program.</sentcont></sentence>
+<sentence><sentcont>You will see the classical main window of the program.</sentcont></sentence>
+<sentence><sentcont>Go to File -> Add Video Files.</sentcont></sentence>
+<sentence><sentcont>Select the movie that you need to convert.</sentcont></sentence>
+<sentence><sentcont>If you want to convert DVD, you may select ?Open</sentcont></sentence>
+<sentence><sentcont>DVD?.</sentcont></sentence>
+<sentence><sentcont>If you need to convert movies in batches, select ?Batch</sentcont></sentence>
+<sentence><sentcont>Add Video Files?.</sentcont></sentence>
+<sentence><sentcont>You can also capture Video from DV by selecting ?capture</sentcont></sentence>
+<sentence><sentcont>Video from DV? when necessary.</sentcont></sentence>
+<sentence><sentcont>The shortcut buttons of ?Open DVD? and ?Add</sentcont></sentence>
+<sentence><sentcont>Video Files?</sentcont></sentence>
+<sentence><sentcont>in the upper window can bring you much convenience.</sentcont></sentence>
+<sentence><sentcont>The input video file is ready.</sentcont></sentence>
+<sentence><sentcont>Now it is turn to select the output video format for your Nokia mobile phone.</sentcont></sentence>
+<sentence><sentcont>Turn to the bottom right of the main window and click the button.</sentcont></sentence>
+<sentence><sentcont>There are a lot of video formats listed on the drop-down menu, some of which are customized.</sentcont></sentence>
+<sentence><sentcont>Select ?Nokia? and you will see some of the popular Nokia models listed such as N95, N93, N73, N75, E62, 5300, 6555, 6085 and 6126.</sentcont></sentence>
+<sentence><sentcont>Check your mobile phone model and select it.</sentcont></sentence>
+<sentence><sentcont>If your model is not listed there, don?t worry.</sentcont></sentence>
+<sentence><sentcont>You can select ?Nokia 3GP series Video?</sentcont></sentence>
+<sentence><sentcont>or ?Nokia MPEG-4 series Video?.</sentcont></sentence>
+<sentence><sentcont>You can also customize the format you want such as video size, video bitrate and audio bitrate.</sentcont></sentence>
+<sentence><sentcont>If you just want the excellent part of the video, you can trim the video.</sentcont></sentence>
+<sentence><sentcont>Press ?play? and select the beginning.</sentcont></sentence>
+<sentence><sentcont>Then, press ?Start to trim?</sentcont></sentence>
+<sentence><sentcont>button.</sentcont></sentence>
+<sentence><sentcont>Hold the click to move the blue dot again and select the end of video and press ?stop to trim?</sentcont></sentence>
+<sentence><sentcont>button.</sentcont></sentence>
+<sentence><sentcont>For more accurate conversion, you can change the number at ?Start Time? and ?Stop</sentcont></sentence>
+<sentence><sentcont>Time?.  If you just want the audio in the movie, you can extract it into mp3, wav, ogg or amr format.</sentcont></sentence>
+<sentence><sentcont>Now, let?s start video conversion.</sentcont></sentence>
+<sentence><sentcont>Click ?Encode? to start video conversion.</sentcont></sentence>
+<sentence><sentcont>As for the conversion speed, it can be very high.</sentcont></sentence>
+<sentence><sentcont>Sometimes, it may be lower, depending on your computer and the size of the file.</sentcont></sentence>
+<sentence><sentcont>Now, let?s get the converted video.</sentcont></sentence>
+<sentence><sentcont>Click ?Folder? to get the converted video.</sentcont></sentence>
+<sentence><sentcont>That?s it!</sentcont></sentence>
+<sentence><sentcont>Now, get the data wire and transfer the converted video to your Nokia mobile phone and enjoy it any time.</sentcont></sentence>
+<sentence><sentcont>PS: Clone2go DVD Ripper is also a powerful media player.</sentcont></sentence>
+<sentence><sentcont>It can play DVD movies and video clips of almost all formats such as MOV, WMV, FLV, MPEG-4, MPG, RM, RMVB, AVI, DivX, XviD, VOB, ASF, DV, 3GP, M1V and M2V.</sentcont></sentence>
+<sentence><sentcont>You can double click the screen to enlarge display size in ?stop? mode.</sentcont></sentence>
+<sentence><sentcont>Double click again to go back the normal size.</sentcont></sentence>
+<sentence><sentcont>A little bit more: You can also visit the google blog http://dvd5video.blogspot.com</sentcont></sentence>
+<sentence><sentcont>for more information.</sentcont></sentence>
+<sentence><sentcont>Relevant screenshots are attached in the blog.</sentcont></sentence>
+<sentence><sentcont>OK, you can play around with the settings yourself to experience the powerful function of Clone2go DVD Ripper.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+110171#2071#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Gsmarena</websource>
+<reviewid>110171</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Hi guys, did your nokia battery drain so soon?</sentcont></sentence>
+<sentence><sentcont>then try the following options.</sentcont></sentence>
+<sentence><sentcont>sure you will get battery life fow 48 hours.</sentcont></sentence>
+<sentence><sentcont>Try Following.</sentcont></sentence>
+<sentence><sentcont>- Turn off GPS - Turn off Bluetooth - Turn off Wi-Lan - Put Display brightness Half-Way - If you dont need 3G Reception put it to GSM Mode - Close applications that are running that you dont use.</sentcont></sentence>
+<sentence><sentcont>How to turn off GPS? try as follows:.</sentcont></sentence>
+<sentence><sentcont>Go to Menu > Tools > GPS Data > Position > Options > Positioning Settings.</sentcont></sentence>
+<sentence><sentcont>Bluetooth GPS Integrated GPS Network based.</sentcont></sentence>
+<sentence><sentcont>Select Integrated GPS > Options > Disable.</sentcont></sentence>
+<sentence><sentcont>Also Update to the latest firmware (v11.</sentcont></sentence>
+<sentence><sentcont>0.</sentcont></sentence>
+<sentence><sentcont>026) because that fixes certain power drain issues.</sentcont></sentence>
+<sentence><sentcont>I would also keep the camera lens cover closed (if you have forgotten to).</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+118799#10699#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>118799</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Till today I have never had the courage to name any phone like the best one on the market with clear conscience.</sentcont></sentence>
+<sentence><sentcont>But Nokia N95 does deserve this label.</sentcont></sentence>
+<sentence><sentcont>It has no adequate competitors on the current mobile market: it is extremely rich in functions, has a comfortable and detailed user interface with plenty of settings, and on the top of it, it is a relatively light and compact.</sentcont></sentence>
+<sentence><sentcont>The most notable drawback of Nokia N95 is its battery life.</sentcont></sentence>
+<sentence><sentcont>It will require daily doses of power, unless you limit its usage to occasional calls and messages, deactivate 3G, Wi-Fi, and GPS, and play no videos.</sentcont></sentence>
+<sentence><sentcont>In this case you may happen to postpone charging by a couple of days, but is such use worth the purchase of a phone like Nokia N95?</sentcont></sentence>
+<sentence><sentcont>The answer is no.</sentcont></sentence>
+<sentence><sentcont>Of course, battery life is an individual matter and depends on many factors.</sentcont></sentence>
+<sentence><sentcont>Nevertheless we can assure you that during our intensive tests we had no other option but to charge the device sometimes even twice a day.</sentcont></sentence>
+<sentence><sentcont>The first batch of Nokia N95 hit the market at a high price.</sentcont></sentence>
+<sentence><sentcont>Even so it was immediately sold out.</sentcont></sentence>
+<sentence><sentcont>The main delivery whose price is said to be a bit lower is being expected at the end of April.</sentcont></sentence>
+<sentence><sentcont>Anyway, the price remains rather high, perhaps due to the strong customer demand.</sentcont></sentence>
+<sentence><sentcont>Nokia N95 may be very expensive, but it also offers a lot and thus keeps attracting numerous prospective buyers.</sentcont></sentence>
+<sentence><sentcont>In this sequence of thoughts it is quite probable that in a few months, when the initial ecstasy falls off, the price of the phone will also fall down a bit.</sentcont></sentence>
+<sentence><sentcont>Be prepared, however, that drops in price will hardly be significant as Nokia N95 will continue to be the best phone in the world for a while and will thus manage to easily maintain its price.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+112333#4233#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>112333</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>My Nokia N95 satnav GPS experience was a nightmare.</sentcont></sentence>
+<sentence><sentcont>Nokia recognises that it has a problem with its GPS satnav hardware and have come up with the "assisted GPS" idea.</sentcont></sentence>
+<sentence><sentcont>The problem was that I found the assisted GPS was fine if you were in the city, but once you got into the countryside, rural areas then it became a problem once again.</sentcont></sentence>
+<sentence><sentcont>Assisted GPS is their work-around to poor GPS satnav eqipment.</sentcont></sentence>
+<sentence><sentcont>Assisted GPS is NOT "true" satnav.</sentcont></sentence>
+<sentence><sentcont>Rather than getting the signal directly from the satellite (as in your cars satnav system), assisted GPS gets its positioning by using ground base stations (Nokia says that it gets it's initial positioning by using these base station and then connects to satellite, I am skeptical of that, I'd love to see their proof of this).</sentcont></sentence>
+<sentence><sentcont>I'll tell you what happened to me & my Nokia N95 (maybe it was just MY phone that was faulty??),    Without assisted GPS the satnav capabilities of my phone was zero.</sentcont></sentence>
+<sentence><sentcont>With Assisted GPS, the satnav at last started to work quite well.</sentcont></sentence>
+<sentence><sentcont>But it was a false dawn, because although in the city all worked well, I wanted to see what happened when I was in more remote areas (country lanes & on a mountain).</sentcont></sentence>
+<sentence><sentcont>what i found was that the GPS satnav was useless.</sentcont></sentence>
+<sentence><sentcont>It would not find the satellite and location.</sentcont></sentence>
+<sentence><sentcont>I ran it alongside my cars satnav.</sentcont></sentence>
+<sentence><sentcont>Whereby the cars satnav pinpointed my position wherever i was in the countryside, the N95 failed dismally.</sentcont></sentence>
+<sentence><sentcont>After all that hope i was back to square 1.</sentcont></sentence>
+<sentence><sentcont>There equipment must be flawed?</sentcont></sentence>
+<sentence><sentcont>Look at the evidence?</sentcont></sentence>
+<sentence><sentcont>Why would they come up with assisted GPS?    following on from above........</sentcont></sentence>
+<sentence><sentcont>The Satnav On the Nokia N95 didn't work, so i sued Nokia through After 30 days there was no response from Nokia and the court ordered them to refund me ?300....Heres my case sent to www.moneyclaim.gov.uk "Goods "not fit for purpose".Claimant</sentcont></sentence>
+<sentence><sentcont>purchased a Nokia N95 mobile phone with GPS satnav.</sentcont></sentence>
+<sentence><sentcont>At no stage did the GPS work properly.</sentcont></sentence>
+<sentence><sentcont>The Claimant contacted T-mobile(sellers)who informed him that responsibility laid with NokiaUk.</sentcont></sentence>
+<sentence><sentcont>Nokia offered many fixes&advice on various software updates and patches &other ways to correct the defect(e.g</sentcont></sentence>
+<sentence><sentcont>"assisted GPS").</sentcont></sentence>
+<sentence><sentcont>Many hours (hundreds) were expended over several months followingAdvice but to no avail.</sentcont></sentence>
+<sentence><sentcont>In Nov2007 the defendant informed the claimant that nothing further Could be done&the claiment took this as an admission that the product was "not fit for purpose".</sentcont></sentence>
+<sentence><sentcont>Prior to purchase the claimant researched the manufacturers specs (nokia.com).</sentcont></sentence>
+<sentence><sentcont>The phone was purchased from T-mobile (In-house sales line).</sentcont></sentence>
+<sentence><sentcont>TheClaimant made it clear to the salesperson that he only wished to purchase a phone with GPS capabilities.</sentcont></sentence>
+<sentence><sentcont>He was assured that the GPS would be effective.During the same call the purchase was made.</sentcont></sentence>
+<sentence><sentcont>The GPS proved innefective and the claimant now seeks a refund of the costs incurred with this purchase"</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+000015#195#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Viewpoints</websource>
+<reviewid>000015</reviewid>
+<reviewtitle>nokia n95 never let you down</reviewtitle>
+<rating>1.0</rating>
+<freereview><sentence><sentcont>GOOD:??The Nokia N95 cell phone boasts a 5-megapixel camera that produces good-quality photos and videos.</sentcont></sentence>
+<sentence><sentcont>It comes with advanced multimedia capabilities and has a 3.5mm headphone jack.</sentcont></sentence>
+<sentence><sentcont>The Symbian smart phone also features integrated GPS, Wi-Fi, and Bluetooth, and an innovative two-way slider design.</sentcont></sentence>
+<sentence><sentcont>??BAD:??The N95 lacks support for U.S. 3G networks; standby battery life is poor; and performance is somewhat sluggish.</sentcont></sentence>
+<sentence><sentcont>The hardware feels a bit cheap, and the sliding mechanism could be more secure.</sentcont></sentence>
+<sentence><sentcont>It's also very expensive.</sentcont></sentence>
+<sentence><sentcont>??BOTTOM LINE:??With a 5-megapixel camera, advanced multimedia capabilities, and GPS, there's no doubt that the Nokia N95 is one of the most feature-packed smart phones to date, but poor battery life and sluggish performance make it hard to justify the high price tag.</sentcont></sentence>
+<sentence><sentcont>?? ??</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+116555#8455#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>116555</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Nokia N95 is the best mobile phone so far.</sentcont></sentence>
+<sentence><sentcont>But let me point these out.</sentcont></sentence>
+<sentence><sentcont>According to many reviews, 5MP pics taken by N95 is no match to those 3.2MP pics taken by N93/N73/K800i due to too much JPEG compression in N95's shots.</sentcont></sentence>
+<sentence><sentcont>N93 (not N93i) takes an overall better video recording than N95/N93i.</sentcont></sentence>
+<sentence><sentcont>N93 records video with the same 30 fps MPEG4 (like the N95/N93i), but in "stereo" AAC audio encoding.</sentcont></sentence>
+<sentence><sentcont>N95 (as well as N93i) records in "mono" AAC audio only.</sentcont></sentence>
+<sentence><sentcont>The reason - the N93 has 2 separate microphones.</sentcont></sentence>
+<sentence><sentcont>The N95/N93i has only a single microphone used for audio encoding.</sentcont></sentence>
+<sentence><sentcont>In music playback, N95's audio quality (headphones-wise) is no where near N91.</sentcont></sentence>
+<sentence><sentcont>Reason - N95 is a "music-capable phone", not a "music phone"!</sentcont></sentence>
+<sentence><sentcont>Technically speaking, N95 cannot produce a very sweet, rich & clear sound like the N91 mainly because the N95 doesn't have what N91 does have - 2 dedicated audio chips installed in its hardware namely, ASIC N2200 & N2000.</sentcont></sentence>
+<sentence><sentcont>Of course, you can't have it all.</sentcont></sentence>
+<sentence><sentcont>But overall, Nokia N95 is sure the king of all mobiles!</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+119286#11186#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>119286</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I grabbed my n95 day of release, thrilled to think that one year ago the rumours that were being spread of an n83 had truly been turned into the actual n95.</sentcont></sentence>
+<sentence><sentcont>now i'm having seccond thoughts...was it worth my $1254 aud?</sentcont></sentence>
+<sentence><sentcont>yes i know i cbf shopping around.</sentcont></sentence>
+<sentence><sentcont>firstly, gps- so slow.... takes me about 5 minutes to conect to sat.</sentcont></sentence>
+<sentence><sentcont>although i've never used another gps system, i am guessing this is not normal.</sentcont></sentence>
+<sentence><sentcont>I have heard other people complain of this too, but they say it gets quicker with time.</sentcont></sentence>
+<sentence><sentcont>loading google maps is good, but the onboard mapping system is just as good i think.</sentcont></sentence>
+<sentence><sentcont>i've found google maps requires you to have internet connection to be able to see the actual map(so great if ur in a wifi area.</sentcont></sentence>
+<sentence><sentcont>but bad if u don't have cheap gprs connections...) anybody know a workaround?</sentcont></sentence>
+<sentence><sentcont>onboard mapping software allowed me to see where i was without connection to network.</sentcont></sentence>
+<sentence><sentcont>although i was driving 15 minutes away, it took 5-8 minutes to connect to sat.</sentcont></sentence>
+<sentence><sentcont>to get coordinates and then after another 2 mintues of fumbling buttons to set destination and start trip calculations, i was about 200 m from destination (i had to park because i wanted to see it in action!!!)    so when it was working it seemed fine.</sentcont></sentence>
+<sentence><sentcont>but, as other people have found, voice nav.</sentcont></sentence>
+<sentence><sentcont>requires $$$$ and it came up with an annoying statement etc asking me to subscribe.</sentcont></sentence>
+<sentence><sentcont>imagine i was really lost, there goes my $ subscribing to year of nokia maps.</sentcont></sentence>
+<sentence><sentcont>Actual phone is a bit of a letdown, lags, resets itself randomly (4times in 4 days) keep pressing menu button by accident instead of left or right arrow key.</sentcont></sentence>
+<sentence><sentcont>so what i have big thumbs.</sentcont></sentence>
+<sentence><sentcont>camera lags when on 5mp mode.</sentcont></sentence>
+<sentence><sentcont>havnt tried any other mode.</sentcont></sentence>
+<sentence><sentcont>but its about 2-5 seconds b/w pressing the button to take pic and actually seeing the image on screen of ur final pic...strange.</sentcont></sentence>
+<sentence><sentcont>on n95 screen, pics seem a liiiitle grainy...    wifi keeps dropping me out.</sentcont></sentence>
+<sentence><sentcont>well, this may be due to my network, and i hope it is for the n95s repuation... but it really shits me.</sentcont></sentence>
+<sentence><sentcont>downloading videos off the included reuters links, get dropped out from wireless...    3.5mm headphone jack is great.</sentcont></sentence>
+<sentence><sentcont>great sound quality, i personally believe (although i havn't heard it through a good pair of headphones) inbuilt speakers have an amazing ability to project themselves...and also have an amazing ability to split ear drums with high pitched onboard nokia tones...argh!</sentcont></sentence>
+<sentence><sentcont>Battery life is the other m a j o r letdown.</sentcont></sentence>
+<sentence><sentcont>with using wifi maybe 5 minutes, gps on my 15 min car ride which turned into 20 cos i stopped to play with gps, about 5 minutes of normal call time and 5minutes of bluetooth call time and about 3 minutes of speaker call time, my battery is wailing for a charge as I type.</sentcont></sentence>
+<sentence><sentcont>-i have not got more than one day with propper use of functions without either needing to charge or noticing it was on one bar and thinking it would die tomorrow if i listen to mp3.</sentcont></sentence>
+<sentence><sentcont>Although I knew what it's size was before I got it, i still miss the slim 8250 in my pocket.</sentcont></sentence>
+<sentence><sentcont>god i love that phone.</sentcont></sentence>
+<sentence><sentcont>=P    So after closely following rumours and exclusive reviews posted all over the net, desperately awaiting the device that is not just one thing, it's many.... i've almost convinced myself its not worth the price.</sentcont></sentence>
+<sentence><sentcont>ALMOST.</sentcont></sentence>
+<sentence><sentcont>-happy with reception (as you would expect fomr a high end phone)  -dual slide ability is fantastic   -screen is awesome, colorful, bright biiiig...  -music playback is to me ipod comparable (well i have 3gipod,time for new1)  -inbox equipment is more than generous.</sentcont></sentence>
+<sentence><sentcont>nokia included 1gb in the box and shop gave me a free 2gb...so thats sweet.</sentcont></sentence>
+<sentence><sentcont>inbox case is pretty protective and stylish...although i have worries about camera safety.</sentcont></sentence>
+<sentence><sentcont>~my zeiss optics!</sentcont></sentence>
+<sentence><sentcont>IS N95 WORTH IT??? DOES IT LIVE UPTO THE HYPE???  well, i'll leave that up to you to decide, i still can't decide.</sentcont></sentence>
+<sentence><sentcont>basically, i think, if you have the means, get it, but if ur jobless like me...don't waste all your money on release date!!! haha -but its damn sexy.</sentcont></sentence>
+<sentence><sentcont>cheers.</sentcont></sentence>
+<sentence><sentcont>wongiez.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+112512#4412#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>112512</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>wow thanks for the compliment sir dani hehehe.</sentcont></sentence>
+<sentence><sentcont>sir lattroteuse, sorry to hear about your unfortunate experience about nokia and the n95, hopefully they will sort it out.</sentcont></sentence>
+<sentence><sentcont>maybe you can file a complaint at nokia.</sentcont></sentence>
+<sentence><sentcont>com.</sentcont></sentence>
+<sentence><sentcont>?.</sentcont></sentence>
+<sentence><sentcont>dear sir arepeaceDNA,.</sentcont></sentence>
+<sentence><sentcont>first you can only turn off the camera sound completely if you have a euro1 euro2 or balkan firmware version (just turn the "warning tone" off).</sentcont></sentence>
+<sentence><sentcont>if you have an asian one or from the U.</sentcont></sentence>
+<sentence><sentcont>S.</sentcont></sentence>
+<sentence><sentcont>you may not be able to turn off the sound, there are ways to reflash your unit to euro1 or euro 2 or even balkan firmware though so you can turn the camera sound off.</sentcont></sentence>
+<sentence><sentcont>or you can just download the application "ccam" it lets you use the camera with no camera sound nor red light.</sentcont></sentence>
+<sentence><sentcont>Quite cool hehehe just search it.</sentcont></sentence>
+<sentence><sentcont>its a free application btw hehehe.</sentcont></sentence>
+<sentence><sentcont>btw.</sentcont></sentence>
+<sentence><sentcont>if you have firmware 20 and above, you will notice a significant improvement of the battery life and the super speed of the phone overall ehehe.</sentcont></sentence>
+<sentence><sentcont>in my case I use my n95 extensively, so I kinda charge it every night.</sentcont></sentence>
+<sentence><sentcont>my battery is depleted once I use the phone for 6-8 hours.</sentcont></sentence>
+<sentence><sentcont>used for gaming(most of the time), viewing videos, and using the camera etc.</sentcont></sentence>
+<sentence><sentcont>and if your phone doesnt vibrate even when its on.</sentcont></sentence>
+<sentence><sentcont>i think you have a defective battery.</sentcont></sentence>
+<sentence><sentcont>sir gana,.</sentcont></sentence>
+<sentence><sentcont>you have every right to change your phone to whatever you choose, If it will make you feel better to change your n95 for an n82 then by all means please do so and you are entitled for your opinion, You can say that n82 is superior(which in some factors, crucial to others, yes it is ).</sentcont></sentence>
+<sentence><sentcont>but n95 holds its own against n82, minute details that makes the n95 worth considering compared to the n82.</sentcont></sentence>
+<sentence><sentcont>in terms of flash, xenon is bar none definitely the most powerful and most suited for photography, but using the xenon flash extensively.</sentcont></sentence>
+<sentence><sentcont>drains the battery big time.</sentcont></sentence>
+<sentence><sentcont>and in macro or close up scenes.</sentcont></sentence>
+<sentence><sentcont>there is a high chance you'd get overexposed pics because of the powerful light of xenon.</sentcont></sentence>
+<sentence><sentcont>whilest on the n95s case, the modest light that the underated led flash emits is really good at macro and closeups, AND you can use it extensively at close intervals in between usage unlike xenon.</sentcont></sentence>
+<sentence><sentcont>and n95's led flash is one of the most powerful led flashes around beating that of the dual led flash of w960(google it).</sentcont></sentence>
+<sentence><sentcont>n95 has a bigger screen you can toy around its construction as it is dual slide with bigger and more keys.</sentcont></sentence>
+<sentence><sentcont>has infrared not as useable for file transfers as bluetooth but you can use it for certain applications such as tv remote.</sentcont></sentence>
+<sentence><sentcont>motion detector etc has a comprehensive video editing suite on board the phone (which the n82 nor the n95 8gb doesnt have).</sentcont></sentence>
+<sentence><sentcont>to some, n95 has an edge in form factor over the n82.</sentcont></sentence>
+<sentence><sentcont>to some n82 is just too classy to compare it to the n95.</sentcont></sentence>
+<sentence><sentcont>ultimately its your choice no one is stopping you from going with what you want.</sentcont></sentence>
+<sentence><sentcont>but to n95 users.</sentcont></sentence>
+<sentence><sentcont>apparently n95 is "the phone" and is simply the better choice.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia n95 Bluetooth? hardware||exchange_output||nokia_n95||
+
+2532342#147#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Cnet</websource>
+<reviewid>2532342</reviewid>
+<reviewtitle>Almost a Perfect 10</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Overall this phone is jam pack with many features and heaps of 3rd party apps and freeware available for it</sentcont>
+<sentcont>The phone looks elegant and professional with its all black finish</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The lack of a lens cover and no memory slot </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>After using the phone for a week, my 1st impression of the phones were positive.</sentcont></sentence>
+<sentence><sentcont>The overall size of the phone was not as large as thought.</sentcont></sentence>
+<sentence><sentcont>It is a good size phone that fits comfortably in the hands.</sentcont></sentence>
+<sentence><sentcont>Negative side is the make, it has a plastic feeling, its light and seems very breakable.</sentcont></sentence>
+<sentence><sentcont>Phone reception is clear and conversation through the loudspeaker was no problem as compared to other phones.</sentcont></sentence>
+<sentence><sentcont>Taking pictures and video are the best aspect.</sentcont></sentence>
+<sentence><sentcont>At 5 mp, the pictures are clear and video recording became fun on a mobile phone.</sentcont></sentence>
+<sentence><sentcont>The are so many apps for the phone.</sentcont></sentence>
+<sentence><sentcont>Purchasing this, one will find many descent product to add to the Nokia N95.Media playback was an ease with its sliding mechanism.</sentcont></sentence>
+<sentence><sentcont>One slide to media mode exposes play/pause fast/rewind buttons and screen adjust for full view.</sentcont></sentence>
+<sentence><sentcont>The downside is the software bundle that came with the Nokia N95 8gb.</sentcont></sentence>
+<sentence><sentcont>I find it is great for the average user but those wanting more might be dissappointed.</sentcont></sentence>
+<sentence><sentcont>The lack of a memory slot also made transfer of files a hassle having to connect via bluetooth, usb, or even IR. And the data transfer rate is slow for large files like movies but transferring of songs is a breeze.</sentcont></sentence>
+<sentence><sentcont>Just a list of the main features on hardware:TV out - watched record videos on TVGPS/integrated5 mp camera w/ flashWi-fi8gb memorystandard headphone jackIR portTwo speakers on sideOverall, I love this phone.</sentcont></sentence>
+<sentence><sentcont>I continue to learn more about it and find new features about it everyday.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+111246#3146#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>111246</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>@sashi  It could be a hardware malfunction.</sentcont></sentence>
+<sentence><sentcont>If I were you,  I would first contact Nokia and figure out if it is in fact a hardware issue and then contact the vendor if it is.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+2419567#83#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Cnet</websource>
+<reviewid>2419567</reviewid>
+<reviewtitle>Best cell phone ever.</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Camera; multimedia capabilities; headphone jack; GPS; Wi-Fi; Bluetooth; slider design; features</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Standby battery life; performance; hardware; sliding mechanism; price</sentcont>
+</sentence></con>
+<freereview></freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+1112437#14337#Nokia_N95.txt####Manual Annotation Score =0
+
+<websource>Gsmarena</websource>
+<reviewid>1112437</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>To qqq- n95 combines UPnP tech.</sentcont></sentence>
+<sentence><sentcont>& Tv output.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+112695#4595#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>112695</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>?f there is no chance for skype on N95,I'll exchange it to Nokia N810 internet tablet phone.By the way, why there is no information for Nokia N800-810 in gsm arena?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+1110461#12361#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>1110461</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Things to lookout before buying N95    1. Dead/Stuck Pixels  2. Slider movement    Does anyone know dead/stuck pixel return/exchange policy for Nokia?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+115187#7087#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>115187</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>do anyone no what the TV output on the N95 is use for</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+113017#4917#Nokia_N95.txt####Manual Annotation Score =0
+
+<websource>Gsmarena</websource>
+<reviewid>113017</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>The Nokia N95 is Mail for Exchange friendly.</sentcont></sentence>
+<sentence><sentcont>Can anyone tell me whether the Nokia N81 can do the same?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+1111903#13803#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>1111903</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Does the Nokia N95 Have a 3.5mm audio output jack for using normal headphones just like the n91???</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+111560#3460#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>111560</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I just got N95, though someone said it can take up to 8GB microSD or even 16GB.</sentcont></sentence>
+<sentence><sentcont>But GSM arena said it can take up to 8GB microSD, while Nokia said 2GB max.</sentcont></sentence>
+<sentence><sentcont>I never tried any but i think i have gotten myself one of the best phone.</sentcont></sentence>
+<sentence><sentcont>I used it and i think is great mostly the pics output.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+116582#8482#Nokia_N95.txt####Manual Annotation Score =0
+
+<websource>Gsmarena</websource>
+<reviewid>116582</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Does anyone knows if this phone N95 suppors smtp (microsoft email exchange) like the E series?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+112018#3918#Nokia_N95.txt####Manual Annotation Score =0
+
+<websource>Gsmarena</websource>
+<reviewid>112018</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>anybody know if the n95 supports the new stereo bluetooth headsets?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+115487#7387#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>115487</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Aikon n. the n95 has the problem of cutting out with bluetooth headphones no matter what the make.</sentcont></sentence>
+<sentence><sentcont>my bluetooth headphones are motorola ht820, but they work fine with my samsung d900.</sentcont></sentence>
+<sentence><sentcont>other n95 users have nokia bluetooth headphones and they have the music cutting out as well.</sentcont></sentence>
+<sentence><sentcont>it must be a software issue.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+110628#2528#Nokia_N95.txt####Manual Annotation Score =0
+
+<websource>Gsmarena</websource>
+<reviewid>110628</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>how to use t v output</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+112381#4281#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>112381</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>n82 and n95 both have the same dual core arm 11 tiomap processor running at 332mhz with 3d graphics hardware accelerator.</sentcont></sentence>
+<sentence><sentcont>n82 has an advantage over n95 because it has 128mb ram as opposed to n95-1's 64mb ram only.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+113188#5088#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>113188</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>qg9y  Well in my opinion from what ive seen the N95 and N82 are far better than the K850.</sentcont></sentence>
+<sentence><sentcont>Im sure CNet had an N95 with early FW, otherwise both N95 and N82 whipe the floor with the K850 lol, SE did a very poor job hardware and software wise on the K850.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+1111794#13694#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>1111794</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>N95 has 5 megapix camera a TV output and it also has 3G function in it , iphone doesnt have this features , so don't compare iphone from N95 because !!  iphone is the clear loser !!</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+115046#6946#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>115046</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>if i will not use wifi bluetooth .camera.sp then y i got n95  some users of n95 say that dont use wifi ,camera,bluetooth,music,  tell me one thing so y u got n95.only 4 calls  if u wanna listen call then move to nokia 3310 lolzzzzzzzzzzz.use</sentcont></sentence>
+<sentence><sentcont>common sense who says that .... dont use camera,wifi,music</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+116715#8615#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>116715</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Nokia .</sentcont></sentence>
+<sentence><sentcont>Symbian os 3rd ed , java 2.</sentcont></sentence>
+<sentence><sentcont>0 hsdpa , wcdma , quadband gsm wi fi bluetooth 2.</sentcont></sentence>
+<sentence><sentcont>0 a2dp infrared gps stereo fm radio tv out good to use with tv out and for music 3.</sentcont></sentence>
+<sentence><sentcont>5 mm jack output 1 thats coming out with 8 gb 16 m color screan int mem 5 mp cam.</sentcont></sentence>
+<sentence><sentcont>se sony ericsson.</sentcont></sentence>
+<sentence><sentcont>has good mp3 sound and battery life dedicated for mp3 playback equiped with a 2 mp the new 5 mp autofocus and flash is better and you can multitask.</sentcont></sentence>
+<sentence><sentcont>results.</sentcont></sentence>
+<sentence><sentcont>battery.</sentcont></sentence>
+<sentence><sentcont>se.</sentcont></sentence>
+<sentence><sentcont>camera.</sentcont></sentence>
+<sentence><sentcont>se connectivity.</sentcont></sentence>
+<sentence><sentcont>nokia eficiency.</sentcont></sentence>
+<sentence><sentcont>nokia screan.</sentcont></sentence>
+<sentence><sentcont>nokia multytalsk.</sentcont></sentence>
+<sentence><sentcont>nokia office.</sentcont></sentence>
+<sentence><sentcont>nokia divx mp4 wma nokia.</sentcont></sentence>
+<sentence><sentcont>nokia bluetooth wireless keyboard or bluetooth stereo headsets or bluetooth gps.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+1110722#12622#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>1110722</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Upcoming N95i info leaked-  -3D sound stereo speaker,   -2.6" OLED display @ 16 mln color.</sentcont></sentence>
+<sentence><sentcont>-5 Mpx CCD sensor , xenon strobe flash.</sentcont></sentence>
+<sentence><sentcont>-720x480 pixel vedio record @ 30 fps.</sentcont></sentence>
+<sentence><sentcont>-3D gaming hardware (ngage plattform).</sentcont></sentence>
+<sentence><sentcont>-GPS, HSDPA, Wi-Fi , blutooth, infrared....  -slightly slimmer than n95.</sentcont></sentence>
+<sentence><sentcont>-active Lens cover.</sentcont></sentence>
+<sentence><sentcont>(same as 6110 navigator)  -still No touchscreen.</sentcont></sentence>
+<sentence><sentcont>-1500 mAh battary.</sentcont></sentence>
+<sentence><sentcont>(stb - 400 hour)  -3.5 millimtr.</sentcont></sentence>
+<sentence><sentcont>Jack.</sentcont></sentence>
+<sentence><sentcont>-TV output.</sentcont></sentence>
+<sentence><sentcont>Black colored.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+115010#6910#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>115010</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I have a Nokia N95 phone and a Nissan Qashqai car which is equipped with integrated bluetooth.</sentcont></sentence>
+<sentence><sentcont>Trouble is that my N95 has v2.0 bluetooth and this does not seem to be supported by my Nissan car.</sentcont></sentence>
+<sentence><sentcont>Is there any way around this as the integrated bluetooth is a great facility.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+110441#2341#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>110441</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>U can't hack mobiles using bluetooth without a software in nokia mobiles</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+116592#8492#Nokia_N95.txt####Manual Annotation Score =0
+
+<websource>Gsmarena</websource>
+<reviewid>116592</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>wow audio jack output.3.55 mm.wow.its lyk a disco and megabass</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+2
+119034#10934#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>119034</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Every symbian os phones from nokia has bluetooth and  can play music or phone conversation thrue you re bluetooth headset or car sound systeme.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+116298#8198#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>116298</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Hello Nokia lovers,  I recommend N73 on N95; because N95 has got a very very poor Battery Life which is not practical, N73 is only missing WLAN and GPS.</sentcont></sentence>
+<sentence><sentcont>I have both phones, my experience is N95 WLAN is not useful, because screen is very small for internet usage, it does not have touch screen and no easy key pad.</sentcont></sentence>
+<sentence><sentcont>For GPS you can use Bluetooth GPS device with N73.</sentcont></sentence>
+<sentence><sentcont>Cheers</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+1110854#12754#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>1110854</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>u guys were like OMG ITS 5mpx wifi, omg omg.. TV output omfg, lol...    this phone aint out yet so may all nokia fan boys be silence first?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+110699#2599#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>110699</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Where is the position of the bluetooth transmitter in N95?</sentcont></sentence>
+<sentence><sentcont>Is it situated at the top of the phone?</sentcont></sentence>
+<sentence><sentcont>Somebody please tell me.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+110700#2600#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>110700</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Where is the position of the bluetooth transmitter in N95?</sentcont></sentence>
+<sentence><sentcont>Is it situated at the top of the phone?</sentcont></sentence>
+<sentence><sentcont>Somebody please tell me.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+117253#9153#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>117253</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>My Nokia  purchased a month ago  randomly dials number from the address book.</sentcont></sentence>
+<sentence><sentcont>Also the blue tooth ear piece switches on it's own when the random calls are made.</sentcont></sentence>
+<sentence><sentcont>I may have to separate the blue tooth ear piece from the N95 just to isolate the problem to know whether caused by the N95 or the bluetooth   The problem is regretted as the call are not made intentionally and get charged for dialling international numbers; it is being more of a nucianse.</sentcont></sentence>
+<sentence><sentcont>Is there a reason or solution for this problem?</sentcont></sentence>
+<sentence><sentcont>Never faced similar problems with other Nokia models except this N95</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+118320#10220#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>118320</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>my n95 has bluetooth issues... it connects then disconnects then when you try to pair it again it hangs.</sentcont></sentence>
+<sentence><sentcont>i wanted to update its firmware but the software updater says i have the latest firmware which is:  v10.0.0.018 15-03-07  RM-159  Nokia N95(c7.01)    what can i do to update it to v11?</sentcont></sentence>
+<sentence><sentcont>maybe that will solve my BT issues... thanks.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+118171#10071#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>118171</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>To DIMI  To transfer your short videos from your PC to your N95 use bluetooth.(If</sentcont></sentence>
+<sentence><sentcont>you have a bluetooth adapter).</sentcont></sentence>
+<sentence><sentcont>To transfer your long videos you must have an usb card reader.</sentcont></sentence>
+<sentence><sentcont>Put your Micro SD into normal SD adapter than transfer your video to your phone card.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+115504#7404#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>115504</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Aikon n. Have they fixed the a2dp problem on the n95 8gb. the music cuts out from time to time then comes back on, on the original n95 while using stereo bluetooth headphones no matter what make of bluetooth headphones.</sentcont></sentence>
+<sentence><sentcont>i have read about from other people on the net who have the same issue as me.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+111363#3263#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>111363</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>"no bluetooth connectivity with other phones" Duh, what are you talking about man?</sentcont></sentence>
+<sentence><sentcont>Of course the n95 has bluetooth connectivity with other phones!</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+112002#3902#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>112002</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>n95 users...Do you also have google maps installed on your phones, aside from nokia maps?</sentcont></sentence>
+<sentence><sentcont>I have both nokia maps and google maps.</sentcont></sentence>
+<sentence><sentcont>Pretty awesome!!    Carloud,  I have two motorala bluetooth headsets and they are compatible with the n95.</sentcont></sentence>
+<sentence><sentcont>Is mobile9 also a great website?</sentcont></sentence>
+<sentence><sentcont>I have been downloading stuff from that site, without an account.</sentcont></sentence>
+<sentence><sentcont>Lets name the n95 superphone (superman).</sentcont></sentence>
+<sentence><sentcont>Do I have to register or make an account on dotsis.com or lebmobile in order to download stuff?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+117599#9499#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>117599</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I recently bought N95 and I wonder can it be paired to Flamingo Bluetooth Headset?Or otherwise recommed me suitable bluetooth headset.Agreed the battery run oout fast if you surf internet frequently and good advise buy spare battery.</sentcont></sentence>
+<sentence><sentcont>TQ</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+117184#9084#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>117184</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>The problem about the bluetooth and radio function, it depends on the first time when you purchase the phone.</sentcont></sentence>
+<sentence><sentcont>It is significant to know the seller download software for your N95 either is good or bad.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+110631#2531#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>110631</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Your memory card could be full OR your bluetooth on your n95 is set to Hide Visibilty which means when someone wants to send you a song via bluetooth they cant find you.Also</sentcont></sentence>
+<sentence><sentcont>your internal memory could be full.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+116847#8747#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>116847</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>hi everyone,    I recently bought a nokia n95 and still waiting for arrival and just wondering how to install games on it??as I am a new user of the symbian smartphone.Do you just install them like the sonyericsson series through bluetooth??  Please any help will be great......THXXX</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+113477#5377#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>113477</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>this phone isnt good cuz it doesnt even have bluetooth  and worst camera ever  iphone forever  nokia needs to upgrade</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+118311#10211#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>118311</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I've got the N95 and it works PERFECTLY!!  i can connect my bluetooth and it never froze!</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+113474#5374#Nokia_N95.txt####Manual Annotation Score =0
+
+<websource>Gsmarena</websource>
+<reviewid>113474</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>hehehe yes sir dani you are right ^_^      sir jamosha...n95 has bluetooth and infrared      perhaps you have gotten a fake version from china?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+1111646#13546#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1111646</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>n73 sports music good camera and the n95 , excellent 5 MP, 2592 x 1944 pixels, Carl Zeiss optics, autofocus, video(VGA 30fps), flash canera ; multimedia & connectivity.</sentcont></sentence>
+<sentence><sentcont>capacity are standard with fm radio wi fi b/g upnp 3.</sentcont></sentence>
+<sentence><sentcont>5 mm audio output jac tv-out bluetooth 2.</sentcont></sentence>
+<sentence><sentcont>0 A2DP GPS navigation quadband EGSM 850 mhz 900 mhz 1800 mhz 1900 mhz edge.</sentcont></sentence>
+<sentence><sentcont>3G HSDPA 1.8 mb/s  or (wcdma 2100) 380 mb/s fully world phone enny where you go where there is networks available .</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+118316#10216#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>118316</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>ATTE. every-body : This is My second Nokia N95 and this-one doesn't connect to my Bluetooth, what a crap phone, please check my previous comments below, Thanks</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+119708#11608#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>119708</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I've had a lot of Nokia phones before.</sentcont></sentence>
+<sentence><sentcont>And based on experience, my nokia phones made in Finland isn't so durable, the hardware easily breaks, the joystick, slider.</sentcont></sentence>
+<sentence><sentcont>They don't last for more than 2 years.</sentcont></sentence>
+<sentence><sentcont>Nokia phones made in China or Asia are much more durable and the hardware workmanship is more long lasting.</sentcont></sentence>
+<sentence><sentcont>That's based on my experience.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+115698#7598#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>115698</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>PLEASE HELP.</sentcont></sentence>
+<sentence><sentcont>i need to know if the n95 has a feature called STEREO WIDENING, what it does is enhances the audio output on some nokia phone when listening to music through heaset or 3.</sentcont></sentence>
+<sentence><sentcont>5mm headphones n gives the phone a sound boost n greatly improves sound quality, im thinking of purchasing this phone n need to know if it has this feature, thanx.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+114061#5961#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>114061</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Thats me below!</sentcont></sentence>
+<sentence><sentcont>Nokia and their radiation cancer causing phones.</sentcont></sentence>
+<sentence><sentcont>Its bad enough that people feel asamed to pull out a phone that looks like the n95, but they even have the ordasity put a microwave speaker 4 ur ears.</sentcont></sentence>
+<sentence><sentcont>I hope Allan uses a bluetooth headset- well he has no choice.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+1113897#15797#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>1113897</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>EXCELLENT Perpect Nokia N95 king ,   N95 Nokia Feautres profile :]  http://www.nokia.com/NOKIA_COM...atasheet.pdf</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+115061#6961#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>115061</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>The N95-3 is simply amazing.</sentcont></sentence>
+<sentence><sentcont>I got the N95 right when it came out, and while it was still an amazing phone, it did lag, and the battery life WAS TERRIBLE.</sentcont></sentence>
+<sentence><sentcont>But the new version seriously fixed everything.</sentcont></sentence>
+<sentence><sentcont>I get about two day battery life with HEAVY wifi, bluetooth, calls and some multimedia and gps time too.</sentcont></sentence>
+<sentence><sentcont>And it never hangs or lags like the original!</sentcont></sentence>
+<sentence><sentcont>Anyway, its  a 10/10 in every department and to those of you that already own one, I highly recommend the nokia wireless (bluetooth) keyboard.</sentcont></sentence>
+<sentence><sentcont>My N95-3 is plugged into my projector right now and I'm using it + the keyboard to post this...do i need my laptop anymore?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+116719#8619#Nokia_N95.txt####Manual Annotation Score =0
+
+<websource>Gsmarena</websource>
+<reviewid>116719</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>there is only a nokia n95 8gb music edition that nokias coming out with around october- december.</sentcont></sentence>
+<sentence><sentcont>there isnt a nokia n95i coming out.</sentcont></sentence>
+<sentence><sentcont>also the only difference with this nokia n95 and the nokia n95 8gb music edition is, the music edition will be black and has 8gb, no gps.</sentcont></sentence>
+<sentence><sentcont>thats the only differences between nokia n95 8gb and nokia n95.</sentcont></sentence>
+<sentence><sentcont>do your research on the internet, see for yourself.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+1112458#14358#Nokia_N95.txt####Manual Annotation Score =0
+
+<websource>Gsmarena</websource>
+<reviewid>1112458</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>my comment about nokia N95 amongest all the nokia i hav seen nokia N95 IS the most expensive and beatiful, portable and prestigious</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+116037#7937#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>116037</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>the nokia n95 is the number 1 phone on the market so far.this</sentcont></sentence>
+<sentence><sentcont>phone rocks.but 1 thing to bad for n95 users like me that just bought this phone.nokia is gonna have a nokia n95 8gb.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+115220#7120#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Gsmarena</websource>
+<reviewid>115220</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>i had n95 around 3 weeks ,i just return it today,phone is look good sound is awsome,but there is something wrong with that,sometime it freez,whenever i used bluetooh headset,when i turn the headset off normaly the icon headset on the phone disappear also,but it did not,u have to turn bluetooth off i.</sentcont></sentence>
+<sentence><sentcont>the phone also,if not when someone call u,u did not hear anything,because it seem bluetooth still active on the phone until turn bluetooth off,so the icon headset on the phone off,or swicth to handset,i called the nokia,ask them about that,they said it not normal,i told them i already updated it,b.</sentcont></sentence>
+<sentence><sentcont>t still be the same,so i just return just couple hours ago,i really like this phone,i might get it again.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+118872#10772#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Gsmarena</websource>
+<reviewid>118872</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I had mine for two weeks now since it was released in limited stock in the Philippines and this is what I found out:.</sentcont></sentence>
+<sentence><sentcont>Battery: If it is just regular calls and some standby time it will last for the average person, if you are a power user I suggest you bring the charger with you(its pocket size).</sentcont></sentence>
+<sentence><sentcont>I managed to enable bluetooth and played music via a stereo bluetooth headset for about 4+ hours, not bad.</sentcont></sentence>
+<sentence><sentcont>Applications:  I have no issues here, lots of applications and connectivity is great.</sentcont></sentence>
+<sentence><sentcont>I can't seem to enable GPS though, says no GPS signal maybe my country doesn't have it yet lol.</sentcont></sentence>
+<sentence><sentcont>Overall hardware:  I think Nokia should give themselves a pat on the back on this one, buttons are great, screen is vivid, the slide is sturdy: so far mine isn't wobbly or loose.</sentcont></sentence>
+<sentence><sentcont>Hanged only once when I switched off the paired bluetooth stereo headset first before the bluetooth on the phone(slaps forehead).</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+118909#10809#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>118909</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>The N95 is very good telephone full of features but has very bad battery life and firmware needs to be updated since the telephone is not functioning will all the time if you try to down load new application from the internet using the WiFi or Data Packet it might stop working using bluetooth will dry the battery in no time listning to music using bluetooth stereo headset (A2DP.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+119639#11539#Nokia_N95.txt####Manual Annotation Score =0
+
+<websource>Gsmarena</websource>
+<reviewid>119639</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>hello guys, just received my replacement handset from O2.</sentcont></sentence>
+<sentence><sentcont>Those who have a loose screen might want to exchange it for another N95.</sentcont></sentence>
+<sentence><sentcont>whereas I had a loose screen in the previous one, this one seems pretty solid.</sentcont></sentence>
+<sentence><sentcont>I have yet to test the sound quality which wasn't too good in the previous handset.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+634541#361#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>634541</reviewid>
+<reviewtitle>Live on my phone</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Stylish, compact, excellent features and overall its a Nokia </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Small keyboard (some keys are to near to upper phone body) and wont link with a bluetooth keyboard </sentcont>
+</sentence></con>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+116834#8734#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>116834</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>i wish text to speech worked on n95 ?</sentcont></sentence>
+<sentence><sentcont>Is it possible to install it or is it hardware only</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+115070#6970#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>115070</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I got 4 days use out of my N95 now that the novelty has warn off.</sentcont></sentence>
+<sentence><sentcont>Not sure how long it will last when I start using the BH-902, which I just ordered.</sentcont></sentence>
+<sentence><sentcont>Anyone know how it does with Bluetooth switched all the time.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+112828#4728#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>112828</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Hi there.</sentcont></sentence>
+<sentence><sentcont>My N95,keeps 'restarting' when am accessing some applications(but not always).</sentcont></sentence>
+<sentence><sentcont>The same even happened when I was receiving some music on bluetooth.</sentcont></sentence>
+<sentence><sentcont>Is anything wrong with the phone.</sentcont></sentence>
+<sentence><sentcont>P.S. It does not actually restart, it just goes back to the Nokia opening screen for about a minute or two, then goes back to standby without having cancelled whatever you I was doing.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+111364#3264#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>111364</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>No doubt its an excellent cell phone but the bad thing is no bluetooth connectivity with other phones.</sentcont></sentence>
+<sentence><sentcont>Why not Nokia disable the feature for that if we only have to synchronise the set with our PC.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+113672#5572#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>113672</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>hi well this set is good in functions but someone ask here does it hang so my reply is yes bcoz it hang when u r snap the pic but not very much sometimes it might happen to music player about the batt.</sentcont></sentence>
+<sentence><sentcont>ey only one day support if u use it more u have to charge it two times a day as well so thick twice then buy it good camera of 5 mp but the same result on tv output as when we compare iphone to n95 to tv output or when we snap a pic phone has 2 mp but got great result try it u will se the difference when u use the both phone same time.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+115990#7890#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>115990</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>go to dowmload app pre-installed in your n95 its 4 blue box like icon ,,this is wats on mine now,,windows live,,amazon,,n95 extras,,n95 games,,f-secure,,podcasting,,gizmo VOIP,,search,,mail for exchange,,nokia services uk,,nseries plus,,lovebites,,catalogues,,.</sentcont></sentence>
+<sentence><sentcont>I have debranded my voda n95 now and installed v12 software,,the voip is now there plus settings wizzard and instant meessaging and 3g+ hsdpa symbol.</sentcont></sentence>
+<sentence><sentcont>to chap below ,,ive been using sandisk 4gb high capacity card for 2 months now and no probs.</sentcont></sentence>
+</freereview>
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+1112411#14311#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Gsmarena</websource>
+<reviewid>1112411</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>paul:.</sentcont></sentence>
+<sentence><sentcont>i think the different between bluetooth version is mainly speed and distance, bluetooth 2.</sentcont></sentence>
+<sentence><sentcont>0 will transfer files to bluetooth 2.</sentcont></sentence>
+<sentence><sentcont>0 faster than bluetooth 1.</sentcont></sentence>
+<sentence><sentcont>2 transfer files to bluetooth 1.</sentcont></sentence>
+<sentence><sentcont>2, also, the distance is farther in bluetooth 2.</sentcont></sentence>
+<sentence><sentcont>0, bluetooth 1.</sentcont></sentence>
+<sentence><sentcont>2 is 7~10m (21~30 feet) , bluetooth 2.</sentcont></sentence>
+<sentence><sentcont>0 could work at a distance upto 20 m (nearly 60 feet).</sentcont></sentence>
+</freereview>
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+110647#2547#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>110647</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>how do I find other devices through bluetooth with bluetooth?</sentcont></sentence>
+</freereview>
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+118916#10816#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>118916</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>great phone does all one could expect.</sentcont></sentence>
+<sentence><sentcont>Although, has some software issues.</sentcont></sentence>
+<sentence><sentcont>After making a shortcut to bluetooth on home screen, bluetooth now doesnt work, when trying to pair.</sentcont></sentence>
+</freereview>
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+112323#4223#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>112323</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Well , you should request N95 v3 i because it's new recently version as hardware than software.</sentcont></sentence>
+<sentence><sentcont>But it's handset is the best.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+110521#2421#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>110521</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Hi guys, i really need ur help.</sentcont></sentence>
+<sentence><sentcont>my N95 has been working perfectly all this while but recently,  the increase volume button on the side of the phone is not working, the reduce volume button is working just fine.</sentcont></sentence>
+<sentence><sentcont>Is it a hardware problem or a software?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+113152#5052#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>113152</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>it is nice smart phone for handlling and useing.every</sentcont></sentence>
+<sentence><sentcont>one should buy this phone.its</sentcont></sentence>
+<sentence><sentcont>performence is very nice about  every thing like vedeio photes and mp3,but is having less sound output.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+119211#11111#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>119211</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>some question to those who own n95...   i have n95 and unfortunetly i got the one which is shaky from the sideways i mean the slider moves from the sideways and it is noticeble so wat u guyz advice me ?? keep it no problem or go and exchange if he let me?</sentcont></sentence>
+<sentence><sentcont>other thing is when i try to auto focus there is the sound when it is focusin.... have u guyz noticed it in urs??   thx</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+115359#7259#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>115359</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>1)No Touch screen with huge price  2)Battery backup less than a day, if you use wlan/mp3  3)Application manager hangs the phones several times  4)sis support not there.</sentcont></sentence>
+<sentence><sentcont>5)No USB charging, only thr 230v supply, cannot charge ur cell from laptop.</sentcont></sentence>
+<sentence><sentcont>6)Bluetooth paring is too slow n transfer speed is too slow.</sentcont></sentence>
+<sentence><sentcont>7)Camera lens is not covered in new N95, Old one have a projected cover.</sentcont></sentence>
+<sentence><sentcont>8)Accessories are too costly.</sentcont></sentence>
+<sentence><sentcont>9)keypad will get loosen very fast, no life for the keypad, nokia have to do some thing for this.</sentcont></sentence>
+<sentence><sentcont>10)Not user friendly for browsing net in wireless lan.</sentcont></sentence>
+<sentence><sentcont>11)Poor battery life  12)No option to kill the application, if the phone hangs, u need to remove the battery to reboot.</sentcont></sentence>
+<sentence><sentcont>13)Sim card is behind the battery.</sentcont></sentence>
+<sentence><sentcont>14)Can't turn off the network when phone is switched on.</sentcont></sentence>
+<sentence><sentcont>15)small keypad make it difficult in typing.</sentcont></sentence>
+<sentence><sentcont>16)Calender entry is not as user friendly  17)Overall performance is low compared with its competers.</sentcont></sentence>
+<sentence><sentcont>18)Battery backup only 2 days.</sentcont></sentence>
+<sentence><sentcont>Talktime 4 hrs.</sentcont></sentence>
+<sentence><sentcont>Mp3 only 5 hrs.</sentcont></sentence>
+<sentence><sentcont>19)Call are getting rejected frequently when the buttons gets pressed inside the pocket, even the phone is locked.</sentcont></sentence>
+<sentence><sentcont>20)Sliding get loosed so fast.</sentcont></sentence>
+<sentence><sentcont>mine was loosened in a month use.</sentcont></sentence>
+<sentence><sentcont>21)Interfacing N95 with our pc/laptop is very tedious, It take time for both in bluetooth n thr USB.</sentcont></sentence>
+<sentence><sentcont>22)Transfer rate through USB is slow.</sentcont></sentence>
+<sentence><sentcont>23)Battery cover is too thin, the clip can get break easily.</sentcont></sentence>
+<sentence><sentcont>24)Thickeness is more for this cell(21mm)  25)TV out, audio output fails.</sentcont></sentence>
+<sentence><sentcont>video does'nt hva good quality in TV Out too.</sentcont></sentence>
+<sentence><sentcont>26)FM Speaker as well as headphone output is feable.</sentcont></sentence>
+<sentence><sentcont>We cannot hear FM in noisy place.</sentcont></sentence>
+<sentence><sentcont>27)Bass Boosting is not good.</sentcont></sentence>
+<sentence><sentcont>U will not feel the boosting in bass.</sentcont></sentence>
+<sentence><sentcont>28)Please consider all the above said negative points before buying.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+114944#6844#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>114944</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Does anyone know what Nokia N95 Asian is?</sentcont></sentence>
+<sentence><sentcont>Is it the same as the normal Nokia?</sentcont></sentence>
+<sentence><sentcont>thanks    There are two places where the Nokia N95 is made.</sentcont></sentence>
+<sentence><sentcont>One is made in China and the other is actually made in Finland.</sentcont></sentence>
+<sentence><sentcont>I'm pretty sure that's what Nokia N95 Asian is.</sentcont></sentence>
+<sentence><sentcont>:]</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+110438#2338#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>110438</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>&quot;Can u deferntiate between an chinese set and an orginal N95//// how do u know whether ur N95 is orginal.&quot;      the best way to find the difference is call the nokia hotline or visit the nokia website.</sentcont></sentence>
+<sentence><sentcont>adding a statement to Kingpin's...the US version of the n95 also doesnt have a lens cover and the led flash is located on the left side of the lens, similar to the back of the n95 8gb.</sentcont></sentence>
+<sentence><sentcont>However, it is STILL ORIGINAL because the n95 US version is like that and, also, the logo of the &quot;nokia n95&quot; is on the front plate.</sentcont></sentence>
+<sentence><sentcont>I purchased mine on NOkia USA.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+118553#10453#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>118553</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>i have heard that n95's hardware has a major problem...</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+852685#971#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>852685</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Feature packed, with powerful hardware</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> It's too big</sentcont>
+</sentence></con>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+115893#7793#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>115893</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>nokia takes us for a ride always it happened with the n 70 with me the music edition was out from then onwards i stopped buying nokia asleast the n 70 was with same specs more or less but on n n95 big.</sentcont></sentence>
+<sentence><sentcont>er screen ,much faster more powerful bat,who are we kidding it is of course going to be better than the normal n 95 but nokia never thinks about the people who have bought this cell when it was launched for a heavy price they just dont care.</sentcont></sentence>
+<sentence><sentcont>6 to 8 months they come out with a much better phone what were the downside with the n 95 will be fixed on this it is for taken.</sentcont></sentence>
+<sentence><sentcont>by firmware updates you can fix the software problems what abt hardware problems they must have been fixed for sure.</sentcont></sentence>
+<sentence><sentcont>i think they should have done like n81 and announced both at the same time but the n 95 with bigger screen and more bat life i dont think most of the people would have gone for the n95.</sentcont></sentence>
+<sentence><sentcont>SO LETS NOT BLAME THE N95 8GB AND SAY THINGS LIKE THE ORIGINAL N95 IS THE REAL THING.</sentcont></sentence>
+<sentence><sentcont>FOR SURE N95 8GB IS A BETTER PHONE THAN THE ORIGINAL N95 AND IN TERMS OF HARDWARE ALSO AND BIGGER SCREEN WHICH I THINK ITS UNFAIR FOR THEN 95 USERS WE ALL CAN SAY FOR OUR SATISFACTION THAT N 95 IS THE REAL THING OR THERE IS NO DIFF BETWEEN THE TWO BUT THE FACT REMAINS THAT IS NOKIA F--KED THE N 95 USERS FOR PAYING A HEAVY PRICE FOR BUYING THIS PHONE.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+116955#8855#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>116955</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Introducing the Nokia N95 8GB Edition    - All Black Covers  - 8GB Flash Memory  - Support for MicroSD (Another 8GB)  - Total Memory 16GB  - Better Battery Life    Now this is the Real N95.</sentcont></sentence>
+<sentence><sentcont>N93, N93i & N95 were 1st Generations Nokia phone wid loads of features n stuff N nokia marketing scam.</sentcont></sentence>
+<sentence><sentcont>Nokia ditched support for N93,N93i N now soon for N95.</sentcont></sentence>
+<sentence><sentcont>Due to the real N95 8GB Edition releasing soon.</sentcont></sentence>
+<sentence><sentcont>More Info.</sentcont></sentence>
+<sentence><sentcont>http://www.symbian-freak.com/n.../n95_8gb.htm</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 bluetooth? hardware||exchange_output||
+
+115735#7635#Nokia_N95.txt####Manual Annotation Score =0
+
+<websource>Gsmarena</websource>
+<reviewid>115735</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Nokia are extremely crafty.</sentcont></sentence>
+<sentence><sentcont>The N95 8GB has been announced and will soon be released.</sentcont></sentence>
+<sentence><sentcont>Look...with a bigger battery, more RAM and bigger screen and all software and hardware improvements gleaned from the original N95 it is bound to be a better device.</sentcont></sentence>
+<sentence><sentcont>Nokia are hoping not just to catch new buyers but to entice owners of the N95 to give them up and buy the new 8GB version.</sentcont></sentence>
+<sentence><sentcont>I am wondering whether it will work.</sentcont></sentence>
+<sentence><sentcont>The crux will be the battery.</sentcont></sentence>
+<sentence><sentcont>I personally think it should have been more powerful eg 1500mAh but perhaps 1200mAh may be just enough to carry this juice demanding device.</sentcont></sentence>
+</freereview>
+
+

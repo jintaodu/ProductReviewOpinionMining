@@ -1,0 +1,778 @@
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1542861#220#Sony_NWZ_16GB.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1542861</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Controls easy to use and easy to load.</sentcont>
+<sentcont>for an MP3 player the picture quality is good too-what a bonus</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Once the protective jacket is on it is a bit bulky </sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1889427#91#Sony_NWZ_16GB.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1889427</reviewid>
+<reviewtitle>Music lover</reviewtitle>
+<rating>0.5</rating>
+<pro><sentence>
+<sentcont> Easy to use, stylish, portable, fun product </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I opted for this product having owned previously a very reliable Sony MP3 player (NW E405) which utilised Sony's excellent Sonic Stage software</sentcont>
+<sentcont>And I am brand loyal too, owning a number of Sony products</sentcont>
+<sentcont>But this player runs off the rubbish Microsoft media player which as far as I can see cannot be stopped from putting annoying breaks in conjoined tracks</sentcont>
+<sentcont>That's my only real problem with this product   but if I'd known this, I would have bought an i pod instead</sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1780055#174#Sony_NWZ_16GB.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1780055</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> small</sentcont>
+<sentcont>excellent sound</sentcont>
+<sentcont>varied ways of listening to music</sentcont>
+<sentcont>looks good</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> very little support in terms of docking with other sound systems   everything geared for i pod</sentcont>
+<sentcont>Even Sony itself seems to support i pod rather than its own walkman</sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+000002#3#Sony_NWZ_16GB.txt####Manual Annotation Score =1
+
+<websource>Viewpoints</websource>
+<reviewid>000002</reviewid>
+<reviewtitle>Pretty good for its price.</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Reliable, the way to jam out, available in many colors, Clear screen, Durable, Easy controls, great cost for product, Great Sound, Great Sound Quality, Long battery life, Plenty of data space, Small Size </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> charging by computer only, Limited playlist options, poor user interface, Video mode not very compatible, Video drains battery </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>Well after I got my 2nd generation ipod touch stole, I just couldnt live without my music.</sentcont></sentence>
+<sentence><sentcont>So I decided to go out and buy another mp3.</sentcont></sentence>
+<sentence><sentcont>I had a small budget so I wasnt looking for another ipod touch or something way more better.</sentcont></sentence>
+<sentence><sentcont>After looking at the stores selection for hours.</sentcont></sentence>
+<sentence><sentcont>I decided to give this mp3 a try.</sentcont></sentence>
+<sentence><sentcont>So I bought it, along with Koss Portapros(which i reviewed also).</sentcont></sentence>
+<sentence><sentcont>For a fairly amount of around $140, so when i got home I charged the sony walkman.</sentcont></sentence>
+<sentence><sentcont>And after a good full battery charge I started putting music on it.</sentcont></sentence>
+<sentence><sentcont>But on this sony walkman i couldnt sync it to itunes, I had to download a software that came with it called content transfer which was a pretty easy and small tool to transfer music, movies and wallpaper onto the mp3.</sentcont></sentence>
+<sentence><sentcont>So after putting all my stuff, I began listening to music.</sentcont></sentence>
+<sentence><sentcont>And the sound quality was great with the Koss Portapros, the mp3 was pretty easy too use.</sentcont></sentence>
+<sentence><sentcont>Not alot of features but fairly simple for people that just listen to music.</sentcont></sentence>
+<sentence><sentcont>And when I put movies and began watching them it drained the battery really fast.</sentcont></sentence>
+<sentence><sentcont>And even on low brightness, I couldnt even finish watching a 2 hour movie.</sentcont></sentence>
+<sentence><sentcont>But for music it lasted for hours, so if you have a small budget and just want to listen to music.</sentcont></sentence>
+<sentence><sentcont>You should buy this mp3.</sentcont></sentence>
+</freereview>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+000010#11#Sony_NWZ_16GB.txt####Manual Annotation Score =3
+
+<websource>Viewpoints</websource>
+<reviewid>000010</reviewid>
+<reviewtitle>Sony Walmans are excellent music players</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Reliable, Great Sound Quality, Clear screen, Easy controls, Plenty of data space, Long battery life </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Video mode not very compatible </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>The Sony Walkman MP3 player is by far the best music player??that I have ever owned.</sentcont></sentence>
+<sentence><sentcont>It has great sound quality and easy track search.</sentcont></sentence>
+<sentence><sentcont>Its pocket -sized??structure makes it easy to carry for travel.</sentcont></sentence>
+<sentence><sentcont>It has great battery life and charges quickly.</sentcont></sentence>
+<sentence><sentcont>I definitley recommend this product!</sentcont></sentence>
+</freereview>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1873221#107#Sony_NWZ_16GB.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1873221</reviewid>
+<reviewtitle>Casual listener</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> a good alround product especially when paired up with the speakerdock by sony </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> none  that i can think of </sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1889496#90#Sony_NWZ_16GB.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1889496</reviewid>
+<reviewtitle>Music lover</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> I wanted good sound quality for music for travelling on a 24 hr flight and I wnated to have some talking books to save cluttering up hand luggage</sentcont>
+<sentcont>This walkman was ideal and has been a god send</sentcont>
+<sentcont>The quality of sound is second to none</sentcont>
+<sentcont>Its easy to add music and books and easy to use</sentcont>
+<sentcont>The earphones that come with it are comfortable and the sound they deliver is just amazing</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I'd struggle to see a video on the screen as it is small   but then I didn't want it for video</sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1866042#133#Sony_NWZ_16GB.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1866042</reviewid>
+<reviewtitle>Music lover</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> excellent sound, simle enough to use </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> everything is advertized as i pod compatible   even sony products</sentcont>
+<sentcont>Is it compatible with docks etc or not</sentcont>
+<sentcont>cannot be used with  podcasts from apple so needs a lot more work to find a good range of podcasts</sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1895134#81#Sony_NWZ_16GB.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1895134</reviewid>
+<reviewtitle>Bargain hunter</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> does exactly what it should, no empty promises </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> it is a main competitor of ipod, and i regret that there is no really choice to buy speakers to that walkman, while many manufactures target ipod's users</sentcont>
+<sentcont>from marketing point of view i would give it a name   nobody remembers that is using ZW..</sentcont>
+<sentcont>something, 'walkman' is too broad and a bit confusing </sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1580332#28#Sony_NWZ_16GB.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1580332</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Very easy to use, especially for a novice like me who's last Walkman used tapes</sentcont>
+<sentcont>I found it very easy to download from CD's</sentcont>
+<sentcont> Selecting albums, songs, etc., extremely easy to use</sentcont>
+<sentcont>Overall very pleased with my purchase</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I found the earphones pretty useless, the ear pieces kept falling out of my ear so have now purchased a headset which is much better</sentcont>
+<sentcont> Could be it is me rather than the earphones but they are a bit fiddly and I am sure there are better earphones around</sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+000009#10#Sony_NWZ_16GB.txt####Manual Annotation Score =3
+
+<websource>Viewpoints</websource>
+<reviewid>000009</reviewid>
+<reviewtitle>If you want one that will last and is dependable the sony nwz-s5</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> the way to jam out </sentcont>
+</sentence></pro>
+<freereview><sentence><sentcont>I have had my sony walkman for 6 months and before I got this one.</sentcont></sentence>
+<sentence><sentcont>I went through 3 deferent kinds not mentioning any??of the other brand names.</sentcont></sentence>
+<sentence><sentcont>But I??was really getting upset??with buying crappy??products.??I told my self this is the last one and the sony walkman 8gb mp3 in my book is perfect for any one.</sentcont></sentence>
+</freereview>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+000004#5#Sony_NWZ_16GB.txt####Manual Annotation Score =2
+
+<websource>Viewpoints</websource>
+<reviewid>000004</reviewid>
+<reviewtitle>Love it!!</reviewtitle>
+<rating>1.0</rating>
+<freereview><sentence><sentcont>Being in my mid 40's, I was raised in the generation of the "Walkman" portable cassette player.??</sentcont></sentence>
+<sentence><sentcont>It was by far one of the best on the market!??</sentcont></sentence>
+<sentence><sentcont>My 17 year old son has had an ipod for many years starting with the first model and continuing up to the most current issue and he thinks that it's the next best thing to sliced bread, but when he gave me his hand-me-down ipods,?? wrestled with them constantly!??</sentcont></sentence>
+<sentence><sentcont>It became so frustrating that I finally gave up and decided that I would not be able to be a member of the "mp3" generation!??</sentcont></sentence>
+<sentence><sentcont>But when looking for a Christmas present for my husband who is 13 years older than me, I came across this very sleek & slim Sony Walkman mp3 player!?? Could I be so lucky that this could be the answer to all of my ipod troubles?</sentcont></sentence>
+<sentence><sentcont>My heart started to flutter with the prospect of a machine that maybe, just MAYBE, I could figure out how to use!??</sentcont></sentence>
+<sentence><sentcont>The day after Christmas I sat down to try and get his Walkman up and running and load some of "his music"!??</sentcont></sentence>
+<sentence><sentcont>It was absolutely TERRIFIC!</sentcont></sentence>
+<sentence><sentcont>Loved it so much, bought me one of my own!!</sentcont></sentence>
+</freereview>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1843181#165#Sony_NWZ_16GB.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1843181</reviewid>
+<reviewtitle>Casual listener</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Bought for 8 year old son</sentcont>
+<sentcont> He had no problems working all the functions and loves the BBCIplayer compatibility</sentcont>
+<sentcont> Easily downloads the programs and watches them in the car</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Bundled software doesn't always put the files in the right folders on the walkman</sentcont>
+<sentcont> Found it easier to drag and drop using windows</sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+2031162#59#Sony_NWZ_16GB.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>2031162</reviewid>
+<reviewtitle>Music lover</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Small and easy to use with very good picture quality</sentcont>
+<sentcont>The degree of picture detail is far better than I expected allowing full enjoyment of downloaded television programs from BBC iPlayer </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> It is a shame that it is not possible to interface with my main computer, which is a Mac, and have to go to my old Windows PC</sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+000003#4#Sony_NWZ_16GB.txt####Manual Annotation Score =3
+
+<websource>Viewpoints</websource>
+<reviewid>000003</reviewid>
+<reviewtitle>ease of use</reviewtitle>
+<rating>1.0</rating>
+<freereview><sentence><sentcont>I purchase my sony walkman about 6 months ago.??</sentcont></sentence>
+<sentence><sentcont>I have found it very easy to use.??</sentcont></sentence>
+<sentence><sentcont>At first I only used the radio but thought why not use the extra features that came with it.??</sentcont></sentence>
+<sentence><sentcont>I did not know how easy it was to download either itunes songs I purchased online or cds that I had in my own collection.??</sentcont></sentence>
+<sentence><sentcont>I have a very different aspect on the music I listen too.??</sentcont></sentence>
+<sentence><sentcont>It is more laid back at time, christian music at another time, and just get up and move music when I want to be motivated to workout, go walking or be alive instead of sitting around like a couch potatoe.??</sentcont></sentence>
+<sentence><sentcont>Even if you want to remove some music it is just as easy.??</sentcont></sentence>
+<sentence><sentcont>I have added pictures and taken some off and it was just as easy.??</sentcont></sentence>
+<sentence><sentcont>It does not run by batteries and has to charged by your computer but that is just as fast too.??</sentcont></sentence>
+<sentence><sentcont>I would recommend any sony product because it has never failed me yet.??</sentcont></sentence>
+<sentence><sentcont>They are always coming out with someone new and better.?? Check out their websites but watch the local stores for special because they can be expensive but long lasting and you can get some great deals likes at Best Buy, Big Lots or like me My local JCPenney Outlet store weekly special.</sentcont></sentence>
+</freereview>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1862413#146#Sony_NWZ_16GB.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1862413</reviewid>
+<reviewtitle>Gadget lover</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> the overall sound quality is far superior to my ipod and archos player</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The Sony software doesn't appear to work with windows 7 meaning that I have to use windows media player</sentcont>
+<sentcont>this ok but doesn't capture albums artwork or if it does I haven't figured it out</sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+000005#6#Sony_NWZ_16GB.txt####Manual Annotation Score =4
+
+<websource>Viewpoints</websource>
+<reviewid>000005</reviewid>
+<reviewtitle>Sony NWZ 8GB player is an absolute ideal!</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> the way to jam out, available in many colors </sentcont>
+</sentence></pro>
+<freereview><sentence><sentcont>The Sony NWZ 8GB is the ideal mp3 player for all those who want the quality of top dollar mp3 player but without the top dollar price.</sentcont></sentence>
+<sentence><sentcont>When I bought my Sony I was already smitten with the company through the various electronic devices that they bring us such as the PlayStation inc, and many other entertainment items.</sentcont></sentence>
+<sentence><sentcont>This mp3 player is just one more in the collection of greatly designed efficients ( memory and economically) wise products Sony manages to continue to produce.</sentcont></sentence>
+<sentence><sentcont>I charged this mp3 player for about 4-6 hours and it lasted in the car trip to New York from Chicago and back.</sentcont></sentence>
+<sentence><sentcont>Not only is the battery something to brag about but with a 8GB capacity and decent sized screen this cost efficient mp3 player makes video viewing a breeze.</sentcont></sentence>
+<sentence><sentcont>The only thing that would've made my dreams come true is if this were a touch screen, although Sony does offer many mp3 players with that capability.</sentcont></sentence>
+<sentence><sentcont>All in all I would definitely recommend this name brand and Specific Sony NWZ 8GB to anybody that would enjoy a reasonable mp3 that holds about 4000 songs; pictures and videos who's tired of paying top prices.</sentcont></sentence>
+</freereview>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1864440#141#Sony_NWZ_16GB.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1864440</reviewid>
+<reviewtitle>Gadget lover</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Gives hours of pleasure not just the excellent sound on music but downloads from i-playe as fantastic</sentcont>
+<sentcont>Superb battery life with easy software drop & drag.Well done Sony better software than you have used in the past</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Being a fussy old git, stereo radio not perfect but pretty good in mono</sentcont>
+<sentcont>In the picture mode the slide show is ok but the resolutions could be better</sentcont>
+<sentcont>For the price a case should have be provided </sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1299365#20#Sony_NWZ_16GB.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1299365</reviewid>
+<reviewtitle>JPN</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> The point is it's SONY Walkman, not iPod which everyone has</sentcont>
+<sentcont>My native language is shown on the screen without any adjustments (other products might have the same function as well, but I was simply impressed as I hadn't expected it at all)</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> To show CD jackets (sleeves) on the screen, I need to use Windows Media Player, not by dragging & dropping</sentcont>
+<sentcont>Time it takes is no difference, so it's not a big problem though</sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1775891#186#Sony_NWZ_16GB.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1775891</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Love the robustness of all things Sony </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I think the downloading and interfacing aspects of the product is fiddly and I tend to download stuff very rarely</sentcont>
+<sentcont>I had some problems setting up Media Manager which I only solved by reference to the Internet when I found others shaared the same problem  Needs to be made much easier and more intuitive to use </sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1891488#88#Sony_NWZ_16GB.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1891488</reviewid>
+<reviewtitle>Music lover</reviewtitle>
+<rating>0.5</rating>
+<pro><sentence>
+<sentcont> Sound Quality Small size </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Not compatible with any docking systems, including those Sony produce!</sentcont>
+<sentcont>Had I known this at the time, I would have bought an ipod instead</sentcont>
+<sentcont>Too easy to turn on power whilst in your pocket, thus flattening the battery</sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1978824#68#Sony_NWZ_16GB.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1978824</reviewid>
+<reviewtitle>Music lover</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Easy to use don't have to be an IT genius to download music etc</sentcont>
+<sentcont>Large capacity and able to select type of music on the player via a number of easy functionality keys ie genre, artist, & year etc</sentcont>
+<sentcont>This is my second Sony network walkman the other being the NW-E99 which I've had for a number of years which also was  excellent value and problem free</sentcont>
+<sentcont>This has now been relegated to use in the gym!!</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None at present </sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1125023#47#Sony_NWZ_16GB.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1125023</reviewid>
+<reviewtitle>music lover</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Best quality sound of any mp3 player and picture quality is second to none </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1793295#170#Sony_NWZ_16GB.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1793295</reviewid>
+<reviewtitle>Wanted to download Spanish</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Easy to use</sentcont>
+<sentcont> Love being able to download TV programs easily</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> could do with better radio reception</sentcont>
+<sentcont> Could also do with a carrying case that is secure, the Sony one is made to clip on a belt   fine for men but even if I had a belt want to make sure it will not fall off</sentcont>
+<sentcont> Also would like case with a viewing window</sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1858345#160#Sony_NWZ_16GB.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1858345</reviewid>
+<reviewtitle>Music lover</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Does everything an iPod does for half the price </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Lack of quality docking speakers on market for the Walkman </sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1869684#119#Sony_NWZ_16GB.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1869684</reviewid>
+<reviewtitle>Music lover</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Very good sound and in comparison to the iPod very easy to use</sentcont>
+<sentcont>I now have 2 NWZ S Mp3 players, I purchased an 8gb after trying an iPod and being unhappy with it's complexity and inferior music quality</sentcont>
+<sentcont>Then the 16gb when I found that the NWZ was just what I was looking for</sentcont>
+<sentcont>It is very portable, I do not notice that I am carrying it and the battery life is excellent which is what I need for long aeroplane journeys</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I do not think there is anything to complain about with the machine however I am not at all pleased with the fact that Sony are able and willing to make extremely good docks etc</sentcont>
+<sentcont>for iPods but seem reluctant to cater for users of  their own MP3 players in as comprehensive a way</sentcont>
+<sentcont>I have an ICF Dream Machine but it is nothing compared to what Sony produce for iPod</sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+000006#7#Sony_NWZ_16GB.txt####Manual Annotation Score =4
+
+<websource>Viewpoints</websource>
+<reviewid>000006</reviewid>
+<reviewtitle>So much better than an Ipod</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Durable, Reliable </sentcont>
+</sentence></pro>
+<freereview><sentence><sentcont>I got my pink Walkman MP3 player last year and I love it.</sentcont></sentence>
+<sentence><sentcont>I buy all my music from Amazon.com and it is easily compatible.</sentcont></sentence>
+<sentence><sentcont>I tried itunes and I would never buy an Ipod because Itunes is horribly un-user friendly.??</sentcont></sentence>
+<sentence><sentcont>The only thing I don't like about the Walkman is that every time I shuffle the music it and pick a song to start with the next song is always the same no matter what the first song was.</sentcont></sentence>
+<sentence><sentcont>I don't know if there is some setting that I just have messed up or if it does this on purpose.</sentcont></sentence>
+<sentence><sentcont>I ended up deleting the song it kept playing because after hearing it hundreds of times I got to where I hated it.</sentcont></sentence>
+<sentence><sentcont>And the headphones that come with it are very basic generic headphones.</sentcont></sentence>
+<sentence><sentcont>I invested in new marshmallow headphones.</sentcont></sentence>
+<sentence><sentcont>I have not really used the picture viewer or video player on it because I have all that stuff on my desktop at home.</sentcont></sentence>
+<sentence><sentcont>I only use it for music and it works good.</sentcont></sentence>
+<sentence><sentcont>Nice sound, reliable, good battery life and very durable as I have dropped it multiple times on accident!</sentcont></sentence>
+</freereview>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1780201#173#Sony_NWZ_16GB.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1780201</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> superb sound quality</sentcont>
+<sentcont>Knocks spots off i-pod </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> difficult to transfer from i tunes to sony </sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+000001#2#Sony_NWZ_16GB.txt####Manual Annotation Score =3
+
+<websource>Viewpoints</websource>
+<reviewid>000001</reviewid>
+<reviewtitle>the best i ever had</reviewtitle>
+<rating>1.0</rating>
+<freereview><sentence><sentcont>The first word that came out of my mouth when I listened to a track on this MP3 / Video player was WOW!</sentcont></sentence>
+<sentence><sentcont>The sound quality that this tiny little device generates is just amazing.</sentcont></sentence>
+<sentence><sentcont>When it comes to MP3 players, I'm VERY picky.</sentcont></sentence>
+<sentence><sentcont>I look for a device that gives me rich, crystal clear, high quality sound... with BASS!</sentcont></sentence>
+<sentence><sentcont>And this Walkman delivers it.</sentcont></sentence>
+<sentence><sentcont>That's not to say that other brands don't deliver high-quality crystal clear sound, but at the same time, not all brands deliver it with outstanding bass and balance.</sentcont></sentence>
+<sentence><sentcont>At least, not for this price range.</sentcont></sentence>
+<sentence><sentcont>The equalizer on this Sony Walkman is just perfect, as far as I'm concerned.</sentcont></sentence>
+<sentence><sentcont>When you crank up the bass level, you get exactly that - thick, solid bass, without distorting the earphones or affecting the treble.</sentcont></sentence>
+<sentence><sentcont>You can either select the presents that are pre-loaded in this device, or customize the frequency levels until you reach your desired sound.</sentcont></sentence>
+<sentence><sentcont>At 4GB, this Walkman can hold approximately 900 songs if they are at 128 kbps in MP3 format.</sentcont></sentence>
+<sentence><sentcont>But personally, I would highly recommend you rip your MP3s from your CDs to 192 kbps, which would pretty much give you CD quality.</sentcont></sentence>
+<sentence><sentcont>The downfall is that you won't be able to load 900 songs.</sentcont></sentence>
+<sentence><sentcont>Since 192 kbps files are a little larger than 128 kbps, you'll be looking at something like 600 songs or so (assuming they are the standard 3 to 4 minute songs), which is still a lot.</sentcont></sentence>
+<sentence><sentcont>As for the video player, I was quite impressed with both the picture and, of course, sound quality.</sentcont></sentence>
+<sentence><sentcont>The videos don't freeze up or skip or anything like that, they play just as smoothly as what you see on your television screen at home.</sentcont></sentence>
+<sentence><sentcont>Importing audio, video, and images onto this device is pretty easy.</sentcont></sentence>
+<sentence><sentcont>Simply connect one end of the USB cable (which comes included) to your Sony Walkman, and the other end of the cable to your computer.</sentcont></sentence>
+<sentence><sentcont>Then, on your computer, go to Start, My Computer, look for the "Sony Walkman" drive, double click on it and then drag / drop your files in the appropriate folders.</sentcont></sentence>
+<sentence><sentcont>The other option is to use Windows Media Player 11 (which you can download for free on the Internet) to synchronize your files to your Sony Walkman.</sentcont></sentence>
+<sentence><sentcont>This is probably the better option if you want everything neatly organized.</sentcont></sentence>
+<sentence><sentcont>It may take a little bit of practice for some, but it's fairly easy to do once you get the hang of it.</sentcont></sentence>
+<sentence><sentcont>IMPORTANT NOTE: This review is written specifically for the NWZ-A815 model, not the NWZ-E436F series (BIG DIFFERENCE!).</sentcont></sentence>
+<sentence><sentcont>Sony screwed up royally with the MWZ-E436F series as the sound quality is nowhere near as good.</sentcont></sentence>
+<sentence><sentcont>Heck, I had a SanDisk Sansa that actually sounded better than the MWZ-E436F series.</sentcont></sentence>
+<sentence><sentcont>The problem is that the MWZ-E436F walkmans come with cheap, very standard earphones and have very limited sound enhancement options.</sentcont></sentence>
+<sentence><sentcont>I know this from personal experience as I purchased an E436 series thinking it's the same as the A815 series.</sentcont></sentence>
+<sentence><sentcont>I was VERY disappointed.</sentcont></sentence>
+<sentence><sentcont>Since the NWZ-A815 looks like it's discontinued, I would recommend you invest in the Sony NWZ-A726 instead to get that superior sound quality.</sentcont></sentence>
+<sentence><sentcont>Summary for the NWZ-A815 Sony Walkman: Pros:  Amazing sound quality Excellent Equalizer Ridiculously long lasting battery Ultra slim design (less than half an inch thick) Has FM Radio Great bass!</sentcont></sentence>
+<sentence><sentcont>Cons: Memory not expandable No voice recorder  This is an excellent product.</sentcont></sentence>
+<sentence><sentcont>I highly recommend it.</sentcont></sentence>
+</freereview>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1777870#180#Sony_NWZ_16GB.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1777870</reviewid>
+<reviewtitle>Casual listener</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Light and relatively easy to use</sentcont>
+<sentcont> Unobtrusive in use</sentcont>
+<sentcont>Battery life seems good</sentcont>
+<sentcont>  Primarily bought to compliment and use with the Sony CPF IX001 where it works faultlessly</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Not over keen on the supplied earphones when used outside the home</sentcont>
+<sentcont>  Limited availability of Sony or alternative manufacturer docking products stocked in numerous Electronic shops compatable with the Sony IM Port fitted to the walkman   most seem aimed at the Ipod product</sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1334118#223#Sony_NWZ_16GB.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1334118</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Small, Fast, Good sound and picture quality.Easy to use</sentcont>
+<sentcont>A quality item</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Would have been nice to have some MP4 utility software included</sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1867470#126#Sony_NWZ_16GB.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1867470</reviewid>
+<reviewtitle>Music lover</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> its really reliable, easy to use and def contendor against the iPod</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> the software isnt the greatest and i end up just using a third party music manager and using the drag and drop</sentcont>
+<sentcont>its annoying that there isnt too many sound systems for it out there, and they are a little more, but they're sony and produce a good quality sound</sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1862690#145#Sony_NWZ_16GB.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1862690</reviewid>
+<reviewtitle>Music lover</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> I love using my Sony as it is compact, easy to use and the sound quality from the headphones supplied is very good</sentcont>
+<sentcont>The battery life is very good and charges very easy though the usb port</sentcont>
+<sentcont>I have a plug also that the connector goes into for charging from the mains which is great fro  travelling</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> So far have not found any</sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1173396#46#Sony_NWZ_16GB.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1173396</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> good pic and video quality easy to use</sentcont>
+<sentcont>really good sound </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> no bluetooth.trying to import videos still no luck </sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1865284#137#Sony_NWZ_16GB.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1865284</reviewid>
+<reviewtitle>Music lover</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> My third Sony mp3 player and the best one to date</sentcont>
+<sentcont>A no nonsense product that is good right across the criteria range and most importantly, helps me keep my sanity</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Would benefit from a wall charger as it gets a great deal of use in a workplace where a computer based charging system is inapropriate</sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1111491#48#Sony_NWZ_16GB.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1111491</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> sound and picture quality is very good</sentcont>
+<sentcont>Product is very small and sleek</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> It does not come with an attached external speaker </sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1872817#108#Sony_NWZ_16GB.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1872817</reviewid>
+<reviewtitle>Music lover</reviewtitle>
+<rating>0.6</rating>
+<pro><sentence>
+<sentcont> metallic finish, headphone design, light weight </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I dont know if this is a common fault but my player does not store all the songs as they are recorded, some songs have silence gaps in the middle.Head phone wires are too thin</sentcont>
+<sentcont>I have had good experiences with Sony products in the past   unlike this item.It would have been good value if it worked  perfectly ( thats the whole point of digital is it not?) There is no point having a good looking product if it does not deliver and the SONY NWZ S639F stutters in its delivery.If I had the time during normal work hours I'd exchange it under warranty unfortunately I don't</sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1989903#64#Sony_NWZ_16GB.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1989903</reviewid>
+<reviewtitle>Casual listener</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> it is very compact and light weight</sentcont>
+<sentcont>the battery life is good</sentcont>
+<sentcont>picture quality is great.sound qulity is good also </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> not many </sentcont>
+</sentence></con>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+000000#1#Sony_NWZ_16GB.txt####Manual Annotation Score =2
+
+<websource>Viewpoints</websource>
+<reviewid>000000</reviewid>
+<reviewtitle>Sony NWZ-S540 (8 GB) Digital Media Playeraz4</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> great cost for product </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> charging by computer only </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I love my MP3 player, you can put over 900 songs and video's and pictures on this.?? love the colors you can choose from I dont like that the only way you can charge this is by computer.</sentcont></sentence>
+</freereview>
+
+
+query=sony walkman nwz-e436f 4 gb pic problem? hardware||camera|| picture
+
+1768566#210#Sony_NWZ_16GB.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1768566</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> a great machine, simple, tiny, and fantastic sound</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No rewind/fastforward button for moving within songs or tv programmes</sentcont>
+<sentcont>You have to watch programmes either from where you last stopped or from the beginning</sentcont>
+<sentcont>No mains power adapter included Won't play while being charged Not a huge memory Just playing music, battery doesnt last as long as my 5 year old Sony HD5 </sentcont>
+</sentence></con>
+
+

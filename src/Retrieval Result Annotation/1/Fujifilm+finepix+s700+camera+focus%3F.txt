@@ -1,0 +1,898 @@
+Result size=23
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2017618#1#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2017618</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> This camera is very good value</sentcont>
+<sentcont> It's simple to use and if you just use it as a 'point and shoot' camera it gives good results</sentcont>
+<sentcont> If you want to try for a more professional shot you can use one of the pre-set modes to enhance, for example, low light shots or group scenes</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> In the two months I have owned this camera I haven''t had any complaints about it in any way</sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2106496#303#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2106496</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Great camera, very good value,lasts well with a quality battery and very easy to use</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I have been using this camera for over 3 months and cannot find anything wrong with it</sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2076816#322#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2076816</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Very nice pink and shiny digital camera, that I purchased for my girlfriend to take on holiday</sentcont>
+<sentcont>I was surprised how small the camera is and of course the picture quality is good with a resolution of 12 MP and 4x optical zoom</sentcont>
+<sentcont>The 2.7" LCD screen is nice and bright and can be seen in most lighting conditions</sentcont>
+<sentcont>The camera uses standard AA batteries, and the battery life seemed very good</sentcont>
+<sentcont> One battery lasted a week's holiday</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No separate viewfinder, but you rarely find this feature on similarly priced cameras</sentcont>
+<sentcont>No case, but you can pick one up fairly cheaply</sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2235473#162#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2235473</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> bacically easy to use, even though different settings still keep coming up, but not very good with cameras so would be very easy for someone else</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> sometimes takes a long time to photo and not always does the flash work in dark places, have camera on auto</sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2142519#266#Fujifilm_Finepix.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>2142519</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> its easy to use, the setting such as sunset, beach and night are really good i tried them out on a recent holliday, the picture quality is amazing, the movie filming is amazing hd quality!</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> the focus is really loud!</sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2226456#168#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2226456</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.4</rating>
+<pro><sentence>
+<sentcont> Takes reasonable pictures</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Does not feel like a quality product and does not handle and operate as good as my previous camera   Ricoh Caplio R5</sentcont>
+<sentcont>I think I will mot use this camera much now as I have purchased a second hand R5 camera as I was dissapointed with my new purchase</sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2156118#250#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2156118</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> So easy to use and for this level of camera the picture quality is really good</sentcont>
+<sentcont>Obviously it's not the same as a serious professional camera but it's brilliant for taking everywhere and getting great pictures</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2103539#308#Fujifilm_Finepix.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>2103539</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Large memory - versatile - very wide angle lens - good size and weight - panoramic and video options - uses AA batteries </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> no view finder for when impossible to see image in lcd screen in certain weather conditions (particularly difficult to line up panoramic pictures in strong light)   difficult to operate the optical zoom smoothly </sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2206543#74#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2206543</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> VERY GOOD SPECIFICIATION FOR THE MONEY</sentcont>
+<sentcont> VERY SOPHICATED CMAERA WITH GOOD HIGH QULAITY EFFECTS, AND GOOD FACILITIES E.G VIDEO MANUAL OVER-RIDE ,SCREEN RECOGNIZATION</sentcont>
+<sentcont> VERY GOOD QUALITY CAMERA MADE WELL AND STURDY CONSTRUCTION</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> VERY LONG MANUAL FOR THE INSTRUCTIONS</sentcont>
+<sentcont> BUT ONCE LEARNT HOW TO USE VERY EASY TO OPERATE</sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2033345#341#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2033345</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> easy to use, great picture, good selection of shoot modes </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> no manual just a disc to put into the computer which is ok, but when you are out and about trying the  camera out, it would be nice to be able to look things up about the camera , cant turn the volume up when playing back a video shoot </sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2175355#227#Fujifilm_Finepix.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>2175355</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Excellent capacity and has a lot of features, does HD video as well as standard video and very good panoramic pictures</sentcont>
+<sentcont>For all its features and zoom the 2 AA batteries last well, it processes pictures quickly so that you can get another shot in</sentcont>
+<sentcont> Like the ability for using the zoom while videoing</sentcont>
+<sentcont>The wide angle lens is very good and keeps the fish-eye effect to a minimum (once you go beyond 35mm you will get some fish-eye effect but the better quality lens the less it shows)</sentcont>
+<sentcont>Even though as you can see from below I have a few niggles, I DO HIGHLY recommend this camera it is excellent value for money </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> HATE the automatic resetting to "0" of the picture numbers if you remove & switch discs, you can end up with pictures having the same reference number which causes problems for storage and reference</sentcont>
+<sentcont>It is a real pain having to scroll through the picture/video options on the view screen at the back to select a picture setting</sentcont>
+<sentcont>It takes ages, a simple rotating swtich on the back or top of the camera would have been MUCH better for the prime settings such as switching from still shots to video</sentcont>
+<sentcont>panoramic & close up</sentcont>
+<sentcont>Would have been more sensible to have a separate access point for changing over the discs & batteries rather than having to use the battery compartment lid cover, this lid does NOT have the strongest hinge and will easily break </sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2163230#109#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2163230</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> I`ve not yet got fully used to the camera due to a lack of leisure time but I`ve been using it more at work lately (surveying building sites etc) and am on a learning curve</sentcont>
+<sentcont> There is certainly nothing about the Finepix  that I dislike</sentcont>
+<sentcont>I was surprised at it`s versatality in such a compact case</sentcont>
+<sentcont>As for `ease of use` I am sure that in due course I will have mastered the many features it offers, the menu buttons require a bit of practice and regular reference to the well thought out user-manual is essential</sentcont>
+<sentcont> Picture quality is brilliant and the detail in the pictures is really useful in my line of work and I look forward to capturing holiday pictures</sentcont>
+<sentcont>All in all, I have never had such good value for money from a camera, and I`ve been taking pictures since my Kodak Brownie 45 years ago</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None</sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2241702#155#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2241702</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> very good to use-all buttons in the right place-value for money-quick start-easy to switch from camera to play and the video facility is very good-overall a very good camera for every day use </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> could do with a bigger zoom eats up batteries rechargable better in the long run </sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2142838#263#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2142838</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Good , simple camera - does exactly what it says on the tin</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Internal memory poor, you really need to buy memory card along with camera </sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2170786#232#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2170786</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> good has auto focus </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> not good for night photosyoung busy active male </sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2129542#283#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2129542</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Handy size, easy to use, zoom feature and auto focus </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> haven't yet managed to take a good photo at night </sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2165382#77#Fujifilm_Finepix.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>2165382</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>0.2</rating>
+<pro><sentence>
+<sentcont> It fits in the pocket digital - you can take a lt of picures </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> auto focus is very slow   sometimes you just miss the moment battery life is short anti shake switches itself off at a citical moment  auto flash has a mind of is own you need to take a lot of pictures to make sure you get  good one lens quality is poor therefore megapixels mean nothing </sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2240278#157#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2240278</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> this is a great little point and click camera</sentcont>
+<sentcont>Quality of the images in general is excellent</sentcont>
+<sentcont>Small and light for great portability</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> images not so good when using the flash and some of the functions are not easy to access</sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2259692#60#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2259692</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> This is a very good camera</sentcont>
+<sentcont> You do not need to pay huge amount for camera these days</sentcont>
+<sentcont> This one is an excellent camera</sentcont>
+<sentcont> It has lots of features</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> You need to buy your own memory card as the internal memory can only allow you to take two shots</sentcont>
+<sentcont> This is normal for all cameras anyway</sentcont>
+<sentcont> So not really a bad point</sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2112657#297#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2112657</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> This camera is an attractive looking item - I purchased the blue version</sentcont>
+<sentcont>In its simplest mode it is easy to use - following the 'get started' leaflet</sentcont>
+<sentcont>Good optical zoom so you don't lose quality of picture</sentcont>
+<sentcont>Large screen means easy viewing</sentcont>
+<sentcont>Pictures easy to download</sentcont>
+<sentcont> Robust metal body</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The included leaflet does not explain the many feature of the camera</sentcont>
+<sentcont>I had to have these sent ot me by Fuji, and took up several sides of A4</sentcont>
+<sentcont>The camera's memory is small and you need a memory card for it almost immediately</sentcont>
+<sentcont>The viewing screen is impossible to see in sunlight   this is a fault of most digital cameras</sentcont>
+<sentcont>A view finder would have been a simple but highly useful addition   few digital cameras have one nowadays</sentcont>
+<sentcont>A camera case would have been a useful item in the package</sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2096008#313#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2096008</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Brilliant camera, very forgiving for the not-so-competent photographer like me</sentcont>
+<sentcont>The panorama setting is brilliant, showing you where the previous photo ends</sentcont>
+<sentcont>Beats my previous digital camera hands-down, and doesn't eat up batteries like the old one either</sentcont>
+<sentcont>Especially good value at reduced price</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> There are almost too many different pre programmed settings with little explanation of what difference each setting will make to the final picture; the digital zoom is in the camera setup menu, not the shooting menu   not very intuitive to me when all the other shooting modes/options are together</sentcont>
+<sentcont>Also you need to format new memory cards in the camera before the camera will read them but this instruction is buried in the user manual</sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2252919#130#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2252919</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Excellent little camera, easy to use, good pictute quality</sentcont>
+<sentcont> Very simple to upload to computer either by memory card or usb lead</sentcont>
+<sentcont> Good little camera, highly recommended </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=Fujifilm finepix s700 camera focus? fujifilm_finepix||lens system||
+
+2053547#332#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2053547</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> everything about it is good ,the options for different settings is comprehensive,menu is easy to understand.its a good solid built camera and also lightweight</sentcont>
+<sentcont>picture quality is excellent and a bonus with hd video what a treat</sentcont>
+<sentcont>for the price , this camera is an absolute bargain</sentcont>
+<sentcont>definitely recommended </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> none </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2248091#143#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2248091</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> such a great camera </sentcont>
+<sentcont>lovely colour, excellent pictures, great look, easy to use</sentcont>
+<sentcont>such good value for money</sentcont>
+<sentcont>extremely happy with this product </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> nothing bad to say </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2108047#302#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2108047</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> nice easy to use camera </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> makes odd noise which apparently is normal </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2132407#280#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2132407</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Good points great little camera bad points none so far </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> none so far </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2242777#66#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2242777</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Fabulous camera, really easy to use and great value for money</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> none</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2155234#80#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2155234</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> bought for 12 yr old daughter, who loves it, pictures can be cropped on the camera, and the screen is really clear</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> can sound a bit clunky when zooming, or focusing, but if you dont mind a noise this is a great little camera </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2194287#213#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2194287</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Good value, easy to use </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Little bit noisy when focusing </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2211075#187#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2211075</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> nice compact camera with lots of options </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> bit slow between picture taking </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2040351#12#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2040351</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Great clear picture and a lovely stylish colour and design </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> makes a weird noise as the lense is constanly adjustin g to focus </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2046935#49#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2046935</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Zoom and focus were excellent </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2134788#276#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2134788</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> easy use camera very good features </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> nothing </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2163528#78#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2163528</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> good picture quality, good all round camera </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> none </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2108369#301#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2108369</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Camera is full of the things we wanted in a camera, especially the timer so that nobody misses out on being on the pictures</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2142827#264#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2142827</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> very pleased with my camera</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2143624#262#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2143624</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.7</rating>
+<pro><sentence>
+<sentcont> Styish and colourful appearance, wideangle lens (28mm equiv.) to adequate telephoto, more than enough pixels (12m), easy to handle for point and shoot photos, 2.7" LCD is big enough</sentcont>
+<sentcont>AA batteries for convenience as an occasional user</sentcont>
+<sentcont>Excellent for the price</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> When using rechargeable AA batteries, the camera seems dead after they are first inserted or after you open the battery/memory card compartment door to get at the card, It's as though the camera needs up to a minute to get its circuits working with rechargables, but switches on instantly with alkaline AAs</sentcont>
+<sentcont>Setting the menu option for the correct battery type makes no difference</sentcont>
+<sentcont>For more advanced use, where changing camera and flash modes is required, the lack of a command dial slows you down and means you have to delve through various menus to find the setting needed</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2206575#192#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2206575</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Brilliant camera for the price </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2208616#189#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2208616</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> the picture quality is excellent for me,i have 3 children , and cant afford to take them to get there pics done professionally,but with my camera ,i take the memory card out ,take it in a shop n i get them blown up n printed off ..</sentcont>
+<sentcont>they are exceelent </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> it is a bit noisy ,as it is always focusing and working out the best option for the picture </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2250651#135#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2250651</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> excellent camera with good features  Outstanding value for money </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2051960#334#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2051960</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Excellent all round camera </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None that I have discovered </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2225251#170#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2225251</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> the camera is of good qualitiy </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> none so far</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2029958#343#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2029958</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Excellent camera</sentcont>
+<sentcont>Superb image quality</sentcont>
+<sentcont>Very easy to use</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Used AA batteries </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2183965#222#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2183965</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.6</rating>
+<pro><sentence>
+<sentcont> good looking neat camera </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> would be better with rechargabe battery </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2138602#271#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2138602</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> great all rounder camera </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> its quite noisy </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2135315#275#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2135315</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> good camera easy to use </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> needs a more comprehensive instruction manual </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2184215#221#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2184215</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> everything the camera says it does very well, </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> nothing bad about the camera </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2038510#18#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2038510</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Excellent, easy to use camera with good range of basic facilities</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Battery only, can't use rechargeable batteries</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? fujifilm_finepix||lens system|| focusing
+
+2256466#124#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2256466</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> excellent small camera at a great price </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? lens system|| focusing
+
+2159197#79#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2159197</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Easy to use</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Noise that it makes when the shutter is focusing </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? lens system|| focusing
+
+2001795#104#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2001795</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.5</rating>
+<pro><sentence>
+<sentcont> Size, programmes, cost </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I  bought this camera  to attend a photgraphy for beginners course</sentcont>
+<sentcont>It is advertised as an SLR camera, which it is not</sentcont>
+<sentcont>The tutor said it is false advertising</sentcont>
+<sentcont>I was very embaressed</sentcont>
+<sentcont>The instruction mannual gives very little information</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s700 camera focus? lens system|| focusing
+
+2248794#137#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2248794</reviewid>
+<reviewtitle>student</reviewtitle>
+<rating>0.7</rating>
+<pro><sentence>
+<sentcont> it was a beautiful camera, </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> wished it didnt use AA batteries </sentcont>
+</sentence></con>
+
+

@@ -1,0 +1,9 @@
+./plain2snt.out chinese.segment.txt english.segment.txt 
+./snt2cooc.out english.segment.vcb chinese.segment.vcb english.segment_chinese.segment.snt > eng_chn.cooc
+./snt2cooc.out chinese.segment.vcb english.segment.vcb chinese.segment_english.segment.snt > chn_eng.cooc
+./mkcls -penglish.segment.txt -Venglish.vcb.classes opt
+./mkcls -pchinese.segment.txt -Vchinese.vcb.classes opt
+./GIZA++ -S english.segment.vcb -T chinese.segment.vcb -C english.segment_chinese.segment.snt -CoocurrenceFile eng_chn.cooc -O e2c
+./GIZA++ -S chinese.segment.vcb -T english.segment.vcb -C chinese.segment_english.segment.snt -CoocurrenceFile chn_eng.cooc -O c2e
+
+get c2e.A3.final c2e.actual.t1.final e2c.A3.final e2c.actual.t1.final

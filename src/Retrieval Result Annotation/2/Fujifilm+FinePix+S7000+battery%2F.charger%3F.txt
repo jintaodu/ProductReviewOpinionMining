@@ -1,0 +1,1006 @@
+Result size=22
+query=Fujifilm FinePix S7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2212224#183#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2212224</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+
+
+query=Fujifilm FinePix S7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2211461#186#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2211461</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Easy to use - excellent quality prints - excellent screen image </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> N/A </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2106496#303#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2106496</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Great camera, very good value,lasts well with a quality battery and very easy to use</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I have been using this camera for over 3 months and cannot find anything wrong with it</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S7000 3/.charger? fujifilm_finepix||charging||power||
+
+2076816#322#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2076816</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Very nice pink and shiny digital camera, that I purchased for my girlfriend to take on holiday</sentcont>
+<sentcont>I was surprised how small the camera is and of course the picture quality is good with a resolution of 12 MP and 4x optical zoom</sentcont>
+<sentcont>The 2.7" LCD screen is nice and bright and can be seen in most lighting conditions</sentcont>
+<sentcont>The camera uses standard AA batteries, and the battery life seemed very good</sentcont>
+<sentcont> One battery lasted a week's holiday</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No separate viewfinder, but you rarely find this feature on similarly priced cameras</sentcont>
+<sentcont>No case, but you can pick one up fairly cheaply</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2133602#278#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2133602</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+
+
+query=Fujifilm FinePix S7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2123773#287#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2123773</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> easy to use, good quality item at a fantastic price </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> poor battery life </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S7000 battery/.charger? fujifilm_finepix||charging||power||
+
+1993292#5#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1993292</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Lots of good features</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Thirsty for batteries could do with a built in rechargable battery</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2143624#262#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2143624</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.7</rating>
+<pro><sentence>
+<sentcont> Styish and colourful appearance, wideangle lens (28mm equiv.) to adequate telephoto, more than enough pixels (12m), easy to handle for point and shoot photos, 2.7" LCD is big enough</sentcont>
+<sentcont>AA batteries for convenience as an occasional user</sentcont>
+<sentcont>Excellent for the price</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> When using rechargeable AA batteries, the camera seems dead after they are first inserted or after you open the battery/memory card compartment door to get at the card, It's as though the camera needs up to a minute to get its circuits working with rechargables, but switches on instantly with alkaline AAs</sentcont>
+<sentcont>Setting the menu option for the correct battery type makes no difference</sentcont>
+<sentcont>For more advanced use, where changing camera and flash modes is required, the lack of a command dial slows you down and means you have to delve through various menus to find the setting needed</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2128472#284#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2128472</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Easy to use, good Pictures</sentcont>
+<sentcont> Good size</sentcont>
+<sentcont> Uses standard AA batteries therefore no worrying about battery going flat while out and about</sentcont>
+<sentcont> Simply buy new ones</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> A little noisy</sentcont>
+<sentcont> Video can cut off unexpectedly</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2158814#247#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2158814</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> compact</sentcont>
+<sentcont>the photos are fantastic quality</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> no rechargable battery </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2120069#290#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2120069</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Can't fault the quality of photos or video</sentcont>
+<sentcont> Brilliant all round camera and value for money</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Flimsy battery cover could easily break</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2175355#227#Fujifilm_Finepix.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>2175355</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Excellent capacity and has a lot of features, does HD video as well as standard video and very good panoramic pictures</sentcont>
+<sentcont>For all its features and zoom the 2 AA batteries last well, it processes pictures quickly so that you can get another shot in</sentcont>
+<sentcont> Like the ability for using the zoom while videoing</sentcont>
+<sentcont>The wide angle lens is very good and keeps the fish-eye effect to a minimum (once you go beyond 35mm you will get some fish-eye effect but the better quality lens the less it shows)</sentcont>
+<sentcont>Even though as you can see from below I have a few niggles, I DO HIGHLY recommend this camera it is excellent value for money </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> HATE the automatic resetting to "0" of the picture numbers if you remove & switch discs, you can end up with pictures having the same reference number which causes problems for storage and reference</sentcont>
+<sentcont>It is a real pain having to scroll through the picture/video options on the view screen at the back to select a picture setting</sentcont>
+<sentcont>It takes ages, a simple rotating swtich on the back or top of the camera would have been MUCH better for the prime settings such as switching from still shots to video</sentcont>
+<sentcont>panoramic & close up</sentcont>
+<sentcont>Would have been more sensible to have a separate access point for changing over the discs & batteries rather than having to use the battery compartment lid cover, this lid does NOT have the strongest hinge and will easily break </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2163230#109#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2163230</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> I`ve not yet got fully used to the camera due to a lack of leisure time but I`ve been using it more at work lately (surveying building sites etc) and am on a learning curve</sentcont>
+<sentcont> There is certainly nothing about the Finepix  that I dislike</sentcont>
+<sentcont>I was surprised at it`s versatality in such a compact case</sentcont>
+<sentcont>As for `ease of use` I am sure that in due course I will have mastered the many features it offers, the menu buttons require a bit of practice and regular reference to the well thought out user-manual is essential</sentcont>
+<sentcont> Picture quality is brilliant and the detail in the pictures is really useful in my line of work and I look forward to capturing holiday pictures</sentcont>
+<sentcont>All in all, I have never had such good value for money from a camera, and I`ve been taking pictures since my Kodak Brownie 45 years ago</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2212546#181#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2212546</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Very easy to use and quite hard wearing</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I prefer rechargable cameras to battery operated</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2211519#185#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2211519</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Good camera</sentcont>
+<sentcont> Light in weight but a bit bigger than current cameras - this is actually a good thing as we bought it for our 7 year old </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No rechargeable battery and it gets through standard ones quickly, even on standby </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2203875#40#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2203875</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.5</rating>
+<pro><sentence>
+<sentcont> its light and compatable with aditional features </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> my daughter took up to 10 pictures that did not colate onto the sd card</sentcont>
+<sentcont>this is because you have to wait for the lights to stop flashing before you can take another picture</sentcont>
+<sentcont>This is a disadvantage when you want to capture an instantanious moment</sentcont>
+<sentcont>Another bad point is that it dose not hold battery power for long and in the sace of 12 hours we went through 6 batterys</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2249784#35#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2249784</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Very easy to use</sentcont>
+<sentcont>I bought it for my daddy for his birthday</sentcont>
+<sentcont>This was the best starter camera</sentcont>
+<sentcont>It does not suck the battery life dry after 2 pics (like other reviews received from other cams) and it's so sleek and looked 'the gadget'</sentcont>
+<sentcont>For the price, I could not have bargained for more</sentcont>
+<sentcont>Why I was tempted to buy one myself for days when the dslr is too cumbersome</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> It meets all my requirements for a starter camera</sentcont>
+<sentcont>However, if it provides more languages, that would have made it the ultimate starter camera</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2090019#318#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2090019</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.6</rating>
+<pro><sentence>
+<sentcont> great colour and good quality pictures </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> It makes a constant whirring noise, the batteries don't last long and the battery compartment is fiddly to close properly</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2180667#25#Fujifilm_Finepix.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>2180667</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> I got the camer ia blue</sentcont>
+<sentcont>Its great and light in weight</sentcont>
+<sentcont>Lenses are great and takes a fantastic picture </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Not entirely sure about the fact that it takes AA batteries</sentcont>
+<sentcont>Despite the fact I am using rechargeable ones they do not last as long as an electrical powered battery </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2165382#77#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2165382</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>0.2</rating>
+<pro><sentence>
+<sentcont> It fits in the pocket digital - you can take a lt of picures </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> auto focus is very slow   sometimes you just miss the moment battery life is short anti shake switches itself off at a citical moment  auto flash has a mind of is own you need to take a lot of pictures to make sure you get  good one lens quality is poor therefore megapixels mean nothing </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2038510#18#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2038510</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Excellent, easy to use camera with good range of basic facilities</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Battery only, can't use rechargeable batteries</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2136511#274#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2136511</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> very good image quality , very easy to use, great features  </sentcont>
+<sentcont>it made a perfect camera for my daughter who is 12</sentcont>
+<sentcont>very good value of the money</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> i would preferred it with a rechargable li 0n battery instead of standard aa batteries </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2224149#172#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2224149</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> all mostly good </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> battery life </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2169810#234#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2169810</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Easy to use, auto mode chooses the setting choice for the conditions making for simple picture taking</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> noisy and battery life when in auto mode</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2252295#133#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2252295</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> brilliant value for money.lots of good features.easy to use </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> battery compartment opens easily when trying to take photos </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2168240#236#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2168240</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Very easy to use and compact</sentcont>
+<sentcont>The picture quality is very good and there are no blured pictures when taking a moving object </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> It is battery run and has no recharge facility </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2049528#14#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2049528</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.3</rating>
+<pro><sentence>
+<sentcont> Picture quality is good </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Consumes battery power far too quickly</sentcont>
+<sentcont>Is too slow to write to memory meaning that you miss being able to take more than one picture in quick succession</sentcont>
+<sentcont>The camera was returned as unfit for purpose</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2226666#167#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2226666</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> easy to use, compact, battery life good, good quality photos </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> n/a </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2046704#338#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2046704</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Impressive battery life</sentcont>
+<sentcont>Very easy to use</sentcont>
+<sentcont>The panoramic facility is very good indeed</sentcont>
+<sentcont>If you want a point and shoot this camera is value for money</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Noe to report</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2183965#222#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2183965</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.6</rating>
+<pro><sentence>
+<sentcont> good looking neat camera </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> would be better with rechargabe battery </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2224847#38#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2224847</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> All fine- am used to Fujis- takes a good picture especially Macro - excellent</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> but always have one problem  the flap that covers the Battery holder tends to be 'weak'  flips open and can  lose the batteries  a nuisance  apart from that buy</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2043811#89#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2043811</reviewid>
+<reviewtitle>aged 9 for granddaughter</reviewtitle>
+<rating>0.7</rating>
+<pro><sentence>
+<sentcont> Reduced price gives value to this camera and is ok  as a ready to use item</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Runs only on Battery,no mains</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? fujifilm_finepix||charging||power||
+
+2130915#281#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2130915</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Really good battery life on AA batterys</sentcont>
+<sentcont>the one's that came with it lasted about for about 200 shots</sentcont>
+<sentcont>good picture quality and record hd video so good video quality aswell</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2012121#55#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2012121</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> easy to use </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> it runs on AAA batteries which have to be changed more frequently than the camera with the lithium power pack </sentcont>
+</sentence></con>
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2074733#4#Fujifilm_Finepix.txt####Manual Annotation Score =3
+<websource>Reevoo</websource>
+<reviewid>2074733</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.1</rating>
+<pro><sentence>
+<sentcont> Easyish to use.One of cheapest 12mp on market </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Eats batteries for breakfast even the expensive ones...turning into an expensive habit using this</sentcont>
+<sentcont> Front and back of camera actually unclipped and came apart.We managed to shove it back together but now click button is temperamental.Poor build  Some 10mp cameras have better features than this 12mp.Nice camera but overally disapointing</sentcont>
+</sentence></con>
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2050143#7#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2050143</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> takes brilliant quality photographs and videos, has many shooting modes including good quality photos when indoors without a flash </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> uses AA batteries so they run out and you have to keep replacing them </sentcont>
+</sentence></con>
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2034934#526#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2034934</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2155640#251#Fujifilm_Finepix.txt####Manual Annotation Score =3
+Helpfulness=0.313466196441617
+<websource>Reevoo</websource>
+<reviewid>2155640</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Good for the money, good quality pictures </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Goes through batteries quicker than most other cameras </sentcont>
+</sentence></con>
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2139088#467#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2139088</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2172185#41#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2172185</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Takes AA batteries which last a long time</sentcont>
+<sentcont>Point and shoot</sentcont>
+<sentcont> Very good features</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None that I can think of</sentcont>
+</sentence></con>
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2086975#494#Fujifilm_Finepix.txt####Manual Annotation Score =0
+Helpfulness=0.3395767162789123
+<websource>Reevoo</websource>
+<reviewid>2086975</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2008795#13#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2008795</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> It's very easy to use and has made our day trips out with our two young children much easier with the speed with which it starts up</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> If left in the automatic mode then it eats batteries</sentcont>
+</sentence></con>
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2067055#47#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2067055</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> good handy size to fit in handbags or pockets </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2166989#239#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2166989</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> very good quality,easy to use,my photos were great good value for your money</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2111348#298#Fujifilm_Finepix.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>2111348</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.5</rating>
+<pro><sentence>
+<sentcont> Good Picture quality</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The batteries dont last</sentcont>
+<sentcont>I am using the correct batteries, and havent taken many photo's at all, and I will soon be needing to buy my 3rd set of batteries</sentcont>
+<sentcont>It is very very poor</sentcont>
+<sentcont> Ive probably only taken about 100 shots at the most, so even though the camera seamt excellent value for money, keeping up with the renewal of batteries is going to turn out very expensive</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2114869#295#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2114869</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Point and shoot easy to use </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Bit slow in processing pictures </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2246990#145#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2246990</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Really nice looking pink Camera easy for all the family to use, and takes great pictures</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2154550#81#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2154550</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> picture is good and a very good zoom on it,the price is very good and  having the choice of colours </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2149094#259#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2149094</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> This camera is great, very simple to use, even for children from 12yrs</sentcont>
+<sentcont>Fantastic pictures with great quality due to the 12mp</sentcont>
+<sentcont>Great value for money!</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2137194#43#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2137194</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> good price as i got it for half its value, i wouldnt of payed any more</sentcont>
+<sentcont>pictures taken in the day were good</sentcont>
+<sentcont>I would recommend but suggest most pics be taken during the day for best quality</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> at night the picture quality is poor no matter what setting you put it on, and i tried all of them</sentcont>
+<sentcont>so very dissapointed with that</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2204139#197#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2204139</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> GOOD SIZE SCREEN, CLEAR IMAGE, EASY TO USE</sentcont>
+<sentcont>GOOD VALUE FOR MONEY </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> CONSTANT WHIRRING AND CLICKING WHEN IN USE, BUT DON'T LET THAT PUT YOU OFF</sentcont>
+<sentcont>WOULD HAVE LIKED A MORE COMPREHENSIVE INSTRUCTION BOOKLET TO REFER TO RATHER THAN  A  CD ROM </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2190802#16#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2190802</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> It is very easy to use - light to carry around - fantastic quality pictures -attractive little camera - will recommend to anyone </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2192257#10#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2192257</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Extremely light & small</sentcont>
+<sentcont>Easy to use</sentcont>
+<sentcont>Very good picture quality </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> As newcomer to digital photography I did not know that a separately purchased memory card was needed </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2151513#256#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2151513</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Small, neat, easy to use</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Seems a bit heavy on batteries </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2010930#33#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2010930</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Easy to use, great features like panoramic shot</sentcont>
+<sentcont>Good quality photos too</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None that I can see</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2134541#277#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2134541</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Easy, compact & light</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2211969#184#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2211969</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> size very compact - easy to use </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2092543#101#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2092543</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> clear pictures </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2228646#70#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2228646</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> It is very easy to operate, especially as I have no idea about cameras, has quite a clear viewing of the picture you have took and the batteries last a long time </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> none </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2206543#74#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2206543</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> VERY GOOD SPECIFICIATION FOR THE MONEY</sentcont>
+<sentcont> VERY SOPHICATED CMAERA WITH GOOD HIGH QULAITY EFFECTS, AND GOOD FACILITIES E.G VIDEO MANUAL OVER-RIDE ,SCREEN RECOGNIZATION</sentcont>
+<sentcont> VERY GOOD QUALITY CAMERA MADE WELL AND STURDY CONSTRUCTION</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> VERY LONG MANUAL FOR THE INSTRUCTIONS</sentcont>
+<sentcont> BUT ONCE LEARNT HOW TO USE VERY EASY TO OPERATE</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s7000 battery/.charger? charging||power||
+
+2129973#282#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2129973</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Easy first camera with a variety of features</sentcont>
+<sentcont>Good quality images </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No major issues</sentcont>
+<sentcont>AA batteries are used instead of a rechargeable but easy to replace from any newsagent if runs out </sentcont>
+</sentence></con>
+
+

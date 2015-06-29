@@ -1,0 +1,1093 @@
+Result size=37
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2099490#311#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2099490</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> A birthday gift for my 15 year old daughter, easy to use and good quality photo's this trendy looking camera has given hours of fun</sentcont>
+<sentcont>Lots of features and great value for money</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2236632#68#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2236632</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> small and easy to use if you just want a point and shoot compact </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> additional camera features require small nimble fingers and not the fat ones I have..</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2093525#317#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2093525</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> good quality pictures , very easy menu </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2191599#216#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2191599</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Im a complete novice when taking pictures, however I bought this Fuji Camera and found it really easy to use, and the instructions simple to understand, and my holiday photo's came out fab </sentcont>
+<sentcont>Good price and easy to use </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2102704#86#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2102704</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Exceptional for the price</sentcont>
+<sentcont>Bought camera for 10yr old daughter </sentcont>
+<sentcont>Features easy for her to access</sentcont>
+<sentcont>Was so impressed by picture quality, bought myself one to keep in handbag</sentcont>
+<sentcont>Already have a very expensive, top of range, but bulkier digital camera but love compactness and picture quality of this cheap one, hard to tell any difference really</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Heavy on batteries if accessing features</sentcont>
+<sentcont>Take spare ones just in case</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2158699#248#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2158699</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Size of the camera is perfect</sentcont>
+<sentcont>Its vertually idiot proof and so easy to use</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Night time pictures aren't as good a daytime pics </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2248091#143#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2248091</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> such a great camera </sentcont>
+<sentcont>lovely colour, excellent pictures, great look, easy to use</sentcont>
+<sentcont>such good value for money</sentcont>
+<sentcont>extremely happy with this product </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> nothing bad to say </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2040631#90#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2040631</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Good for the price, takes good, clear pictures</sentcont>
+<sentcont> Easy to use and looks good</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Feels a bit cheap but u get what u pay for</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2076978#321#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2076978</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Was easy to set up</sentcont>
+<sentcont>Has been used for weddings and other functions, great pictures</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None found </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2169810#234#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2169810</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Easy to use, auto mode chooses the setting choice for the conditions making for simple picture taking</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> noisy and battery life when in auto mode</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2082409#320#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2082409</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Easy to use and quality pictures </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Screen darkens when you are about to take a picture</sentcont>
+<sentcont>There is a button to press to lighten the screen , but i think it  it should stay lighter all the time</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2168240#236#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2168240</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Very easy to use and compact</sentcont>
+<sentcont>The picture quality is very good and there are no blured pictures when taking a moving object </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> It is battery run and has no recharge facility </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2168436#108#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2168436</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> small, light weight, easy to use</sentcont>
+<sentcont>lots of features</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> cable to conect to pc too short</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2156118#250#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2156118</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> So easy to use and for this level of camera the picture quality is really good</sentcont>
+<sentcont>Obviously it's not the same as a serious professional camera but it's brilliant for taking everywhere and getting great pictures</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2068463#87#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2068463</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> fantastic clear pictures and easy to use </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2180907#223#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2180907</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.7</rating>
+<pro><sentence>
+<sentcont> light weight   easy to use  good range of features </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> mode selction is not straight forword   cable no very long </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2021913#51#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2021913</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> easy to use, easy to carry around and takes good quality pictures</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2128472#284#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2128472</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Easy to use, good Pictures</sentcont>
+<sentcont> Good size</sentcont>
+<sentcont> Uses standard AA batteries therefore no worrying about battery going flat while out and about</sentcont>
+<sentcont> Simply buy new ones</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> A little noisy</sentcont>
+<sentcont> Video can cut off unexpectedly</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2219417#174#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2219417</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Does everything I need..</sentcont>
+<sentcont>nothing too flash, but easy to use and good quality pictures</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> A bit noisy when zooming..</sentcont>
+<sentcont>but really not a big issue</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2192257#10#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2192257</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Extremely light & small</sentcont>
+<sentcont>Easy to use</sentcont>
+<sentcont>Very good picture quality </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> As newcomer to digital photography I did not know that a separately purchased memory card was needed </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2033345#341#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2033345</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> easy to use, great picture, good selection of shoot modes </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> no manual just a disc to put into the computer which is ok, but when you are out and about trying the  camera out, it would be nice to be able to look things up about the camera , cant turn the volume up when playing back a video shoot </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2246990#145#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2246990</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Really nice looking pink Camera easy for all the family to use, and takes great pictures</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2163230#109#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2163230</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> I`ve not yet got fully used to the camera due to a lack of leisure time but I`ve been using it more at work lately (surveying building sites etc) and am on a learning curve</sentcont>
+<sentcont> There is certainly nothing about the Finepix  that I dislike</sentcont>
+<sentcont>I was surprised at it`s versatality in such a compact case</sentcont>
+<sentcont>As for `ease of use` I am sure that in due course I will have mastered the many features it offers, the menu buttons require a bit of practice and regular reference to the well thought out user-manual is essential</sentcont>
+<sentcont> Picture quality is brilliant and the detail in the pictures is really useful in my line of work and I look forward to capturing holiday pictures</sentcont>
+<sentcont>All in all, I have never had such good value for money from a camera, and I`ve been taking pictures since my Kodak Brownie 45 years ago</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2163229#42#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2163229</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> I wanted a camera that is easy to use and produces great pictures and that is exactly what I got</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Not found one yet </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2203875#40#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2203875</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.5</rating>
+<pro><sentence>
+<sentcont> its light and compatable with aditional features </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> my daughter took up to 10 pictures that did not colate onto the sd card</sentcont>
+<sentcont>this is because you have to wait for the lights to stop flashing before you can take another picture</sentcont>
+<sentcont>This is a disadvantage when you want to capture an instantanious moment</sentcont>
+<sentcont>Another bad point is that it dose not hold battery power for long and in the sace of 12 hours we went through 6 batterys</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2248557#139#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2248557</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Excellent value for money compact camera - compliments my Digital SLR  So good, we now have two </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Can be noisy with all automatic features switched on </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2237594#160#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2237594</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Looks great and takes very good quality pictures for my 1st ever digital camera I found it easy to use and I'm very impressed with it</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> It doesn't come with that many instructions </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2257268#122#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2257268</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> great value for money,easy to use, fantastic pictures </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> none </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2017670#9#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2017670</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> quick - good quality - easy to download photos - good features - compact</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2083556#45#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2083556</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Compact, light,  easy to use for anyone who has used a digital camera before</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I read some reviews before buying which said that the camera made an awful noise when taking pictures and sounded as if it was broken</sentcont>
+<sentcont> But when they took it back they were told it was just the 'face detection' feature and it was working perfectly</sentcont>
+<sentcont> It is true that it does make a strange noise when 'face detection' setting is on but I have found that it can be turned off which stops the noise and does not affect picture quality</sentcont>
+<sentcont> Also, the photo editing programme which is included is very basic</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2224419#71#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2224419</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Easy to use lightwieght,good quality pictures </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No carrying case provided </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2190802#16#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2190802</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> It is very easy to use - light to carry around - fantastic quality pictures -attractive little camera - will recommend to anyone </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2112657#297#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2112657</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> This camera is an attractive looking item - I purchased the blue version</sentcont>
+<sentcont>In its simplest mode it is easy to use - following the 'get started' leaflet</sentcont>
+<sentcont>Good optical zoom so you don't lose quality of picture</sentcont>
+<sentcont>Large screen means easy viewing</sentcont>
+<sentcont>Pictures easy to download</sentcont>
+<sentcont> Robust metal body</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The included leaflet does not explain the many feature of the camera</sentcont>
+<sentcont>I had to have these sent ot me by Fuji, and took up several sides of A4</sentcont>
+<sentcont>The camera's memory is small and you need a memory card for it almost immediately</sentcont>
+<sentcont>The viewing screen is impossible to see in sunlight   this is a fault of most digital cameras</sentcont>
+<sentcont>A view finder would have been a simple but highly useful addition   few digital cameras have one nowadays</sentcont>
+<sentcont>A camera case would have been a useful item in the package</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2136511#274#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2136511</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> very good image quality , very easy to use, great features  </sentcont>
+<sentcont>it made a perfect camera for my daughter who is 12</sentcont>
+<sentcont>very good value of the money</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> i would preferred it with a rechargable li 0n battery instead of standard aa batteries </sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2067731#326#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2067731</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Every thing is easy to use and good quality pictures</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The zoom can get stuck and an error comes up on screen</sentcont>
+<sentcont>The batteries need changing all the time</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2171669#230#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2171669</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> fairly easy to use</sentcont>
+<sentcont>and compact</sentcont>
+<sentcont>very clear pictures</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> they eat batterys</sentcont>
+</sentence></con>
+
+
+query=Fujifilm FinePix S4500 Pictures? picture effect||fujifilm_finepix||camera features||
+
+2053547#332#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2053547</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> everything about it is good ,the options for different settings is comprehensive,menu is easy to understand.its a good solid built camera and also lightweight</sentcont>
+<sentcont>picture quality is excellent and a bonus with hd video what a treat</sentcont>
+<sentcont>for the price , this camera is an absolute bargain</sentcont>
+<sentcont>definitely recommended </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> none </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2178530#225#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2178530</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Takes nice pictures and small  enough to  go in handbag .Simple to load into computer </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> none so far </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2003163#96#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2003163</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> its a very good camera and has loads of features </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2173664#228#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2173664</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Very good camera for the money providing excelent quality pictures</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Noise when using SR Auto</sentcont>
+<sentcont>in stanadard Mode it is quiet</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2165598#244#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2165598</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> So easy to use and quality pictures at little expense </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2165962#243#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2165962</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Picture quality is excellent especially close-ups also panorama feature</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Nothing specific   a really super little camera</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2243133#153#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2243133</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> exellent value for money takes exellent pictures really happy with purchase </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> have not found any </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2211075#187#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2211075</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> nice compact camera with lots of options </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> bit slow between picture taking </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2064338#88#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2064338</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Very good camera in terms of quality of picture and has excellent features </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No memory card comes with the item </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2134788#276#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2134788</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> easy use camera very good features </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> nothing </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2163528#78#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2163528</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> good picture quality, good all round camera </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> none </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2155640#251#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2155640</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Good for the money, good quality pictures </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Goes through batteries quicker than most other cameras </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2049528#14#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2049528</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.3</rating>
+<pro><sentence>
+<sentcont> Picture quality is good </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Consumes battery power far too quickly</sentcont>
+<sentcont>Is too slow to write to memory meaning that you miss being able to take more than one picture in quick succession</sentcont>
+<sentcont>The camera was returned as unfit for purpose</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2114869#295#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2114869</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Point and shoot easy to use </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Bit slow in processing pictures </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2108369#301#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2108369</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Camera is full of the things we wanted in a camera, especially the timer so that nobody misses out on being on the pictures</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2053774#331#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2053774</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Really good picture quality</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Without a memory card, camera does not hold many images</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2206518#75#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2206518</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> nice large screen.nothing complicated about it ,lots of different scene modes ..face detection..lovely clear pictures </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> no bad points so far ..</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2250651#135#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2250651</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> excellent camera with good features  Outstanding value for money </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2175355#227#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2175355</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Excellent capacity and has a lot of features, does HD video as well as standard video and very good panoramic pictures</sentcont>
+<sentcont>For all its features and zoom the 2 AA batteries last well, it processes pictures quickly so that you can get another shot in</sentcont>
+<sentcont> Like the ability for using the zoom while videoing</sentcont>
+<sentcont>The wide angle lens is very good and keeps the fish-eye effect to a minimum (once you go beyond 35mm you will get some fish-eye effect but the better quality lens the less it shows)</sentcont>
+<sentcont>Even though as you can see from below I have a few niggles, I DO HIGHLY recommend this camera it is excellent value for money </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> HATE the automatic resetting to "0" of the picture numbers if you remove & switch discs, you can end up with pictures having the same reference number which causes problems for storage and reference</sentcont>
+<sentcont>It is a real pain having to scroll through the picture/video options on the view screen at the back to select a picture setting</sentcont>
+<sentcont>It takes ages, a simple rotating swtich on the back or top of the camera would have been MUCH better for the prime settings such as switching from still shots to video</sentcont>
+<sentcont>panoramic & close up</sentcont>
+<sentcont>Would have been more sensible to have a separate access point for changing over the discs & batteries rather than having to use the battery compartment lid cover, this lid does NOT have the strongest hinge and will easily break </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2092543#101#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2092543</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> clear pictures </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2247697#144#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2247697</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> its one of the nicest and easy to use cameras i hav ever had </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> me learning how to put my pictures on my computer </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2090019#318#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2090019</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.6</rating>
+<pro><sentence>
+<sentcont> great colour and good quality pictures </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> It makes a constant whirring noise, the batteries don't last long and the battery compartment is fiddly to close properly</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2136811#273#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2136811</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> This camera takes really clear pictures </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> sometimes there is a delay after having already pressed photo button which can be annoying </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2202487#201#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2202487</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Good price, good size, clear pictures, quick picture taking</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Sometimes flash takes time to recharge</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||fujifilm_finepix||camera features||
+
+2208468#190#Fujifilm_Finepix.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2208468</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Easy to use, has more than enough features</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I bought the black body camera, suffers badly from fingerprints etc</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||camera features||
+
+2185727#105#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2185727</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>0.4</rating>
+<pro><sentence>
+<sentcont> cheap, </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Tacky Feeling, uses AA batteries which make it heavy and bulky, Pictures where almost too sharp as features were not able to cope with the high 12mp quality, menu options looked like the first colour screen mobile phone(not good) </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||camera features||
+
+2074733#4#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2074733</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.1</rating>
+<pro><sentence>
+<sentcont> Easyish to use.One of cheapest 12mp on market </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Eats batteries for breakfast even the expensive ones...turning into an expensive habit using this</sentcont>
+<sentcont> Front and back of camera actually unclipped and came apart.We managed to shove it back together but now click button is temperamental.Poor build  Some 10mp cameras have better features than this 12mp.Nice camera but overally disapointing</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s4500 pictures? picture effect||camera features||
+
+2149094#259#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2149094</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> This camera is great, very simple to use, even for children from 12yrs</sentcont>
+<sentcont>Fantastic pictures with great quality due to the 12mp</sentcont>
+<sentcont>Great value for money!</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+

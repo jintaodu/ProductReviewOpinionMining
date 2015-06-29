@@ -1,0 +1,1241 @@
+Result size=32
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1559703#43#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1559703</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> There's just so many to list..</sentcont>
+<sentcont>went out on a day trip to Go Ape and took this camera round with me</sentcont>
+<sentcont>and filmed people and myself jumping off things and going down zip wires, All i can say for such a easy camera to use its photos and videos are out of this world.</sentcont>
+<sentcont>if your looking for one at this price and size then this is the one for you.</sentcont>
+<sentcont>Hope it helps </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> i would say to get a memory card made by PANASONIC as i went on holiday with a diffrent make of memory card and after a few days of taking photos it stopped working, this is nothing to do with the TZ7..</sentcont>
+<sentcont>I'm just saying don't go cheap on HDSC....!!!</sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+000003#26#Panasonic_Lumix_DMC.txt####Manual Annotation Score =4
+
+<websource>Viewpoints</websource>
+<reviewid>000003</reviewid>
+<reviewtitle>Panasonic Lumix DMC-ZS3</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Optical image stabilization, Compact size, Large LCD display, Fast performance </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Slightly soft images, Short battery life, Few manual options, No RAW support </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>Most ultra-zoom digital cameras are big and bulky, but the 10.1-megapixel,        12x Panasonic Lumix DMC-ZS3?? has a unique optical system that        makes it one of the only pocket-sized ultra-zoom digital cameras.</sentcont></sentence>
+<sentence><sentcont>The Panasonic        Lumix DMC-ZS3 measures a minuscule 2.35 inches by 4.07 inches by 1.29 inches        and weighs 7.2 ounces.</sentcont></sentence>
+<sentence><sentcont>Compared to more advanced ultra-zooms like the,        that's up to an inch shorter, three-quarters of an inch narrower and two        inches thinner.</sentcont></sentence>
+<sentence><sentcont>The Panasonic Lumix DMC-ZS3 is also more than 12 ounces      lighter than the heavyweight SX10 and 6 ounces less than the middleweight      FZ28.</sentcont></sentence>
+<sentence><sentcont>The advantage in size comes with trade-offs in features.</sentcont></sentence>
+<sentence><sentcont>Simply put, the      Panasonic Lumix DMC-ZS3 is strictly a point-and-shoot camera.</sentcont></sentence>
+<sentence><sentcont>The 12x zoom      lens has optical image stabilization but a relatively short 25 mm to 300      mm focal length range.</sentcont></sentence>
+<sentence><sentcont>There's no electric viewfinder, only the 3-inch LCD      display, which is larger those found on the SX10 and FZ28.</sentcont></sentence>
+<sentence><sentcont>And while Panasonic      Lumix ZS3 comes with HD movie mode and can record to SD, SDHC (high capacity)      and MultiMedia memory cards (MMC), it lacks RAW (uncompressed image file)      support, manual modes, a high-speed shutter and burst modes.</sentcont></sentence>
+<sentence><sentcont>However, reviewers      say it's easy to use, with 22 scene modes, an intelligent ISO feature for      reducing image blur, zippy performance and good picture but slightly soft      image quality.</sentcont></sentence>
+<sentence><sentcont>However, anyone wanting more control might take a look at      the highly rated Panasonic Lumix DMC-FZ28.</sentcont></sentence>
+<sentence><sentcont>It isn't nearly as compact, but      the Panasonic Lumix FZ28 has an 18x zoom lens, more manual controls, and      supports RAW image and HD format -- and all for a lower price.????</sentcont></sentence>
+</freereview>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1689851#190#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1689851</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Nice camera with loads of features</sentcont>
+<sentcont>The image quality is excellent in well lit conditions</sentcont>
+<sentcont>In low light, subjects at a distance can suffer</sentcont>
+<sentcont>The person recognition works quite well and overall I am very pleased with the camera</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> It unit is a little chunky and heavy</sentcont>
+<sentcont>Panasonic battery and charger so I can't use my high powered AA's</sentcont>
+<sentcont>The camera requires a mini HDMI cable to connect to a TV that you have to purchase seperately</sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1648795#337#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1648795</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Nice fit in hand, intuitive handling and set-up</sentcont>
+<sentcont>Excellent video recording</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Some features are just a gimmick   face recognition, babies etc</sentcont>
+<sentcont>Beware to buy generic replacement battery   the firmware does not recognise it</sentcont>
+<sentcont>Nasty move from Panasonic</sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1540648#62#Panasonic_Lumix_DMC.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>1540648</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Simply stunning camera</sentcont>
+<sentcont>HD video, beautiful photos, looks fantastic and very easy to use due to a FULL auto setting (selects picture type, white balance, flash, just about everything automatically)</sentcont>
+<sentcont>The LCD display is high res so pin sharp</sentcont>
+<sentcont>I upgraded from the TZ3 and it is worth every penny over an already excellent camera</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Battery life is poor and this is largely due to the huge power the screen takes up</sentcont>
+<sentcont>I went away for the weekend and i found myself very cautious about using it   basically taking a photo and immediately switching it off</sentcont>
+<sentcont>Even with the eco setting on it doesnt do alot to halt power drainage</sentcont>
+<sentcont>HD video is glorious   but   the auto focus gets confused easily and is slow to respond</sentcont>
+<sentcont>It failed to capture some scenes but overall due to it being a compact digital this is a small, if slightly annoying issue</sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1541730#386#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1541730</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> 24 - 300mm stepless zoom</sentcont>
+<sentcont>Ultra-wide-angle Leica lens</sentcont>
+<sentcont>3" monitor</sentcont>
+<sentcont>Clear, easily navigable menus</sentcont>
+<sentcont>Ability to shoot indoors without flash (tripod recommended though!)</sentcont>
+<sentcont>Intelligent operation & auto-focus</sentcont>
+<sentcont>Bought this instead of a Canon Powershot G10 (zoom shorter and suffers chromatic abberations) and a Panasonic Lumix DMC-LX3 (zoom too short) due to price differentials of ?100 and ?60 respectively, and being the better all-rounder compact overall</sentcont>
+<sentcont>Have recommended it to two friends who have now bought 5 between them!!</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> 3" monitor stands proud of the body and is easily scratched</sentcont>
+<sentcont>Top plate options dial far too loose</sentcont>
+<sentcont>?45 for a spare Panasonic branded battery is extortionate</sentcont>
+<sentcont>Finger grip inadequate, and fingers of left hand can easily obscure the infra red assist lamp </sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1552250#71#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1552250</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Excellent easy to use with AI turned on just point and shot; also great to be able to see results on large three inch screen </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Lack of guidance from Panasonic on card capacityies and likely configurations </sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+000004#27#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Viewpoints</websource>
+<reviewid>000004</reviewid>
+<reviewtitle>Panasonic Lumix ZS3 - Great Camera! Recommended!</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> great color and quality of pictures, has lots of features </sentcont>
+</sentence></pro>
+<freereview><sentence><sentcont>I purchased this camera a couple months ago and it has great quality.</sentcont></sentence>
+<sentence><sentcont>One of its best characteristics is the AVHCD Lite HD Video, which can record for longer amounts of time using less storage capacity.</sentcont></sentence>
+<sentence><sentcont>I bought a 16gb SDHC card, and I can record up to 2 hours of HD Video at 1280 x 720 px!</sentcont></sentence>
+<sentence><sentcont>It also has many good preset configurations in the Exposure Control Mode such as: Candle, Beach, Transfor, Beach & Surf, Snow, High sensitivity, Starry sky, Soft Skin, Baby1, Baby2, Portrait mode, Aerial photo, Hi-speed burst, Film Grain, pin hole, party/indoor, night portrait, self-portrait, Pet, Scenery, Food, Fireworks, Low light, Night scene, underwater, sports mode, sunset.</sentcont></sentence>
+<sentence><sentcont>I love taking pictures at night or at sunset and that last option is great for that, it takes some beautiful picture.</sentcont></sentence>
+<sentence><sentcont>Oh, and the 12x optical zoom in such a small camera is just great, fantastic.?? Pictures when there's not too much light tend to be a bit grainy, but you can take some really nice shots.</sentcont></sentence>
+</freereview>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1606270#81#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1606270</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Image quality easy to use build quality Panasonic had done it again with the DMC, wither you are an amateur or professional photographer this provides everything you require</sentcont>
+<sentcont>With the zoom capability while filming a video if HD you can reduce what you have to carry around in a convience excellent pirece of kit</sentcont>
+<sentcont>It did look at the Canon sx200 is, however this did not meet the all round quality of the Panasonic DMC0-TZ7 </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> As yet not found any real bad points which would put anybody of seriouly considering this model again any of the competition</sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1923223#252#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1923223</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> nice large screen, lots of features and very good zoom </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> no view finder so difficult to take photos in sunlight </sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+2577644#1#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+
+<websource>Cnet</websource>
+<reviewid>2577644</reviewid>
+<reviewtitle>TZ3 dumbed-down - The TZ5 is A Disapppointment !!!!</reviewtitle>
+<rating>0.6</rating>
+<pro><sentence>
+<sentcont> Construction, LCD </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> What were the Panasonic Engineers/Prodcut Desginers Thinking </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>With relatively minor improvements, the TZ3 could have been taking to the point of an effective "pocketable" substitute for a DSLR .... but .....This camera is a step back from TZ3.</sentcont></sentence>
+<sentence><sentcont>I would recommend purchasing the TZ3, not the TZ5. 1 ) The implementation of the macro .... a command dial control selection on the TZ3 .... is quite inconvenient on the TZ5 .... and the macro focus performs inconsistently ....2 ) The product designers' kids must not play sports ..... there is no Tv ( shutter speed ) selection .... and the programmed sports mode is way too slow to capture action in most sports ( and no-one in Pansonic tech assistance seems to know what the programmed shutter speed is ) ....3 ) video capture is limited to 7 mins in best quality HD ... and 15 mins in SD ..... great if your kids play 6 minute soccer games ... These limitations did not exist in the TZ3.</sentcont></sentence>
+<sentence><sentcont>With 32 GB SDHC cards available, such limitations are unacceptable.</sentcont></sentence>
+<sentence><sentcont>Moreover, AVCHD, increasingly supported by the industry( and by Pansonic ) would have been the better video format.ProblemsAs</sentcont></sentence>
+<sentence><sentcont>noted above, the TZ5 is a step back from TZ3 in terms of functionality ..... notwithstanding the gain of 2 megapixels of resolution ......I recommend buying a TZ3 ..... which is an excellent camera.</sentcont></sentence>
+<sentence><sentcont>The TZ5 should have improved on it, but failed to do so .... a big disappointment ..... !!!</sentcont></sentence>
+</freereview>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1675670#322#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1675670</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> High quality images and video  Good zoom and anti-shake large display screen </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Bigger / heavier than first thought  Function select dial easy shifted </sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1606693#92#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1606693</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Excellent zoom but also 25mm wide angle</sentcont>
+<sentcont>Intelligent auto feature which will select best settings</sentcont>
+<sentcont>Easy to use</sentcont>
+<sentcont>Small size considering features, will easily fit in shirt pocket</sentcont>
+<sentcont>Burst picture setting which will take 3 pictures in quick succession ideal for moving subject eg dog</sentcont>
+<sentcont>Battery life seems good considering lack of separate viewfinder and having to use 3inch screen instead</sentcont>
+<sentcont>Huge array of user changeable settings</sentcont>
+<sentcont>2 user defined picture modes</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No separate viewfinder, have to use 3 inch screen, have seen some reviews which say this can be a problem in bright sunlight but i have not had this problem yet</sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1886219#108#Panasonic_Lumix_DMC.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>1886219</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Very easy to use</sentcont>
+<sentcont> Excellent telephoto facility</sentcont>
+<sentcont> The screen is of a very high quality making picture arrangement very easy</sentcont>
+<sentcont> The amazing number of facilities make all picture taking very easy</sentcont>
+<sentcont> Having always used SLR cameras I am very happy with this relatively small camera</sentcont>
+<sentcont> I do not miss a viewfinder</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Still looking for them</sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+000005#28#Panasonic_Lumix_DMC.txt####Manual Annotation Score =4
+
+<websource>Viewpoints</websource>
+<reviewid>000005</reviewid>
+<reviewtitle>Lumix is perfect for on-the-go photography</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> HD Video </sentcont>
+</sentence></pro>
+<freereview><sentence><sentcont>We own a large Canon Digital Rebel, but my only complaint was that I wanted to be able to take pictures and video of our kids without having to always lug that big camera (and the video camera).??</sentcont></sentence>
+<sentence><sentcont>I asked my hubby (the techy in our family) and after much research, this is what we ended up with.??</sentcont></sentence>
+<sentence><sentcont>I love this camera.??</sentcont></sentence>
+<sentence><sentcont>It is extremely portable and does just what I need.??</sentcont></sentence>
+<sentence><sentcont>It fits in my purse or diaper bag, so I can always have it handy.??</sentcont></sentence>
+<sentence><sentcont>The LCD screen is very clear and the video camera does a nice job with recording.</sentcont></sentence>
+<sentence><sentcont>I have been pleased with the picture quality of the pictures I have gotten out of this camera.??</sentcont></sentence>
+<sentence><sentcont>This is the kind of camera that anyone with little or lots of photo experience can use and enjoy.??</sentcont></sentence>
+<sentence><sentcont>For the price, this has been an excellent camera.??</sentcont></sentence>
+<sentence><sentcont>I would definitely recommend this camera to anyone who is looking for a higher megapixel camera that can also do video recording, as this is great at both.</sentcont></sentence>
+</freereview>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+2250107#227#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2250107</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Nicely built camera, quality Panasonic</sentcont>
+<sentcont> Very good zoom</sentcont>
+<sentcont>Nice images</sentcont>
+<sentcont>facial recognition</sentcont>
+<sentcont> lots of manual controls if you want to use them</sentcont>
+<sentcont> Pretty fast press-to-shutter time</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Zoom is slow while doing movies</sentcont>
+<sentcont>The shutter button is a bit confusing   I keep pressing on the selection wheel instead</sentcont>
+<sentcont>It doesn't use a standard mini usb connector, yet another special cable to cart around</sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1907913#257#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1907913</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Nice to handle</sentcont>
+<sentcont>Good clear images and video quality</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Dial is easily knocked out of position when placing in or taking out of case</sentcont>
+<sentcont> Screen can be difficult to see when taking photo in sunny conditions</sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1954378#244#Panasonic_Lumix_DMC.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>1954378</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Nice large screen, excellent zoom, great picture quality and stability control</sentcont>
+<sentcont>Propbably the best compact camera out there, excellent considering it can fit in your pocket still</sentcont>
+<sentcont>The HD video is unbelievable - looks as good as TV pictures when you hook it up to the screen - it captures everything, no matter how fast</sentcont>
+<sentcont>We experimented with filming star jumps, punching air etc and there is no blurring at all</sentcont>
+<sentcont>The same goes for the sports mode on photography - perfectly frozen</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The wide angle doesn't provide quite the width that you might expect</sentcont>
+<sentcont>If you are in a normal sized living room, you would probably get 1 ft extra in additional width than a normal camera (I tried it out with my old one) on either side</sentcont>
+<sentcont>The zoom is not especially easy to acurately control   difficult to do very small adjustment</sentcont>
+<sentcont>The speed of taking the picture after pressing shutter could be better   as with all digital cameras</sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+10020574#18#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Cnet</websource>
+<reviewid>10020574</reviewid>
+<reviewtitle>Best Point and Shoot for the Money</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> An outstanding 10x optical zoom with a Leica lens in a compact camera - need I say more</sentcont>
+<sentcont>This camera does all that it claims and is quick and easy to use making it the best buy on the market</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The lack of a viewfinder is the only con I found but the large, adjustable LCD more than made up for this minor point</sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>This is my sixth digital point and shoot camera and is hands down the best I have ever owned.</sentcont></sentence>
+<sentence><sentcont>This is my first Panasonic and based on the fun I have had with it over the past 5 weeks I can honestly say that unless something super amazing comes out in the future it may very well be the last digital point and shoot I buy.</sentcont></sentence>
+<sentence><sentcont>I love it.</sentcont></sentence>
+</freereview>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1967240#31#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1967240</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> The DMC TZ7 is a brilliant camera</sentcont>
+<sentcont>It takes great quality photos with vibrant colours, and lots of detail</sentcont>
+<sentcont>The 12x optical zoom and wide-angle lens are great for people who want to take shots of landscapes and large group shots</sentcont>
+<sentcont> The HD video quality is excellent too, filming in 720p at highest settings</sentcont>
+<sentcont>The great things about the video are: the ability to use the full 12x optical zoom, the dedicated record button, and the stereo microphone which does a great job of picking up all your sounds from high, low and mid frequencies in crystal clear quality</sentcont>
+<sentcont> The camera has lots of useful features such as 2 "my scene" settings on the mode dial which allow you to select your 2 favourite scene modes and give them dedicated positions on the dial</sentcont>
+<sentcont>I for example chose panorama and landscape</sentcont>
+<sentcont>Other great features include the ability to save up to 6 of your friend's faces in the camera so when they're in a shot it focuses on them</sentcont>
+<sentcont>You can edit everything from white balance to colour tone and it has standard Panasonic menus</sentcont>
+<sentcont>For the nerds amongst you it also features a mini HDMI out to connect straight to your TV</sentcont>
+<sentcont> Definitely a perfect choice for anyone who wants a compact camera which packs many features seen in SLRs but at a much lower price</sentcont>
+<sentcont>I'd suggest that anyone buying this camera get a 16GB SDHC memory card at least as this will give you about 2 hours of HD video at highest quality</sentcont>
+<sentcont>I highly recommend this camera</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The supplied battery is rechargeable, but a bit small</sentcont>
+<sentcont>It should last you a reasonable time on full charge taking photos, but using the flash and taking video will take its toll</sentcont>
+<sentcont>I'd recommend getting a second battery as they are not cumbersome</sentcont>
+<sentcont>The problem is the latest firmware doesn't support third party batteries, so you'll have to fork out on an expensive Panasonic one</sentcont>
+<sentcont> Although technically a compact camera, it's a little on the bulky side due largely to the zoom lens</sentcont>
+<sentcont>If you have large pockets it should be OK, but you're unlikely to get it in there inside a case</sentcont>
+<sentcont> There have been complaints about the mode dial being a bit loose</sentcont>
+<sentcont>Panasonic seem to have improved the dial making it a bit stiffer</sentcont>
+<sentcont>However, it could still get turned when inside your pocket</sentcont>
+<sentcont>Due to the camera's size</sentcont>
+<sentcont>The camera might also turn on in your pocket too</sentcont>
+<sentcont> My only other niggles are the fact you have to remove the camera's battery and put it in a charge unit rather than charging it in the camera, and the supplied USB cable is propriety, so you have to take the cable with you if you want to connect the camera to anyone else's computer</sentcont>
+<sentcont> They could have packed in a case and HDMI cable, but there camera is great value as it is, so these would only up the price</sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1702792#295#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1702792</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Sharp pictures, Easy to use the video, Large screen and a nice feel to the camera</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Needs a view finder as when sun shining one is unable to see the subject you are taking a picture of on the  rear screen</sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1848086#86#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1848086</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> iA mode works really well for 95% of shots     zoom range     photo quality       video quality and features, no need for a separate camcorder     all in one device, small enough to carry all the time </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> menu settings could be more intuitive   missing on or two buttons for direct access to some features (burst, flash)    not enough time on fully charged battery       software delivered with camera is totally outdated (except for PanoramaMaker)       video editing software delivered with camera is simply a JOKE</sentcont>
+<sentcont>     AVCHDlite format: can't find any commercial software to really handle this format natively, for simple trim and join</sentcont>
+<sentcont>All software use conversion (even to AVCHD) which is only possible with high end desktop computers and is very time consuming</sentcont>
+<sentcont>Considering the market share of the TZ7, this is really a pity</sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+2114382#231#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2114382</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> The best camera I have ever had</sentcont>
+<sentcont>nice big screen to see picture on</sentcont>
+<sentcont>Takes really good quality pictures</sentcont>
+<sentcont>Would reccommend</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Haven' t come across any yet</sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1538592#153#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1538592</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Good size LCD monitor</sentcont>
+<sentcont>Very easy to use as Intelligent Auto does it all for you, but for photographic enthusiasts they can still use their choice of settings</sentcont>
+<sentcont>Good solid build</sentcont>
+<sentcont>Photos are really good quality</sentcont>
+<sentcont>Cant comment on the motion picture yet as I havent really tried it out</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I would have liked a viewfinder as it is hard to see the LCD in bright sunlight</sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+000000#23#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Viewpoints</websource>
+<reviewid>000000</reviewid>
+<reviewtitle>$50 for batteries! The Panasonic DMC-ZS3 camera is worth it</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> great color and quality of pictures, has lots of features </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> expensive batteries </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>To the Point Two and half years ago I bought a Casio Exilim.</sentcont></sentence>
+<sentence><sentcont>I upgraded to the Panisonic Lumix??DMC-ZS3 Digital Camera, which is has 10.1-megapixels, a 25mm ultra-wide-angle lens and 12x optical zoom.</sentcont></sentence>
+<sentence><sentcont>Pros Panisonic Lumix??DMC-ZS3 Digital Camera's ??zoom is great.</sentcont></sentence>
+<sentence><sentcont>??For example, in the picture below of the turtle from my naked eye I??could just see his shell.</sentcont></sentence>
+<sentence><sentcont>Once I uploaded the photo of him I was amazed at how clear he was and that his head was sticking out and I could see his legs.</sentcont></sentence>
+<sentence><sentcont>And please look at the picture of the hermit crab.</sentcont></sentence>
+<sentence><sentcont>Panisonic Lumix??DMC-ZS3 Digital Camera??has a compact body.</sentcont></sentence>
+<sentence><sentcont>It weighs almost 1/2 a pound.??It measure??2.4 inches by 1.3inches by 4.1 inches.</sentcont></sentence>
+<sentence><sentcont>The record button is on the camera.</sentcont></sentence>
+<sentence><sentcont>There is an intelligent auto mode (IA) which is what I use 99% of the time.</sentcont></sentence>
+<sentence><sentcont>The colors and picture quality are terrific.</sentcont></sentence>
+<sentence><sentcont>The focus on this camera is super.</sentcont></sentence>
+<sentence><sentcont>It truly does find the best shot.</sentcont></sentence>
+<sentence><sentcont>Cons You will read that??a con to the ??Panisonic Lumix??DMC-ZS3 Digital Camera is the lack of manual features.</sentcont></sentence>
+<sentence><sentcont>That may be true but I have 27 settings and that works great for me.</sentcont></sentence>
+<sentence><sentcont>There is no viewfinder so using it in bright sunlight is difficult i.e. the LCD display is hard to see.</sentcont></sentence>
+<sentence><sentcont>The batteries, which are on back order, are expensive.</sentcont></sentence>
+<sentence><sentcont>I just ordered one for $46.00!</sentcont></sentence>
+<sentence><sentcont>?? Jo's Viewpoint The Panasonic Lumix DMC-ZS3 comes in red, silver, blue and red.</sentcont></sentence>
+<sentence><sentcont>I chose the blue.</sentcont></sentence>
+<sentence><sentcont>I really love my camera.???? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??</sentcont></sentence>
+</freereview>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1783922#118#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1783922</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> This camera is very good value for money</sentcont>
+<sentcont>I also have a finepix S7000 but that is to bulky to cary around, were as the Lumix just fits in your pocket, and does everything and more</sentcont>
+<sentcont>The 3" screen is great, plus loads of other features.</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Can't find any </sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1725467#184#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1725467</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Powerful optical zoom,  excellent photos produced under miost conditions, easy to get going with intelligent auto mode and point and shoot</sentcont>
+<sentcont> Some reviews have said the battery life is too short - I 'm quite happy at present with the battery capacity</sentcont>
+<sentcont> Getting good photos is easy</sentcont>
+<sentcont> Not a cheap camera but lots of features for the money </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Mode selection switch turns too easily   some times when you don't intend it to move</sentcont>
+<sentcont> No HDMI / mini USB lead supplied</sentcont>
+<sentcont> Expensive spare battery and HDMI lead from Panasonic</sentcont>
+<sentcont> Should come with a class 6 SDHC memory card and protective case for the money</sentcont>
+<sentcont>High visibility jackets at night give it a problem</sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1640423#217#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1640423</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> very easy to use</sentcont>
+<sentcont>a very good lumix product perfect video HD </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> the price?...ok,I have personnal problem with new technology and world business but I think it s the good price for this item..</sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1536917#70#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1536917</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Phenominal zoom for such a small camera</sentcont>
+<sentcont>Very nice, large LCD</sentcont>
+<sentcont>Picture quality excellent (to an ametur eye at least)</sentcont>
+<sentcont>HD video with stereo audio and use of zoom during recording</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Slightly heavy</sentcont>
+<sentcont>Not much to hold when taking a picture, must be careful not to cover the flash and/or AF sensor </sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1579924#127#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1579924</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Easy to use, good big screen, nice picture quality </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> bit more expensive than other comparible cameras but think it was worth it </sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1430532#47#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1430532</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Easy to use</sentcont>
+<sentcont>Excellent long zoom (up to 85.5x on lower resolution settings with optical, extra optical and digital zoom)</sentcont>
+<sentcont>Very fast at previewing photos</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No viewfinder, can be difficult to use LCD in bright light</sentcont>
+</sentence></con>
+
+
+query=LCD Screen Problem Panasonic Lumix DMC-FT2!? panasonic_lumix_dmc||display format||viewfinder||
+
+000002#25#Panasonic_Lumix_DMC.txt####Manual Annotation Score =4
+
+<websource>Viewpoints</websource>
+<reviewid>000002</reviewid>
+<reviewtitle>standing "O" for the ZS3</reviewtitle>
+<rating>1.0</rating>
+<freereview><sentence><sentcont>I have owned two prior digital cameras- the first was a Canon that took good pictures, but was too bulky to pocket around and required AA batteries to power it.</sentcont></sentence>
+<sentence><sentcont>The second was a Sony CyberShot DSC-W150 that took crappy, blurry pictures in low light.</sentcont></sentence>
+<sentence><sentcont>Needless to say, I felt an upgrade was in order.</sentcont></sentence>
+<sentence><sentcont>So I'm going on an east coast trip next month.</sentcont></sentence>
+<sentence><sentcont>My buddy and I are avid baseball fans.</sentcont></sentence>
+<sentence><sentcont>One problem: as we do not always have great seats, taking close-up pictures of ballplayers is a real pain with 99% of the compact point and shoots out there.</sentcont></sentence>
+<sentence><sentcont>This is because the camera's size will only allow it 5X optical zoom.</sentcont></sentence>
+<sentence><sentcont>You can combine this with digital zooming, but I don't need to tell you how terrible and pixilated this looks.</sentcont></sentence>
+<sentence><sentcont>Thus my conundrum.</sentcont></sentence>
+<sentence><sentcont>So I really wanted a compact, pocketable camera with a long range optical lens, without having to lug around an expensive digital SLR.</sentcont></sentence>
+<sentence><sentcont>Enter the Panasonic Lumix DMC-ZS3.</sentcont></sentence>
+<sentence><sentcont>When I read the specs on it, I was in awe. 10 megapixel, 12X OPTICAL zoom.</sentcont></sentence>
+<sentence><sentcont>Here's the sweetest part about the zoom- if you planning to use smaller prints (i.e. 4X6), you can quickly adjust the camera's Megapixel (MP) count from 10 to 7, 5, and 3 to yield maximum OPTICAL zooms of 14.3, 17.1, and 21.4 respectably, without much loss of detail on such prints.</sentcont></sentence>
+<sentence><sentcont>I wish Panasonic would have allowed the camera to adjust the MP count automatically as you zoom, but it's not too much trouble to change the MP settings manually from the quick menu.</sentcont></sentence>
+<sentence><sentcont>Another great feature: the camera's screen is beautiful at 460,000 pixels, twice the count as the rival Canon Powershot SX200 IS (more on that camera later).</sentcont></sentence>
+<sentence><sentcont>From the moment you view your first picture, you'll quickly notice how much sharper photos look on this camera.</sentcont></sentence>
+<sentence><sentcont>It's a nice convenience to view photos on the camera in a manner closer to the quality that will actually be seen when you're viewing them on the computer (and ultimately printing them).</sentcont></sentence>
+<sentence><sentcont>I also want to give Panasonic kudos for the build quality and compactness of this camera.</sentcont></sentence>
+<sentence><sentcont>The ZS3 is a replacement for the popular TZ5 model, which was 9MP and 10X Optical Zoom.</sentcont></sentence>
+<sentence><sentcont>So they increased the resolution, and added a wider range lens, and REDUCED the size by .4 cubic inches.</sentcont></sentence>
+<sentence><sentcont>Specifications aside, I was more than pleased that this camera will comfortably fit inside my jeans pocket.</sentcont></sentence>
+<sentence><sentcont>It's a bit bulkier than an ultracompact for sure, but not objectionably so.</sentcont></sentence>
+<sentence><sentcont>Note that the SX200 is a full 2.0 cubic inches thicker, another reason I passed on the Canon.</sentcont></sentence>
+<sentence><sentcont>Here's a few more reasons the Canon falls short: the Canon has a cheesy looking popup flash that sticks out at the top of the camera, whether you're using flash or not (bad design decision).</sentcont></sentence>
+<sentence><sentcont>It has less rated battery life than the Lumix.</sentcont></sentence>
+<sentence><sentcont>Also, when shooting video, the Canon does NOT allow you to use optical zooming.</sentcont></sentence>
+<sentence><sentcont>Photo quality on the Lumix is excellent, although I've only snapped samples around my place so far.</sentcont></sentence>
+<sentence><sentcont>However, I've taken quite a few pictures at low light, and at maximum zoom levels to try to get a bad shot.</sentcont></sentence>
+<sentence><sentcont>So far, there's none to be found.</sentcont></sentence>
+<sentence><sentcont>I'll put this through its paces more when I travel next month, but I'm extremely pleased so far.</sentcont></sentence>
+<sentence><sentcont>As for video shooting, I've sampled it a bit, and it seems pretty solid.</sentcont></sentence>
+<sentence><sentcont>The camera gives you the choice of shooting video in its touted AVCHD Lite format (ideal for watching it on your TV in HD with an optional mini to standard HDMI cable), or JPEG if you prefer to email video clips to friends.</sentcont></sentence>
+<sentence><sentcont>This year's model also added stereo sound on video playback versus last year's monaural effort.</sentcont></sentence>
+<sentence><sentcont>One thing I found a bit strange, was the incredibly slow zooming when shooting video.</sentcont></sentence>
+<sentence><sentcont>I guess Panasonic was trying to give the user a more controlled, deliberate zoom, but unlike the snappy photo zooming, it's a bit slow for my liking.</sentcont></sentence>
+<sentence><sentcont>Some other minor quibbles: The dial that controls the shooting mode is extremely loose.</sentcont></sentence>
+<sentence><sentcont>If you lightly rub it against anything (a camera bag, your pocket), there's a good chance it will shift.</sentcont></sentence>
+<sentence><sentcont>When you turn the camera on, it will digitally tell you what mode you're in, but it's still annoying when it happens by accident.</sentcont></sentence>
+<sentence><sentcont>Second, when making a quick zoom on an object, it will appear blurry on the camera's screen until the shutter button is pressed.</sentcont></sentence>
+<sentence><sentcont>There are modes to continually focus the object when zooming, but this drains the camera's battery life more rapidly.</sentcont></sentence>
+<sentence><sentcont>It would be nice if this feature was incorporated automatically without any such sacrifice.</sentcont></sentence>
+<sentence><sentcont>Also, I'm not a huge fan of the included PhotofunStudio software bundled with this camera, as there are other, more compelling programs to view, edit, and print photos (I like Canon's Zoombrowser program better).</sentcont></sentence>
+<sentence><sentcont>Finally, this is not the camera to buy if you're into manual controls.</sentcont></sentence>
+<sentence><sentcont>There's a ton of preset scenes that can be used (nighttime, portrait, baby, sunset, food, etc.), and you can adjust items like flash, white balance, and max ISO level, but this is meant to be a simple point and shoot for casual photographers.</sentcont></sentence>
+<sentence><sentcont>Note that the Lumix has an intelligent auto mode (IA) that will analyze the shooting conditions and pick the right scene, flash, and exposure without any adjustments by the user.</sentcont></sentence>
+<sentence><sentcont>This camera screams simplicity, but there's enough tweaking on the Normal and Scene modes to keep the vast majority of amateur photographers happy.</sentcont></sentence>
+<sentence><sentcont>Regardless of these nitpicks, the Panasonic Lumix DMC-ZS3 is an awesome camera, unbeatable for those that want the best of both worlds- a great zoom lens and compact body.</sentcont></sentence>
+<sentence><sentcont>It's a bit pricey at $399, but you're getting quite a lot of camera for your hard earned dollars.</sentcont></sentence>
+<sentence><sentcont>I have no doubt that my third digital camera is a terrific buy and a long-term staple for my travels.</sentcont></sentence>
+<sentence><sentcont>??</sentcont></sentence>
+</freereview>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1604247#362#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1604247</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Lots </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> LCD monitor almost useless in sunlight</sentcont>
+<sentcont>Sorely miss eye viewfinder</sentcont>
+<sentcont>Dropped 2 pts on  "Features" score because of this</sentcont>
+</sentence></con>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1704076#188#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1704076</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Clear View screen</sentcont>
+<sentcont>Ease of downloading photos</sentcont>
+<sentcont>Neat, comfortable in the hand</sentcont>
+<sentcont>Colour rendition very good</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1513080#399#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1513080</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.7</rating>
+<pro><sentence>
+<sentcont> A pocket sized camera with a wide angle lense and big lcd screen </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> intelligent iso doesn't let u set stabilizer mode so images often blurred and the camera isn't as comfortable to hold and use when compared to the tz5 </sentcont>
+</sentence></con>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1472854#89#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1472854</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> The main reasons for choosing this camera were the X12 optical lens and very wide focal range</sentcont>
+<sentcont> I like the large and clear LCD display </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Although not really a bad point, I miss the viewfinder</sentcont>
+<sentcont>And some way of coping with very bright sun on the display would be an improvement</sentcont>
+</sentence></con>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1591358#123#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1591358</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Excellent pictures</sentcont>
+<sentcont>Excellent Movies</sentcont>
+<sentcont>Great screen</sentcont>
+<sentcont>Superb build</sentcont>
+<sentcont>Easy to use</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Battery life could be better</sentcont>
+</sentence></con>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+000006#29#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Viewpoints</websource>
+<reviewid>000006</reviewid>
+<reviewtitle>The Panasonic Lumix ZS3 is a great camera.</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> HD Video </sentcont>
+</sentence></pro>
+<freereview><sentence><sentcont>The Panasonic ZS3 is a great camera.</sentcont></sentence>
+<sentence><sentcont>It shoots HD video and this looks quite good.</sentcont></sentence>
+<sentence><sentcont>It does have some focusing issues when you are zooming in while recording video, but most cameras cannot even zoom in while recording so this is still a positive for the camera.</sentcont></sentence>
+<sentence><sentcont>The camera does not have very many manual settings, but there are a lot of pre-set settings,so there is always a setting for your location.?? Overall this is a great camera and you will be glad you purchased it.</sentcont></sentence>
+</freereview>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1617458#152#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1617458</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> large lcd screen excellent picture quality </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> none </sentcont>
+</sentence></con>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1601803#365#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1601803</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> As a point and shoot picture-taker, I love this camera</sentcont>
+<sentcont>In Intelligent auto mode it works brilliantly and is very easy to use</sentcont>
+<sentcont>I am still coming to terms with all the additional facilities - hence only 9/10 for Ease of use above</sentcont>
+<sentcont>I was very impressed when I experimented with videoing part of a football match from the TV screen</sentcont>
+<sentcont>The quality was outstanding</sentcont>
+<sentcont>Mind you, the TV is  Panasonic Viera</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The camera did not fit in the camera case supplied</sentcont>
+<sentcont>Also, without a view finder, the screen is difficult to see in bright sunlight</sentcont>
+</sentence></con>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1472991#51#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1472991</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Excellent camera with tremendous functionality</sentcont>
+<sentcont>Superb quality pictures</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Mode dial relatively easily disturbed</sentcont>
+<sentcont>Screen difficult to see in very bright conditions</sentcont>
+</sentence></con>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+10061138#13#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+
+<websource>Cnet</websource>
+<reviewid>10061138</reviewid>
+<reviewtitle>Don't buy this product.</reviewtitle>
+<rating>0.4</rating>
+<pro><sentence>
+<sentcont> It took very good outdoor pictures</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The LCD picture broke in 9 months after purchase went on the internet and found it is a problem with that screen</sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>We went to Costco where we purchased the camera for $270.00 and they referred us to Panasonic who said send the camera back to a Texas address and we willl send you a refurbished camera for free.</sentcont></sentence>
+<sentence><sentcont>That was not the truth we got a letter stating the refurbished camera would cost $192.34.</sentcont></sentence>
+<sentence><sentcont>We called Costco and a one hour exchange took place and the bottom line is we are getting our broken camera back and never buying a Panasonic product again dropping out of our Costco memembership there are more relieable stores to shop in.</sentcont></sentence>
+<sentence><sentcont>They should have given us a credit but this way they are willing to lose thousands of customers because at least 1,000 people pass through my office a month and this story will be posted in the waiting room for all to see.</sentcont></sentence>
+</freereview>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1732485#277#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1732485</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> very compact,impressive build quality,sharp lcd screen</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> perhaps too many features, small controls</sentcont>
+</sentence></con>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1587079#115#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1587079</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Small;easily handled;clear LCD screen; good quality pictures and clear menus</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Full opticaol zoom only available in intelligent mode</sentcont>
+</sentence></con>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1624333#348#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1624333</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Ease of use, build quality and physical size</sentcont>
+<sentcont>Exstensive set of features including HD movies</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No raw settings only jpeg compression</sentcont>
+<sentcont>No viewfinder only LCD screen, which can be very difficult to see in sunny conditions</sentcont>
+</sentence></con>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1398934#42#Panasonic_Lumix_DMC.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>1398934</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> great picture quality, excellent zoom, good size display screen, compact, good features, easy to use</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> would prefer a view finder along with the display screen, for the days when it is sunny as the sun can block the view through the display screen</sentcont>
+<sentcont>Remember to buy a memory card, as the camera memory isn't great</sentcont>
+</sentence></con>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1658191#69#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1658191</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Picture quality, HD video quality played back on Panasonic HD plasma TV blew my mind</sentcont>
+<sentcont>Superb</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Battery cover and lens cover a bit flimsy</sentcont>
+</sentence></con>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+10001464#8#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Cnet</websource>
+<reviewid>10001464</reviewid>
+<reviewtitle>Sharp pictures, needs viewfinder</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> I think the pictures are incredibly sharp even in difficult lighting situations</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No viewfinder </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>In very sunny conditions the LCD screen is reflective so all you see is YOURSELF!!!! Pictures are a complete SHOT IN THE DARK---at least with older, less capable models the LCD just grayed out so that sometimes you could catch a glimpse of a shadow to center a shot.</sentcont></sentence>
+<sentence><sentcont>Until they figure out a filter for sunlight o the LCD screen these cameras NEED A VIEWFINDER!!!!!</sentcont></sentence>
+</freereview>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1550111#83#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1550111</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Easy to use , HD video capability ,Panasonic Quality </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No case Image transfer slow via PIC Bridge need to use USB card reader </sentcont>
+</sentence></con>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+10024264#17#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Cnet</websource>
+<reviewid>10024264</reviewid>
+<reviewtitle>Great all around camera</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> 10Xoptical lens (leica) fast flash, long lasting battery, wide selection of auto settings,huge display, compact size, good lens cover, outstanding quality of pictures, (people are always amazed) </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> When I was looking to buy, I insisted on a separate viewfinder</sentcont>
+<sentcont>Finding very few that had one, I opted for the biggest and best display from the lumix</sentcont>
+<sentcont>So while it is not a real "con" (I've grown to like it) I do sometimes miss the viewfinder </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I am tired of dragging around full size SLR camera bodies and different lens'.</sentcont></sentence>
+<sentence><sentcont>I'm getting old enough now, that I don't like "fiddling" with f-stops, lenses, light meters, blah blah blah.</sentcont></sentence>
+<sentence><sentcont>I like to point and shoot and let the camera think for me.</sentcont></sentence>
+<sentence><sentcont>My daughter is in the advertising business (fortune 500 type) and she said the techies at her firm use the lumix in their stuff.</sentcont></sentence>
+<sentence><sentcont>But!.. I said, Canon is rated best by consumer mags, the lumix is barely in the top 5. She said, who ya gonna believe?</sentcont></sentence>
+<sentence><sentcont>The magazine for college nerds, or the professionals that actually use it?</sentcont></sentence>
+<sentence><sentcont>I took her advice and have not been disappointed.</sentcont></sentence>
+</freereview>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1704600#293#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1704600</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.5</rating>
+<pro><sentence>
+<sentcont> focal size </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> panasonic making a spare battery so expensive,you have to buy a panasonic battery as they have made it so other re placements will not work.So on this anti competetive stance from panasonic i would have chosen a different make of camera if i had known this at the time</sentcont>
+</sentence></con>
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+2608740#22#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+<websource>Cnet</websource>
+<reviewid>2608740</reviewid>
+<reviewtitle>great potential, but that's all</reviewtitle>
+<rating>0.4</rating>
+<pro><sentence>
+<sentcont> lens, zoom </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> display, battery </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>battery good for 60 pics, awful screen in bright outdoors</sentcont></sentence>
+</freereview>
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1969643#241#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+<websource>Reevoo</websource>
+<reviewid>1969643</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Great quality video and camera</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Video format and software</sentcont>
+</sentence></con>
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1921867#171#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+<websource>Reevoo</websource>
+<reviewid>1921867</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Excellent Build, Brilliant viewing screen, face recognition & a great wide angle lens, </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No Viewfinder to use in very bright sunlight</sentcont>
+</sentence></con>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? panasonic_lumix_dmc||display format||viewfinder||
+
+1479905#63#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+<websource>Reevoo</websource>
+<reviewid>1479905</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> big screen fantastic lens producing great photo's superb colours </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> a little bit dificult to hold without putting fingers on screen </sentcont>
+</sentence></con>
+
+query=panasonic lumix dmc-gf1 lenses? lens system||
+
+1505652#147#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+<websource>Reevoo</websource>
+<reviewid>1505652</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> I like panasonic cameras they are sturdy, reliable and produce excellent photographs </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I think overall its a little expensive for what features it has in comparance to say tz6 (Which is not that much different and cheaper) also Dial on top of camera always moves when taking in/out of camera case, and when you want to take picture in a hurry screen tells you "dial not in correct position" other than that i think its an excellent camera </sentcont>
+</sentence></con>
+
+query=lcd screen problem panasonic lumix dmc-ft2!? display format||viewfinder||
+
+1524038#395#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1524038</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> large viewfinder easy to operate and excellent results </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> lack of manual controls </sentcont>
+</sentence></con>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? display format||viewfinder||
+
+1889871#34#Panasonic_Lumix_DMC.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1889871</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Easy to use, great zoom range and wide angle, and  good quality outputs</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Battery life limited, motor of movie quite noisy, format of  ACHDlite not recognised by Google Photos or Mediaplayer </sentcont>
+</sentence></con>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? display format||viewfinder||
+
+1596630#374#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1596630</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> image quality and hd video excellent, as is having a separate button to operate the video, </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> it would be perfect if it had an optical viewfinder (probably not the right word) as in very bright light you cannot always see the screen </sentcont>
+</sentence></con>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? display format||viewfinder||
+
+1481000#30#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1481000</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> I am not a technical person, and therefore my view is based on looking for a camera that creates great pictures with very little effort</sentcont>
+<sentcont> This camera definitely exceeded my expectations</sentcont>
+<sentcont> The picture quality on the display an in the final photograph are AMAZING</sentcont>
+<sentcont> The quality of the zoom was also impressive, from up a small mountain in Canada and taking pictures of the village below, was very clear</sentcont>
+<sentcont>It also compensated very well for shaking hands, the pictures were crystal clear</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I'm not sure it is a bad point necessarily, but the dial which changes the picture taking mode quite often moved out of place when taking out of my camera case</sentcont>
+<sentcont> It was only an inconvenience, not a problem, and the display tells you if you are not in a mode</sentcont>
+<sentcont>Secondly, just watch out for the video mode</sentcont>
+<sentcont> I don't think it was automatically in HD mode, but rather a lower spec, and we didn't find out until after we had taken them, which was a disappointment</sentcont>
+<sentcont> I guess if we had read the instructions   that wouldn't have been a problem</sentcont>
+</sentence></con>
+
+
+query=lcd screen problem panasonic lumix dmc-ft2!? display format||viewfinder||
+
+1594941#198#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1594941</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Very straight forward controls</sentcont>
+<sentcont>Excellent build quality</sentcont>
+<sentcont>Brilliant size screen display</sentcont>
+<sentcont>Very easy to use with excellent picture results</sentcont>
+<sentcont>A little pricey compared to similar but well worth the little extra expense</sentcont>
+<sentcont>The Optical zoom is great</sentcont>
+<sentcont>Very quiet motor and fast response on taking pictures</sentcont>
+<sentcont>A great Camera</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> none </sentcont>
+</sentence></con>
+
+

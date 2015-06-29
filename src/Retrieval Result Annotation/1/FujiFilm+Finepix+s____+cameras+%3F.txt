@@ -1,0 +1,978 @@
+Result size=36
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2212224#183#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2212224</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2211461#186#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2211461</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Easy to use - excellent quality prints - excellent screen image </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> N/A </sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2070764#324#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2070764</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> settings are many and varied, from things like 'sunlight' to 'fireworks' most of which would only be found on more expensive cameras</sentcont>
+<sentcont>  Very easy to handle and operate and picture quality is excellent</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> no bad points that i can point to except ,(like most cameras and mobiles), it is sometimes hard to see the screen in sunlight</sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2076816#322#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2076816</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Very nice pink and shiny digital camera, that I purchased for my girlfriend to take on holiday</sentcont>
+<sentcont>I was surprised how small the camera is and of course the picture quality is good with a resolution of 12 MP and 4x optical zoom</sentcont>
+<sentcont>The 2.7" LCD screen is nice and bright and can be seen in most lighting conditions</sentcont>
+<sentcont>The camera uses standard AA batteries, and the battery life seemed very good</sentcont>
+<sentcont> One battery lasted a week's holiday</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No separate viewfinder, but you rarely find this feature on similarly priced cameras</sentcont>
+<sentcont>No case, but you can pick one up fairly cheaply</sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2235473#162#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2235473</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> bacically easy to use, even though different settings still keep coming up, but not very good with cameras so would be very easy for someone else</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> sometimes takes a long time to photo and not always does the flash work in dark places, have camera on auto</sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2133602#278#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2133602</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2252295#133#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2252295</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> brilliant value for money.lots of good features.easy to use </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> battery compartment opens easily when trying to take photos </sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2149492#258#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2149492</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Really easy to use camera</sentcont>
+<sentcont> Great photos - really clear, video is good as well </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Be aware though, when you press to take a button it makes an odd noise   perfectly normal apparently</sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2074733#4#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2074733</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.1</rating>
+<pro><sentence>
+<sentcont> Easyish to use.One of cheapest 12mp on market </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Eats batteries for breakfast even the expensive ones...turning into an expensive habit using this</sentcont>
+<sentcont> Front and back of camera actually unclipped and came apart.We managed to shove it back together but now click button is temperamental.Poor build  Some 10mp cameras have better features than this 12mp.Nice camera but overally disapointing</sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2261440#57#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2261440</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> great camera to use if you want something simple and easy to use, the different shooting styles making taking photos at night or in low lights easy</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> with no picture settings like black + white or sepia it makes it rather dull and the night shooting mode can be slightly pixelated</sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2050143#7#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2050143</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> takes brilliant quality photographs and videos, has many shooting modes including good quality photos when indoors without a flash </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> uses AA batteries so they run out and you have to keep replacing them </sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2064338#88#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2064338</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Very good camera in terms of quality of picture and has excellent features </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No memory card comes with the item </sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2034934#526#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2034934</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2155640#251#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2155640</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Good for the money, good quality pictures </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Goes through batteries quicker than most other cameras </sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2139088#467#Fujifilm_Finepix.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2139088</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2180907#223#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2180907</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.7</rating>
+<pro><sentence>
+<sentcont> light weight   easy to use  good range of features </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> mode selction is not straight forword   cable no very long </sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2103539#308#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2103539</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Large memory - versatile - very wide angle lens - good size and weight - panoramic and video options - uses AA batteries </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> no view finder for when impossible to see image in lcd screen in certain weather conditions (particularly difficult to line up panoramic pictures in strong light)   difficult to operate the optical zoom smoothly </sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2143624#262#Fujifilm_Finepix.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>2143624</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.7</rating>
+<pro><sentence>
+<sentcont> Styish and colourful appearance, wideangle lens (28mm equiv.) to adequate telephoto, more than enough pixels (12m), easy to handle for point and shoot photos, 2.7" LCD is big enough</sentcont>
+<sentcont>AA batteries for convenience as an occasional user</sentcont>
+<sentcont>Excellent for the price</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> When using rechargeable AA batteries, the camera seems dead after they are first inserted or after you open the battery/memory card compartment door to get at the card, It's as though the camera needs up to a minute to get its circuits working with rechargables, but switches on instantly with alkaline AAs</sentcont>
+<sentcont>Setting the menu option for the correct battery type makes no difference</sentcont>
+<sentcont>For more advanced use, where changing camera and flash modes is required, the lack of a command dial slows you down and means you have to delve through various menus to find the setting needed</sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2192257#10#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2192257</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Extremely light & small</sentcont>
+<sentcont>Easy to use</sentcont>
+<sentcont>Very good picture quality </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> As newcomer to digital photography I did not know that a separately purchased memory card was needed </sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2033345#341#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2033345</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> easy to use, great picture, good selection of shoot modes </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> no manual just a disc to put into the computer which is ok, but when you are out and about trying the  camera out, it would be nice to be able to look things up about the camera , cant turn the volume up when playing back a video shoot </sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2175355#227#Fujifilm_Finepix.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>2175355</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Excellent capacity and has a lot of features, does HD video as well as standard video and very good panoramic pictures</sentcont>
+<sentcont>For all its features and zoom the 2 AA batteries last well, it processes pictures quickly so that you can get another shot in</sentcont>
+<sentcont> Like the ability for using the zoom while videoing</sentcont>
+<sentcont>The wide angle lens is very good and keeps the fish-eye effect to a minimum (once you go beyond 35mm you will get some fish-eye effect but the better quality lens the less it shows)</sentcont>
+<sentcont>Even though as you can see from below I have a few niggles, I DO HIGHLY recommend this camera it is excellent value for money </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> HATE the automatic resetting to "0" of the picture numbers if you remove & switch discs, you can end up with pictures having the same reference number which causes problems for storage and reference</sentcont>
+<sentcont>It is a real pain having to scroll through the picture/video options on the view screen at the back to select a picture setting</sentcont>
+<sentcont>It takes ages, a simple rotating swtich on the back or top of the camera would have been MUCH better for the prime settings such as switching from still shots to video</sentcont>
+<sentcont>panoramic & close up</sentcont>
+<sentcont>Would have been more sensible to have a separate access point for changing over the discs & batteries rather than having to use the battery compartment lid cover, this lid does NOT have the strongest hinge and will easily break </sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2246389#148#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2246389</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> My first digital camera and I found it easy to use, good photos  Excellent product </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Size of manual which silly me printed out </sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2163230#109#Fujifilm_Finepix.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>2163230</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> I`ve not yet got fully used to the camera due to a lack of leisure time but I`ve been using it more at work lately (surveying building sites etc) and am on a learning curve</sentcont>
+<sentcont> There is certainly nothing about the Finepix  that I dislike</sentcont>
+<sentcont>I was surprised at it`s versatality in such a compact case</sentcont>
+<sentcont>As for `ease of use` I am sure that in due course I will have mastered the many features it offers, the menu buttons require a bit of practice and regular reference to the well thought out user-manual is essential</sentcont>
+<sentcont> Picture quality is brilliant and the detail in the pictures is really useful in my line of work and I look forward to capturing holiday pictures</sentcont>
+<sentcont>All in all, I have never had such good value for money from a camera, and I`ve been taking pictures since my Kodak Brownie 45 years ago</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None</sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2212546#181#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2212546</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Very easy to use and quite hard wearing</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I prefer rechargable cameras to battery operated</sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2247697#144#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2247697</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> its one of the nicest and easy to use cameras i hav ever had </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> me learning how to put my pictures on my computer </sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2211519#185#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2211519</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Good camera</sentcont>
+<sentcont> Light in weight but a bit bigger than current cameras - this is actually a good thing as we bought it for our 7 year old </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No rechargeable battery and it gets through standard ones quickly, even on standby </sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2215631#177#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2215631</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Good basic easy  to use camera </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Suffers, as all low to middle priced digital cameras, from the fact that screen is unreadable in bright sunlight</sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2165382#77#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2165382</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>0.2</rating>
+<pro><sentence>
+<sentcont> It fits in the pocket digital - you can take a lt of picures </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> auto focus is very slow   sometimes you just miss the moment battery life is short anti shake switches itself off at a citical moment  auto flash has a mind of is own you need to take a lot of pictures to make sure you get  good one lens quality is poor therefore megapixels mean nothing </sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2240278#157#Fujifilm_Finepix.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>2240278</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> this is a great little point and click camera</sentcont>
+<sentcont>Quality of the images in general is excellent</sentcont>
+<sentcont>Small and light for great portability</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> images not so good when using the flash and some of the functions are not easy to access</sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2083556#45#Fujifilm_Finepix.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>2083556</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Compact, light,  easy to use for anyone who has used a digital camera before</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I read some reviews before buying which said that the camera made an awful noise when taking pictures and sounded as if it was broken</sentcont>
+<sentcont> But when they took it back they were told it was just the 'face detection' feature and it was working perfectly</sentcont>
+<sentcont> It is true that it does make a strange noise when 'face detection' setting is on but I have found that it can be turned off which stops the noise and does not affect picture quality</sentcont>
+<sentcont> Also, the photo editing programme which is included is very basic</sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2259692#60#Fujifilm_Finepix.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>2259692</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> This is a very good camera</sentcont>
+<sentcont> You do not need to pay huge amount for camera these days</sentcont>
+<sentcont> This one is an excellent camera</sentcont>
+<sentcont> It has lots of features</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> You need to buy your own memory card as the internal memory can only allow you to take two shots</sentcont>
+<sentcont> This is normal for all cameras anyway</sentcont>
+<sentcont> So not really a bad point</sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2112657#297#Fujifilm_Finepix.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>2112657</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> This camera is an attractive looking item - I purchased the blue version</sentcont>
+<sentcont>In its simplest mode it is easy to use - following the 'get started' leaflet</sentcont>
+<sentcont>Good optical zoom so you don't lose quality of picture</sentcont>
+<sentcont>Large screen means easy viewing</sentcont>
+<sentcont>Pictures easy to download</sentcont>
+<sentcont> Robust metal body</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The included leaflet does not explain the many feature of the camera</sentcont>
+<sentcont>I had to have these sent ot me by Fuji, and took up several sides of A4</sentcont>
+<sentcont>The camera's memory is small and you need a memory card for it almost immediately</sentcont>
+<sentcont>The viewing screen is impossible to see in sunlight   this is a fault of most digital cameras</sentcont>
+<sentcont>A view finder would have been a simple but highly useful addition   few digital cameras have one nowadays</sentcont>
+<sentcont>A camera case would have been a useful item in the package</sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2096008#313#Fujifilm_Finepix.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>2096008</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Brilliant camera, very forgiving for the not-so-competent photographer like me</sentcont>
+<sentcont>The panorama setting is brilliant, showing you where the previous photo ends</sentcont>
+<sentcont>Beats my previous digital camera hands-down, and doesn't eat up batteries like the old one either</sentcont>
+<sentcont>Especially good value at reduced price</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> There are almost too many different pre programmed settings with little explanation of what difference each setting will make to the final picture; the digital zoom is in the camera setup menu, not the shooting menu   not very intuitive to me when all the other shooting modes/options are together</sentcont>
+<sentcont>Also you need to format new memory cards in the camera before the camera will read them but this instruction is buried in the user manual</sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2252919#130#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2252919</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Excellent little camera, easy to use, good pictute quality</sentcont>
+<sentcont> Very simple to upload to computer either by memory card or usb lead</sentcont>
+<sentcont> Good little camera, highly recommended </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2228646#70#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2228646</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> It is very easy to operate, especially as I have no idea about cameras, has quite a clear viewing of the picture you have took and the batteries last a long time </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> none </sentcont>
+</sentence></con>
+
+
+query=FujiFilm Finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage||
+
+2053547#332#Fujifilm_Finepix.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>2053547</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> everything about it is good ,the options for different settings is comprehensive,menu is easy to understand.its a good solid built camera and also lightweight</sentcont>
+<sentcont>picture quality is excellent and a bonus with hd video what a treat</sentcont>
+<sentcont>for the price , this camera is an absolute bargain</sentcont>
+<sentcont>definitely recommended </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> none </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+
+2223539#173#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2223539</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.7</rating>
+<pro><sentence>
+<sentcont> The manufacturer (I have good experience of Fuji Cameras), the price - it is good value for money, simple enough to use for a child - it was a present for a 7 year old and she got to grips with it all very quickly</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> It's a little "lightweight", it's not rechargeable, it's quite slow to react to commands, particularly when viewing photos, on the whole it's what you would expect from a relatively low cost camera</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+
+2049528#14#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2049528</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.3</rating>
+<pro><sentence>
+<sentcont> Picture quality is good </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Consumes battery power far too quickly</sentcont>
+<sentcont>Is too slow to write to memory meaning that you miss being able to take more than one picture in quick succession</sentcont>
+<sentcont>The camera was returned as unfit for purpose</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+
+2053774#331#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2053774</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Really good picture quality</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Without a memory card, camera does not hold many images</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+
+2196452#210#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2196452</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> I have always used Samsung cameras in the past</sentcont>
+<sentcont> Bought this one because it was on sale</sentcont>
+<sentcont> Well impressed</sentcont>
+<sentcont> Image quality is great and u can video in HD</sentcont>
+<sentcont>  Would recommend it</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None that I have found up to now</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+
+2039529#92#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2039529</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Does what it said Easy for a novice like me to use Compared with friends cameras, quality and definition are superior </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Why nocase</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+
+2202487#201#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2202487</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Good price, good size, clear pictures, quick picture taking</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Sometimes flash takes time to recharge</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+
+2243665#152#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2243665</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> very easy to use, good picture quality  overall very good </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> didnt come with memory card </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+
+2102704#86#Fujifilm_Finepix.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>2102704</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Exceptional for the price</sentcont>
+<sentcont>Bought camera for 10yr old daughter </sentcont>
+<sentcont>Features easy for her to access</sentcont>
+<sentcont>Was so impressed by picture quality, bought myself one to keep in handbag</sentcont>
+<sentcont>Already have a very expensive, top of range, but bulkier digital camera but love compactness and picture quality of this cheap one, hard to tell any difference really</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Heavy on batteries if accessing features</sentcont>
+<sentcont>Take spare ones just in case</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+
+2159197#79#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2159197</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Easy to use</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Noise that it makes when the shutter is focusing </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+
+2252589#132#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2252589</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> quite nice to use good size screen for cheapish camera </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> low memory non rechargeable uses batteries quickly </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+
+2106115#304#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2106115</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.1</rating>
+<pro><sentence>
+<sentcont> no good points dodgy </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> i could not upload onto the pc then it wiped the memory card  dodgy camera poor picture quality </sentcont>
+</sentence></con>
+
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+2172185#41#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2172185</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Takes AA batteries which last a long time</sentcont>
+<sentcont>Point and shoot</sentcont>
+<sentcont> Very good features</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None that I can think of</sentcont>
+</sentence></con>
+
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+
+2086975#494#Fujifilm_Finepix.txt####Manual Annotation Score =0
+<websource>Reevoo</websource>
+<reviewid>2086975</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+
+2008795#13#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2008795</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> It's very easy to use and has made our day trips out with our two young children much easier with the speed with which it starts up</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> If left in the automatic mode then it eats batteries</sentcont>
+</sentence></con>
+
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+
+2067055#47#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2067055</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> good handy size to fit in handbags or pockets </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+
+2043718#522#Fujifilm_Finepix.txt####Manual Annotation Score =2
+<websource>Reevoo</websource>
+<reviewid>2043718</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+
+2052370#333#Fujifilm_Finepix.txt####Manual Annotation Score =2
+Helpfulness=0.31305341838814815
+<websource>Reevoo</websource>
+<reviewid>2052370</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Brought for my daughters 16th Birthday and she loves it </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Batteries it came with only lasted 1 day </sentcont>
+</sentence></con>
+
+2246584#146#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2246584</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Picture quality is really impressive, easy to use and compact</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Flash can sometimes take a while to reload</sentcont>
+</sentence></con>
+
+2046219#339#Fujifilm_Finepix.txt####Manual Annotation Score =2
+Helpfulness=0.3085621863161563
+<websource>Reevoo</websource>
+<reviewid>2046219</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.2</rating>
+<pro><sentence>
+<sentcont> solid </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> no memory card included,  expeced better camera for this price </sentcont>
+</sentence></con>
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+
+2099759#310#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2099759</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Numerous shooting modes to allow you to take the perfect picture always </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+
+2216055#176#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2216055</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> The Sports mode which is why i brought the camera is excellant - you get the picture you hoped to capture</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Having to turn on digital zoom</sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+
+2208616#189#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2208616</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> the picture quality is excellent for me,i have 3 children , and cant afford to take them to get there pics done professionally,but with my camera ,i take the memory card out ,take it in a shop n i get them blown up n printed off ..</sentcont>
+<sentcont>they are exceelent </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> it is a bit noisy ,as it is always focusing and working out the best option for the picture </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+
+2142838#263#Fujifilm_Finepix.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2142838</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Good , simple camera - does exactly what it says on the tin</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Internal memory poor, you really need to buy memory card along with camera </sentcont>
+</sentence></con>
+
+
+query=fujifilm finepix s____ cameras ? light sensitivity||file format||insurance plan||technology||zoom||digital player||viewfinder||image stabilizer||memory_storage||red eye reduction||usability||sensor||operation||service_support||software||button||power||connections||noise reduction||video||microphone||charging||recommendation||display||lens||floppy drive||size||tv tuner||picture||price||recorder||sound||quality||warranty||exposure||weight||focusing||resolution||shutter speed||operation mode||looking||remote control||white balance||camera flash||accessory||performance||timer||battery||customization||functionality||feel||display format||audio||speed||camera features||flash modes||customer service||general||memory||cd-rom||dimension||picture effect||color||design||lens system||shooting||storage|| fujifilm_finepix
+
+2108369#301#Fujifilm_Finepix.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2108369</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Camera is full of the things we wanted in a camera, especially the timer so that nobody misses out on being on the pictures</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+

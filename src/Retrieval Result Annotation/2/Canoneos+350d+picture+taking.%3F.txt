@@ -1,0 +1,1033 @@
+Result size=37
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+2056220#99#Canon_EOS.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2056220</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Easy menus to get great shots effortlessly</sentcont>
+<sentcont>Very user friendly </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None </sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+1563525#247#Canon_EOS.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1563525</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+1063392#320#Canon_EOS.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1063392</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+1656068#161#Canon_EOS.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1656068</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Lens form non-digital film camera I peviously had works perfectly with canon digital range </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Not bag and memory card as a package </sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+831601#191#Canon_EOS.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>831601</reviewid>
+<reviewtitle>married female aged 25.</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> I'm a novice photographer and for me it has everything I need to get started and hopefully will continue to be a good camera once I get a bit better</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> It's quite heavy, but that's me comparing it to my previous camera which was a digital compact</sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+664865#26#Canon_EOS.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>664865</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> I have upgraded from a compact digital and was very pleased that the various automatic exposure features helped me achieve "professional" effects without fuss</sentcont>
+<sentcont>I also was pleased at the range (8) of diferent quality images one could take if media space is at a premium</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Nothing really</sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+858130#351#Canon_EOS.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>858130</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+752206#95#Canon_EOS.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>752206</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Good size for those with smaller hands - More portable than other digital SLRs</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Not quite as good build quality as pre decessors in this Canon range</sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+686979#42#Canon_EOS.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>686979</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Really good camera with high specification, if you are looking at this sort of price range</sentcont>
+<sentcont> Very good quality photos without too much hassle</sentcont>
+<sentcont> Nice weight and very quick start up times</sentcont>
+<sentcont> Battery life good too</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Not easy to get to grips with menu when trying to do anything other than auto photos....</sentcont>
+<sentcont>but I'm new to digital SLR so it's probably not the cameras fault!!</sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+800507#389#Canon_EOS.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>800507</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+1498509#176#Canon_EOS.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1498509</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Easy in use</sentcont>
+<sentcont>Good for amateur or professional photographer</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I didnt find yet </sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+1591055#116#Canon_EOS.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1591055</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Easy menu</sentcont>
+<sentcont>Lots of good features without spending a lot of money</sentcont>
+<sentcont>Good camera for experienced film SLR owner testing the water with digital</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Plastic build, feels cheap, but hay its works well and its the images that count right</sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+848592#139#Canon_EOS.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>848592</reviewid>
+<reviewtitle>I like it</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Everything is perfect </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I haven't </sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+858328#88#Canon_EOS.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>858328</reviewid>
+<reviewtitle>neither professionalist nor amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> fantastic camera </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+797259#85#Canon_EOS.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>797259</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Great all round quality, and not too heavy</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Image files, .cr2 are not recognized by many photo editing programmes</sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+814382#11#Canon_EOS.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>814382</reviewid>
+<reviewtitle>web designing image freak</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> All buttons are within easy reach, each of the manual modes remembers the settings that you used last in that mode - not just blanket settings across all manual modes</sentcont>
+<sentcont>The body is light, large screen that is easy to see even in bright sunlight, included kit lens (18-55mm) provides crisp images & if you treat yourself to a 58mm macro filter/adaptor it can produce some stunning close up images</sentcont>
+<sentcont> Focusing is fast and quiet - the 9 AF points work well and on the whole the auto mode works well</sentcont>
+<sentcont>I rarely change to a manually selected AF focal point</sentcont>
+<sentcont>In some situations I do use manual focus - but mainly for macro shots</sentcont>
+<sentcont> Auto white balance detection seems to work well, again I rarely use the manual selection and this is only if I'm using off camera flash with colour correcting gels etc</sentcont>
+<sentcont> The custom user menu is a very useful feature that I use a lot....all the options that I use the most in one place - this can also be setup from your computer using the provided Canon software which makes it incredibly easy to setup</sentcont>
+<sentcont> Battery life is excellent - even using the flash</sentcont>
+<sentcont>I use the camera most days & can take around 250 shots over a few days before needing to think about charging again...I expect it would last a lot longer past this point</sentcont>
+<sentcont> I have also used the camera with a Tamron AF 70-300mm LD Di Tele-Macro lens this is capable of some great photos, but the lens is not as crisp as the kit 18-55mm lens</sentcont>
+<sentcont>Despite saying that it is a nice lens and works very well with the camera - its as great lens for everyday shooting, particularly for nature etc  If you properly compare the specs on this camera with others in the same price bracket, or even some of the other current Canon models (eg 40d), this camera provides serious power for the money & I would whole heartedly recommend it to anyone looking at getting a DSLR</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Bad may be a little strong   but here are a couple of fussy comments: The depth of field button is tricky to find....I find myself fumbling around trying to find it   I don't use it often so not too much of an issue</sentcont>
+<sentcont>No proper auto focus in Live view mode   again not an option I use much anyway, but it would be nice</sentcont>
+<sentcont>It would be nice to have some manual control over the built in flash   this is more a wish that a negative</sentcont>
+<sentcont>I would also like to see a custom user program mode like some of the higher models have...that would be a very nice addition</sentcont>
+<sentcont>I would also like to see a couple more ISO settings   what is provided is fine, I'm just greedy</sentcont>
+<sentcont> My biggest negative comment is on the flash synch speed   the built in flash will only synch at 200, and the camera will not let you go faster than this</sentcont>
+<sentcont>I also have an external flash setup with remote triggers and two different flash units that I use in manual mode   one of these synchs at 250 & the other at 160</sentcont>
+<sentcont>It would be nice if Canon could half this or more and get the synch speed to 500 or faster     as far as I am aware this is the same for all current Canon models (although I may be wrong)</sentcont>
+<sentcont> One point on software compatibilities   I shoot in RAW and use Adobe Lightroom to manage/adjust my photos</sentcont>
+<sentcont>It seems that the set picture style is not taken into consideration by Lightroom, so your colours/contrast can appear off at first</sentcont>
+<sentcont>There is now  set of beta released profiles for Lightroom 2 that does a good job of addressing this, but even still the colours are not quite the same as they appear in Canon's own software</sentcont>
+<sentcont>If you shoot in jpeg, this is not an issue</sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+844469#13#Canon_EOS.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>844469</reviewid>
+<reviewtitle>firstime mum!</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> I bought this because I have a newborn and I want to capture the best pictures possible</sentcont>
+<sentcont> My first DSLR and I grasped it straight away before even looking at the instructions with the automatic mode</sentcont>
+<sentcont> My baby looked so gorgeous in the photos - the tone and textures really stand out</sentcont>
+<sentcont> Packed with lots of features that I need to play with, but so far I just love the quality of photo compared to my compact digital camera</sentcont>
+<sentcont> Particularly like the AF 9 point system which you can change to manual or auto and set the focus to any one of those points - just love it!!!!</sentcont>
+<sentcont>   Tried the automatic sports mode (for quick moving stuff) on a train passing by and it worked a treat</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The live view (so you can see on screen)  takes ages to switch on (a few menus to get there)</sentcont>
+<sentcont> However, this is only because I'm so used to my compact digital camera</sentcont>
+<sentcont>PLUS you can set up your own quick menu buttons to make this quicker, just haven't done this yet</sentcont>
+<sentcont>  Wish there was a help menu on screen to tell help newbiew into DSLR photography with all the various functions</sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+818410#47#Canon_EOS.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>818410</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> easy to get started really impressed by the quality of photos and the range of options open to the photographer </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> haven't found any yet, though it is my first SLR camera so I'm still just enjoying the chasmic advantages over having a point and click digital camera</sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+690507#64#Canon_EOS.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>690507</reviewid>
+<reviewtitle>Used Olympus slr previously</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> This camera has got to be the easiest digital slr at the price, for intermediate "snappers" to use, my wife and grown up children can't leave it alone, super, thanks</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> For the price, I would have liked a decent camera case, as standard, as for the camera, no critisism</sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+1505692#175#Canon_EOS.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1505692</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Great camera for the money..</sentcont>
+<sentcont>very easy to use great for someone looking to upgrade from a standard digital camera.</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+1279393#189#Canon_EOS.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1279393</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Fantastic build and great picture quality make this camera unbelievable value for money at this price point</sentcont>
+<sentcont>I would recommend without hesitation</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Can be a bit daunting at first but once you're familiar with the controls and setup it soon becomes second nature</sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+1299745#121#Canon_EOS.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1299745</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Very easy to start using a soon as you open the box - with a little background reading and research the more dvanced settings are easy to apply and achieve great photos in all conditions and lights</sentcont>
+<sentcont>Photo quality is excellent with actual size allowing photos to be blown up or zoomed and rerun quality</sentcont>
+<sentcont>This was my first digital SLR and I'm looking forward to learning even more about photography with this camera</sentcont>
+<sentcont> t </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Changing settings quickly is near impossible if the auto settings are failing to give you the photo you wanted   so if your object is moving or easily disturbed this can be a problem</sentcont>
+<sentcont>The lens supplied can be quite limiting but there is a good selection of affordable lenses which the camera performs extremly well with</sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+1226430#12#Canon_EOS.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1226430</reviewid>
+<reviewtitle>enthusiastic digital newby</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> I had 2 EOS 35mm cameras a few years back and that is why I went for the digital version</sentcont>
+<sentcont>This is a fantastic camera and the pictures are amazing</sentcont>
+<sentcont>You can quite happily use it straight from the box on the automatic settings and the camera will do everything for you</sentcont>
+<sentcont>Professional quality photos at the click of a button - awesome</sentcont>
+<sentcont>If you want to be more creative, there's plenty of potential for that too</sentcont>
+<sentcont>It is amazing what the camera can do</sentcont>
+<sentcont>A great quality piece of kit and great for first timers wanting a DSLR</sentcont>
+<sentcont>You cant go wrong with Canon</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The only bad point for me is getting used to looking through a small viewfinder again, but you do have the option of Live View where you can see what you are taking on the screen</sentcont>
+<sentcont>This would be the same for any DSLR, so it is not really a problem for this particular camera alone</sentcont>
+<sentcont>Some of the other people who have reviewed the camera said that it felt too light, but I would disagree with this</sentcont>
+<sentcont>It feels like a serious piece of kit to me</sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+1020786#25#Canon_EOS.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1020786</reviewid>
+<reviewtitle>I'm no David Bailey</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> It has so many different functions that it takes a good deal of time studying the manual, but this is not a problem when you have it set on automatic</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> If there is a bad point it can only be the presure requited on the shutter button first stop which to an insentive finger is not easy to detect then depress competely to take the picture</sentcont>
+<sentcont> Once your used to it this is not really a problem, but its the only thing i could think of to put in this section</sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+651917#30#Canon_EOS.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>651917</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> image quality is very good, easy to use, different picture settings are good</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> didnt see any bad points about the camera </sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+000001#2#Canon_EOS.txt####Manual Annotation Score =2
+
+<websource>Viewpoints</websource>
+<reviewid>000001</reviewid>
+<reviewtitle>Excellent for learning real photography (beyond point-and-shoot)</reviewtitle>
+<rating>0.8</rating>
+<freereview><sentence><sentcont>I waited and watched to see when the prices would come down on a digital SLR, and when the price was right on this one I snatched it right up-- and I'm SO glad that I did.</sentcont></sentence>
+<sentence><sentcont>The only thing that I'm a little sad that it doesn't have is video (the Canon Tl1 & Tl2 models do).</sentcont></sentence>
+<sentence><sentcont>But ultimately, my little point-and-shoot camera that I used previously has video so it allows me to really focus on the photography and pictures by not having the video option.</sentcont></sentence>
+<sentence><sentcont>The basic kit lens that it comes with is okay, but to really get more out of your pictures, you'll want to buy a better lens.</sentcont></sentence>
+<sentence><sentcont>The functionality built into the Canon EOS Xsi is excellent, so it's really up to you to take a class or read tutorials to master it.</sentcont></sentence>
+<sentence><sentcont>The programmed functions are great too (if you aren't ready to manually adjust aperture and ISO speed).</sentcont></sentence>
+<sentence><sentcont>The buttons are set in pretty good locations so that it's easy to use and your hands can rest naturally while shooting.</sentcont></sentence>
+<sentence><sentcont>Overall, it takes great pictures and the sky's the limit on what you can capture!</sentcont></sentence>
+</freereview>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+000005#6#Canon_EOS.txt####Manual Annotation Score =1
+
+<websource>Viewpoints</websource>
+<reviewid>000005</reviewid>
+<reviewtitle>Great camera body, lackluster lens for indoor use.</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> great pictures, high resolution, fast shutter speed </sentcont>
+</sentence></pro>
+<freereview><sentence><sentcont>The Canon XSi body and the EF-S 18-55mm f/3.5-5.6 IS lens is a great entry step into the digital single lens reflex camera market.</sentcont></sentence>
+<sentence><sentcont>The XSi body has a great feature set and fast maximum shutter speed.</sentcont></sentence>
+<sentence><sentcont>There are few things the beginning photographer will need that this camera body does not have.</sentcont></sentence>
+<sentence><sentcont>It feels solid in your hand but it isn't cumbersome, especially if you are used to the size and feel of a point and shoot digital camera.</sentcont></sentence>
+<sentence><sentcont>Controls are well placed.</sentcont></sentence>
+<sentence><sentcont>The lens that the XSi is packaged with is a decent lens.</sentcont></sentence>
+<sentence><sentcont>It has Image Stabilization, which is a great feature, but it does not make up for the relatively high minimum f-stop value.</sentcont></sentence>
+<sentence><sentcont>With such a small maximum aperature, it is hard to use this as an indoor lens if you are photographing anything that is moving.</sentcont></sentence>
+<sentence><sentcont>All in all, this camera and lens combo is the perfect option for the budding photographer.</sentcont></sentence>
+<sentence><sentcont>I would budget for an additional lens for more advanced users.</sentcont></sentence>
+</freereview>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+1283645#101#Canon_EOS.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1283645</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.4</rating>
+<pro><sentence>
+<sentcont> Great picture quality (when focus is good) Easy and intuitive controls Packed full of features Light and portable </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Quality control is very bad I have tried 4 cameras in a row with focus problems The build quality of the kit lens is bad (decentering problems) </sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+000002#3#Canon_EOS.txt####Manual Annotation Score =4
+
+<websource>Viewpoints</websource>
+<reviewid>000002</reviewid>
+<reviewtitle>Capture those toddler moments</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> great pictures, fast shutter speed, high resolution </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> large and bulky </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I waited for a while to purchase my Canon Rebel XSI and wish I had bought it sooner!</sentcont></sentence>
+<sentence><sentcont>It takes crisp, clean pictures of my two fast moving little girls which my point and shoot had stopped doing once they weren't infants anymore.</sentcont></sentence>
+<sentence><sentcont>It's super easy to use on automatic mode but not very hard to get use to the settings on any of the other modes.</sentcont></sentence>
+<sentence><sentcont>I love that the pictures are high resolution so I can use them for photo gifts and don't have to worry if the picture will be the right size or not.</sentcont></sentence>
+<sentence><sentcont>?? The bulkiness of the camera did take some getting use to.</sentcont></sentence>
+<sentence><sentcont>It's hard to go from a point and shoot to a camera that requires too hands.</sentcont></sentence>
+<sentence><sentcont>However, my point and shoot got a lot of missed and blurry pictures from slow shutter speeds and shutter delays.</sentcont></sentence>
+<sentence><sentcont>It doesn't always fit in my purse, unless I am carrying a large one that day, but it always fits in the diaper bag.</sentcont></sentence>
+<sentence><sentcont>I don't think I could go back to a point and shoot after my rebel, the pictures just aren't as high of quality.</sentcont></sentence>
+</freereview>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+818044#20#Canon_EOS.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>818044</reviewid>
+<reviewtitle>Keen amateur photographer</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> With previous experience with Canon EOS cameras, the move to Digital SLR was fairly simple</sentcont>
+<sentcont> However, there is a great learning curve to understand all the features available which will take some time and will be "a voyage of discovery"</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Up to this point there have been no bad points</sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+826781#19#Canon_EOS.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>826781</reviewid>
+<reviewtitle>Keen photographer in Sheffield</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Easy to use - clear settings and easy to navigate round the features</sentcont>
+<sentcont> Light weight</sentcont>
+<sentcont> Brilliant size lcd display so you can easily see your shots</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> A bit hit and miss when taking photos of moving objects</sentcont>
+<sentcont> On my non digital model and when placed on sport mode it was impossible to take a blurred picture</sentcont>
+<sentcont> The same cannot be said with the digital one but if placed on general mode it does alot better</sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+691258#16#Canon_EOS.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>691258</reviewid>
+<reviewtitle>New amateur photographer</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> 1</sentcont>
+<sentcont>Very light, the whole package places no strain on my back</sentcont>
+<sentcont>2</sentcont>
+<sentcont>It is set up to work straight away for an amatuer like me</sentcont>
+<sentcont>3</sentcont>
+<sentcont>The Tamron lens is superb, it really suits what I want to achieve</sentcont>
+<sentcont>In many ways the lens steals the show for me</sentcont>
+<sentcont>4</sentcont>
+<sentcont>I feel that this camera will give me what I need as I progress into digital SLR</sentcont>
+<sentcont>5</sentcont>
+<sentcont>The Handle for portrait with the extra battery is excellent, & makes the camera feel more substatial</sentcont>
+<sentcont>6</sentcont>
+<sentcont>The 2 batteries seem to last forever</sentcont>
+<sentcont>I have taken over 300 photo's at a time & I have not noticed any power loss at all</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> 1</sentcont>
+<sentcont>The camera feels flimsy</sentcont>
+<sentcont>I feel like I have to treat it with kid gloves</sentcont>
+<sentcont>( I do not know if this is true of all modern SLR's)</sentcont>
+<sentcont>2</sentcont>
+<sentcont>For the money the remote control unit would have just polished off the unit</sentcont>
+<sentcont>3</sentcont>
+<sentcont>Also for the money a 16 GB card would have been the iceing on the cake</sentcont>
+<sentcont>Over 2800 photo's at max jpeg resolution, this I had to buy seperately</sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+1022892#73#Canon_EOS.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1022892</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Easy to use even by a novis like myself, this being my first SLR camera</sentcont>
+<sentcont> Love the continued shooting mode (action photos)</sentcont>
+<sentcont>Like the large display and the excellent picture quality</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Have not yet found any bad points</sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+891044#128#Canon_EOS.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>891044</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> This camera is really easy to use for a beginner, and is really fast if you want to take picture after picture</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+1042935#8#Canon_EOS.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1042935</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> It's 20  years since I last had an SLR (film in those days) yet I felt right at home using the canon</sentcont>
+<sentcont>The way you do things is radically different (setting aperture and shutter speeds etc) but the principles are the same</sentcont>
+<sentcont>The instuction manual is first class and shows features I could only dream of in the past</sentcont>
+<sentcont>Whilst the image quality of my compact is adequate for the snaps and memory pictures I've been taking, the quality of the pictures on the Canon are in a whole different league</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Could do with a better photo editing package , but then I guess most will get photoshop so thats not a big issue</sentcont>
+<sentcont> The camera is faultless </sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+1689970#100#Canon_EOS.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1689970</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> I really love this camera as the first SLR camera for anyone</sentcont>
+<sentcont>Its picture quality is greate and even my mom can take pictures in Auto mode since it is that simple</sentcont>
+<sentcont>The LCD display is good size and there are menu options to check the picture quality promtly</sentcont>
+<sentcont>However I have to say that there is lot more for me to learn about this camera</sentcont>
+<sentcont>I'm not an expert yet, but I want to be soon</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> It would have been far better if the video capturing is possible with this as it is with EOS 500D</sentcont>
+<sentcont>I realize this only after I placed my order</sentcont>
+<sentcont>Bit of a reckless research on selecting the camera</sentcont>
+</sentence></con>
+
+
+query=Canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+1560869#119#Canon_EOS.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1560869</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> There are so many options that it can seem quite daunting getting to grips with it (however that's much the same as any other digital SLR), but in reality it's the number of options that make it such a great camera</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The lens is comes with is a bit limited so already I'm thinking of buying a good zoom lens</sentcont>
+</sentence></con>
+
+
+query=canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+1297132#188#Canon_EOS.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1297132</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> EXCELLENT CAMERA WITH AN EXCELLENT NAME YOU CAN TRUST.....CANON BUILT TO LAST VERY EASY TO USE ON AUTO SETTINGS....EXCELLENT RANGE OF LENSES AVAILABLE FOR THIS CAMERA </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> SLIGHTLY DEARER TO BUY IN THE UK THAN IN THE USA WHERE I FIRST SO THIS CAMERA </sentcont>
+</sentence></con>
+
+
+query=canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+673255#97#Canon_EOS.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>673255</reviewid>
+<reviewtitle>Retired</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> This camera has all the features I wanted, without having to go through the menu in order to locate them</sentcont>
+<sentcont>Most useful features surround the control button</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None </sentcont>
+</sentence></con>
+
+
+query=canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+909252#10#Canon_EOS.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>909252</reviewid>
+<reviewtitle>26years teaching school photography</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Both comfortable to hold & easy to use</sentcont>
+<sentcont>The LCD monitor displays the camera's features very clearly which is a important factor to someone like myself new to an SLR/EOS</sentcont>
+<sentcont>Having had a Canon A1 which I bought in The early 1980s and which is still going strong, I decided to go for a canon again & am delighted that I did</sentcont>
+<sentcont>I haven't tried other makes of EOS SLR</sentcont>
+<sentcont>but would have no hesitation in recommending it to anyone</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I honestly have yet to come across any problems </sentcont>
+</sentence></con>
+
+
+query=canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+681354#48#Canon_EOS.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>681354</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> ??My first DSLR?</sentcont>
+<sentcont>?C I??m very pleased with the camera it??s got a great set of features that puts it just above the basic entry level models</sentcont>
+<sentcont>The camera feels responsive and well made for the price point and the new kit lens is a good starting point especially as it has IS</sentcont>
+<sentcont>  All in all I??m really enjoying using this camera and would recommend the EOS 450D to anyone just starting out or upgrading</sentcont>
+<sentcont>The Kit   Grip   Memory bundle is also terrific value</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I still have a lot to learn so can??t really judge what??s bad, all I can say is that I have currently had no problems with it</sentcont>
+</sentence></con>
+
+
+query=canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+726415#17#Canon_EOS.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>726415</reviewid>
+<reviewtitle>Retired, aged 72.</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> The most-used features are not buried in some difficult-to-find menu, but are easily to hand</sentcont>
+<sentcont>Canon have made an excellent camera in the 450D, almost identical to the much more expensive 40D</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None really</sentcont>
+</sentence></con>
+
+
+query=canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+1173898#29#Canon_EOS.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1173898</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> I have used Canon cameras at work for many years and found them to be reliable and the image quality is excellent</sentcont>
+<sentcont> So when it came to chosing a camera to enhance my personal artistic work it had to be a Canon EOS</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The 18 55mm standard lens is not as versatile as I would wish for my art projects but at present I cannot afford a telephoto or wide angle lens to complement it</sentcont>
+</sentence></con>
+
+
+query=canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+747072#24#Canon_EOS.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>747072</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Very easy to get used to</sentcont>
+<sentcont> Speed of focus and ability to take a number of frames in a very short space of time</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Not compatible with the older EOS TTL flash guns</sentcont>
+<sentcont> Download software package includes some items that are not compatibe with camera so trial and error is required to work out which of the programs to use</sentcont>
+</sentence></con>
+
+
+query=canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+691810#38#Canon_EOS.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>691810</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Excellent features, capable of taking really good pictures</sentcont>
+<sentcont> Quick and easy to use and access all the functions</sentcont>
+<sentcont> Found it a significant step-up from my old 300D</sentcont>
+<sentcont> Really like the build and weight of the body</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Camera body is way better than the package lens, put on a better lens for big difference</sentcont>
+<sentcont> And the in camera jpeg conversion is not as good as you can do yourself if you have the time</sentcont>
+<sentcont> My one comment in general about Canon is the IS should be in the camera body not in the lens </sentcont>
+</sentence></con>
+
+
+query=canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+1694932#115#Canon_EOS.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1694932</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Great size and shape and easy to hold</sentcont>
+<sentcont>Doesnt weight a lot either</sentcont>
+<sentcont>Picture quality is excellent</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None that i can think of</sentcont>
+</sentence></con>
+
+
+query=canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+663342#43#Canon_EOS.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>663342</reviewid>
+<reviewtitle>I'm a keen amateur.</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> The camera has just about all of the features and user defined choices you could wish for</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I would like to have seen more of the camera constructed from lightweight metal instead of some parts being plastic, but it is a minor point</sentcont>
+</sentence></con>
+
+
+query=canoneos 350d picture taking.? canon_camera_eos||picture effect||camera features||
+
+813046#68#Canon_EOS.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>813046</reviewid>
+<reviewtitle>http://www.tubephotos.com</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Picture quality, Size</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> 1.6 crop factor</sentcont>
+<sentcont>Noise at 400 ISO</sentcont>
+</sentence></con>
+
+
+query=canoneos 350d picture taking.? picture effect||camera features||
+
+801925#130#Canon_EOS.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>801925</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> All round excellent camera </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None yet </sentcont>
+</sentence></con>
+
+
+query=canoneos 350d picture taking.? picture effect||camera features||
+
+855730#57#Canon_EOS.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>855730</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Fantastic Camera for Novice or enthusiast </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None </sentcont>
+</sentence></con>
+
+
+query=canoneos 350d picture taking.? picture effect||camera features||
+
+796600#86#Canon_EOS.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>796600</reviewid>
+<reviewtitle>future famous photographer</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> nearly everything!!!</sentcont>
+<sentcont>its awesome!!!</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> the image stabiliser is in the lens not the camera </sentcont>
+</sentence></con>
+
+
+query=canoneos 350d picture taking.? picture effect||camera features||
+
+1629982#165#Canon_EOS.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1629982</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Solid camera with lots of adjustments for the beginner and for the more experienced photographer</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I guess this camera is imported from asia</sentcont>
+</sentence></con>
+
+
+query=canoneos 350d picture taking.? picture effect||camera features||
+
+902456#46#Canon_EOS.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>902456</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> brilliant features that enable maximum user control</sentcont>
+<sentcont>manual option offers full user control</sentcont>
+<sentcont>bundled software and lenses an absolute value for money</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=canoneos 350d picture taking.? picture effect||camera features||
+
+1643765#163#Canon_EOS.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1643765</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Easy to use for a beginner, great features, and can accommodate the experienced photographer also</sentcont>
+<sentcont>Easy to travel with</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I don't have any at this time</sentcont>
+</sentence></con>
+
+
+query=canoneos 350d picture taking.? picture effect||camera features||
+
+000004#5#Canon_EOS.txt####Manual Annotation Score =3
+
+<websource>Viewpoints</websource>
+<reviewid>000004</reviewid>
+<reviewtitle>Not just a point and shoot, but a great camera!</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> great pictures, high resolution </sentcont>
+</sentence></pro>
+<freereview><sentence><sentcont>This camera takes AMAZING pictures if you know what you are doing, but is not th greatest gadget for those people that are just wanting a point and shoot type of camera.</sentcont></sentence>
+<sentence><sentcont>I recieved this camera for my birthday back in May and 3 months later I still have not been able to figure ou all of the settings that the camera has to offer.</sentcont></sentence>
+<sentence><sentcont>The camera is a bit on the pricey side but I think will be worth the money in the end.</sentcont></sentence>
+<sentence><sentcont>I used to have??a Fuji Film camera that was supposed to be comperable to this Rebel model and was more of a point and shoot type of camera, but the quality of the photos if definately greater with the Rebel version.</sentcont></sentence>
+<sentence><sentcont>I suggest this camera for a person that is willing to spend the time researching how to use it properly and are willing to read the instruction manual and not just toss it aside.</sentcont></sentence>
+<sentence><sentcont>There are some great tips in that little book that will save lots of time and frustration when trying to capture some great memories.</sentcont></sentence>
+</freereview>
+
+
+query=canoneos 350d picture taking.? picture effect||camera features||
+
+924576#15#Canon_EOS.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>924576</reviewid>
+<reviewtitle>Amateur Astro Photographer</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Everything about the camera is excellent, I bought it for a specific need (astrophotography) and I've found myself just using the camera for all sorts of photography in general</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> In my opinion, nothing at all as I bought the camera knowing it would be fit for purpose</sentcont>
+</sentence></con>
+
+
+query=canoneos 350d picture taking.? picture effect||camera features||
+
+990666#27#Canon_EOS.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>990666</reviewid>
+<reviewtitle>First time DSLR purchaser</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Lot of features and quality for the price and easy to use, even for a DSLR novice like myself..</sentcont>
+<sentcont> Great first DSLR</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Slighlty light, plasticky feel but this is a minor point</sentcont>
+</sentence></con>
+
+

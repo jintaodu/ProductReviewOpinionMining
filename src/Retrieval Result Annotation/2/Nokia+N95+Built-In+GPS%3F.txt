@@ -1,0 +1,2401 @@
+Result size=33
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+1110630#12530#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>1110630</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>NOKIA PRESS RELEASE March 22, 2007    Nokia N95 multimedia computer starts shipping      Espoo, Finland - Nokia today announced that the Nokia N95 started shipping in key European, Asian and Middle Eastern markets, with expanded shipments to other markets in those regions in the coming weeks.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 is an all-in-one multimedia computer with a unique 2-way slide design, integrated GPS functionality, a 5 megapixel camera and support for high-speed mobile networks, making it easier to watch and record videos, listen to songs, take high-quality photos, browse the internet, or catch up on email while on the move.</sentcont></sentence>
+<sentence><sentcont>"The Nokia N95 is the ultimate multimedia computer and a fantastic example of what Nokia Nseries devices can deliver," said Juha Putkiranta, senior vice president, Multimedia, Nokia.</sentcont></sentence>
+<sentence><sentcont>"It easily replaces a number of single purpose devices with a well designed package that is with you and connected.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 is what computers have become - personal, powerful and connected devices."</sentcont></sentence>
+<sentence><sentcont>Designed for High Speed Downlink Packet Access (HSDPA) networks and with support for WLAN, EDGE and WCDMA networks, the Nokia N95 provides excellent coverage and connection speeds.</sentcont></sentence>
+<sentence><sentcont>Browsing the internet and subscribing to your favourite news feeds is a pleasure using the Nokia Web Browser with Mini Map.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 offers a well rounded entertainment experience with a sharp color display, built-in stereo speakers, a standard 3.5 mm audio connector and support for compatible microSD memory cards.</sentcont></sentence>
+<sentence><sentcont>With powerful 3D graphics, the Nokia N95 has a stunning user interface that makes it intuitive to find the features and services you want.</sentcont></sentence>
+<sentence><sentcont>With its integrated GPS and Nokia Maps application, finding your way just got easier.</sentcont></sentence>
+<sentence><sentcont>The Nokia Maps application includes maps for more than 150 countries, enabling users to explore the world, find specific routes or locate services such as restaurants and hotels and covering more than 15 million points of interest.</sentcont></sentence>
+<sentence><sentcont>You can also purchase additional features, such as city guides and voice guided navigation.</sentcont></sentence>
+<sentence><sentcont>The innovative 2-way slide design makes it easy to switch between different modes, going from reading maps to watching a video with a simple slide.</sentcont></sentence>
+<sentence><sentcont>With Carl Zeiss optics on the 5 megapixel camera, you can capture print quality photos and DVD-like quality video clips.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 is based on the world's leading S60 software on Symbian OS, enabling you to personalize your device from a wide choice of compatible applications that can be downloaded to the Nokia N95, including games, navigation, entertainment, productivity and creativity.</sentcont></sentence>
+<sentence><sentcont>Notes to editors  For full technical specifications, visit www.nseries.com/n95</sentcont></sentence>
+<sentence><sentcont>For more information about Nokia Maps, visit www.smart2go.com</sentcont></sentence>
+<sentence><sentcont>About Nokia Nseries  Nokia Nseries is a range of high performance multimedia computers that delivers unparalleled mobile multimedia experiences by combining the latest technologies with stylish design and ease of use.</sentcont></sentence>
+<sentence><sentcont>With Nokia Nseries products, consumers can use a single device to enjoy entertainment, access information and to capture and share pictures and videos, on the go at any time.</sentcont></sentence>
+<sentence><sentcont>About Nokia  Nokia is a world leader in mobile communications, driving the growth and sustainability of the broader mobility industry.</sentcont></sentence>
+<sentence><sentcont>Nokia connects people to each other and the information that matters to them with easy-to-use and innovative products like mobile phones, devices and solutions for imaging, games, media and businesses.</sentcont></sentence>
+<sentence><sentcont>Nokia provides equipment, solutions and services for network operators and corporations.</sentcont></sentence>
+<sentence><sentcont>www.nokia.com</sentcont></sentence>
+<sentence><sentcont>Media Enquiries:     Nokia, Multimedia  Communications  Tel.</sentcont></sentence>
+<sentence><sentcont>+358 7180 45667     Nokia  Communications  Tel.</sentcont></sentence>
+<sentence><sentcont>+358 7180 34900  Email: press.office@nokia.com     www.nokia.com</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+118333#10233#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>118333</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>If you have upgraded the software(fw)it does preform a little better but yes the device is quite slow.Install</sentcont></sentence>
+<sentence><sentcont>3rd party apps onto memory card and free up as much RAM as possible.Hopefully</sentcont></sentence>
+<sentence><sentcont>future firmware will make the unit preform faster.To the other guy-Nokia are heavily tied with symbian so unfortunately if you want a nokia smartphone you have to put up with symbian inadequaties.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+117500#9400#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>117500</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>If you loved a lot features  that you maybe will never use it, and slow response and phone easy to freeze, and expensive get this phone!!</sentcont></sentence>
+<sentence><sentcont>Until nokia can make phone that really reliable, and maybe I buy one, Lot's of my friend have this phone, but they can't show me nothing but the receipt of how much they pay for phone that...just phone!</sentcont></sentence>
+<sentence><sentcont>Media player hard to manage, it can play video, but is all N95 owner know how to put video in it?</sentcont></sentence>
+<sentence><sentcont>And the GPS, I bet most of the N95 owner buy the unlocked one and the map that pre installed not they home country,and did you even have the GPRS service?</sentcont></sentence>
+<sentence><sentcont>Otherwise you cannot use the GPS, and I did try it.. the map interface so slow.. I even find my way my self, before the map finish loading.</sentcont></sentence>
+<sentence><sentcont>And 5Mp cam?</sentcont></sentence>
+<sentence><sentcont>Camera is to take and save moment so you can keep it..but N95 camera so slow..the moment just pass before you can take it, N95 owner..you might use 2Mp unless you planing to print your picture bigger dan 10x8, otherwise 2Mp it's enough detail.</sentcont></sentence>
+<sentence><sentcont>DVD quality camcorder..again..the moment pass on by the time the phone ready.</sentcont></sentence>
+<sentence><sentcont>Wifi..is it free yet ?</sentcont></sentence>
+<sentence><sentcont>16M color.. did you count it ?</sentcont></sentence>
+<sentence><sentcont>Get phone that you can really use it, I love feature in N95.. but sorry..</sentcont></sentence>
+<sentence><sentcont>I don't need them all.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+118526#10426#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Gsmarena</websource>
+<reviewid>118526</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>sorry guys ,but you are comparing the N95 to the HTC and you really are not fair.</sentcont></sentence>
+<sentence><sentcont>just comparing symbian (N95) to windows mobile  5.0 0r 6.0 (HTC, I-mate, ASUS,....) is not fair, because windows mobile is by far more important, applicable ,and above all stable.</sentcont></sentence>
+<sentence><sentcont>no, it is not true that symbian does not lock or freez, the true is that symbian is the worst oparating system as far as stability is concern.</sentcont></sentence>
+<sentence><sentcont>moreover, symbian compared to mobile windows is complicated for simple casual users, while windows ....even a 5 year old boy can work on it.</sentcont></sentence>
+<sentence><sentcont>so, please be objective and stop praising the symbian machines because someday nokia will shift into windows.</sentcont></sentence>
+<sentence><sentcont>finally let me tell you the N95 cons    1- very low battery life.</sentcont></sentence>
+<sentence><sentcont>2- 5 mega picture with NO natural colors.</sentcont></sentence>
+<sentence><sentcont>3- the GPS is SIRF II not SIRF III this means that sensitivity is low.</sentcont></sentence>
+<sentence><sentcont>4- the GPS can not work with other than the build in applications.</sentcont></sentence>
+<sentence><sentcont>5- it freezes 2-3 times per day and you need to remove the battery to restart it.</sentcont></sentence>
+<sentence><sentcont>6- the restart takes about 1-3 minutes.</sentcont></sentence>
+<sentence><sentcont>7- very slow menu navigation.</sentcont></sentence>
+<sentence><sentcont>8- No handwriting screens  9- no keyboard  10- no jogdial.</sentcont></sentence>
+<sentence><sentcont>so guys the only innovation in this phone is a big screen, and even it is not that big.</sentcont></sentence>
+<sentence><sentcont>so pray that the nokia engineer will reach a day to update the n95 firmware to solve these issues.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+000012#192#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Viewpoints</websource>
+<reviewid>000012</reviewid>
+<reviewtitle>The n95 does everything the iphone does, but better (n95 8 gig)</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> looks great aesthetically, 5 megapixel camera, comes unlocked, integrated wi-fi, GPS navigation </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> expensive </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I have bought this phone several months ago, without a contract.</sentcont></sentence>
+<sentence><sentcont>I didn't want a generic IPhone, because apple products are substandard because apple employs a premium pricing strategy for their products so people to buy their stuff thinking that it's better because it's more expensive.</sentcont></sentence>
+<sentence><sentcont>Nokia one the other hand makes high quality products, which pick up a signal when all other brands show no bars.</sentcont></sentence>
+<sentence><sentcont>The n95 specifically has very attractive features including internal gps which doesn't rely on the network and works very well with garmin mobile, and wifi which allows you to use the internet for free in most urban areas.</sentcont></sentence>
+<sentence><sentcont>You can also sign up for the cheapest data plan, and still access the net at 3g speeds, for things like listening to streaming internet radio and watching video anywhere without the really expensive pda data plans.</sentcont></sentence>
+<sentence><sentcont>It is very durable and stylish albeit a bit bulky, and is sure to stand out in a crowd of iphones and motorollas.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+1111834#13734#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>1111834</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Nokia N95 3G SmartPhone Review  The Nokia N95 is a 3G smartphone which comes is a clever two way slider opening mechanism.</sentcont></sentence>
+<sentence><sentcont>The phone can be opened either way which provides the user with a keypad when the screen is moved in the up position, a set of multimedia controls when the screen is moved in the down position & when in the closed position the user can use the navigation & shortcut keys.</sentcont></sentence>
+<sentence><sentcont>The user can use their Nokia N95 in landscape mode which is when the screen is moved to the down position which is ideal for all multimedia purposes & accessing the Internet.</sentcont></sentence>
+<sentence><sentcont>The screen is 2.6 Inches in size & provides a 240 x 320 pixel screen resolution on a 16 million colour TFT display.</sentcont></sentence>
+<sentence><sentcont>The mobile handset weighs only 120 gram which is unbelievable considering all the built in technology & capabilities.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 measures 99 x 53 x 21 mm which provides the user with a useable handset which has a solid feel to it.</sentcont></sentence>
+<sentence><sentcont>The phone comes with 160 bytes of internal memory & the user can expand the phones memory capabilities by adding a MicroSD?</sentcont></sentence>
+<sentence><sentcont>memory card up to 2 Gbytes.</sentcont></sentence>
+<sentence><sentcont>The N95 comes with a 128 Mbytes MicroSD?</sentcont></sentence>
+<sentence><sentcont>memory card included wit the start up kit.</sentcont></sentence>
+<sentence><sentcont>The phone comes with an integrated GPS navigation feature which supports maps for more than one hundred countries.</sentcont></sentence>
+<sentence><sentcont>The GPS navigation system displays the maps in clear detail on the 2.6 inch colour screen & will assist the user to find their desired location.</sentcont></sentence>
+<sentence><sentcont>The N95 works on a Symbian operating system with S60 which provides the user with high quality smartphone applications which include photo & video editing programs, music player programs & management applications.</sentcont></sentence>
+<sentence><sentcont>The user can enjoy their phone world wide as the N95 works over a quad band network which includes GSM 850, GSM 900, GSM 1800, GSM 1900 & the Nokia N95 supports HSDPA which provides high speed data.</sentcont></sentence>
+<sentence><sentcont>The user can enjoy an advanced Internet experience on their mobile phone as the phone supports XHTML & HTML Internet browsing.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 is a highly capable mobile handset that offers the user high quality connectivity to compatible devices & fast speed data transfer rate thanks to EDGE technology, WLAN Wi-Fi, USB cable connection, infra red Pop Port?</sentcont></sentence>
+<sentence><sentcont>connection & Bluetooth?</sentcont></sentence>
+<sentence><sentcont>wireless technology.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 comes with a fitted battery which will provide the user with up to 220 hours of standby battery time & approximately six & a half hours talk time.</sentcont></sentence>
+<sentence><sentcont>The user can take a still photo or record video clips using the built in 5 megapixel camera feature which comes with a Carl Zeiss optics tessar?</sentcont></sentence>
+<sentence><sentcont>lens.</sentcont></sentence>
+<sentence><sentcont>The camera facility is both user friendly & a high quality feature for the user to enjoy.</sentcont></sentence>
+<sentence><sentcont>The camera comes with a digital zoom, flash option & an auto focus feature.</sentcont></sentence>
+<sentence><sentcont>The user can select a style of scene they wish to capture & change the colour tones to they desire for their photo or video clip.</sentcont></sentence>
+<sentence><sentcont>The N95 makes it all so easy for the user to capture the perfect finish to their photos & video clips.</sentcont></sentence>
+<sentence><sentcont>The video recorder feature provides the user with the high quality viewing experience that is gained from a DVD type recording.</sentcont></sentence>
+<sentence><sentcont>The user can use the second camera to take part in a video call which brings a real feel to a face to face call experience.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 comes with music features which include a stereo FM radio, visual radio & a music player which supports MP3, AAC, AAC+, eAAC+ & WMA music formats.</sentcont></sentence>
+<sentence><sentcont>The user can use their music playing features when the phones screen is in it's slide down position which allows the user to view their music information in the landscape mode.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 has been designed with high quality & easy to operate multimedia features.</sentcont></sentence>
+<sentence><sentcont>The phone comes complete with a set of headphones which allows the user to have a private listening experience.</sentcont></sentence>
+<sentence><sentcont>The visual radio feature allows the user to gain access to information which has been provided by the radio station which is being listened too.</sentcont></sentence>
+<sentence><sentcont>The music management application will assist the user when transferring music files & managing their music.</sentcont></sentence>
+<sentence><sentcont>The user can stay in contact with compatible contacts by using the messaging service on their N95 which include text messaging, multimedia messaging, email service & instant messaging.</sentcont></sentence>
+<sentence><sentcont>The multimedia messaging service allows the user to create, send & receive messages with text input, with either a photo or a video clip which can be enhanced with music.</sentcont></sentence>
+<sentence><sentcont>The email service allows the user to stay in contact with any compatible email contacts & the email service supports file attachments in popular file formats.</sentcont></sentence>
+<sentence><sentcont>The user can have an online conversation which other instant messaging contacts which works like an online chat with text & symbols.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 comes with voice features which include voice dialling, a voice record which is ideal for recording a reminder or memorandum & voice commands.</sentcont></sentence>
+<sentence><sentcont>The user can user the handsfree speakerphone which allows the user to have a call over the phones speakers without having to hold the handset.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+1110182#12082#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1110182</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I work for the carphone warehouse, we launched it today, so don't wait around till the 9th of April for o2 direct when we are doing the same deals!!!</sentcont></sentence>
+<sentence><sentcont>It is in high demand and is more likely to be in stores than on the website which has it as *out of stock*.</sentcont></sentence>
+<sentence><sentcont>A few things to note.</sentcont></sentence>
+<sentence><sentcont>Don't know what that previous review was on about, the screen size and coloure is far supirior to that of the N80, and i owned the N80, which i couldn't get rid of quick enough, was the worst most expensive phone i have had, and in my opinion, and i tell my customers this, the N-series is awfull, slow and full of bugs!.</sentcont></sentence>
+<sentence><sentcont>Nokia have been well aware of this with terrible sales and targets not met.</sentcont></sentence>
+<sentence><sentcont>So we were worried about the N95, as with all the N-series, they look great on paper but in reality they have to much on them and not enough juice or proper software to cope with it.</sentcont></sentence>
+<sentence><sentcont>I am really happy to say that the N95 is by far the best phone nokia have produced, we got ours 5 days ago, but due to Nokia launch date we weren't aloud to sell them, so we've had a good play with them.</sentcont></sentence>
+<sentence><sentcont>First thing first,    *Be aware that the GPS is very smart, graphics are quick and easy and does not suffer from time delay as we thought it may, take note though that it is not a TOM TOM and your network provider will charge you for data connections using this service.</sentcont></sentence>
+<sentence><sentcont>How ever if u went for a company like t-mobile then the web and walk will more than pay for it's self, especially when using the integrated web browser!</sentcont></sentence>
+<sentence><sentcont>Which by the way is very smart and was my favourite feature of the N80 (they have made it easier to use the WiFi on this, the N80 process was long and VERY tiersome to connect up!</sentcont></sentence>
+<sentence><sentcont>*Battery life in store seems SO much better than the N80, my N80 would need ot be charged most nights, especially is using WiFi or the cam, be aware though that you can half the battery life of what r.</sentcont></sentence>
+<sentence><sentcont>views tell you as they do not take in to acount what you are using are are calculated in a lab whihc does not take signal stregth in to acount, meaning that if you are in a weak signal area for your network your battery life will not be long.</sentcont></sentence>
+<sentence><sentcont>*Something to also take in to acount is the menu system, not sure wether this is just me, but i find the menu system really complicated and not intiative, and you will be spending the best part of a week rememebering where things are with in the menus.</sentcont></sentence>
+<sentence><sentcont>*the screen size is much larger than the N80, and it's lost some of it's weight as well, whihc is a bonus.</sentcont></sentence>
+<sentence><sentcont>We took some pictures on it's 5mp cam, and it was very good!</sentcont></sentence>
+<sentence><sentcont>how ever, where it will fail is at night time, as they still haven't built in a proper xeone flash... come on nokia!!!!! catch up with the cybershot technology on the Sony!</sentcont></sentence>
+<sentence><sentcont>It is a shame!</sentcont></sentence>
+<sentence><sentcont>how ever in day time the pictures are great!</sentcont></sentence>
+<sentence><sentcont>Do not be fooled by websites such as ebay sellers who claim it has DVD like video capature, this is not the case! it does VGA 30fps, that is not DVD like how ever it's like the N80 and is far supirior than any other phones video recorder.</sentcont></sentence>
+<sentence><sentcont>Where the N95 really shines is in it's processor.</sentcont></sentence>
+<sentence><sentcont>It is with out a doubt the most powerfull one i have seen on a phone.</sentcont></sentence>
+<sentence><sentcont>To demonstrate it jsut go in to a store and ask them to show you the games, you will be hard pushed to tell the difference between the graphics on the n95 and that of a playstation 1... maybe even 2! It really is that smart!</sentcont></sentence>
+<sentence><sentcont>In conclusion, it is far supiror to it's predesossor, and Nokia have seemed to have ironed out the bug problems the N80 died of, it's quicker and more powerfull.</sentcont></sentence>
+<sentence><sentcont>How ever it's new and i only had 3 days with it, so time will tell, but i really hope it does well... it needs too, and as of yet it's biggest competitor Sony have not released anything with 5mp on it or anything as powerfull as this...which is also a shame.</sentcont></sentence>
+<sentence><sentcont>It's light, it's bright, it's powerfull, and it's a nice looking phone.</sentcont></sentence>
+<sentence><sentcont>The dual slide worries me a a bit though as it can be a bit anoying when it keeps going in to different menus.</sentcont></sentence>
+<sentence><sentcont>The short cut keys need more work on them, but it is very customisable so i shoudl imagine you can get round it.</sentcont></sentence>
+<sentence><sentcont>In all it is the best handset out at the moment, and should be at ?500!    p.s. you'll LOVE the music player! the sound is great out of the stereo speakers!</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+1110081#11981#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>1110081</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Advantages about N95: * Fast OS and powerful processor running at 330 MHz.</sentcont></sentence>
+<sentence><sentcont>* Improved 5 MPix Carl Zeiss Tessar camera with autofocus as compared with previous models.</sentcont></sentence>
+<sentence><sentcont>* Built-in GPS receiver.</sentcont></sentence>
+<sentence><sentcont>* Huge 2.</sentcont></sentence>
+<sentence><sentcont>6" screen.</sentcont></sentence>
+<sentence><sentcont>* Quadband 850/900/1800/1900 GSM, 2100 WCDMA.</sentcont></sentence>
+<sentence><sentcont>* Wireless LAN 802.</sentcont></sentence>
+<sentence><sentcont>11 b/g 54 Mbps.</sentcont></sentence>
+<sentence><sentcont>* Bluetooth 2.</sentcont></sentence>
+<sentence><sentcont>0 EDR (3 Mbps).</sentcont></sentence>
+<sentence><sentcont>* A2DP profile for stereo audio over Bluetooth Headset.</sentcont></sentence>
+<sentence><sentcont>* DVD quality video recording @ 30 frames per second.</sentcont></sentence>
+<sentence><sentcont>* Able to use our own 3.</sentcont></sentence>
+<sentence><sentcont>5mm earpiece.</sentcont></sentence>
+<sentence><sentcont>* USB 2.</sentcont></sentence>
+<sentence><sentcont>0 Full speed rather than previously "fast speed" (which is not very fast).</sentcont></sentence>
+<sentence><sentcont>* Able to set a duration to auto Keylock.</sentcont></sentence>
+<sentence><sentcont>* Able to set a duration to auto Lock the phone with a password.</sentcont></sentence>
+<sentence><sentcont>* Very light weight.</sentcont></sentence>
+<sentence><sentcont>* Fast Start-up and shutdown (as compared to previous models).</sentcont></sentence>
+<sentence><sentcont>* Voice recordings duration of 1 hour instead of 1 min.</sentcont></sentence>
+<sentence><sentcont>Disadvantages about N95:   * The slider can easily slide open the keypad if the jean is too tight.</sentcont></sentence>
+<sentence><sentcont>* Battery life-span very fast 1 day if using Wi-Fi or GPS  (normal usage - est 2 days, hoped Nokia can come out a higher capacity battery for N95)  *As for camera u can compared the photos & reviews from this website:  http://www.allaboutsymbian.com...e_Camera.php</sentcont></sentence>
+<sentence><sentcont>PS: This review is based on my personal opinions.</sentcont></sentence>
+<sentence><sentcont>Overall it is amazing phone but a expensive phone.Thank</sentcont></sentence>
+<sentence><sentcont>you.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+115357#7257#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>115357</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Hello N95 Fans  I have used N95 before for 5 months.</sentcont></sentence>
+<sentence><sentcont>Only difference you can see in New 95 is 2.8inch display instead of 2.6inch, Battery is 1200mah instead of 950mah.</sentcont></sentence>
+<sentence><sentcont>8Gb internal memory instead of 160Mb, No Micro SD Card slot, Weight 129gm compared to 120gm and 1mm length more.</sentcont></sentence>
+<sentence><sentcont>Symbian OS 9.2, S60 rel.</sentcont></sentence>
+<sentence><sentcont>3.1 is same for both, so the software and application bugs will be same of old N95.</sentcont></sentence>
+<sentence><sentcont>Application manager crashes N95 OS several times, this is a major Issue.</sentcont></sentence>
+<sentence><sentcont>Keypad is a great disadvantage for N95, it get loosened so fast.</sentcont></sentence>
+<sentence><sentcont>Mine is loosened in am month usage.</sentcont></sentence>
+<sentence><sentcont>Same thing, the old keypad will be there in New 8Gb N95.</sentcont></sentence>
+<sentence><sentcont>Design look too old.</sentcont></sentence>
+<sentence><sentcont>Not Stylish.</sentcont></sentence>
+<sentence><sentcont>Nokia have to compete for other good mobiles vendors.</sentcont></sentence>
+<sentence><sentcont>I bought the Motorola MotoRockr E6 mobile last month.</sentcont></sentence>
+<sentence><sentcont>Its too good mobile with enormous features.</sentcont></sentence>
+<sentence><sentcont>Ofcourse the camera is 2mp, it takes a sharp image in outdoor.</sentcont></sentence>
+<sentence><sentcont>Rockr has a business card reader, that scan n recognize the business cards and store into its phonebook.</sentcont></sentence>
+<sentence><sentcont>Wifi is not there, but I am using wap in Opera browser more user freindly due to its touch screen facility.</sentcont></sentence>
+<sentence><sentcont>Touch makes its user friendly as compared with N95.</sentcont></sentence>
+<sentence><sentcont>Not even one time Rockr E6 OS is crashed for me.</sentcont></sentence>
+<sentence><sentcont>Rockr's performance is far far better than N95.</sentcont></sentence>
+<sentence><sentcont>It has 1000mah battery which gives 5 days battery backup with less usage.</sentcont></sentence>
+<sentence><sentcont>You can watch movies, songs mp3 in 64 channel output.</sentcont></sentence>
+<sentence><sentcont>Movie quality in sound and video is amazing and superb and battery backup also too good.</sentcont></sentence>
+<sentence><sentcont>U can easily watch around 3 movies continously around 3:00 hrs each (total ard 9:00 hrs), still after u will get battery backup to another day.</sentcont></sentence>
+<sentence><sentcont>Mp3 Playback of 14 hrs continuous.</sentcont></sentence>
+<sentence><sentcont>Overall features are 2 times more than Nokia N95.</sentcont></sentence>
+<sentence><sentcont>Once if u use, u will feel the difference, that why I am critising Nokia N95.</sentcont></sentence>
+<sentence><sentcont>I am not campaigning you ppls to buy Rock E6, I am telling my view about N95.</sentcont></sentence>
+<sentence><sentcont>Check Motorola MotoRockr E6 reviews.</sentcont></sentence>
+<sentence><sentcont>Free to mail me if you have any doubts about both Rockr as well as N95  Regards  Kailas Senan  Larsen & Toubro Limited  Embedded System Software Engineer  Kailas.Senan@Lntemsys.com</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+2496806#111#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Cnet</websource>
+<reviewid>2496806</reviewid>
+<reviewtitle>The All-In-One IT Gadget</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> I can use it in any country since it is unlocked</sentcont>
+<sentcont>Extremely multifunctional</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reboots automatically without warning- I could be browsing or opening up a PDF and sometimes it would reboot on its own</sentcont>
+<sentcont>perhaps due to over usage?!</sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>The other Nokia phones I owned before this amazing N95 are 3310, 6801, 6600, 6680, & N70 and older models which I can not even remember.</sentcont></sentence>
+<sentence><sentcont>I??ve never tried using any other brand, except the blackberry which I am forced to use for work.</sentcont></sentence>
+<sentence><sentcont>I had my eye on this N95 because I love taking pictures and this phone has a 5 mega pixel camera w/ auto focus Carl Zeiss lens.</sentcont></sentence>
+<sentence><sentcont>To my surprise, there was so much in stored for me!</sentcont></sentence>
+<sentence><sentcont>This ultimately tops any gadget I ever owned.</sentcont></sentence>
+<sentence><sentcont>It is also the most expensive phone I have, but I believe that it is well worth your money since it is used heavily on a daily basis.</sentcont></sentence>
+<sentence><sentcont>If you add up the cost of a cell phone + 1G micro mini memory card + MP3 player + GPS + digital camera + camcorder + video player (btw-you could hook the phone to your tv and play your videos or a photo slideshow w/ music)+ radio+ fast browser + and so many pluses etc..</sentcont></sentence>
+<sentence><sentcont>You would be well over $1,000 if you purchased each of those items individually.I know that most people complain that the phone is "plastic like" but I can tell you that I dropped my phone on a flight of marbled stairs and it surprisingly only got 2 scratches and nothing was cracked and it still works fine (thank God cause I was going to cry!)To show you how useful and amazingly productive this all-in-one phone is, allow me to describe how my day went during a recent trip to Santa Monica.</sentcont></sentence>
+<sentence><sentcont>This is in addition to making calls and sending text messages.Before</sentcont></sentence>
+<sentence><sentcont>getting out of bed in the morning, I connected to the internet via our wireless network and checked my email.</sentcont></sentence>
+<sentence><sentcont>Then, I checked my calendar (which was sync to my desktop outlook) to look up the details of my flight.</sentcont></sentence>
+<sentence><sentcont>At the airport, while waiting for my flight I used the calculator to compute my expenses and the internet to check my email and even kill some time browsing and bidding on eBay.</sentcont></sentence>
+<sentence><sentcont>I also secretly used the camera in the front to make sure that my hair was tidy and my teeth were clean (it??s like looking in a mirror, ha ha!).</sentcont></sentence>
+<sentence><sentcont>Then I plugged in my earphones to listened to the radio.</sentcont></sentence>
+<sentence><sentcont>Still at the airport, while waiting outside the bookstore, the phone was in my bag.</sentcont></sentence>
+<sentence><sentcont>My ringing tone goes off and since the ???Say Caller??s Name??? option was selected, I knew it was my husband calling me before I even looked at the phone to see who it was.</sentcont></sentence>
+<sentence><sentcont>This function is so handy especially while you are driving.</sentcont></sentence>
+<sentence><sentcont>You can concentrate on the road without the distractions and hassles of finding your phone and reading your caller ID to see/know who is calling you.On the plane, I listened to some talk shows and music that I previously uploaded for my trip.</sentcont></sentence>
+<sentence><sentcont>Btw- it is so easy to transfer these from your computer to your phone.</sentcont></sentence>
+<sentence><sentcont>You could also download these via rss feeds.</sentcont></sentence>
+<sentence><sentcont>Upon arriving I took some photos and videos of the beach and our hotel using the 5megapixel camera.</sentcont></sentence>
+<sentence><sentcont>While chilling in the room I played some games that I downloaded from getjar.com.</sentcont></sentence>
+<sentence><sentcont>Then I used the map to browse nearby restaurants and get the addresses and directions.</sentcont></sentence>
+<sentence><sentcont>I also sent a text message to Google to get instant results for the nearest drugstore.</sentcont></sentence>
+<sentence><sentcont>I did this by typing ???location, drugstore, Santa Monica??? and sending the message to 46645 which is Google SMS here in the US.</sentcont></sentence>
+<sentence><sentcont>I instantly received several listings via text messaging.</sentcont></sentence>
+<sentence><sentcont>Before going to bed, I set my alarm clock and checked my email and browsed for a bit and watched a few YouTube videos from the video centre.</sentcont></sentence>
+<sentence><sentcont>I also watched some of the videos I took earlier at the beach.</sentcont></sentence>
+<sentence><sentcont>Finally, I visited mobible.org to read the psalm of the day and then plug my earphones in to listen to the rest of my talk shows and quickly fell asleep.With this phone, I easily eliminate bringing the following items on this trip which is really the equivalent of additional luggage:- alarm clock- calendar- calculator- map- yellow pages- mirror- laptop- camera- camcorder- radio- mp3 player- gameboy/psp/DS- all the chargers/ plugs/ batteries that come with these gadgets- and yes that thick heavy book, the holy bible ??For those who are debating whether to get this all-in-one phone, I say YES it is well worth it only if you are planning on utilizing and maximizing all the functions.</sentcont></sentence>
+<sentence><sentcont>If you do not need all the functions, this phone is NOT for you and you should not splurge just to have it because the technology may be too complicated for you.</sentcont></sentence>
+<sentence><sentcont>Seriously.</sentcont></sentence>
+<sentence><sentcont>For those who already have it  CHEERS!!!</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+000004#184#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Viewpoints</websource>
+<reviewid>000004</reviewid>
+<reviewtitle>carry your computer on your pocket</reviewtitle>
+<rating>1.0</rating>
+<freereview><sentence><sentcont>Nokia's N95 superphone is complicated, taking days for even the most experienced gadget journo to digest.</sentcont></sentence>
+<sentence><sentcont>That's why lots of reviews I've seen so far are either extremely light or 10,000 word stunners: This is one of those long ones.</sentcont></sentence>
+<sentence><sentcont>It's likely easier to pore over the phone yourself in our hardware and software gallery walkthroughs, and come up with your own opinion.</sentcont></sentence>
+<sentence><sentcont>But If you want the text heavy version, here's what's great and terrible about this phone.</sentcont></sentence>
+<sentence><sentcont>Aside from call quality, why Nokia's N95 Rocks:1.GPS:</sentcont></sentence>
+<sentence><sentcont>The GPS is really GPS, not some assisted-GPS that Sprint and Verizon have in their phones.</sentcont></sentence>
+<sentence><sentcont>That means you can really navigate with it, like I did, to streets around SF I wasn't too familiar with.</sentcont></sentence>
+<sentence><sentcont>(Specifically, the corner of Washington and Cherry, close to where the Zodiac killer blew away a Cabbie so many years ago.)</sentcont></sentence>
+<sentence><sentcont>The point of interest database is sizable and you can search for things by proximity (the nearest ATM or liquor store), and then get the phone dialing right up.</sentcont></sentence>
+<sentence><sentcont>Turn by turn is a subscription that'll cost you about $10 a month, and the voice nav won't read street names, but that, and the phone's persistant Lag aside, it rocks.</sentcont></sentence>
+<sentence><sentcont>2.Camera: I detect a decent level of grain in these 5mp shots, and the shutter lag is horrendous, but WTF, it's a 5mp camera with a Carl Zeiss 2.8/5.6 autofocusing lens in a phone.</sentcont></sentence>
+<sentence><sentcont>There are great controls for ISO, white balance, sharpness, contrast, and flash.</sentcont></sentence>
+<sentence><sentcont>And video comes in at 640 by 480 at 30fps.</sentcont></sentence>
+<sentence><sentcont>Not shabby.</sentcont></sentence>
+<sentence><sentcont>And the editing programs are powerful, especially the photo editor's clip art feature.</sentcont></sentence>
+<sentence><sentcont>Proof is in the pudding: Check out Flickr's N95 photos.</sentcont></sentence>
+<sentence><sentcont>3. Lifeblog: Like other N-series phones, this one can post any text/video/image you take with the phone to a blog.</sentcont></sentence>
+<sentence><sentcont>I'm addicted to this.</sentcont></sentence>
+<sentence><sentcont>This can be done through the Lifeblog software, which will combine text and images into a blog post on Typepad.</sentcont></sentence>
+<sentence><sentcont>The phone will send pictures Flickr's API, too.</sentcont></sentence>
+<sentence><sentcont>(And via Flickr's blog API, can send photos to most other blog ware.) Right now, Vox is the only site that will accept automated upload videos.</sentcont></sentence>
+<sentence><sentcont>But I'm willing to bet there's even a youtube uploader out there, considering the Symbian OS's dev community.</sentcont></sentence>
+<sentence><sentcont>4. Media Playback: The mp3/video player is fairly straight forward, and that's why I like it.</sentcont></sentence>
+<sentence><sentcont>The speakers are unreasonably loud, in a good way, for a device of this side - as loud as the Samsung K5 with external speakers - and there's an EQ as well as visualizations.</sentcont></sentence>
+<sentence><sentcont>File support includes MP3/WMA/M4A, and AAC support for those soon to be unlocked iTunes/EMI files.</sentcont></sentence>
+<sentence><sentcont>The media playback buttons aren't the easiest to press, but they add to the simplicity and dedication this device has to AV. Add in support for Podcasts, even those of the video variety, and you're talking.</sentcont></sentence>
+<sentence><sentcont>(MPEG-4, H.264/AVC, H.263/3GPP, RealVideo 8/9/10) 5. Extras: I admit this is cheating on a list of 5, but all the little included apps really help bring the Nokia up.</sentcont></sentence>
+<sentence><sentcont>There are office document readers/editors, a standard convertor, calculator, zip utilities, GPS utilities, VOIP (Gizmo Project), a uPNP media server, and all your basic txt/sms/email/browsing/bluetooth, on and on and on.</sentcont></sentence>
+<sentence><sentcont>Feature-wise, it is what a phone could be, given today's technology, minus phone carrier greed.</sentcont></sentence>
+<sentence><sentcont>(All in our feature walkthrough.)</sentcont></sentence>
+<sentence><sentcont>Why Nokia's N95 Sucks:1.</sentcont></sentence>
+<sentence><sentcont>Battery: No matter what anyone says, the battery life on the N95 isn't good.</sentcont></sentence>
+<sentence><sentcont>You can justify it by considering how much power true GPS, WiFi, and those booming speakers take.</sentcont></sentence>
+<sentence><sentcont>Even turning off 3G access, as you won't find reception in the US, the phone will be begging for DC after an 18 hour day of moderate/heavy use.</sentcont></sentence>
+<sentence><sentcont>2. HSDPA Europe only: This phone is a European variant, and its WCDMA 2100 radio can't tap Cingular's US band HSDPA.</sentcont></sentence>
+<sentence><sentcont>So, you're stuck with EDGE speeds when you're not close to WiFi.</sentcont></sentence>
+<sentence><sentcont>Here's a tip: Turn off the 3G support to save some battery life.</sentcont></sentence>
+<sentence><sentcont>And get used to using WiFi for the heavy Audio/Video Tranfers.</sentcont></sentence>
+<sentence><sentcont>3. Laggy OS: I don't know whether to blame Symbian or Nokia, but I don't really care, who's fault it is: This phone is sluggish.5.</sentcont></sentence>
+<sentence><sentcont>Hardware Feels Junky:Two words: Fisher Price.</sentcont></sentence>
+<sentence><sentcont>They should have packed these components into a denser package.</sentcont></sentence>
+<sentence><sentcont>The world's most powerful handset is also the thickest modern phone without a QWERTY.</sentcont></sentence>
+<sentence><sentcont>But consider all it does, and the fact that its still pocketable, and you can over look its rather portly 0.8 inch thickness.</sentcont></sentence>
+<sentence><sentcont>Full hardware rundown here.</sentcont></sentence>
+<sentence><sentcont>5. Price: $750 dollars is an unsubsidized price, and I commend Nokia for bringing this unlocked beast of a phone to the US without carriers who'll lock up both the SIM slot and the multimedia features.</sentcont></sentence>
+<sentence><sentcont>But that's a lot of money.</sentcont></sentence>
+<sentence><sentcont>I'd find that more acceptable if the GPS didn't require a subscription, the office software edited without buying an upgrade, and if the rest of my complaints were firmly answered.</sentcont></sentence>
+<sentence><sentcont>You have to use this phone for yourself (or go on through the walkthroughs below) before you spend this much cash on a portable computer/phone/thingy.</sentcont></sentence>
+<sentence><sentcont>Even then, only the die hardest phone geeks and those who can benefit from the phone's liveblogging capabilities should consider it.</sentcont></sentence>
+<sentence><sentcont>??</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+118205#10105#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>118205</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Hi guys.</sentcont></sentence>
+<sentence><sentcont>I would like to give some different look on the comments of this phone.</sentcont></sentence>
+<sentence><sentcont>I am still thinking whether go for this phone or not.</sentcont></sentence>
+<sentence><sentcont>Besides I have some bad experience with N80 last year.</sentcont></sentence>
+<sentence><sentcont>I played with a N95 of a friend of mine, but just for 2 days so I cannot make some solid conclusion based on such short experience.</sentcont></sentence>
+<sentence><sentcont>So I am very cautious.</sentcont></sentence>
+<sentence><sentcont>Let us try to make some objective and reasonable judgments in order to get a more comprehensive picture of the, let call it this way, "the real N95":).</sentcont></sentence>
+<sentence><sentcont>Having read a lot of opinions here (I am following them from the beginning of the year) I would try to draw some of the main groups of problems giving some general or specific comments on cons.</sentcont></sentence>
+<sentence><sentcont>Also to point out not only the weak points but also the strong and "innovative" features.</sentcont></sentence>
+<sentence><sentcont>(Because it can obviously be seen that the majority of posts here are totally opposite - one are saying "this is the best phone I have ever had", while the other are saying - "this is the worst phone, dont buy it".</sentcont></sentence>
+<sentence><sentcont>).</sentcont></sentence>
+<sentence><sentcont>So let?s group the points of interest like this.</sentcont></sentence>
+<sentence><sentcont>1.</sentcont></sentence>
+<sentence><sentcont>Battery life; 2.</sentcont></sentence>
+<sentence><sentcont>The 5 MP camera; 3.</sentcont></sentence>
+<sentence><sentcont>Video; 4.</sentcont></sentence>
+<sentence><sentcont>The phone hangs; 5.</sentcont></sentence>
+<sentence><sentcont>Problems during a call; 6.</sentcont></sentence>
+<sentence><sentcont>GPS; 7.</sentcont></sentence>
+<sentence><sentcont>Music; 8.</sentcont></sentence>
+<sentence><sentcont>Display; 9.</sentcont></sentence>
+<sentence><sentcont>Robustness of the design.</sentcont></sentence>
+<sentence><sentcont>1.</sentcont></sentence>
+<sentence><sentcont>Battery life.</sentcont></sentence>
+<sentence><sentcont>The disappointing battery life was expected.</sentcont></sentence>
+<sentence><sentcont>In the posts from January-February a very few guys were reporting the phone should be charged daily or even twice a day; because only few had the chance to use the pilot release and because the rest were dazzled by the specs of the phone and eager to get some kind "Lord of the phones" (there were such expression in a post here).</sentcont></sentence>
+<sentence><sentcont>Nevertheless, having the experience with N80, everyday charge is something very boring.</sentcont></sentence>
+<sentence><sentcont>Especially after elapsing the first one-two months when the delight of using such a complicated device is gone.</sentcont></sentence>
+<sentence><sentcont>The second battery partially solves the problem but still you have to pay to much care for that - always to have the spare battery charged, to replace batteries when the one in the phone is drained.</sentcont></sentence>
+<sentence><sentcont>The other approach is to restrain from playing with the wifi browsing, or shooting videos if you are on the move during the day and cannot plug in the charger.</sentcont></sentence>
+<sentence><sentcont>In a moment you start asking yourself - does the phone serve you or you serve the phone?</sentcont></sentence>
+<sentence><sentcont>Or there are some ?tricks? to prolong the batt life - disable 3G, or reduce wifi sensitivity, or not to shoot to much, or not to listen to the music too much, or not use the GPS, etc - well, why should you buy such device if you do not use its features?</sentcont></sentence>
+<sentence><sentcont>Someone here were giving the example with Ferrari - they say the Ferrari consumes too much fuel but still it is a Ferrari - ok the comparison is not that correct.</sentcont></sentence>
+<sentence><sentcont>Fuel consumption is not the analogue of the power (battery) consumption though both are related to energy; here the issue is the USABILITY OF PERFORMANCE ?</sentcont></sentence>
+<sentence><sentcont>a ?fuel</sentcont></sentence>
+<sentence><sentcont>hungry" Ferrari is giving its full performance to the user, but a ?power/battery</sentcont></sentence>
+<sentence><sentcont>hungry?</sentcont></sentence>
+<sentence><sentcont>phone cannot deliver its potential to the user because it simply cannot last enough to give the overall performance to be consumed (?overall?</sentcont></sentence>
+<sentence><sentcont>means all features, not use only gps, or use only camera, or only make voice calls).</sentcont></sentence>
+<sentence><sentcont>If you have a Ferrari, would you close it in the garage and drive it rarely ?on last Sunday of the month?</sentcont></sentence>
+<sentence><sentcont>or would you enjoy it everyday as much as possible - if you are happy with the speed and acceleration, etc of a standard car, why should you go for a Ferrari?</sentcont></sentence>
+<sentence><sentcont>Right?</sentcont></sentence>
+<sentence><sentcont>However let?s gulp down this problem and take it for granted that we cannot have normal battery last in a ?multimedia?</sentcont></sentence>
+<sentence><sentcont>N-phone (?normal? is something between 3-5 days; or at least firmly over 2 full days (48 hours), regardless of usage of the features, OK?).</sentcont></sentence>
+<sentence><sentcont>Of course some will say - well you have all-in-one device, so how could you expect longer time?</sentcont></sentence>
+<sentence><sentcont>OK, to that statement I would oppose the above mentioned question - do the phone serves you or you serve the phone?</sentcont></sentence>
+<sentence><sentcont>And what is better, to have 10 separate devices that are giving their full performance, or one single device combining them but giving you just one feature at a time of all these 10?</sentcont></sentence>
+<sentence><sentcont>Is it a kind of philosophical question?:)</sentcont></sentence>
+<sentence><sentcont>?</sentcont></sentence>
+<sentence><sentcont>no it is a technical question - the device should support all the features it is designed to.</sentcont></sentence>
+<sentence><sentcont>Again with the car analogy ? the car should perform as a car despite of whether you dirve it in the summer (hot) or in the winter (cold), or whether you drive it in a sunny day (no light, heaters, fans, etc) or in a rainy evening (with all electrical stuff switched on), Right?</sentcont></sentence>
+<sentence><sentcont>So, in the end, there is no excuse for the poor battery life.</sentcont></sentence>
+<sentence><sentcont>2. The 5 MP camera.</sentcont></sentence>
+<sentence><sentcont>It is clear that a phone camera will never be at the level of the current dedicated cameras.</sentcont></sentence>
+<sentence><sentcont>So wheter it is 5 MP or 3.2 MP, it is almost the same.</sentcont></sentence>
+<sentence><sentcont>Further more, it is welknown that Nokia still cannot reach the quality of the SonyEricsson competitors in the mobilephone cameras.</sentcont></sentence>
+<sentence><sentcont>So do not expect the unexpected in this area.</sentcont></sentence>
+<sentence><sentcont>No need to go deeper in the subject, everything is clear I think.</sentcont></sentence>
+<sentence><sentcont>3. Video  Here I think we should give the deserved for the phone.</sentcont></sentence>
+<sentence><sentcont>The feature of VGA video shooting is very very nice.</sentcont></sentence>
+<sentence><sentcont>Again to expect hte quality of dedicated videocamera is irrelevant.</sentcont></sentence>
+<sentence><sentcont>But compared to the CIF and QVGA resolutions in previous phones, the VGA video in your phone is quite usefull and handy.</sentcont></sentence>
+<sentence><sentcont>4. The phone hangs  Well this should be precicsely specified when it hangs.</sentcont></sentence>
+<sentence><sentcont>We cannot expect this phone to behave like a computer, desipte that it is equipped with a 330 MHz processor.</sentcont></sentence>
+<sentence><sentcont>At the time of the 300 MHz Pentiums we had not have so rich multimedia content, right?</sentcont></sentence>
+<sentence><sentcont>In my N80, I couldn't open a pdf or doc bigger then 800-900 KB.</sentcont></sentence>
+<sentence><sentcont>Here we also have 64 MB RAM, of whic about 20-22 MB free (as far as I saw when played with a N95).</sentcont></sentence>
+<sentence><sentcont>Here may be the ad "a multimedia computer" plyes a bad joke for the users - remember this is not a computer, so do not expect to perform like a PC (how often your PC hangs when running some big or complex stuff?</sentcont></sentence>
+<sentence><sentcont>for me, relatively often the Windows Media Player or Real Player hang when starting a movie).</sentcont></sentence>
+<sentence><sentcont>But the bad thing is that the phone realy behaves slow when opening the images/videos.</sentcont></sentence>
+<sentence><sentcont>that is something that I definately observed in my short test with the phone.</sentcont></sentence>
+<sentence><sentcont>5. Problems during a call (Noise or fuzz or buzzz or whatever during a call)  That is a serious problem (if present).</sentcont></sentence>
+<sentence><sentcont>I have not noticed it but saw several posts about it.</sentcont></sentence>
+<sentence><sentcont>So pls say how many of you have noticed it in your phones.</sentcont></sentence>
+<sentence><sentcont>6. GPS  The chipset in N95 is a Texas Instruments one, not a Sirf III or RFMD, or not even a Sirf II.</sentcont></sentence>
+<sentence><sentcont>So do not expect to have the performance of them.</sentcont></sentence>
+<sentence><sentcont>Here the real problem is in the time to wait for lockon the satellites.</sentcont></sentence>
+<sentence><sentcont>Waiting over 3-4 minutes makes the GPS a thoughtless feature.</sentcont></sentence>
+<sentence><sentcont>Lot of people complain they were waiting 10 or even 15 minutes for "satellite signal".</sentcont></sentence>
+<sentence><sentcont>(Me personally could not start the gps at all ...).</sentcont></sentence>
+<sentence><sentcont>The other "problem" here is that the phone could not use the built in GPS receiver with third party navigation programs.</sentcont></sentence>
+<sentence><sentcont>On the phone I played with, I used a Holluv Sirf III GPS and connected it via Bluetooth to N95 and it worked perfect with TomTOm6.</sentcont></sentence>
+<sentence><sentcont>But why is the built in GPS chip than?</sentcont></sentence>
+<sentence><sentcont>Concerning the maps of "over 100 countries or so" - the idea of having all the info accessible from a app like smart2go in the Nokia is very good.</sentcont></sentence>
+<sentence><sentcont>But still it is not yet fully-usable worldwide (apparently).</sentcont></sentence>
+<sentence><sentcont>But still it is a very good idea so let us be more patient and understanding.</sentcont></sentence>
+<sentence><sentcont>So about the GPS we may want a lot of improvements, both in the phone firmware and hardware and in the info database from Nokia.    7. Music  Playing music is better than N80.</sentcont></sentence>
+<sentence><sentcont>About the sound quality - I expected much better from the "stereo" speakers.</sentcont></sentence>
+<sentence><sentcont>But if you plug in good earphones (not these coming with the phone) it is absolutely ok.</sentcont></sentence>
+<sentence><sentcont>Again do not expect this device to sound like your home stereo.</sentcont></sentence>
+<sentence><sentcont>8. Display  Notably worse than in N80 - we have larger screen with smaller resolution in N95.</sentcont></sentence>
+<sentence><sentcont>It is obvious when look on the very nice data given in the gsmarena.com</sentcont></sentence>
+<sentence><sentcont>review:   Nokia N95 	40 x 53 mm 	240 x 320 pixels 	3,623 pixels/cm 2  Nokia N80 	35 x 41 mm 	352 x 416 pixels 	10,204 pixels/cm 2    9. Robustness of the design  Some people, also in the reviews, it is reported of noises when sliding the slide, or when pressing the buttons on the slide.</sentcont></sentence>
+<sentence><sentcont>This is something that was present in N80 too.</sentcont></sentence>
+<sentence><sentcont>But in N80 also the battery door on the back was loose, something that in N95 is amended.</sentcont></sentence>
+<sentence><sentcont>WHen we have a slide, it just could not be as robust as the bar.</sentcont></sentence>
+<sentence><sentcont>If you were not bored in reading all this, I would ask you to help in trying to expand the list of problem groups.</sentcont></sentence>
+<sentence><sentcont>In this way we can justify reasonably and get a clear overall picture of "the real N95" and not just to say - this is the a "crown", or this is a "rubbish".</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+2417427#12#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Cnet</websource>
+<reviewid>2417427</reviewid>
+<reviewtitle>Great phone, absolutely worth the $$$!!!!!!!!!</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Best display, tons of great & useful apps, best camera </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> GPS maps should've been pre-installed on the memory card </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>Purchased N95 last week.</sentcont></sentence>
+<sentence><sentcont>Before I used a 8801, N93, N80, 6270, 6280, Razr V3, Sony Ericsson w850i, e.t.c....too many to list.</sentcont></sentence>
+<sentence><sentcont>For those of you who are still wondering weather or not it's a good phone for the $, if you have an extra $700 - this is the phone to get.</sentcont></sentence>
+<sentence><sentcont>It has all the features that the phone can have, excellent camera, GPS, e.t.c.Let me start with the camera.</sentcont></sentence>
+<sentence><sentcont>I can only say positive things about it, since it provides excellent pictures not only outside, as many of other users stated, but in the dark as well!</sentcont></sentence>
+<sentence><sentcont>The color balance is great.</sentcont></sentence>
+<sentence><sentcont>Although I would wish some optical zoom...</sentcont></sentence>
+<sentence><sentcont>I took some pictures in a totally dark environment without any light - came out great!! This can really substitute for a digital camera, if you don't care about optical zoom.GPS needs upgrading.</sentcont></sentence>
+<sentence><sentcont>I didn't find any pre-loaded maps, and you need a wi-fi connection to download them.</sentcont></sentence>
+<sentence><sentcont>Speaking of which, i found wifi to be a great upgrade over the N80's first edition.</sentcont></sentence>
+<sentence><sentcont>N80 always gave me 'out of memory' errors whenever browsing the web, as I'm a heavy i-net user, working as an IT. On the other hand, you can see Nokia fixed it with the N95.</sentcont></sentence>
+<sentence><sentcont>Only once I got that same error message, while having multiple apps running on the background, which is understandable with MP3 player, Real player, Snakes 3D, and browsing the web.The phone comes with the 'downloads' link, where you can download some nice free apps as well, such as antivirus, games, ringtones.Bluetooth</sentcont></sentence>
+<sentence><sentcont>works great, I would suggest one to download an upgraded version of Nokia PC Suite (6.83 I believe) because it fixes many known bugs.</sentcont></sentence>
+<sentence><sentcont>Mp3 player is great too, it comes with visualizations, so your friends will go 'WoooooooW'!!!!The battery life is desent for this type of phone with that many features.</sentcont></sentence>
+<sentence><sentcont>Nokia once again upgraded the battery to BL-5F.</sentcont></sentence>
+<sentence><sentcont>It's a litttle bigger, but provides a much longer talking time over the other N-series.</sentcont></sentence>
+<sentence><sentcont>Using the phone all day, playing MP3's for an hour at the gym, with bluetooth turned on all day long, it finally needed charging at night.</sentcont></sentence>
+<sentence><sentcont>Finally, the video camera also doesn't disappoint.</sentcont></sentence>
+<sentence><sentcont>The videos are great, although not DVD-quality like Nokia suggests, they are the best I've ever seen on a cellular phone, much better than on the N93i.One more thing I wanted to mention -- the phone is very well balanced, and feels great in hand.</sentcont></sentence>
+<sentence><sentcont>I love the slider, eventhough it's not an 'assisted one', it still feels much better than over the worst sliding mechanism - N80.</sentcont></sentence>
+<sentence><sentcont>The buttom row of buttons (* 0 #) is very close to the edge, which can make it hard for text messaging.</sentcont></sentence>
+<sentence><sentcont>The number pad, on the other hand, has a great feel to it, so you don't have to look at it all the time while dialing (I txt message a lot, so had to memorize all the letters)).So, for thouse of you, folks, that are still wondering what to do with your $700...</sentcont></sentence>
+<sentence><sentcont>I think N95 is definitely worth considering.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+1111836#13736#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1111836</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>September 26, 2006.</sentcont></sentence>
+<sentence><sentcont>Nokia Open Studio 2006, New York, US - Nokia today introduced the Nokia N95, an all-in-one multimedia computer with a pioneering 2-way slide concept, integrated GPS functionality, a 5 megapixel camera and support for high-speed mobile networks, making it easier to watch and record videos, listen to songs, take high-quality photos, browse the internet, or catch up on email while on the move.</sentcont></sentence>
+<sentence><sentcont>"The Nokia N95 brings a range of multimedia ingredients together, such as a fantastic display, outstanding photo and video capability and high-speed connectivity, making it the ultimate multimedia computer," said Anssi Vanjoki, Executive Vice President, Multimedia, Nokia.</sentcont></sentence>
+<sentence><sentcont>"This single device - which fits easily in your pocket - can replace stand-alone devices that you no longer need, whether it's your music player, your digital camera, PDA or navigation device.</sentcont></sentence>
+<sentence><sentcont>Most importantly, the Nokia N95 is with you and connected when you want to use it."</sentcont></sentence>
+<sentence><sentcont>The innovative 2-way slide concept makes it easy to switch between different modes, going from reading maps to watching a video with a simple slide.</sentcont></sentence>
+<sentence><sentcont>A numeric keypad slides out from one end of the device while dedicated media keys slide out from the opposite direction, converting the display into full screen landscape mode.</sentcont></sentence>
+<sentence><sentcont>With powerful 3D graphics, the Nokia N95 has a stunning user interface that makes it intuitive to find the features and services you want.</sentcont></sentence>
+<sentence><sentcont>With its integrated GPS at your fingertips, finding your way just got easier.</sentcont></sentence>
+<sentence><sentcont>The Maps application includes maps for more than 100 countries, enabling users to explore the world, find specific routes or locate services such as restaurants and hotels and covering more than 15 million points of interest.</sentcont></sentence>
+<sentence><sentcont>You can also purchase additional features, such as city guides and voice guided navigation.</sentcont></sentence>
+<sentence><sentcont>With the Carl Zeiss optics on the 5 megapixel camera, you can capture print quality photos and DVD-like quality video clips.</sentcont></sentence>
+<sentence><sentcont>Photos and video clips can be enjoyed on a compatible television thanks to the device's TV out feature and support for Universal Plug and Play (UPnP) technology.</sentcont></sentence>
+<sentence><sentcont>Designed for High Speed Downlink Packet Access (HSDPA) networks and with support for WLAN, EDGE and WCDMA networks, the Nokia N95 provides excellent coverage and speeds wherever you may be.</sentcont></sentence>
+<sentence><sentcont>In HSDPA networks, browsing the internet, reading email, streaming video and downloading large files can be carried out up to 10 times faster than with 3G.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 also offers a first class entertainment experience with the combination of a large 2.</sentcont></sentence>
+<sentence><sentcont>6" QVGA 16 million color display, impressive 3D graphics, built-in stereo speakers offering a 3D stereo effect, standard 3.</sentcont></sentence>
+<sentence><sentcont>5 mm audio jack, support for compatible microSD cards and mini USB for convenient data transfer.</sentcont></sentence>
+<sentence><sentcont>Browsing the internet on the Nokia N95 is a pleasure using the Nokia Web Browser with Mini Map, with new features such as a floating toolbar, password manager and auto complete, as well as web feeds with support for Atom and auto update.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 is based on the world's leading S60 software on Symbian OS, enabling you to personalize your device from a wide choice of compatible applications that can be downloaded to the Nokia N95, including games, navigation, entertainment, productivity and creativity.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 comes out of the box ready to create, connect, consume and interact with some of the internet's most popular services.</sentcont></sentence>
+<sentence><sentcont>Use Yahoo!</sentcont></sentence>
+<sentence><sentcont>Search to search for and find most anything on the web, scroll though a book with Amazon's MobiPocket Reader or snap a photo and send it directly to your Flickr site.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 is expected to start shipping in volumes during the first quarter of 2007 at an estimated unsubsidized retail price of 550 euros</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+117631#9531#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>117631</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>well PLUSES ON THE FONE 1) good design 2) best features 3) VGA 30 fps video (worse than n93 and N93i) 4) Good display (worse than N80,N73,RIZR Z8,N77) 5) Very attractive looks but looks somewhat cheap.</sentcont></sentence>
+<sentence><sentcont>r when opened 6) 5 MPX good quality cam (cannot compete real digital cameras) 7) Bluetooth and A2DP (A2DP of motorola and SE is far better) 8) WIFI + UPnP technology 9) Symbian OS 10)GPS (HTC, MOTOROLA and ETEN offer far better GPS) 11) TV OUT 12) 3G + EDGE 13) Infrared + USB and pop port 14) Acceptable web browser (inferior than i.</sentcont></sentence>
+<sentence><sentcont>e, MOTO RIZR Z8,ROKR E2,E6,Z6 and SE p990,M600,W950i ) 15) Acceptable size (for such device) 16) HSDPA 17) Good flash (far far inferior than K800i,K790I,K810i).</sentcont></sentence>
+<sentence><sentcont>Minuses 1) 5 mega pixel camera is good but produces high compressional JPEG files which loose their quality in INDOOR shoots 2) Video recording's sound is bad (E900i,n93,n93i give better sound of vide.</sentcont></sentence>
+<sentence><sentcont>s) 3) Display is not strong still QVGA (nokia is left behind in displays from SE,SAMSUNG,MOTOROLA,iMATE and HTC) 4) bLUETOOTH IS A BIT SLOWER THAN OTHER devices of this category (N80,N73,P990I,ROKRs) 5) Noisy A2DP bad linking too 6) N95 is left behind in MUSIC DEPARTMENT.</sentcont></sentence>
+<sentence><sentcont>ITS NOT A GOOD MUSIC DEVICE.</sentcont></sentence>
+<sentence><sentcont>MOTOROLA SAMSUNG and SE  have far far far far far better music features    nokia N91 , 6233,6300, 6288, 3250 are far better than this device.</sentcont></sentence>
+<sentence><sentcont>BAD QUALITY music is delivered from reafones and builtin speaker.</sentcont></sentence>
+<sentence><sentcont>7) GPS is useless as it is not compatible with GPS softwares  8) N95 battery life is extremely low if u r gonna enjoy    45 minutes of music ,45 mins of call ur fone will not even run 24   and if u r gonna make video..... u can record only 30-40 mins of video as battery will be drained out.</sentcont></sentence>
+<sentence><sentcont>(1.5 hours recording by n93i)          Other offering are giving far better battery life.</sentcont></sentence>
+<sentence><sentcont>9) less colour availability  10) SLOWER INTERFERENCE THAN N80,N73,N93  11) Hanging problems  12) Slow startup.</sentcont></sentence>
+<sentence><sentcont>13) bad earfones packed  14) Small keypad  15) radio signal are weaker some times.</sentcont></sentence>
+<sentence><sentcont>but still its the CROWN'S JEWEL.</sentcont></sentence>
+<sentence><sentcont>ONLY DUE TO ITS 5 MEGA PIXEL CAMERA I THINK.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+1111837#13737#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1111837</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>September 26th     Nokia have announced the Nokia N95, featuring an innovative double slide design with multimedia controls and a keypad on opposite end of the phones.</sentcont></sentence>
+<sentence><sentcont>Read on for full details, pictures and the full press release.</sentcont></sentence>
+<sentence><sentcont>Summary: The N95 is Nokia's first HSDPA (3.5G) device, but also boasts Wi-Fi, WCDMA, quad-band GSM, Bluetooth (including A2DP), IrDA and USB 2.0 connectivity (via  mini USB connector).</sentcont></sentence>
+<sentence><sentcont>Other hardware features include a 5 megapixel camera, a built in GPS, TV-Out, 3.5mm audio jack, FM Radio, a MicroSD memory card slot and 150MB of internal memory.</sentcont></sentence>
+<sentence><sentcont>In the hand the most impressive aspect of the device, given its feature set, is its size.</sentcont></sentence>
+<sentence><sentcont>At 99mm x 20mm x 53mm (90cc), the N93 packs an impressively amount into a small space.</sentcont></sentence>
+<sentence><sentcont>Nokia have managed to add two major technologies to the Nseries line (GPS and HSDPA) while significantly reducing the volume of the device.</sentcont></sentence>
+<sentence><sentcont>In length and width dimensions it is larger that the other Nseries slider - the N80, but it is considerably thinner.</sentcont></sentence>
+<sentence><sentcont>HSPDA is the next generationin cellular connectivity.</sentcont></sentence>
+<sentence><sentcont>The N95 is a category 6 HSPDA device which means it is up to 10 times faster that WCDMA (3G).</sentcont></sentence>
+<sentence><sentcont>Clearly HSDPA support is required at a network level, but many networks have already begun their testing or roll out periods.</sentcont></sentence>
+<sentence><sentcont>The faster connection speeds make downloading media (such as podcasts via the in built Podcast application) more palatable and should also improve latency/round trip times.</sentcont></sentence>
+<sentence><sentcont>Wi-Fi, WCDMA (3G) connectivity, together with quad band GSM and EDGE are also supported.</sentcont></sentence>
+<sentence><sentcont>Bluetooth 2.0, IrDA and USB make up the local connectivity options.</sentcont></sentence>
+<sentence><sentcont>The 5.0 megapixel camera uses Carl Zeiss Optics with autofocus and digital zoom with a dedicated 2 stage capture button on the side of the phone.</sentcont></sentence>
+<sentence><sentcont>Video capture at near DVD quality is also supported.</sentcont></sentence>
+<sentence><sentcont>On the side of the device there are several buttons dedicated to camera usage.</sentcont></sentence>
+<sentence><sentcont>This allows the device to be held in a similar way to a traditional camera with the screen, in landscape mode, used as the view finder and the shutter button on bottom right hand side of the device (top right when phone is held horizontally).</sentcont></sentence>
+<sentence><sentcont>On the rear of the device, next to the camera is the slide switch, which is used to open the lens aperture and activate camera mode.</sentcont></sentence>
+<sentence><sentcont>Although it is difficult to judge the image quality at this stage the evidence we saw suggest that the N95 will be on of the most capable camera phones available.</sentcont></sentence>
+<sentence><sentcont>Nokia N95 - [updated, official]  Published by Rafe Blandford at 14:20 BST, September 26th     Nokia have announced the Nokia N95, featuring an innovative double slide design with multimedia controls and a keypad on opposite end of the phones.</sentcont></sentence>
+<sentence><sentcont>Read on for full details, pictures and the full press release.</sentcont></sentence>
+<sentence><sentcont>Summary: The N95 is Nokia's first HSDPA (3.5G) device, but also boasts Wi-Fi, WCDMA, quad-band GSM, Bluetooth (including A2DP), IrDA and USB 2.0 connectivity (via  mini USB connector).</sentcont></sentence>
+<sentence><sentcont>Other hardware features include a 5 megapixel camera, a built in GPS, TV-Out, 3.5mm audio jack, FM Radio, a MicroSD memory card slot and 150MB of internal memory.</sentcont></sentence>
+<sentence><sentcont>In the hand the most impressive aspect of the device, given its feature set, is its size.</sentcont></sentence>
+<sentence><sentcont>At 99mm x 20mm x 53mm (90cc), the N93 packs an impressively amount into a small space.</sentcont></sentence>
+<sentence><sentcont>Nokia have managed to add two major technologies to the Nseries line (GPS and HSDPA) while significantly reducing the volume of the device.</sentcont></sentence>
+<sentence><sentcont>In length and width dimensions it is larger that the other Nseries slider - the N80, but it is considerably thinner.</sentcont></sentence>
+<sentence><sentcont>HSPDA is the next generationin cellular connectivity.</sentcont></sentence>
+<sentence><sentcont>The N95 is a category 6 HSPDA device which means it is up to 10 times faster that WCDMA (3G).</sentcont></sentence>
+<sentence><sentcont>Clearly HSDPA support is required at a network level, but many networks have already begun their testing or roll out periods.</sentcont></sentence>
+<sentence><sentcont>The faster connection speeds make downloading media (such as podcasts via the in built Podcast application) more palatable and should also improve latency/round trip times.</sentcont></sentence>
+<sentence><sentcont>Wi-Fi, WCDMA (3G) connectivity, together with quad band GSM and EDGE are also supported.</sentcont></sentence>
+<sentence><sentcont>Bluetooth 2.0, IrDA and USB make up the local connectivity options.</sentcont></sentence>
+<sentence><sentcont>The 5.0 megapixel camera uses Carl Zeiss Optics with autofocus and digital zoom with a dedicated 2 stage capture button on the side of the phone.</sentcont></sentence>
+<sentence><sentcont>Video capture at near DVD quality is also supported.</sentcont></sentence>
+<sentence><sentcont>On the side of the device there are several buttons dedicated to camera usage.</sentcont></sentence>
+<sentence><sentcont>This allows the device to be held in a similar way to a traditional camera with the screen, in landscape mode, used as the view finder and the shutter button on bottom right hand side of the device (top right when phone is held horizontally).</sentcont></sentence>
+<sentence><sentcont>On the rear of the device, next to the camera is the slide switch, which is used to open the lens aperture and activate camera mode.</sentcont></sentence>
+<sentence><sentcont>Although it is difficult to judge the image quality at this stage the evidence we saw suggest that the N95 will be on of the most capable camera phones available.</sentcont></sentence>
+<sentence><sentcont>A GPS is integrated into the device with anticipated accuracy of around 10m (satellite signal permitting).</sentcont></sentence>
+<sentence><sentcont>The devices will ship with an application called Maps which has global overview maps built in.</sentcont></sentence>
+<sentence><sentcont>More detailed maps (with coverage over more than 100 different countries available) can be downloaded for free from an online server.</sentcont></sentence>
+<sentence><sentcont>The detail available varies from country to country, but in many cases it is available down to street level.</sentcont></sentence>
+<sentence><sentcont>A point of interest (POI) database is also included.</sentcont></sentence>
+<sentence><sentcont>All the maps are available for free, as is basic route planning, but navigation functionality (with voice and on screen prompts) will be available as a pay-for add on.</sentcont></sentence>
+<sentence><sentcont>City Guides will also be available for purchase and other services are likely to be made available in the future.</sentcont></sentence>
+<sentence><sentcont>The mapping software and services is likely to based on technology from gate5, a company which Nokia recently announced it was acquiring.</sentcont></sentence>
+<sentence><sentcont>Music playback is also a major focus of the device.</sentcont></sentence>
+<sentence><sentcont>The dedicated multimedia keys on the top flip of the device are primarily designed for music playback (although can also be used in other multimedia contexts).</sentcont></sentence>
+<sentence><sentcont>Wireless stereo sound output (via the A2DP Bluetooth profile) is also supported, and stereo audio output is also supported by the TV output feature and the on board stereo speakers.</sentcont></sentence>
+<sentence><sentcont>The music formats supported include MP3, AAC, AAC+ and WMA.</sentcont></sentence>
+<sentence><sentcont>Video playback on the QVGA screen is excellent and supported video formats include 3GP, Real Video and MP4 with support for the latest AVC codec.</sentcont></sentence>
+<sentence><sentcont>The multimedia key now leads to a revamped application and multimedia shorcut view which now supports both a greater number of shortcuts (applications, multimedia files and bookmarks) and more flexible personalisation.</sentcont></sentence>
+<sentence><sentcont>As a result it  is now a more generic shortcut key mechansim and offers an alternative to the standard application launcher.</sentcont></sentence>
+<sentence><sentcont>The N95 uses S60 3rd Edition Feature Pack 1 (Symbian 9.2) and as such includes version 2.0 of the open source Nokia web browser (supporting WML, XHTML and HTML in one browser), Flash Lite 2.0, FOTA (firmware over the air updates) and more.</sentcont></sentence>
+<sentence><sentcont>The N95 uses the same small power port as other S60 3rd Edition devices, but the in-box charger is considerably smaller than the existing models (up to 60% smaller).</sentcont></sentence>
+<sentence><sentcont>The N95 has a 950 mAh battery, it is likely that the N95 will require a daily charge with moderate to heavy use, although 3-6 days may be possible with lighter use (dependent on network strength, type and other factors).</sentcont></sentence>
+<sentence><sentcont>The N95 will be available in Q1 2007 and the approximate unsubsidised price is ?550. Initially it will be available in the EMEA market.</sentcont></sentence>
+<sentence><sentcont>It will not be officially available in the US although gray imports are very likely.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+1110088#11988#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1110088</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>- screen provides good vivid colors and brightness control by sensor is good (16 million colour).</sentcont></sentence>
+<sentence><sentcont>- Battery life is quite acceptable at least 2 days (if not using Wi-Fi) still can improved somemore - 5 Megapixel Carl Zeiss Tessar autofocus camera with LED flash had improved over the last few models.</sentcont></sentence>
+<sentence><sentcont>- N95 is powered by the fastest processor called ARM11 OMAP2420 running at 330 MHz.</sentcont></sentence>
+<sentence><sentcont>The processor is the same used in the Nokia N93/N93i.</sentcont></sentence>
+<sentence><sentcont>- Build in 160 MB internal phone memory and 1GB microSD cards.</sentcont></sentence>
+<sentence><sentcont>- N95 built-in GPS receiver is quite sensitive and after obtaining coordinates, it'll keeps working under normal SG roads.</sentcont></sentence>
+<sentence><sentcont>The only area which lost the signal is the CTE underground tunnel.</sentcont></sentence>
+<sentence><sentcont>- GPS used Smart2Go software, maps are free for downloading   - Navigation and voice guides services need to be purchased (optional).</sentcont></sentence>
+<sentence><sentcont>- Nokia N95 is a quadband GSM (850/900/1800/1900 MHz) and WCDMA 2100 MHz phone(3.5G).</sentcont></sentence>
+<sentence><sentcont>- Fast USB 2.0 Full Speed (12 Mbit/s) via Mini USB   - N95 is a Symbian OS 9.2 S60 3.1 (3rd Edition Feature Pack 1) phone.</sentcont></sentence>
+<sentence><sentcont>- Good news is that N95 is compatible with most of the existing S60 3rd Edition software.</sentcont></sentence>
+<sentence><sentcont>- N95's screen supports landscape mode and portrait mode.</sentcont></sentence>
+<sentence><sentcont>- When sliding the keypad back in place, it will auto keylock after about 1.5 secs.</sentcont></sentence>
+<sentence><sentcont>- For Web browsing, it's faster and less memory hungry.</sentcont></sentence>
+<sentence><sentcont>Had not experienced any errors while surfing.</sentcont></sentence>
+<sentence><sentcont>If not wrong, this is a new Nokia Web Browser version 2.0.</sentcont></sentence>
+<sentence><sentcont>- Music Player with equalizer supporting MP3/AAC/AAC+/eAAC+/WMA/M4A.   - Playback of videos is smooth and movies look great due to the huge screen.</sentcont></sentence>
+<sentence><sentcont>- Video formats are MPEG-4, H.264/AVC, H.263/3GPP.</sentcont></sentence>
+<sentence><sentcont>Also believed it support Real Video.</sentcont></sentence>
+<sentence><sentcont>Conclusions:   This is definitely a good multimedia phone and performance is fast!</sentcont></sentence>
+<sentence><sentcont>The speed is even faster than other previous model phone.</sentcont></sentence>
+<sentence><sentcont>The screen is good, powerful processor with 2D/3D graphics and video acceleration.</sentcont></sentence>
+<sentence><sentcont>Connectivity and data transmission options including HSDPA, WLAN b/g, UPnP, USB 2.0 and Bluetooth 2.0.</sentcont></sentence>
+<sentence><sentcont>Able to record video clips of DVD quality, good MP3 player (with Sony earpiece).</sentcont></sentence>
+<sentence><sentcont>Audio and video playback capabilities via TV out connector.</sentcont></sentence>
+<sentence><sentcont>Built-in GPS receiver and good mapping software</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+1112892#14792#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>1112892</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I have been using Nokia all my life.</sentcont></sentence>
+<sentence><sentcont>Now I want out!</sentcont></sentence>
+<sentence><sentcont>Bloody slow software, this Symbian.</sentcont></sentence>
+<sentence><sentcont>Most UNRELIABLE.</sentcont></sentence>
+<sentence><sentcont>Hangs every time u leave a few applications open.</sentcont></sentence>
+<sentence><sentcont>BUTTTT.... the N95 and N80 look soooo tempting.</sentcont></sentence>
+<sentence><sentcont>Any good reasons why I should stick to Nokia?</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+2557163#132#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Cnet</websource>
+<reviewid>2557163</reviewid>
+<reviewtitle>Amazing piece of finnish tech</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Customization; Coolness factor; iPhone eater </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Bulky; Feels slow at moments; </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I was looking for an iPhone killer, you know what they say: "Another day, another iPhone killer"; and during my search I found the N95; Nokia knows the cell phone bussiness as no one else and they've always made reliable phones with great signal reception rates usually out performing the likes of Motorola, SE and any other.</sentcont></sentence>
+<sentence><sentcont>When you are not using it as a cell phone, this gadget does everything else.</sentcont></sentence>
+<sentence><sentcont>GPS, Camera, Video camera, Music player, portable console, Internet tablet (using Opera Mini on it is an absolute plus) and a large ETC.And when you think that is it, that you got a phone with everything already bundled, you search the web for software and you'll get a blast, hundreds of utilities and applications, games and non-senses everywhere.</sentcont></sentence>
+<sentence><sentcont>Absolutely amazing, the Symbian platform is superb, that is the main factor why this cell phone is better than the All-Mighty iPhone (which is already impressive) try one and you'll love it, own one and you'll forget any other gadget around.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+2437538#3#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Cnet</websource>
+<reviewid>2437538</reviewid>
+<reviewtitle>One phone to suit all your needs</reviewtitle>
+<rating>0.7</rating>
+<pro><sentence>
+<sentcont> Great connectivity and wide range of software change the way you use the internet</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Low Battery Life, Easily heated up during long calls or VoIP calls, Music player errors, GPS cant connect, 2-way slider</sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I eagerly awaited the launch of this phone and got it on the first day of launch.</sentcont></sentence>
+<sentence><sentcont>It was great in terms of design.</sentcont></sentence>
+<sentence><sentcont>Although in many ways it looks like a brick, compared to the N80, the N95 is slimmer and lighter and packs more features.The</sentcont></sentence>
+<sentence><sentcont>best part was the wifi connectivity it offered.</sentcont></sentence>
+<sentence><sentcont>Although in terms of battery life, you may not be able to sustain the handphone while surfing wirelessly all day, it did change the way i used the internet.</sentcont></sentence>
+<sentence><sentcont>Booking tickets online was a breeze (i could just connect in a hotspot at starbucks).</sentcont></sentence>
+<sentence><sentcont>I could still be on MSN while away from my computer.</sentcont></sentence>
+<sentence><sentcont>I used the VoIP whenever i could find a hotspot, thus saving on hefty phone bills through free calls.</sentcont></sentence>
+<sentence><sentcont>There were many.</sentcont></sentence>
+<sentence><sentcont>Surely the E65 would have offered me the same wifi advantages plus a longer battery life, but this was running on Symbian OS 9.2 and had a larger and clearer display.The</sentcont></sentence>
+<sentence><sentcont>2-way slider was great when it came to viewing videos.</sentcont></sentence>
+<sentence><sentcont>Having such a large screen and speakers that could go real loud, it was almost an ipod video by itself.</sentcont></sentence>
+<sentence><sentcont>I rarely used the music player buttons however and the only reason i found myself sliding the other way often is to rotate the display view.The 5 megapixel camera is a godsend.</sentcont></sentence>
+<sentence><sentcont>Although i could not really take clear pictures compared to a normal 7megapix camera, it was great for a camera phone.</sentcont></sentence>
+<sentence><sentcont>The bigger deal was the video.</sentcont></sentence>
+<sentence><sentcont>Videos have never been this clear on a camera phone before.I didn't try using the visual radio service as i wanted to avoid any GPRS charges so as to keep my bill as low as possible.</sentcont></sentence>
+<sentence><sentcont>So far my bill dropped by about 30% with VoIP calls and wifi surfing instead of GPRS.Here comes the sad news - This phone can be equally as bad.I used it almost as i would use PC.</sentcont></sentence>
+<sentence><sentcont>Although i cannot view videos on youtube, i was able to download some and view on the realplayer.</sentcont></sentence>
+<sentence><sentcont>While i was at it, once i stumbled upon some 50mb video.</sentcont></sentence>
+<sentence><sentcont>Halfway through the download i was worried if the phone could support such a large file and cancelled the download.</sentcont></sentence>
+<sentence><sentcont>My web became inaccessible.</sentcont></sentence>
+<sentence><sentcont>Everytime i clicked on web, it would auto-close application.</sentcont></sentence>
+<sentence><sentcont>Even after a few restarts the phone was still the same.</sentcont></sentence>
+<sentence><sentcont>I then had to install a browser software to clear the cache (the root of the problem).Another</sentcont></sentence>
+<sentence><sentcont>major problem is that the N95 auto-closes applications when they are not in use for a small period of time.</sentcont></sentence>
+<sentence><sentcont>Supposing you were in the middle of a game and had to attend a 2 minute call.</sentcont></sentence>
+<sentence><sentcont>Once you're done, your game has already been closed.I also had some embarrassing moments with the Music player.</sentcont></sentence>
+<sentence><sentcont>I'm happy that it came with the headphone jack.</sentcont></sentence>
+<sentence><sentcont>However, when i accidentally loosened the connection between the jack and the phone, the music player automatically switched to speakers and started blasting my music in public.Another</sentcont></sentence>
+<sentence><sentcont>problem was that when using the provided earphones with the music control, the music is momentarily played on the speaker for a second or two when you're switching tracks while playing the music.</sentcont></sentence>
+<sentence><sentcont>Yet another embarrassing moment.The 2 way slider is another big problem.</sentcont></sentence>
+<sentence><sentcont>So much for advertising "What's in your pocket?" when the phone is so pocket unfriendly.</sentcont></sentence>
+<sentence><sentcont>Imagine this, when the phone is put inside the jeans pocket, it tends to slide upwards to reveal the keypad since the slider is that smooth.</sentcont></sentence>
+<sentence><sentcont>It slides the other way when it is removed from the pocket.</sentcont></sentence>
+<sentence><sentcont>So usually when i take it out, the display is in landscape mode and that makes me look unprofessional sliding my phone all the time.My 1.5 month old N95 recently went for repairs after the display light died.</sentcont></sentence>
+<sentence><sentcont>The phone was still perfectly working.</sentcont></sentence>
+<sentence><sentcont>Just the display backlight.</sentcont></sentence>
+<sentence><sentcont>It was a slow death from the heavy usage from someone like me.</sentcont></sentence>
+<sentence><sentcont>Thankfully there's a firmware upgrade for this phone and i hope it will solve some of the many problems for the N95.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+1111863#13763#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>1111863</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Published: September 30, 2006    Nokia is really starting to up the ante in the race to build the perfect multimedia phone, or "multimedia computer", as the company likes to call them.</sentcont></sentence>
+<sentence><sentcont>Their new N95, officially launched today at the Nokia Open Studio event in New York has a spec sheet that should make even the most die-hard pessimists drool a wee bit.</sentcont></sentence>
+<sentence><sentcont>The device looks much like the N80 slider that is currently on the market, but hidden inside that somewhat blocky shape is a 5 megapixel auto-focus camera, a GPS receiver, and HSDPA 3G and WiFi 802.11b/g data support - to name but a few of the highlights.</sentcont></sentence>
+<sentence><sentcont>One noteable physical difference between the N95 and the N80 that it looks so much like is the N95's dual-direction slider mechanism, which exposes an extra row of hardware buttons for controlling multimedia playback.</sentcont></sentence>
+<sentence><sentcont>The new auto-focus, 5 megapixel camera unit, Nokia's first, makes use of Carl Zeiss optics, just like the N93 and N90 do.</sentcont></sentence>
+<sentence><sentcont>Images and videos can be uploaded to a number of different photo gallery and blogging systems.</sentcont></sentence>
+<sentence><sentcont>Videos can be recorded at VGA resolution at 30fps, and can be recorded with digital image stabilization.</sentcont></sentence>
+<sentence><sentcont>A TV out function on the N95 let users enjoy their works of art on a larger screen, too.</sentcont></sentence>
+<sentence><sentcont>The N95 also supports MP3, AAC, M4A, and WMA music playback through its built-in stereo speakers or headphones attached to its 3.5mm headset jack.</sentcont></sentence>
+<sentence><sentcont>An FM radio is also included in the N95.</sentcont></sentence>
+<sentence><sentcont>Another new trick for Nokia is the built-in GPS capabilities found in the N95.</sentcont></sentence>
+<sentence><sentcont>The N95 comes pre-loaded with a mapping application that covers over 100 countries worldwide.</sentcont></sentence>
+<sentence><sentcont>Viewing the maps should be a pleasant experience thanks to the large 2.6" QVGA (240x320) display that can show 16 million different color shades.</sentcont></sentence>
+<sentence><sentcont>Perhaps most amazing, considering all of the new capabilities, is the fact that the N95 is a few millimeters thinner than the N80, and weighs 15g less - coming in at 120g total.</sentcont></sentence>
+<sentence><sentcont>All of this multimedia power should be available to consumers in Q1 of 2007 at a price of around 550EUR before taxes and network subsidies.</sentcont></sentence>
+<sentence><sentcont>Nokia USA says that the N95 will not be released in the United States, but that they will offer "something similar" with the same technologies in 2007 for the North American market.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+1111958#13858#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>1111958</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Nokia is really starting to up the ante in the race to build the perfect multimedia phone, or "multimedia computer", as the company likes to call them.</sentcont></sentence>
+<sentence><sentcont>Their new N95, officially launched today at the Nokia Open Studio event in New York has a spec sheet that should make even the most die-hard pessimists drool a wee bit.</sentcont></sentence>
+<sentence><sentcont>The device looks much like the N80 slider that is currently on the market, but hidden inside that somewhat blocky shape is a 5 megapixel auto-focus camera, a GPS receiver, and HSDPA 3G and WiFi 802.11b/g data support - to name but a few of the highlights.</sentcont></sentence>
+<sentence><sentcont>One noteable physical difference between the N95 and the N80 that it looks so much like is the N95's dual-direction slider mechanism, which exposes an extra row of hardware buttons for controlling multimedia playback.</sentcont></sentence>
+<sentence><sentcont>The new auto-focus, 5 megapixel camera unit, Nokia's first, makes use of Carl Zeiss optics, just like the N93 and N90 do.</sentcont></sentence>
+<sentence><sentcont>Images and videos can be uploaded to a number of different photo gallery and blogging systems.</sentcont></sentence>
+<sentence><sentcont>Videos can be recorded at VGA resolution at 30fps, and can be recorded with digital image stabilization.</sentcont></sentence>
+<sentence><sentcont>A TV out function on the N95 let users enjoy their works of art on a larger screen, too.</sentcont></sentence>
+<sentence><sentcont>The N95 also supports MP3, AAC, M4A, and WMA music playback through its built-in stereo speakers or headphones attached to its 3.5mm headset jack.</sentcont></sentence>
+<sentence><sentcont>An FM radio is also included in the N95.</sentcont></sentence>
+<sentence><sentcont>Another new trick for Nokia is the built-in GPS capabilities found in the N95.</sentcont></sentence>
+<sentence><sentcont>The N95 comes pre-loaded with a mapping application that covers over 100 countries worldwide.</sentcont></sentence>
+<sentence><sentcont>Viewing the maps should be a pleasant experience thanks to the large 2.6" QVGA (240x320) display that can show 16 million different color shades.</sentcont></sentence>
+<sentence><sentcont>Perhaps most amazing, considering all of the new capabilities, is the fact that the N95 is a few millimeters thinner than the N80, and weighs 15g less - coming in at 120g total.</sentcont></sentence>
+<sentence><sentcont>All of this multimedia power should be available to consumers in Q1 of 2007 at a price of around 550EUR before taxes and network subsidies.</sentcont></sentence>
+<sentence><sentcont>Nokia USA says that the N95 will not be released in the United States, but that they will offer "something similar" with the same technologies in 2007 for the North American market.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+1113615#15515#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1113615</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>(Oputs Australia Reseller)  I have a couple of quick quiestions about the N95 and hope to get some answers before it hits Asutralian shores.</sentcont></sentence>
+<sentence><sentcont>1.</sentcont></sentence>
+<sentence><sentcont>In a few movies of the N95 ive seen on YouTube i notice there is a cord hanging out of the phone is this a security string or is it a usb cable inside the phone (that would be very handy).</sentcont></sentence>
+<sentence><sentcont>2.</sentcont></sentence>
+<sentence><sentcont>In Australia on the optus network we have a thing called FindA which allows me to find other people that have FindA and see where they are, I was wondering with the nokia N95 is it possible to link up with someone on GPS and find out where they are, Once again i saw this displayed on YouTube.</sentcont></sentence>
+<sentence><sentcont>3.</sentcont></sentence>
+<sentence><sentcont>Is this the same software as the nokia N73 (by that i mean Symbian 3rd Edition) if so where is a good place to purchase or download good software, Also do you think this version will be backwardsa compatible with older Symbian software.</sentcont></sentence>
+<sentence><sentcont>Thats all i have to ask but here are some things i need to say to the people on this forum.</sentcont></sentence>
+<sentence><sentcont>1.</sentcont></sentence>
+<sentence><sentcont>Yes the N series is the multimedia/PC phones of the future but lets think about it i think if you need touchscreen to complain about the N95 just go get a PDA, If you dont like the battery life dont buy the phone.</sentcont></sentence>
+<sentence><sentcont>You have to remember Nokia Techs dont just go lets throw this battery into the phone they have to do major research to see which batery will last the longest and which one works best for the phone.</sentcont></sentence>
+<sentence><sentcont>All you fan boys of sony ericsson better relise that my shop has most of the SE i sell returned due to faults and since then ive stoped selling SE in no way am i saying Nokia is better i just think SE.</sentcont></sentence>
+<sentence><sentcont>should stick to other things (Remebering Sony makes alot of stuff and Nokia only makes well Phones so who do you think has the bigger budget and better researchers) The only reason people love the SE camera phones is because Sony makes cameras so its natural for them to combine them and bring out a wicked camera phone but guess what the rest of the phone is terrible and not worth buying.</sentcont></sentence>
+<sentence><sentcont>So in the end if anyone wants a good price or plan just email me at aaronandlarissa@gmail.com.</sentcont></sentence>
+<sentence><sentcont>Peace</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+2407992#1#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Cnet</websource>
+<reviewid>2407992</reviewid>
+<reviewtitle>1st Class Phone</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Great all-round device that does everything </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Slight delays when using some functionality </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>Having read the editor's review you'd end up thinking that the phone didn't look that good, have great build quality or respond well, and possibly also that it wasn't the best thing since sliced bread.</sentcont></sentence>
+<sentence><sentcont>The truth is that this is one of the best looking and feeling handsets out there.</sentcont></sentence>
+<sentence><sentcont>The build quality is very solid and it's snappy for all the key phone functions.Having</sentcont></sentence>
+<sentence><sentcont>used every kind of handset ranging from the Palm based Treo to a multitude of Windows and Series 60 phones over the recent years they've all fallen well short of being an ideal phone.</sentcont></sentence>
+<sentence><sentcont>This is the first one which genuinely starts to deliver the goods.The</sentcont></sentence>
+<sentence><sentcont>overall feel of using the N95 is that it is simply phenomenal and without doubt is a milestone in mobile phone development.</sentcont></sentence>
+<sentence><sentcont>I'm fortunate to be based in London and get to benefit from all the 3G goodness and speed, and have to say that the browsing, navigation (GPS) and multimedia goodies such as playing the games on my wide screen television make this handset an unbelievably useful and fun device.Other</sentcont></sentence>
+<sentence><sentcont>great features are the performance for syncing, it used to take ages to sync a Nokia phone, but this one syncs faster than you realise, so much so, that I've set it to auto sync via Bluetooth whenever it's near my laptop.The 3G connectivity means that surfing and emailing through the PC or N800 are now a joy on the move as well as in the office.The</sentcont></sentence>
+<sentence><sentcont>other thing to note is that the connectivity in general and especially the Wifi works extremely well.</sentcont></sentence>
+<sentence><sentcont>The phone seems to instantly detect wireless networks, at least three or four times faster than Windows and allows easy switching between the wifi and 3G connections allowing you to save on your bandwidth bill.What is clear though is that some of the functionality is in effect 'back-up' to dedicated devices.</sentcont></sentence>
+<sentence><sentcont>I'd always prefer to take photos with a dedicated digital camera although the camera works very well in good light (although it is slow).</sentcont></sentence>
+<sentence><sentcont>The GPS (Maps) application is great and the ability to drill down into street level in villages in Hungary (where my wife is from and currently visiting) is something I've never found before in a GPS device.</sentcont></sentence>
+<sentence><sentcont>I would still use my Nuvi though to navigate around most of Europe since it does a great job and has a bigger screen.This is also the first Nokia which is 'standard' in that it has standard headphone jack and USB connectors.</sentcont></sentence>
+<sentence><sentcont>It means it actually starts to feel like a tiny computer rather than simply a phone.</sentcont></sentence>
+<sentence><sentcont>If you compare the performance of this device with PCs it comes on top in all kinds of scenarios.</sentcont></sentence>
+<sentence><sentcont>The multi-tasking nature of the N95 is also great.</sentcont></sentence>
+<sentence><sentcont>It allows you to flick through songs using the dedicated keys, whilst reading a travel guide and plotting your route to the next destination, all to be gently interrupted by an incoming call with a 3D ringtone which zooms from one side to the other.Having looked at some of the reviews and my own experience, and compared them with the editor's review it's clear that the editor has got this one seriously wrong.</sentcont></sentence>
+<sentence><sentcont>I can appreciate that there's a couple of disadvantages in using the handset in the US but even then the general performance should simply blow you away.There's no device that comes close to this phone as an all-round handy device which really works.</sentcont></sentence>
+<sentence><sentcont>It certainly means I'll be carrying a lot fewer devices on a day-to-day basis</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+2430265#21#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Cnet</websource>
+<reviewid>2430265</reviewid>
+<reviewtitle>switched over from SE to Nokia and LOVING IT!</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> WIFI, Camera, Video, Music player, stereo speakers, GPS this phone has it all</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> EXPENSIVE, Slider could be better (tighter) </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I switched over from SE phones to N95 and at first I did not like it.</sentcont></sentence>
+<sentence><sentcont>It felt like I was lost and never used a mobile phone before.</sentcont></sentence>
+<sentence><sentcont>Also camera was very slow.after a couple days of playing arouund with N95 I was in love!Everything was great except the lag on the camera.</sentcont></sentence>
+<sentence><sentcont>Push a button and it would take 3 seconds to actually take the picture.</sentcont></sentence>
+<sentence><sentcont>So i had numerous pics of my daughter looking the other way.I updated the firmware through Nokia and now the camera is very quick like it should have been from the beginning.GPS is great!</sentcont></sentence>
+<sentence><sentcont>I suggest paying extra for Turn by Turn Nav.</sentcont></sentence>
+<sentence><sentcont>It works great!WIFI is also awesome.</sentcont></sentence>
+<sentence><sentcont>I can surf the internet from my couch, no need for the laptop.I still love SE phones but I'm really loving this Nokia N95!</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+1111835#13735#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1111835</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>27 September 2006 - Launching around the globe on the same day, Nokia has opted for one big hit rather than pacing the launch of its latest products over several weeks or months.</sentcont></sentence>
+<sentence><sentcont>Pocket-lint managed to get a brief first look at its "Hero" phone, the Nokia N95 expected to be available in February 2007 at the UK launch event in Soho, London.</sentcont></sentence>
+<sentence><sentcont>While even the Nokia spokesman keen to show us the phone professed that he had seen it for as long as we had, our initial first impressions are very good.</sentcont></sentence>
+<sentence><sentcont>Quoting Simon Ainslie the new Managing Director of Nokia, who recently joined from operator T-Mobile "There isn't much that it doesn't do" and when you look at the phone's features we, like Nokia, are hard pressed to see what's missing; 5 megapixel camera, 3G, wireless connectivity, dedicated music buttons, HDSPA, even GPS and bar missing a QWERTY keyboard you're pretty much there.</sentcont></sentence>
+<sentence><sentcont>Nokia has even gone as far as using the slogan ?It?s what computers have become".</sentcont></sentence>
+<sentence><sentcont>Wanting to be more than just another phone, the device comes with a dedicated maps application that includes maps for more than 100 countries and covers more than 15 million points of interest on a separate CD that you load into the phone depending on what you need and where you are.</sentcont></sentence>
+<sentence><sentcont>In our brief encounter we weren't able to see the GPS element in action.</sentcont></sentence>
+<sentence><sentcont>The more conventional, but far from ordinary, is the announcement that the phone packs in a 5 megapixel camera boasting a Carl Zeiss lens, but no zoom.</sentcont></sentence>
+<sentence><sentcont>Nokia isn't the first to announce a hike in megapixel count, LG and Samsung are already all over that one, but it's good to see that Nokia isn't prepared to be left behind.</sentcont></sentence>
+<sentence><sentcont>Unfortunately we weren't able to take any images away with us to see the quality, but the interface looked similar to other Nokia camera handsets and the 2.6-inch QVGA 16 million colour display screen certainly gives you a camera feel.</sentcont></sentence>
+<sentence><sentcont>Luckily Nokia seems to have resisted the urge to put a rather large lens cover a la the K800i from Sony Ericsson instead opting for a robust, but thin lens cover which does the job just as well.</sentcont></sentence>
+<sentence><sentcont>Other features include HSDPA, or 3.5G, the N95 also supports WLAN, EDGE, and WCDMA networks, 3D graphics, built-in stereo speakers, a 3.5mm audio jack, a microSD card slot, and mini USB socket.</sentcont></sentence>
+<sentence><sentcont>So it must be a brick, like the N93 - "the size of a house" one Journalist next to us asked - well actually it's rather small, slightly bigger than the N71 but still very compact and bijou.</sentcont></sentence>
+<sentence><sentcont>Bored with the clamshell, candy bar or regular slider, the N95 enlists a triple slide function - up for the numerical keypad, down for the dedicated music keys, which are, in the model we looked at, slightly hidden and rubbery to touch.</sentcont></sentence>
+<sentence><sentcont>The main keypad itself is, thankfully, rather staid and boring and Nokia has resisted the temptation as with previous models to make you jump through a series of hoops to simply dial a number.</sentcont></sentence>
+<sentence><sentcont>The front of the slider, aside from the large screen that dominates the design features call, hang up and select buttons as well as the menu button with its strange icon (now in its third year) and a multimedia button that zooms you to the multimedia features.</sentcont></sentence>
+<sentence><sentcont>Nokia users will also be pleased to hear that the interface looks identical to current models and the Finnish company hasn't chosen this moment in time to do anything too drastic here either.</sentcont></sentence>
+<sentence><sentcont>VERDICT  The form factor hasn't changed much over previous models (apart from the extra sliding function), however what has changed is Nokia's emphasis and embracement of every technology that you can manage to fit into a small device.</sentcont></sentence>
+<sentence><sentcont>In the past, when phone manufacturers have mentioned convergence, it's normally that they've managed to get an camera or MP3 player into there phone and boosted the memory a bit.</sentcont></sentence>
+<sentence><sentcont>Here Nokia has managed to not only cram that camera (all 5 megapixels) and MP3 player (with new accompanying music service) in to the phone, but it's gone one step further and added a plethora of connectivity features and GPS to boot making this a multimedia fan's ultimate fantasy.</sentcont></sentence>
+<sentence><sentcont>What's even more impressive is, that unlike the N73, which looks like a Sony Ericsson Walkman rip off, or the N93, which with its built-in camcorder is bigger than you would perhaps want, the final design is small compact.</sentcont></sentence>
+<sentence><sentcont>Will this replace all Sony Ericsson's handsets (the K800i, the M600i and the W810i) in one foul swoop?</sentcont></sentence>
+<sentence><sentcont>Time will tell come launch day, however based on our initial brief encounter, if the features perform under closer scrutiny, then Nokia might finally see themselves back on top once again.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+117774#9674#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>117774</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>i had just bought this n95 2 days ago after i compare it with n76 before deciding which to buy.</sentcont></sentence>
+<sentence><sentcont>well , after reading so much of comments which , i should say i never thought i will end up with this n95 , with so much of lag despite its so call fast processor inside but compared to other N series , n95 is indeed faster.</sentcont></sentence>
+<sentence><sentcont>here are a few disappointments.</sentcont></sentence>
+<sentence><sentcont>the shortcut media button on the frontbesides the direction pad does not work sometimes & its actually supported by sliding the phone down revealing the play & forward buttons , i meant by sliding it down also shows the shorcuts created.</sentcont></sentence>
+<sentence><sentcont>then by sending all sms , mms to memory card will definitely slow the process of creating & opening sms , so i decide to have them directly into phone .</sentcont></sentence>
+<sentence><sentcont>and total disappointment on the camrera .</sentcont></sentence>
+<sentence><sentcont>i never had trusted any camera from nokia producing good quality photo shots even with carl zeiss lens supported .</sentcont></sentence>
+<sentence><sentcont>super slow start up , super slow save when shuter is pressed & whats with the zooming system when the lens cannot even focus good on anything ... gps & wifi works average for me , though connection not so stable yet .</sentcont></sentence>
+<sentence><sentcont>otherwise , overall , thanks to symbian OS !</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+2430784#5#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Cnet</websource>
+<reviewid>2430784</reviewid>
+<reviewtitle>All your dreams...in the palm of your hand</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> WiFi, GPS, Bluetooth 2.0+EDR, Symbian OS based, Map application, large screen, dual slider, intuitive user interface, 5MP camera </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Battery life poor, but it is fine w/ a nightly recharge, not made of anodized aluminum </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>This phone does everything imaginable.</sentcont></sentence>
+<sentence><sentcont>It's pretty much a full computer in your pocket.Camera:5MP is phenomenal for a cell phone.</sentcont></sentence>
+<sentence><sentcont>It also has many advanced functions such as aperture settings, exposure compensation, white balance, self timer, and red-eye flash settings.</sentcont></sentence>
+<sentence><sentcont>On top of that, the video camera is very very good but not DVD quality as Nokia says.</sentcont></sentence>
+<sentence><sentcont>It even has image stabilization built in.</sentcont></sentence>
+<sentence><sentcont>In other reviews, you may have read that the "camera was slow" or something along those lines.</sentcont></sentence>
+<sentence><sentcont>The truth is that the shutter itself is not slow, but the response time between pushing the button and the clicking of the shutter is long.GPS: Really useful and neat feature to have.</sentcont></sentence>
+<sentence><sentcont>Be sure to clear all maps first using the PC map loader (if it was not bought in the US--mine was an Asian model) Then load your US maps into the memory card.</sentcont></sentence>
+<sentence><sentcont>The map goes down to street level and is fairly up-to-date.</sentcont></sentence>
+<sentence><sentcont>The accuracy of the GPS is around 150 feet.</sentcont></sentence>
+<sentence><sentcont>It even indicates altitude and speed of your vehicle.Video/Music Playback:The media centre of this phone has some impressive animation, and plays videos and songs in stereo sound with impressive quality.</sentcont></sentence>
+<sentence><sentcont>Plus, it can be hooked up to any TV so you can blow it up on a larger screen.WiFi:Fairly good.</sentcont></sentence>
+<sentence><sentcont>Regular sites don't load as fast as a normal comp, but that's because of the overall processing power/RAM of the unit.</sentcont></sentence>
+<sentence><sentcont>WiFi also saves you on expensive data costs that you would prob encounter with your wireless carrier.</sentcont></sentence>
+<sentence><sentcont>It's really useful for checking email and browsing your favorite sites.Bluetooth:The</sentcont></sentence>
+<sentence><sentcont>EDR really helps when you sync your media files from your computer.</sentcont></sentence>
+<sentence><sentcont>It also helps increase the range between your computer and the N95.User interface:The Symbian OS is very intuitive and clean.</sentcont></sentence>
+<sentence><sentcont>Occasionally, it lags but this wasn't a big issue for me.</sentcont></sentence>
+<sentence><sentcont>Even more complex apps like the Map application loads and quits efficiently without hanging up.</sentcont></sentence>
+<sentence><sentcont>The unit only freezes after applying a more complex setting such as changing the system theme or something.</sentcont></sentence>
+<sentence><sentcont>It can be fixed by a simple restart of the device.</sentcont></sentence>
+<sentence><sentcont>However, this should've been fixed by Nokia through a simple message telling you to restart your device the way you'd restart your computer after installing an update or program.Battery:This</sentcont></sentence>
+<sentence><sentcont>seems to be a big point of critisism for the editors and other users of this phone.</sentcont></sentence>
+<sentence><sentcont>The honest bottom line is this: it doesn't go about 14 hrs without a recharge.</sentcont></sentence>
+<sentence><sentcont>(that is w/ use of WiFi, GPS, and Bluetooth).</sentcont></sentence>
+<sentence><sentcont>If you use the phone just for talking w/ idling, the battery lasts a comfortable 21 hrs.</sentcont></sentence>
+<sentence><sentcont>The best thing to do is to probably charge it overnight daily.</sentcont></sentence>
+<sentence><sentcont>Then you'll be fine.PDA</sentcont></sentence>
+<sentence><sentcont>functionality:The address book, calandar, and document viewers are excellent.</sentcont></sentence>
+<sentence><sentcont>Multiple numbers per contact w/ room for email addresses, home addresses etc.</sentcont></sentence>
+<sentence><sentcont>The calandar has many options for appts, meetings, and alarms.</sentcont></sentence>
+<sentence><sentcont>The document viewer not only opens regular text docs, but also spreadsheets and some kind of file that resembles PowerPoint.</sentcont></sentence>
+<sentence><sentcont>Checking email is also easy as setting up your account with the wizard is a snap.</sentcont></sentence>
+<sentence><sentcont>It works of WiFi or through your wireless carrier.Screen:The</sentcont></sentence>
+<sentence><sentcont>size is really nice and the important info such as time, date, etc show up nice and large so it's easy to read.</sentcont></sentence>
+<sentence><sentcont>For videos and the GPS, it's perfect.</sentcont></sentence>
+<sentence><sentcont>The ambient light sensor works well.Physical</sentcont></sentence>
+<sentence><sentcont>feel:The phone has a solid feel.</sentcont></sentence>
+<sentence><sentcont>It's also slimmer than it looks.</sentcont></sentence>
+<sentence><sentcont>When I saw the pics on the Nokia site, it def looked thicker than when I actually had the unit in my hand.</sentcont></sentence>
+<sentence><sentcont>The fact that the sliding mechanism isn't assisted isn't a big deal for me.</sentcont></sentence>
+<sentence><sentcont>The two-way slider is also pretty neat.</sentcont></sentence>
+<sentence><sentcont>However, the slider, when open, has a slight flimsy feel to it.</sentcont></sentence>
+<sentence><sentcont>It's also made of plastic, and not anodized aluminum like a lot of new electronics (eg.</sentcont></sentence>
+<sentence><sentcont>iPod) which is surprising for such a high-tech device.</sentcont></sentence>
+<sentence><sentcont>The plastic is wrapped tightly and solidly around the device though and doesn't "squeak" or "creak" when being handled.Overall, this phone is really THE THING as it surpasses the typical smartphone.</sentcont></sentence>
+<sentence><sentcont>Despite a few minor faults, it is an amazing device with tremendous functionality.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+118012#9912#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>118012</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I'm dying to add a comment here!</sentcont></sentence>
+<sentence><sentcont>I gotta admit when I first got this phone for upgrade at end of April, I told everyone its probably the best phone you'll ever use in your life (and I still think so to this day, u gotta admit it is) and I wouldn't let anyone say a bad word against it.</sentcont></sentence>
+<sentence><sentcont>the second day after i got it, the gps was taking ages to connect so i took it to the shop where the store manager said give it 24hrs after you pay the ?40 charge to nokia then it'll work fine as "he had the same problems" i thought fine.</sentcont></sentence>
+<sentence><sentcont>and then it worked.</sentcont></sentence>
+<sentence><sentcont>ok, now ive had it about a month n a half, n i see why so many ppl complain about it.</sentcont></sentence>
+<sentence><sentcont>i dont even bother use the gps now its just hopeless, and when it does connect, it gives wrong directions as it so slow, especially if you're driving over 50mph on the A12!</sentcont></sentence>
+<sentence><sentcont>The slide is too loose, the battery is TERRIBLE, oh my god, and that bloody symbian operating system that the N series swears by needs a makeover, its such a slow operating system.</sentcont></sentence>
+<sentence><sentcont>All in all, fantastic phone, if you want a superb camera, video recording, excellent music quality, wi-fi and a host of other small features, also most downloadable due to the symbian-ness and working.</sentcont></sentence>
+<sentence><sentcont>for Carphone Warehouse i would still recommend it, but if you're buying it mainly for the fact the it has all those features AND with the benefit of built-in GPS, then your best option (and cheapest) would be maybe a 3.</sentcont></sentence>
+<sentence><sentcont>2mp camera phone like the Sony Ericsson K800i/K810i Samsung U600 etc BUT buy a stand alone satnav unit.</sentcont></sentence>
+<sentence><sentcont>which if you go to carphone warehouse our cheapest one is on sale now for only ?99.</sentcont></sentence>
+<sentence><sentcont>99 (a lot less than the ?40-?50mth line rental per month for 18mths required for purchase of the N95.</sentcont></sentence>
+<sentence><sentcont>).</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+118799#10699#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>118799</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Till today I have never had the courage to name any phone like the best one on the market with clear conscience.</sentcont></sentence>
+<sentence><sentcont>But Nokia N95 does deserve this label.</sentcont></sentence>
+<sentence><sentcont>It has no adequate competitors on the current mobile market: it is extremely rich in functions, has a comfortable and detailed user interface with plenty of settings, and on the top of it, it is a relatively light and compact.</sentcont></sentence>
+<sentence><sentcont>The most notable drawback of Nokia N95 is its battery life.</sentcont></sentence>
+<sentence><sentcont>It will require daily doses of power, unless you limit its usage to occasional calls and messages, deactivate 3G, Wi-Fi, and GPS, and play no videos.</sentcont></sentence>
+<sentence><sentcont>In this case you may happen to postpone charging by a couple of days, but is such use worth the purchase of a phone like Nokia N95?</sentcont></sentence>
+<sentence><sentcont>The answer is no.</sentcont></sentence>
+<sentence><sentcont>Of course, battery life is an individual matter and depends on many factors.</sentcont></sentence>
+<sentence><sentcont>Nevertheless we can assure you that during our intensive tests we had no other option but to charge the device sometimes even twice a day.</sentcont></sentence>
+<sentence><sentcont>The first batch of Nokia N95 hit the market at a high price.</sentcont></sentence>
+<sentence><sentcont>Even so it was immediately sold out.</sentcont></sentence>
+<sentence><sentcont>The main delivery whose price is said to be a bit lower is being expected at the end of April.</sentcont></sentence>
+<sentence><sentcont>Anyway, the price remains rather high, perhaps due to the strong customer demand.</sentcont></sentence>
+<sentence><sentcont>Nokia N95 may be very expensive, but it also offers a lot and thus keeps attracting numerous prospective buyers.</sentcont></sentence>
+<sentence><sentcont>In this sequence of thoughts it is quite probable that in a few months, when the initial ecstasy falls off, the price of the phone will also fall down a bit.</sentcont></sentence>
+<sentence><sentcont>Be prepared, however, that drops in price will hardly be significant as Nokia N95 will continue to be the best phone in the world for a while and will thus manage to easily maintain its price.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+117439#9339#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Gsmarena</websource>
+<reviewid>117439</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>If you loved a lot features that you maybe will never use it, and slow response and phone easy to freeze, and expensive get this phone!!</sentcont></sentence>
+<sentence><sentcont>Until nokia can make phone that really reliable, and maybe I buy one, Lot's of my friend have this phone, but they can't show me nothing but the receipt of how much they pay for phone that...just phone!</sentcont></sentence>
+<sentence><sentcont>Media player hard to manage, it can play video, but is all N95 owner know how to put video in it?</sentcont></sentence>
+<sentence><sentcont>And the GPS, I bet most of the N95 owner buy the unlocked one and the map that pre installed not they home country,and did you even have the GPRS service?</sentcont></sentence>
+<sentence><sentcont>Otherwise you cannot use the GPS, and I did try it.. the map interface so slow.. I even find my way my self, before the map finish loading.</sentcont></sentence>
+<sentence><sentcont>And 5Mp cam?</sentcont></sentence>
+<sentence><sentcont>Camera is to take and save moment so you can keep it..but N95 camera so slow..the moment just pass before you can take it, N95 owner..you might use 2Mp unless you planing to print your picture bigger dan 10x8, otherwise 2Mp it's enough detail.</sentcont></sentence>
+<sentence><sentcont>DVD quality camcorder..again..the moment pass on by the time the phone ready.</sentcont></sentence>
+<sentence><sentcont>Wifi..is it free yet ?</sentcont></sentence>
+<sentence><sentcont>16M color.. did you count it ?</sentcont></sentence>
+<sentence><sentcont>Get phone that you can really use it, I love feature in N95.. but sorry..</sentcont></sentence>
+<sentence><sentcont>I don't need them all.</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+000015#195#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Viewpoints</websource>
+<reviewid>000015</reviewid>
+<reviewtitle>nokia n95 never let you down</reviewtitle>
+<rating>1.0</rating>
+<freereview><sentence><sentcont>GOOD:??The Nokia N95 cell phone boasts a 5-megapixel camera that produces good-quality photos and videos.</sentcont></sentence>
+<sentence><sentcont>It comes with advanced multimedia capabilities and has a 3.5mm headphone jack.</sentcont></sentence>
+<sentence><sentcont>The Symbian smart phone also features integrated GPS, Wi-Fi, and Bluetooth, and an innovative two-way slider design.</sentcont></sentence>
+<sentence><sentcont>??BAD:??The N95 lacks support for U.S. 3G networks; standby battery life is poor; and performance is somewhat sluggish.</sentcont></sentence>
+<sentence><sentcont>The hardware feels a bit cheap, and the sliding mechanism could be more secure.</sentcont></sentence>
+<sentence><sentcont>It's also very expensive.</sentcont></sentence>
+<sentence><sentcont>??BOTTOM LINE:??With a 5-megapixel camera, advanced multimedia capabilities, and GPS, there's no doubt that the Nokia N95 is one of the most feature-packed smart phones to date, but poor battery life and sluggish performance make it hard to justify the high price tag.</sentcont></sentence>
+<sentence><sentcont>?? ??</sentcont></sentence>
+</freereview>
+
+
+query=Nokia N95 Built-In GPS? software||third party application||nokia_n95||
+
+117114#9014#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>117114</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I read and hear people discuss this phone and some enthusiasts are adamant about it being fast.From</sentcont></sentence>
+<sentence><sentcont>personal experience I know this phone is slow!5mp camera,gps,wi-fi etc is great but i'm not sure of the need for symbian os(=slow phone).What</sentcont></sentence>
+<sentence><sentcont>real benefit does it offer on a set like n95?do you really want to install 3rd party programs that are fairly poor c'mon how many of you guys need to use those symbian applications?isn't it far far better and more appropriate to use your notebook?I mean it's not like your ever going to do anything serious on a n95.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1111699#13599#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1111699</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Does anyone know if the GPS application will be Garmin based or Nokias own software</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1111181#13081#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1111181</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>The gps is a built-in function, so there is no charge to use the gps as is.</sentcont></sentence>
+<sentence><sentcont>If you desire extra features like voice or turn by turn directions, there will be an additional fee.</sentcont></sentence>
+<sentence><sentcont>There also will be an additional fee for loading extra maps.</sentcont></sentence>
+<sentence><sentcont>If anyone really wants to know about the n95, there is a tester on howard forums who actually has a prototype and has been answering all questions about the n95 for the last few weeks http://howardforums.com/showth...ht=nokia+n95</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+111397#3297#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>111397</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>GPS is a global positioning system which can tell you where you are.</sentcont></sentence>
+<sentence><sentcont>Sort of like, where am i, you are here kind of thing.</sentcont></sentence>
+<sentence><sentcont>Practical use, you are in an unfamiliar city, you have an address you need to go to.</sentcont></sentence>
+<sentence><sentcont>Fire up google maps or nokia maps, find the street in the map then you can navigate from your current position to the given address using GPS.</sentcont></sentence>
+<sentence><sentcont>The map application will tell you to turn right or left.</sentcont></sentence>
+<sentence><sentcont>Somewhat more complicated than that but you get the picture.</sentcont></sentence>
+<sentence><sentcont>GPS is used by Nokia/Google Map.</sentcont></sentence>
+<sentence><sentcont>GPS is not a map application.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1112452#14352#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1112452</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>to pappoo - I'm from malaysia too, the gps system can only use in klang valley, jb and penang area only.</sentcont></sentence>
+<sentence><sentcont>My sister got a hp pda phone and its gps system work well in Kuala Lumpur.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1113552#15452#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1113552</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>wow, really imagine how the improvement for n95, how far technology connectin' people... once again wonder how the gps system technology functionin'...</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+118997#10897#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>118997</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Which countries does the nokia gps system cover.</sentcont></sentence>
+<sentence><sentcont>Name all 100 countries</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+118758#10658#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>118758</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>hi guys, i would like to know that, does the GPS system of N95 already installed when we purchase?</sentcont></sentence>
+<sentence><sentcont>or we have to purchase a separete software to install it?</sentcont></sentence>
+<sentence><sentcont>Thanks.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+114106#6006#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>114106</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>what about the GPS.</sentcont></sentence>
+<sentence><sentcont>DOes anyone use CoPilot or other 3rd party software and which is the best for the N95?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+119336#11236#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>119336</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>can anybody tell me how the gps works?</sentcont></sentence>
+<sentence><sentcont>does it just load up like any portable gps system?? and how is the WI_FI?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+118330#10230#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>118330</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>1. I would like to know if the GPS Mapping system use the Internet Connection ?</sentcont></sentence>
+<sentence><sentcont>Shouldn`t have an integrated GPS receiver ?</sentcont></sentence>
+<sentence><sentcont>2. How did you download the GPS Map application to your N73 ?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1110263#12163#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>1110263</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Well having now recd 1 single N95 into by branch of CPW, I can confirm that without doubt NOKIA have excelled in this handset.</sentcont></sentence>
+<sentence><sentcont>In Northern Ireland the only GPS that we can get to work is the GARMIN series of GPS.....however this has now changed.... THE NOKIA SYSTEM WORKS IMPECCABLY!!!!    ABSOLUTELY FANTASIC....I could not rate the handset enough for ease of use on the GPS system, fantastic indeed.</sentcont></sentence>
+<sentence><sentcont>AS for things like the music player updates software, finally Nokia have matched Sony's menu system.</sentcont></sentence>
+<sentence><sentcont>Overall i am personally... very impressed indeed.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+116966#8866#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>116966</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>To all N95 Owners, MGMAPS is the mother of all GPS tracking software for the N95, it supports Google MAP/Satellite, MSN Maps/Satellite, Yahoo MAPS/Satellite, perfect software for perfect GPS Navigation, U can download it from www.mgmaps.com</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1110198#12098#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1110198</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Dear Scatman, have you though that the reason you don't have GPS in Singapore is beacuse there is no cd software for Singapore traffic system yet ??</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+112224#4124#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>112224</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>n78 has the same gps chip of 6110 navigator, not of n95! performance-wise, n78 gps receiver is a lot better and gives more precise positioning than that of n95! n95 has the poorest gps chip among all nokia phones!</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+119646#11546#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>119646</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>i bought N95 the first day it launched(30/03/2009) in singapore.</sentcont></sentence>
+<sentence><sentcont>So far i never experience any major problem and it onli auto restart for 2 times when i using the 3rd party GPS software.</sentcont></sentence>
+<sentence><sentcont>and the battery life is not a problem if i dun use GPS very often.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1110264#12164#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1110264</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Well having now recd 1 single N95 into by branch of CPW, I can confirm that without doubt NOKIA have excelled in this handset.</sentcont></sentence>
+<sentence><sentcont>In Northern Ireland the only GPS that we can get to work is the GARMIN series of GPS.....however this has now changed.... THE NOKIA SYSTEM WORKS IMPECCABLY!!!!    ABSOLUTELY FANTASIC....I could not rate the handset enough for ease of use on the GPS system, fantastic indeed.</sentcont></sentence>
+<sentence><sentcont>AS for things like the music player updates software, finally Nokia have matched Sony's menu system.</sentcont></sentence>
+<sentence><sentcont>Overall i am personally... very impressed indeed.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+118338#10238#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>118338</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>i downloaded the map loader application in my Nokia N73, it's work !!! ,,,, hahaa.... no need buy Nokia N95 also can have GPS software....       How cool ?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+118397#10297#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>118397</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>It depends on what you are looking for.</sentcont></sentence>
+<sentence><sentcont>I for example absolutely like the GPS and WLAN in N95!</sentcont></sentence>
+<sentence><sentcont>And Symbian 60 operating system is far better than S40! Nokia 6300 is a good phone, but N95 is superb.</sentcont></sentence>
+<sentence><sentcont>I don't have N95 yet, but I also had the opportunity to play around with one...</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+112660#4560#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>112660</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>On the N95 can u use TomTom software for use with a separate GPS receiver     Thanks       Marty</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+118376#10276#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>118376</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>n e one using gps navigation system on N95 in India???  Pls contact and help me!</sentcont></sentence>
+<sentence><sentcont>Thanks</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+119943#11843#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>119943</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Ridiculous GPS system, whch has to download the maps and is very expnsive!</sentcont></sentence>
+<sentence><sentcont>Other than that great phone</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1112287#14187#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>1112287</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I tried the N95 today at Nokia presentation and it the GPS was like navman product.</sentcont></sentence>
+<sentence><sentcont>it worked great.</sentcont></sentence>
+<sentence><sentcont>great phone</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+112182#4082#Nokia_N95.txt####Manual Annotation Score =0
+
+<websource>Gsmarena</websource>
+<reviewid>112182</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>iphone 3g has gps.</sentcont></sentence>
+<sentence><sentcont>apple iphone + nokia n95 = samsung omnia</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1111301#13201#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1111301</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>The N95 is a very good phone but it sill don't have the"u-blox 5 chip".That will not allow have conection with the Galileo System,a very importante GPS system to the europeans.The</sentcont></sentence>
+<sentence><sentcont>chip will be anounce this month in the marked,that make me curious if Nokia it will use in the next one.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+116298#8198#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>116298</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Hello Nokia lovers,  I recommend N73 on N95; because N95 has got a very very poor Battery Life which is not practical, N73 is only missing WLAN and GPS.</sentcont></sentence>
+<sentence><sentcont>I have both phones, my experience is N95 WLAN is not useful, because screen is very small for internet usage, it does not have touch screen and no easy key pad.</sentcont></sentence>
+<sentence><sentcont>For GPS you can use Bluetooth GPS device with N73.</sentcont></sentence>
+<sentence><sentcont>Cheers</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+113023#4923#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>113023</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>PHONE FEATURES    Bluetooth  Built-in Camera  Built-in Handsfree Speaker  EDGE  GPRS  MMS  Music Player (MP3)  Phonebook      $599.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+116077#7977#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>116077</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Can anyone help me with using the GPS navigation of this phone?.</sentcont></sentence>
+<sentence><sentcont>Nokia N95</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+114895#6795#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>114895</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>this app (rotateme) will automatically rotate N95 screen to lanscape mode when you hold it landscape,and to potrait back when you hold fone vertically,without needs to slide it up or down.</sentcont></sentence>
+<sentence><sentcont>this app using built-in motion sensor in the N95..(what they call,ACCELEROMETER)</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+119343#11243#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>119343</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>hi! does any n95 owners here experience very soft radio volume projected fm e built-in speakers?</sentcont></sentence>
+<sentence><sentcont>Listening via earpiece is moderately fine but i've 2 make sure i'm in a very quiet environment 2 listen 2 e speaker volume (juz on radio).</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+116719#8619#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>116719</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>there is only a nokia n95 8gb music edition that nokias coming out with around october- december.</sentcont></sentence>
+<sentence><sentcont>there isnt a nokia n95i coming out.</sentcont></sentence>
+<sentence><sentcont>also the only difference with this nokia n95 and the nokia n95 8gb music edition is, the music edition will be black and has 8gb, no gps.</sentcont></sentence>
+<sentence><sentcont>thats the only differences between nokia n95 8gb and nokia n95.</sentcont></sentence>
+<sentence><sentcont>do your research on the internet, see for yourself.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+117414#9314#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>117414</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>What's groundbreaking in the n95?certainly isn't the cpu,screen,pathetic gps chipset,data bus etc etc!Typical Nokia hype!</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1112402#14302#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>1112402</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>First, where do people get their N95 to start making judgement now.</sentcont></sentence>
+<sentence><sentcont>Are they a time traveller or have they maybe gotten their hands on a preproduction/demo model or perhaps fell for a fake toy ploy from Ebay.</sentcont></sentence>
+<sentence><sentcont>Second, make it more fantastic!</sentcont></sentence>
+<sentence><sentcont>Like it was said before if this N95 multimedia phone also comes in with fast cpu with gpu, optical zoom, an SDHC expansion capability, sapphire coated touchscreen, built-in qwerty keypad/fastap, SiRF .</sentcont></sentence>
+<sentence><sentcont>tar III or better GPS receiver, an integrated TV tuner, traveller's built-in world languages translator and wrap it up in a rugged case to go then will be all over it even if the sheer weight and price might rip a hole in an average person's pocket.</sentcont></sentence>
+<sentence><sentcont>Cannot find these in this upcoming N95 model and do get tired of waiting for N1000.007 ... or might just ask SE to build P1701D and make available for the masses now.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1112538#14438#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1112538</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>xAcK, U imagined and named TV tuner, touchscreen, built-in qwerty keypad/fastap and traveller's built-in world languages/universal translator to go with swiss army phaser.</sentcont></sentence>
+<sentence><sentcont>No, babe cannot find these in N95 and is tired of waiting for N100.7 ... will ask SE to build P1701D and make available now ;-)</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+119672#11572#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>119672</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Nokia should have used a Sirf Star 111 GPS Receiver in the N95 instead of the crap one that's in it.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+114756#6656#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>114756</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I want to ask about the specificaion of gps in nokia n95,     - Whats the accurecy of positioning  - is it support the indoor gps, (inside buildings, under bridgs,...  - is it possible to save a tracks and download,upload to pc for a gis software</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1113492#15392#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>1113492</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Built-in GPS navigation  - Installed Maps application covering over 100 countries      this alone will cost roughly ?250</sentcont></sentence>
+<sentence><sentcont>GBP, i imagine the whole thing will be a bit more that 550 euro's.</sentcont></sentence>
+<sentence><sentcont>more closer to ?650, no major network in the UK will stock this becuase of the handset cost.</sentcont></sentence>
+<sentence><sentcont>the cost alone for nokia to supply the individual liscence for each handset for the GPS will be immense!</sentcont></sentence>
+<sentence><sentcont>good luck getting this phone, i doubt it will ever make it to mass retail in the UK.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1113316#15216#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1113316</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>oh my god this phone rocks totally!</sentcont></sentence>
+<sentence><sentcont>look at the specs, they just can't be better or more complete!</sentcont></sentence>
+<sentence><sentcont>Only 120 grams!</sentcont></sentence>
+<sentence><sentcont>2.6 inch screen and built-in GPS PLUS 5 MP camera!</sentcont></sentence>
+<sentence><sentcont>Incredible....now wait 4 the price</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+112355#4255#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>112355</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>i totally agree to daniel.</sentcont></sentence>
+<sentence><sentcont>RotateMe is much more better than the built-in function..the built-in auto-rotate...lagz.... =(</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+118485#10385#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>118485</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>hi, can u guys tell me that whether the GPS in n95 is as useful as those normal GPS in a car or not?</sentcont></sentence>
+<sentence><sentcont>We have to purchase the map of major cities in order to run the GPS?</sentcont></sentence>
+<sentence><sentcont>overall, Nokia E65 or N95 is better?</sentcont></sentence>
+<sentence><sentcont>Thanks.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1110526#12426#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>1110526</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I think the GPS should work anywhere in the world, not just the US - surely that's the point?</sentcont></sentence>
+<sentence><sentcont>Nokia N95</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+115725#7625#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>115725</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Use the Nokia N95 for connecting to mobile Broadband using WLAN or HSDPA (3.5G) with up to 10 times faster downloading than 3G.</sentcont></sentence>
+<sentence><sentcont>Find directions and locations with the integrated GPS and included maps.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 is a GSM/WCDMA dual mode portable multimedia computer supporting EGSM 850/900/1800/1900 and WCDMA 2100 HSDPA.</sentcont></sentence>
+<sentence><sentcont>Use the Nokia N95 to take photos with a 5 megapixel autofocus camera and enjoy videos, music and graphics with crystal clarity on the 2.6?</sentcont></sentence>
+<sentence><sentcont>QVGA (240 x 320 pixels), 16M color display.</sentcont></sentence>
+<sentence><sentcont>Listen to music with enhanced ?3D</sentcont></sentence>
+<sentence><sentcont>stereo?</sentcont></sentence>
+<sentence><sentcont>using the built-in dual speakers or for a big screen experience, connect the Nokia N95 to a compatible TV using direct TV out connectivity or via Wireless LAN and UPnP technology.</sentcont></sentence>
+<sentence><sentcont>Additional Nokia N95 features include USB 2.0, Bluetooth 2.0 EDR with A2DP stereo audio, and MicroSD memory card support.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1113709#15609#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>1113709</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>it's great     -5 MP, 2592 x 1944 pixels, Carl Zeiss optics, autofocus, video(VGA 30fps), flash  - Built-in GPS navigation    i lovin it :)</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+113038#4938#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>113038</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Is there any other gps micro sd for n95 besides the nokia maps and garmin?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+111902#3802#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>111902</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>RotateMe 2.0 is way better then the auto rotate that is built-in in v30.</sentcont></sentence>
+<sentence><sentcont>i use RotateMe 2.0 not the built-in auto rotate.</sentcont></sentence>
+<sentence><sentcont>RotateMe 2.0 works more smoother</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+118729#10629#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>118729</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>what about the gps feature that v been annouced as the killer app in n95?</sentcont></sentence>
+<sentence><sentcont>hey n95 owners, did anyone of u already use the embedded gps functionnality!!! if it is not the case, nokia is somehow misleadin' us with its gps !!!</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+112177#4077#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>112177</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>plus n95 u have to pay nokia $125 a year to use the maps and iphone is included in ur plan for gps.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+112331#4231#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Gsmarena</websource>
+<reviewid>112331</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>a gps chip is included to the n95 just for the sake of its purpose as an all-in-one device.</sentcont></sentence>
+<sentence><sentcont>actually, a low-grade gps chip is in n95.</sentcont></sentence>
+<sentence><sentcont>nokia doesn't care if that gps receiver will give you accurate positioning details or not, but that chip is chosen rather than a sirf gps receiver because it's less power consuming.</sentcont></sentence>
+<sentence><sentcont>if your serious to use it for navigation, you're using the wrong device.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+118277#10177#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>118277</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>its a lie about the camera, its actually a 3.2 mp camera, but the resolution has been expanded to a 5 mp camera, and the gps is only nokia software, u wont be able to use other gps software with the phone</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+115356#7256#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>115356</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Hello Friends  Moto Rockr can handle maximum of 7 applications at a time.</sentcont></sentence>
+<sentence><sentcont>Switching between the applications are faster as compared with Nokia's N95.</sentcont></sentence>
+<sentence><sentcont>N95 will hang if more than 4 applications is running and if u switches fast between the application and also if the application hangs the OS too hangs and you need to remove the battery to reboot.</sentcont></sentence>
+<sentence><sentcont>Whereas in Moto Rockr E6, if the application doesn't respond(worst case), you can kill the application from the OS, no chance of hang or rebooting.</sentcont></sentence>
+<sentence><sentcont>Rockr application will not hang since it has a good processing capability for application than N95.</sentcont></sentence>
+<sentence><sentcont>Rockr won't hang at all, it rocks against Nokia N95.</sentcont></sentence>
+<sentence><sentcont>Overall Moto Rockr is faster than N95.</sentcont></sentence>
+<sentence><sentcont>Regards  Kailas Senan  Larsen & Toubro Limited  Embedded System Software Engineer  Kailas.Senan@Lntemsys.com</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+117836#9736#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>117836</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>hey friends i bought n95 before 4 weeks till now i had no problem with this super phone really the cam is great and sound frm the twin speakers r very good and gps also good finally n95 is the great phone thank u nokia</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+116524#8424#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>116524</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Could any 1 tell me whats the covered countries in N95 free GPS</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+119919#11819#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>119919</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Navicore on my Nokia is also free to use...</sentcont></sentence>
+<sentence><sentcont>I think that the maps and GPS on N95 also are free, if you don't use voice-navigation???</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1110965#12865#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>1110965</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>It is possible to use free maps on all Symbian 60 platforms, but this phone indeed have an INTEGRATED GPS receiver!</sentcont></sentence>
+<sentence><sentcont>With my Nokia 3230 I have a separate GPS.</sentcont></sentence>
+<sentence><sentcont>I think I will buy N95 when it is available, let's see...</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+115953#7853#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>115953</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>after software upgrade to 12.0 you can't use navigation until you re connect with a server.</sentcont></sentence>
+<sentence><sentcont>if you re connect with your own server you will then be charged data charges from your cell company, because with the latest firmware you now have something called AGPS.</sentcont></sentence>
+<sentence><sentcont>A for assisted gps.</sentcont></sentence>
+<sentence><sentcont>Quicker gps lock on's.</sentcont></sentence>
+<sentence><sentcont>i re connected with free internet.</sentcont></sentence>
+<sentence><sentcont>google nokia n95 with AGPS.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+112333#4233#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Gsmarena</websource>
+<reviewid>112333</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>My Nokia N95 satnav GPS experience was a nightmare.</sentcont></sentence>
+<sentence><sentcont>Nokia recognises that it has a problem with its GPS satnav hardware and have come up with the "assisted GPS" idea.</sentcont></sentence>
+<sentence><sentcont>The problem was that I found the assisted GPS was fine if you were in the city, but once you got into the countryside, rural areas then it became a problem once again.</sentcont></sentence>
+<sentence><sentcont>Assisted GPS is their work-around to poor GPS satnav eqipment.</sentcont></sentence>
+<sentence><sentcont>Assisted GPS is NOT "true" satnav.</sentcont></sentence>
+<sentence><sentcont>Rather than getting the signal directly from the satellite (as in your cars satnav system), assisted GPS gets its positioning by using ground base stations (Nokia says that it gets it's initial positioning by using these base station and then connects to satellite, I am skeptical of that, I'd love to see their proof of this).</sentcont></sentence>
+<sentence><sentcont>I'll tell you what happened to me & my Nokia N95 (maybe it was just MY phone that was faulty??),    Without assisted GPS the satnav capabilities of my phone was zero.</sentcont></sentence>
+<sentence><sentcont>With Assisted GPS, the satnav at last started to work quite well.</sentcont></sentence>
+<sentence><sentcont>But it was a false dawn, because although in the city all worked well, I wanted to see what happened when I was in more remote areas (country lanes & on a mountain).</sentcont></sentence>
+<sentence><sentcont>what i found was that the GPS satnav was useless.</sentcont></sentence>
+<sentence><sentcont>It would not find the satellite and location.</sentcont></sentence>
+<sentence><sentcont>I ran it alongside my cars satnav.</sentcont></sentence>
+<sentence><sentcont>Whereby the cars satnav pinpointed my position wherever i was in the countryside, the N95 failed dismally.</sentcont></sentence>
+<sentence><sentcont>After all that hope i was back to square 1.</sentcont></sentence>
+<sentence><sentcont>There equipment must be flawed?</sentcont></sentence>
+<sentence><sentcont>Look at the evidence?</sentcont></sentence>
+<sentence><sentcont>Why would they come up with assisted GPS?    following on from above........</sentcont></sentence>
+<sentence><sentcont>The Satnav On the Nokia N95 didn't work, so i sued Nokia through After 30 days there was no response from Nokia and the court ordered them to refund me ?300....Heres my case sent to www.moneyclaim.gov.uk "Goods "not fit for purpose".Claimant</sentcont></sentence>
+<sentence><sentcont>purchased a Nokia N95 mobile phone with GPS satnav.</sentcont></sentence>
+<sentence><sentcont>At no stage did the GPS work properly.</sentcont></sentence>
+<sentence><sentcont>The Claimant contacted T-mobile(sellers)who informed him that responsibility laid with NokiaUk.</sentcont></sentence>
+<sentence><sentcont>Nokia offered many fixes&advice on various software updates and patches &other ways to correct the defect(e.g</sentcont></sentence>
+<sentence><sentcont>"assisted GPS").</sentcont></sentence>
+<sentence><sentcont>Many hours (hundreds) were expended over several months followingAdvice but to no avail.</sentcont></sentence>
+<sentence><sentcont>In Nov2007 the defendant informed the claimant that nothing further Could be done&the claiment took this as an admission that the product was "not fit for purpose".</sentcont></sentence>
+<sentence><sentcont>Prior to purchase the claimant researched the manufacturers specs (nokia.com).</sentcont></sentence>
+<sentence><sentcont>The phone was purchased from T-mobile (In-house sales line).</sentcont></sentence>
+<sentence><sentcont>TheClaimant made it clear to the salesperson that he only wished to purchase a phone with GPS capabilities.</sentcont></sentence>
+<sentence><sentcont>He was assured that the GPS would be effective.During the same call the purchase was made.</sentcont></sentence>
+<sentence><sentcont>The GPS proved innefective and the claimant now seeks a refund of the costs incurred with this purchase"</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+118274#10174#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>118274</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Is any good soul around to help me where to download the asia maps (metro Manila) i purchase the nokia n95 but no asia maps i cannot use my GPS</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+116053#7953#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>116053</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>nokia n95 is the best.it</sentcont></sentence>
+<sentence><sentcont>has 5mp and thats great and it even have gps.i bought this phone 5 days ago and i loved it.i say its the best........................</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+732329#388#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>732329</reviewid>
+<reviewtitle>Like being out&amp;about</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> A phone that does everything</sentcont>
+<sentcont>Great music player, good camera, excellent GPS (see below)</sentcont>
+<sentcont>The best gadget I own</sentcont>
+<sentcont>GPS combined with viewranger mapping software (bought seperately) and the free nokia sportstracker software</sentcont>
+<sentcont>Now got all of the UK Landranger  Ordnance Survey Maps for the UK on my phone</sentcont>
+<sentcont>Great for mountain biking, walking and all cycling</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Battery life when using GPS can be a bit limiting</sentcont>
+<sentcont>Normally runs out after 6 to 7hrs if using it in these circumstances</sentcont>
+<sentcont>Camera has a long delay between each photograph</sentcont>
+<sentcont>Therefore easy to miss the 'action' in any action shots</sentcont>
+<sentcont>The phones operating system and menus etc are not totally intuiative to use</sentcont>
+<sentcont>Although I have got use to it now</sentcont>
+</sentence></con>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+116605#8505#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>116605</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I'm a new N95 user, need some help from any experience user.</sentcont></sentence>
+<sentence><sentcont>Anyhow I can activate & use the GPS for free.</sentcont></sentence>
+<sentence><sentcont>I was informed, there's a Nokia site with free GPS mapping but no voice command...some help pls?</sentcont></sentence>
+<sentence><sentcont>Thanks in advance.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1110811#12711#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1110811</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Wow I just found out that you can upgrade the gps system to google earth pro.Its realy awesome.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+111398#3298#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>111398</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Actually A-GPS is Assisted GPS, and uses the GPS in the cell sites to determine your position.</sentcont></sentence>
+<sentence><sentcont>It's not free, charges will apply.</sentcont></sentence>
+<sentence><sentcont>The only free GPS in the N95 is the integrated one, as it connects directly to the gps sattelites.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+112225#4125#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>112225</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I noticed you said "If you're serious in using it for GPS navigation, n78 maybe."</sentcont></sentence>
+<sentence><sentcont>I guess you must think n78 has a good GPS receiver plus a good battery, otherwise why recommend it if someone is serious about navigation.</sentcont></sentence>
+<sentence><sentcont>BTW the n95 GPS receiver is the same as the n78 GPS receiver!!! Don't say nonsense again that the n95 has a poor GPS receiver!</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+110922#2822#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>110922</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Can anyone tell me any free GPS voice navigation software ?</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1112435#14335#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1112435</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>i have already try gps on my n95.works good.my girlfriend have pink edition of n95</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+10002549#37#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Cnet</websource>
+<reviewid>10002549</reviewid>
+<reviewtitle>The GPS is poor</reviewtitle>
+<rating>0.3</rating>
+<pro><sentence>
+<sentcont> internet is fine </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> GPS satnav doesnt work properly, assisted GPS is a con </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>The Satnav On the Nokia N95 didn't work, so i sued Nokia.</sentcont></sentence>
+<sentence><sentcont>After 30 days there was no response from Nokia and the court ordered them to refund me ?300....Heres my case sent to www.moneyclaim.gov.uk "Goods "not fit for purpose".Claimant</sentcont></sentence>
+<sentence><sentcont>purchased a Nokia N95 mobile phone with GPS satnav.</sentcont></sentence>
+<sentence><sentcont>At no stage did the GPS work properly.</sentcont></sentence>
+<sentence><sentcont>The Claimant contacted T-mobile(sellers)who informed him that responsibility laid with NokiaUk.</sentcont></sentence>
+<sentence><sentcont>Nokia offered many fixes&advice on various software updates and patches &other ways to correct the defect(e.g</sentcont></sentence>
+<sentence><sentcont>"assisted GPS").</sentcont></sentence>
+<sentence><sentcont>Many hours (hundreds) were expended over several months followingAdvice but to no avail.</sentcont></sentence>
+<sentence><sentcont>In Nov2007 the defendant informed the claimant that nothing further Could be done&the claiment took this as an admission that the product was "not fit for purpose".</sentcont></sentence>
+<sentence><sentcont>Prior to purchase the claimant researched the manufacturers specs (nokia.com).</sentcont></sentence>
+<sentence><sentcont>The phone was purchased from T-mobile (In-house sales line).</sentcont></sentence>
+<sentence><sentcont>TheClaimant made it clear to the salesperson that he only wished to purchase a phone with GPS capabilities.</sentcont></sentence>
+<sentence><sentcont>He was assured that the GPS would be effective.During the same call the purchase was made.</sentcont></sentence>
+<sentence><sentcont>The GPS proved innefective and the claimant now seeks a refund of the costs incurred with this purchase"</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1110707#12607#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>1110707</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>With my n80 & Nokia wireless gps module  ld3w I have created my gps in my phone  it works great!!! better then those bulky Garmin & Tom Tom,  Go and download the software for free at   www.smart2go.com</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+112317#4217#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>112317</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>@adrian11      "does this phone has sensor for auto rotate?"</sentcont></sentence>
+<sentence><sentcont>yes this phone has built-in accelerometer..      if you have already an N95, IMO..its not good to buy N85 coz it is almost the same in features..   but..if you don't have N95 and want to buy a new phone..N85 is definitely my choice...</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+116678#8578#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>116678</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>maybe your phone dont have a gps or u do have but u dont have a map and application to use the gps for free.</sentcont></sentence>
+<sentence><sentcont>thats y your connected to a gprs everytime u use your gps! lolx i think your a noob or u dont know how to read instructions before using the gps.=) dont post if u dont know what your saying about.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+119925#11825#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>119925</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Dear all    Just wanted to let you know about the Nokia N95 Sat Nav function.</sentcont></sentence>
+<sentence><sentcont>The software that is preloaded uses both GPS (that is free) and GPRS (that has Data charges).</sentcont></sentence>
+<sentence><sentcont>The software uses GPS to position itself and then downloads the Maps (using GPRS) on the route you are following.</sentcont></sentence>
+<sentence><sentcont>I guess there is a real danger that customers on other Networks that use the function - but don't have a data package on there account, will be charged heavily and not aware of this!!</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+117092#8992#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>117092</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>it is a very good phone... if you'd buy a GPS, a mp3 player, a camera and a phone you would spend more than the n95. it does high resolution photos, the sound quality is very good, the gps is useful.. great phone, even if it's not very cheap</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1112787#14687#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1112787</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>great phone but we dont know the quality(not size of pictures) of the camera even if its 5megapixel....and what about the battery especially with gps.....but great design and 2 way slide system of keyboard</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+118298#10198#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>118298</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>The GPS is definitely free if you use it that way!</sentcont></sentence>
+<sentence><sentcont>Turn-by-turn navigation cost you money, but to use the maps and GPS routing is free!</sentcont></sentence>
+<sentence><sentcont>I paid about 300 euros for maps (Navicore) to my Nokia 3230, so I am definitely saying that the GPS feature in N95 is worth money.</sentcont></sentence>
+<sentence><sentcont>I don't have this phone yet, but I think I will buy it soon...</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+119332#11232#Nokia_N95.txt####Manual Annotation Score =4
+
+<websource>Gsmarena</websource>
+<reviewid>119332</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>After reading all the comments, i believe there is alot of confusion over GPS and related issues.</sentcont></sentence>
+<sentence><sentcont>let me try to clear this up best that i can.</sentcont></sentence>
+<sentence><sentcont>There are 4 parts that contribute to this confusion.</sentcont></sentence>
+<sentence><sentcont>1) GPS  2) Maps   3) Route planning (with simulated turn by turn navigation)  4) Real time turn by turn navigation with voice instruction    keep those 4 components in mind while i explain further.</sentcont></sentence>
+<sentence><sentcont>1) GPS - GPS is a system where the receiver (in this case the N95) seeks a signal from satellites in space to determine a fairly exact location on earth.</sentcont></sentence>
+<sentence><sentcont>- the N95 has REAL Gps.</sentcont></sentence>
+<sentence><sentcont>you do not need a network to use gps.</sentcont></sentence>
+<sentence><sentcont>you can even take out the sim card.</sentcont></sentence>
+<sentence><sentcont>You just need a clear view of the sky.</sentcont></sentence>
+<sentence><sentcont>- there are no network charges to use GPS to tell your location.</sentcont></sentence>
+<sentence><sentcont>(No need to pay anything at all to Orange, O2, or even Nokia)  - you don't even need to download any maps to use GPS.</sentcont></sentence>
+<sentence><sentcont>under 'tools', you can use 'GPS data'.</sentcont></sentence>
+<sentence><sentcont>However, this will give you your position in latitude and longtitude - so for the normal person, this is not so useful    2) Maps - Although GPS works without a map, unless you are an army ranger, the rest of us will prefer to use a map to get around.</sentcont></sentence>
+<sentence><sentcont>'Nokia maps' is the map reading software installed on the N95 - this is an application, and not a map.</sentcont></sentence>
+<sentence><sentcont>You still need the actual country map data, and Nokia provides FREE maps of 100+ countries.</sentcont></sentence>
+<sentence><sentcont>(this application & the maps are from 'smart2go' which is owned by nokia)    There are 2 common ways to download the country maps.</sentcont></sentence>
+<sentence><sentcont>i) through your cell phone by wifi or GPRS - as the average map is 10mb or more, although the map is FREE.</sentcont></sentence>
+<sentence><sentcont>your network provider will charge you data charges to download.</sentcont></sentence>
+<sentence><sentcont>ii) use your PC - you can connect your N95 or the SD card to the PC, and download the country map data directly from the 'smart2go' website.</sentcont></sentence>
+<sentence><sentcont>in this case, the maps are FREE, and the download is FREE.</sentcont></sentence>
+<sentence><sentcont>Once you have the correct map on your phone, once you click on 'maps' - the GPS receiver on the N95 will tell you your location on the map.</sentcont></sentence>
+<sentence><sentcont>This process is FREE    3) Route planning - Route planning is FREE.</sentcont></sentence>
+<sentence><sentcont>Once you have the country map on your phone, you just enter a start address & the destination address, and the phone will calculate the shortest route between the 2 points.</sentcont></sentence>
+<sentence><sentcont>- you can view the suggested route as a line drawn on the map.</sentcont></sentence>
+<sentence><sentcont>or you can simulate the route. the phone will pretend you are driving along the route and show you each turn.</sentcont></sentence>
+<sentence><sentcont>- IMPORTANT: this is where the confusion starts.</sentcont></sentence>
+<sentence><sentcont>You DO NOT need GPS to use the maps, or to use route planning!</sentcont></sentence>
+<sentence><sentcont>i have downloaded the map software & the country map to my N73, and it works.</sentcont></sentence>
+<sentence><sentcont>it will basically work as a paper street directory guide.</sentcont></sentence>
+<sentence><sentcont>(e.g. you can find where a street is, and where a certain school is..)    and as long as you enter a start point & end point, the phone (e.g. N73) will plan the route for you.    the difference is, as you travel along the route, without GPS you will not know where you are along that route.</sentcont></sentence>
+<sentence><sentcont>(you could check street names and do it manually like a paper map of course)    4) Real time turn by turn with voice - This is where Nokia makes money from you.</sentcont></sentence>
+<sentence><sentcont>This feature is NOT free.</sentcont></sentence>
+<sentence><sentcont>- Real time turn by turn means as you drive along the planned route (see part 3), the phone will annouce to you "turn left 400m ahead" at the relevant turns.</sentcont></sentence>
+<sentence><sentcont>if you are happy to keep looking at the phone while driving, then you will not need this feature.</sentcont></sentence>
+<sentence><sentcont>but my experience is, if you are driving alone, this is a very important feature to prevent you from crashing your car into the back of a truck!</sentcont></sentence>
+<sentence><sentcont>- you WILL need GPS to use this feature.</sentcont></sentence>
+<sentence><sentcont>so the N95 can do this.</sentcont></sentence>
+<sentence><sentcont>(if you have a N73, you would need a bluetooth GPS receiver to use this function)    i hope this goes some way in clearing all the confusion    *for asian owners, there is another free map software called 'asia maps' that comes with the phone.</sentcont></sentence>
+<sentence><sentcont>this is by Agis and is not related to Nokia maps/Smart2go</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+119176#11076#Nokia_N95.txt####Manual Annotation Score =1
+
+<websource>Gsmarena</websource>
+<reviewid>119176</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>hey every 1 who has n95 i just bought it and was trying to use the gsp in the phone.</sentcont></sentence>
+<sentence><sentcont>when ever i try to use it, it shows ether no satellite found or even if it finds some connection it shows trying to connect.</sentcont></sentence>
+<sentence><sentcont>could some 1 pls tel me in detail how to connect to the gps system.</sentcont></sentence>
+<sentence><sentcont>tks and by the way n95 rules worth the money.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1111033#12933#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>1111033</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Everything about this phone looks great... except for one thing: the GPS is not Sirfstar 111.</sentcont></sentence>
+<sentence><sentcont>I'm not going to buy a GPS phone with old GPS technology....</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+112217#4117#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>112217</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>n78's battery can last over 3 hours of gps navigation, a feat that is impossible for n95 to achieve, even half of that duration!</sentcont></sentence>
+<sentence><sentcont>n95 has poor battery, poor gps chip that has bad placement at the bottom rear, very inconvenient!</sentcont></sentence>
+<sentence><sentcont>n78 in many regards is better than n95!</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+1110996#12896#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>1110996</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>(Before you start i am Australian) Why is Nokia taking so long to launch this phone?</sentcont></sentence>
+<sentence><sentcont>Because they want to release it making sure there are no bugs in the software and the GPS works good  Why is it so expensive?</sentcont></sentence>
+<sentence><sentcont>this is a simply math equation  1. GPS System = $500  2. 5MP Camera = $350  3. Water GPS System = $800  4. 2gig MP3 Player = $400  5. Nokia Mobile Phone With Symbian = $700  6. 5MP Digital Video Camera = $1500  7. DVD Player = $70  8. Pocket FM Player = $25  9. Handheld games System = $199  10.</sentcont></sentence>
+<sentence><sentcont>Personal Organizer = $90  11.</sentcont></sentence>
+<sentence><sentcont>CB Radio = $50  All this equals = $4634    ILL BE HAPPY TO PAY $1499    All you have to do is think about it and it makes sense, just cause you want it now doesn't mean its going to come out now, be patient its coming and when it does you will be happy that Nokia got all the bugs out first.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+111601#3501#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>111601</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Tools -> Connectivity -> GPS Data      If it says connection needed, cancel it...      Options, Positioning Setttings.</sentcont></sentence>
+<sentence><sentcont>In Methods, disable all except Integrated GPS.</sentcont></sentence>
+<sentence><sentcont>Go back to Position, Options, select Satellite Status.</sentcont></sentence>
+<sentence><sentcont>You'll see the list of GPS satellites it has connected to.</sentcont></sentence>
+<sentence><sentcont>Free GPS...</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+119245#11145#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>119245</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>GPS function works for position information without the need of network connection, because basaically your phone has a GPS receiver which in good atmospheric condition can receive signals from GPS satellite.</sentcont></sentence>
+<sentence><sentcont>GPS satellite signal is a broadcast signal and can be captured by any receiver for free.</sentcont></sentence>
+<sentence><sentcont>Like tv broadcast, the only difference your GPS satellite is place way way up the sky.. es claro??</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+118975#10875#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>118975</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>I bought mine today,i spend some time with this great gadget,now i can safely say that i m proud owner.before that i have n91 and n93,obivesely n95 is better than both phones.</sentcont></sentence>
+<sentence><sentcont>but i personally think in music department its not score gud points as n91 got.i know n91 is a premium music device.but its also true that n95 is a highend phone indeed.nice</sentcont></sentence>
+<sentence><sentcont>and sharp screen,5mp is simply great,stunning video quality,and i forget about GPS SYSTEM its amezzing man.overall</sentcont></sentence>
+<sentence><sentcont>great phone.highly</sentcont></sentence>
+<sentence><sentcont>recommended.</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+117132#9032#Nokia_N95.txt####Manual Annotation Score =2
+
+<websource>Gsmarena</websource>
+<reviewid>117132</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>the reasonthe n95 batter dies out fst is cuz the orginal ones had the v10 software on them.</sentcont></sentence>
+<sentence><sentcont>which wasnt that great, but after installing v11 ssoftware i found my n95 batter did last up to 3days. 2 days if i use the internet and gps alot.</sentcont></sentence>
+<sentence><sentcont>upgrade ur n95s software via Nokia website softwre updater then let the batter die completely then give it a full charge =. you will see the difference it makes.</sentcont></sentence>
+<sentence><sentcont>if u have a new n95 and stil lhavea  crappy battery.</sentcont></sentence>
+<sentence><sentcont>re in stall the software and do as above wirth the chraging</sentcont></sentence>
+</freereview>
+
+
+query=nokia n95 built-in gps? software||third party application|| gps system
+
+115402#7302#Nokia_N95.txt####Manual Annotation Score =3
+
+<websource>Gsmarena</websource>
+<reviewid>115402</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>navigation is not free, but tracking is if u have the 1st version of nokia maps.</sentcont></sentence>
+<sentence><sentcont>L berek is right just press no on internet connection but your gps will take longer 2 lock on.</sentcont></sentence>
+<sentence><sentcont>U can get free gps with route 66 and use inbuilt gps.</sentcont></sentence>
+<sentence><sentcont>It works ok but not 10/10</sentcont></sentence>
+</freereview>
+
+

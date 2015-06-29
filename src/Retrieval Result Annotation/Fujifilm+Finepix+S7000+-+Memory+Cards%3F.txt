@@ -1,0 +1,310 @@
+Result size=20
+query=Fujifilm Finepix S7000 - Memory Cards? 
+
+2212224#183#Fujifilm_Finepix.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2212224</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+
+
+query=Fujifilm Finepix S7000 - Memory Cards? 
+
+2211461#186#Fujifilm_Finepix.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2211461</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Easy to use - excellent quality prints - excellent screen image </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> N/A </sentcont>
+</sentence></con>
+
+
+query=Fujifilm Finepix S7000 - Memory Cards? 
+
+2133602#278#Fujifilm_Finepix.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2133602</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+
+
+query=Fujifilm Finepix S7000 - Memory Cards? 
+
+2252295#133#Fujifilm_Finepix.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2252295</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> brilliant value for money.lots of good features.easy to use </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> battery compartment opens easily when trying to take photos </sentcont>
+</sentence></con>
+
+
+query=Fujifilm Finepix S7000 - Memory Cards? 
+
+2074733#4#Fujifilm_Finepix.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2074733</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.1</rating>
+<pro><sentence>
+<sentcont> Easyish to use.One of cheapest 12mp on market </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Eats batteries for breakfast even the expensive ones...turning into an expensive habit using this</sentcont>
+<sentcont> Front and back of camera actually unclipped and came apart.We managed to shove it back together but now click button is temperamental.Poor build  Some 10mp cameras have better features than this 12mp.Nice camera but overally disapointing</sentcont>
+</sentence></con>
+
+
+query=Fujifilm Finepix S7000 - Memory Cards? 
+
+2050143#7#Fujifilm_Finepix.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2050143</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> takes brilliant quality photographs and videos, has many shooting modes including good quality photos when indoors without a flash </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> uses AA batteries so they run out and you have to keep replacing them </sentcont>
+</sentence></con>
+
+
+query=Fujifilm Finepix S7000 - Memory Cards? 
+
+2034934#526#Fujifilm_Finepix.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2034934</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+
+
+query=Fujifilm Finepix S7000 - Memory Cards? 
+
+2155640#251#Fujifilm_Finepix.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2155640</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Good for the money, good quality pictures </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Goes through batteries quicker than most other cameras </sentcont>
+</sentence></con>
+
+
+query=Fujifilm Finepix S7000 - Memory Cards? 
+
+2172185#41#Fujifilm_Finepix.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2172185</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Takes AA batteries which last a long time</sentcont>
+<sentcont>Point and shoot</sentcont>
+<sentcont> Very good features</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None that I can think of</sentcont>
+</sentence></con>
+
+
+query=Fujifilm Finepix S7000 - Memory Cards? 
+
+2139088#467#Fujifilm_Finepix.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2139088</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+
+
+query=Fujifilm Finepix S7000 - Memory Cards? 
+
+2008795#13#Fujifilm_Finepix.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2008795</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> It's very easy to use and has made our day trips out with our two young children much easier with the speed with which it starts up</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> If left in the automatic mode then it eats batteries</sentcont>
+</sentence></con>
+
+
+query=Fujifilm Finepix S7000 - Memory Cards? 
+
+2086975#494#Fujifilm_Finepix.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2086975</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+
+
+query=Fujifilm Finepix S7000 - Memory Cards? 
+
+2067055#47#Fujifilm_Finepix.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2067055</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> good handy size to fit in handbags or pockets </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=Fujifilm Finepix S7000 - Memory Cards? 
+
+2043718#522#Fujifilm_Finepix.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2043718</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+
+
+query=Fujifilm Finepix S7000 - Memory Cards? 
+
+2103539#308#Fujifilm_Finepix.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2103539</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Large memory - versatile - very wide angle lens - good size and weight - panoramic and video options - uses AA batteries </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> no view finder for when impossible to see image in lcd screen in certain weather conditions (particularly difficult to line up panoramic pictures in strong light)   difficult to operate the optical zoom smoothly </sentcont>
+</sentence></con>
+
+
+query=Fujifilm Finepix S7000 - Memory Cards? 
+
+2192257#10#Fujifilm_Finepix.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2192257</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Extremely light & small</sentcont>
+<sentcont>Easy to use</sentcont>
+<sentcont>Very good picture quality </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> As newcomer to digital photography I did not know that a separately purchased memory card was needed </sentcont>
+</sentence></con>
+
+
+query=Fujifilm Finepix S7000 - Memory Cards? 
+
+2163230#109#Fujifilm_Finepix.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2163230</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> I`ve not yet got fully used to the camera due to a lack of leisure time but I`ve been using it more at work lately (surveying building sites etc) and am on a learning curve</sentcont>
+<sentcont> There is certainly nothing about the Finepix  that I dislike</sentcont>
+<sentcont>I was surprised at it`s versatality in such a compact case</sentcont>
+<sentcont>As for `ease of use` I am sure that in due course I will have mastered the many features it offers, the menu buttons require a bit of practice and regular reference to the well thought out user-manual is essential</sentcont>
+<sentcont> Picture quality is brilliant and the detail in the pictures is really useful in my line of work and I look forward to capturing holiday pictures</sentcont>
+<sentcont>All in all, I have never had such good value for money from a camera, and I`ve been taking pictures since my Kodak Brownie 45 years ago</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None</sentcont>
+</sentence></con>
+
+
+query=Fujifilm Finepix S7000 - Memory Cards? 
+
+2142838#263#Fujifilm_Finepix.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2142838</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Good , simple camera - does exactly what it says on the tin</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Internal memory poor, you really need to buy memory card along with camera </sentcont>
+</sentence></con>
+
+
+query=Fujifilm Finepix S7000 - Memory Cards? 
+
+2259692#60#Fujifilm_Finepix.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2259692</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> This is a very good camera</sentcont>
+<sentcont> You do not need to pay huge amount for camera these days</sentcont>
+<sentcont> This one is an excellent camera</sentcont>
+<sentcont> It has lots of features</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> You need to buy your own memory card as the internal memory can only allow you to take two shots</sentcont>
+<sentcont> This is normal for all cameras anyway</sentcont>
+<sentcont> So not really a bad point</sentcont>
+</sentence></con>
+
+
+query=Fujifilm Finepix S7000 - Memory Cards? 
+
+2112657#297#Fujifilm_Finepix.txt####Manual Annotation Score =
+
+<websource>Reevoo</websource>
+<reviewid>2112657</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> This camera is an attractive looking item - I purchased the blue version</sentcont>
+<sentcont>In its simplest mode it is easy to use - following the 'get started' leaflet</sentcont>
+<sentcont>Good optical zoom so you don't lose quality of picture</sentcont>
+<sentcont>Large screen means easy viewing</sentcont>
+<sentcont>Pictures easy to download</sentcont>
+<sentcont> Robust metal body</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The included leaflet does not explain the many feature of the camera</sentcont>
+<sentcont>I had to have these sent ot me by Fuji, and took up several sides of A4</sentcont>
+<sentcont>The camera's memory is small and you need a memory card for it almost immediately</sentcont>
+<sentcont>The viewing screen is impossible to see in sunlight   this is a fault of most digital cameras</sentcont>
+<sentcont>A view finder would have been a simple but highly useful addition   few digital cameras have one nowadays</sentcont>
+<sentcont>A camera case would have been a useful item in the package</sentcont>
+</sentence></con>
+
+

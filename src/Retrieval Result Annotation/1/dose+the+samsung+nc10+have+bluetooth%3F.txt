@@ -1,0 +1,1206 @@
+Result size=32
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1363735#1186#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1363735</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Fast with XP Fast with Windows 7 Easy RAM Upgrade Good sized keyboard Excellent Battery Life Bluetooth Bundled Samsung Software </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I should have got it in White instead of Black (cause it shows all the fingerprints)</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+000003#4#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Viewpoints</websource>
+<reviewid>000003</reviewid>
+<reviewtitle>I absolutely love the Samsung NC10!</reviewtitle>
+<rating>1.0</rating>
+<freereview><sentence><sentcont>This netbook was exactly what i was looking for: compact, inexpensive, good quality, trusted name-brand, asthetically pleasing, the list goes on and on.</sentcont></sentence>
+<sentence><sentcont>I looked and looked for netbooks on many websites such as Walmart.com, Amazon, and Bestbuy.com.</sentcont></sentence>
+<sentence><sentcont>I did research on the netbooks at the time, and this was one that kept coming up with the top reviews.</sentcont></sentence>
+<sentence><sentcont>I absolutely love it.</sentcont></sentence>
+<sentence><sentcont>There isn't much that I can find wrong with it.</sentcont></sentence>
+<sentence><sentcont>The screen size is a little small if youre not used to it, but thats the way all netbooks are.</sentcont></sentence>
+<sentence><sentcont>A feature i love about this model is the font increase mode: you spread your fingers farther apart on the mouse-pad and the font becomes larger; pull your fingers closer together and the font becomes smaller.</sentcont></sentence>
+<sentence><sentcont>Its very nice.</sentcont></sentence>
+<sentence><sentcont>It has plenty of memory, a nice built in camera, and a nice keyboard.</sentcont></sentence>
+<sentence><sentcont>The battery lasts a long time, and for the price you pay, you are really getting a deal for this one.</sentcont></sentence>
+<sentence><sentcont>It is well worth it.</sentcont></sentence>
+<sentence><sentcont>Another thing that made me choose this netbook specifically was that it still had Windows XP.</sentcont></sentence>
+<sentence><sentcont>I haven't heard very many good reviews on the new Windows running system, and I specifically wanted XP.</sentcont></sentence>
+<sentence><sentcont>This is a good buy!</sentcont></sentence>
+</freereview>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1464912#938#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1464912</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> The Samsung NC10 has plenty of good points, the most imporant of which are: its compact size, a very bright evenly lit screen, a nicely weighted keyboard with near full size keys, battery life of about 6 hours on near full screen brightness (maximum brightness is VERY bright), a good but not overly sensitive track pad with scrolling, 1 gigabyte of RAM - enough for Windows XP which is the supplied operating system and a 160 gigabyte SATA hard drive</sentcont>
+<sentcont> There are 3 USB sockets, microphone and headphone sockets, a VGA socket and a Lan socket and a SD card slot - so plenty of connectivity</sentcont>
+<sentcont>Wi Fi connectivity is very good</sentcont>
+<sentcont>It feels solid and well put together (mostly - see below) and is fairly quiet running</sentcont>
+<sentcont>I am pleased with it</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No real bad points but a few issues   the case on mine can creak a little even though the build quality is good overall</sentcont>
+<sentcont>1 gig of RAM is not enough for Vista or Windows 7 which I have now installed so I have upgraded to 2 gig   a very easy task</sentcont>
+<sentcont>The sound could be better   it is very low in output but I find this acceptable for such good portability and very high degree of usability</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1044972#380#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1044972</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> great battery life</sentcont>
+<sentcont>Small Good build quality</sentcont>
+<sentcont>MUCH quicker than expected considering the technical specifications</sentcont>
+<sentcont>Good screen</sentcont>
+<sentcont>Good software pre-loaded (particularly Samsung battery management) Good keyboard,almost full size</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Battery not flush with base of the system</sentcont>
+<sentcont>Small track pad   awkward to use</sentcont>
+<sentcont>Don't like the gloss finish on the top of the system (finger prints!)</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1896396#203#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1896396</reviewid>
+<reviewtitle>Computing Guru Linux Platform</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Light</sentcont>
+<sentcont>Good Keyboard, Good display</sentcont>
+<sentcont>Wi-fi</sentcont>
+<sentcont>Can install Linux on it fairly easily (and Wi-fi works)</sentcont>
+<sentcont>Plenty of connection options</sentcont>
+<sentcont>Scrollable screen when running downloaded Windows driver (this driver takes ages to download so don't give up when waiting for the update)</sentcont>
+<sentcont>Quiet operation</sentcont>
+<sentcont>Easy to upgrade RAM</sentcont>
+<sentcont>I like it (it's now running a Linux OS)</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Difficult to upgrade hard drive: lots of screws have to come out and the lower case is a little difficult to detach   just take care</sentcont>
+<sentcont>Western Digital Scorpio Black installed now</sentcont>
+<sentcont>I marked down the design category due to the hard drive issue</sentcont>
+<sentcont>Glossy case attracts fingerprints like a magnet attracts iron fillings (you just try to get them all off!)</sentcont>
+<sentcont>Samsung carry "case" is flimsy and pointless</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1046990#378#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1046990</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Exquisite design, which looks fabulous in white</sentcont>
+<sentcont>Keyboard is plenty big enough to type on for extended periods</sentcont>
+<sentcont>Boots to a useable state in around a minute - not bad considering its loading XP Home</sentcont>
+<sentcont>Build quality seems fine so far</sentcont>
+<sentcont>Peripheral connectivity is well-catered for, with three USB ports, the wi-fi has been faultless at every location I've tried and even the on-board Bluetooth paired with a Logitech Bluetooth mouse (also white!) and has connected every time since, without any lag</sentcont>
+<sentcont>Battery life is great (around 5 hours whilst running a 3D game)</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Low screen resolution means a lot of scrolling is needed whilst web browsing</sentcont>
+<sentcont>This is OK with the Logitech wheel mouse (V470), but is a chore using the rather small touch pad</sentcont>
+<sentcont>The on board speakers sound tinny and lack power and the supplied slip case is next to useless at offering any real protection whilst transporting the NC10</sentcont>
+<sentcont>The NC10 is quite expensive, considering how little one needs to pay for a standard, entry level notebook these days, but in the world of netbooks, the NC10 stands head and shoulders above the competition and for very good reason</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1840703#556#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1840703</reviewid>
+<reviewtitle>General home user</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> It's a good little netbook which would benefit most user</sentcont>
+<sentcont>Nice design and styling</sentcont>
+<sentcont>Performance and battery life is good</sentcont>
+<sentcont>If you read the other reviews it generally has the best rating for similarly products</sentcont>
+<sentcont>Definately worth the money</sentcont>
+<sentcont>I picked the NC-10 as it appears to have better comments that the more modern versions</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Mouse takes a little getting use too and the cover is proven to finger prints</sentcont>
+<sentcont>Samsung updater also does appear to work properly (apparently the updater needs an update to work?????)</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1163187#54#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1163187</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> I love thescrren size I think a smaller one would have been to small to work with, the resolution is very good</sentcont>
+<sentcont> The keyboard is a nice size</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Although I use the mousepad on my laptop without problem I cannot get on with the one on the Samsung netbook so use an external mouse</sentcont>
+<sentcont> Overall I am very pleased with the netbook</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1955755#492#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1955755</reviewid>
+<reviewtitle>Often on the move</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Had mine for well over a year and travel around a lot so great for travelling</sentcont>
+<sentcont>Loved mine so much that i got one for my 7 year old son as a first computer</sentcont>
+<sentcont>He loves it too!</sentcont>
+<sentcont> Would highly recommend the NC10 or one of sansung newer model but NC10 is great </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+2168248#409#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2168248</reviewid>
+<reviewtitle>Often on the move</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Nice sleek looking sexy netbook (well done Samsung!), good battery life, though normally it lasts upto 4 hours when it says 6</sentcont>
+<sentcont>Nice layout with good screen size</sentcont>
+<sentcont>Has all the usual bits/features</sentcont>
+<sentcont>This netbook has nearly all the features of top end lightweight laptops like Sony T series except for the price</sentcont>
+<sentcont> You actually don't need a laptop, this netbook does all the job plus you can purchase Samsung SE-S084C, External USB 2.0 Slimline 8X DVD Writer, Black which is perfect compliment to it</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The mouse/track pad can be a bit tricky/too sensitive as sometimes when navigating the the screen/image can be zoomed without untending to</sentcont>
+<sentcont> Software should have come with MS Office at least with trial version if not the full version as it cannot be easily installed without having to use an external DVD/CD drive and downloading MS office is not an ideal option as only MS office 2010 is available online when given its operating system is Windows XP, it is better suited to MS office 2003</sentcont>
+<sentcont>  Could have done better with internal mobile broadband SIM option and would have prefferred by having an extra USB port, totalling to 4 USB</sentcont>
+<sentcont> Also the display, thought good, it could have done better with a much higher resolution as some programme and website requires this (though Samsung has explained of getting around this on its website)</sentcont>
+<sentcont>  When starting netbook for the 1st time, it gives the option of partitioning the hard drive, but the option of determining the size of the drive can be easily be missed as it happened in my case, hence partitioning 50% of the entire drive which would sendomnly be used accept for recovery</sentcont>
+<sentcont>This can distort the normal perception of having 160 GB hard drive</sentcont>
+<sentcont> Make sure to carefully select the size of hard drive when given the option of partitioning at startup as once selected, it cannot be changed</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+2131268#428#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2131268</reviewid>
+<reviewtitle>Often on the move</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> good size keyboard works great with windows7 ultimate from XP as it came with, drivers easy to find on samsung website has never crashed as of yet I have bought 3 of these so must be good all now on windows7 which i would recomend for this product </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> had one battery fail but replaced by samsung with no problems </sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1060238#181#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1060238</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Fantastic battery life - nearly 8 hours</sentcont>
+<sentcont>Great connectivity through built-in bluetooth, SD card reader & wireless</sentcont>
+<sentcont>Good size keyboard</sentcont>
+<sentcont>Generally quick performance wise</sentcont>
+<sentcont>Comes with XP for a real laptop feel</sentcont>
+<sentcont>Excellent build quality, weight & style</sentcont>
+<sentcont>Comes with a neat protective wallet & small charger with long lead</sentcont>
+<sentcont>Screen quality is excellent</sentcont>
+<sentcont>Half the size of a standard laptop</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Samsung bloat ware needs removing straight away</sentcont>
+<sentcont>Sound quality not the best</sentcont>
+<sentcont>The sheer size of the thing takes some getting used to</sentcont>
+<sentcont>No CD drive due to size</sentcont>
+<sentcont>No built in 3G</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1475383#923#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1475383</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> A great product</sentcont>
+<sentcont>Well built, solidd and very portable</sentcont>
+<sentcont>Wifi works very well, keyboard is a decent size for the size of the NC10, and screen resoultion and display are very good</sentcont>
+<sentcont>It does just slip into the briefcase and you hardly notice its there, compared to the brick I used to carry around</sentcont>
+<sentcont>The battery life is excellent, I'm getting around 7hrs, running multiple applications at the same time</sentcont>
+<sentcont>The Intel atom is slightly slower that 'standard' processors, but not significantly so, and does not affect the use of the system</sentcont>
+<sentcont>I'm very happy with my purchase</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Speakers are pretty basic and lack decent volume for SKYPE if not using a headset, but you would not expect great sound from this size anyway</sentcont>
+<sentcont>It does work never the less</sentcont>
+<sentcont>The NC10 comes with Samsung software called 'Samsung udate plus' which should automatically update programs and drivers..</sentcont>
+<sentcont>this has never worked, and Samsung support themselves describe the program as irratic and could not resolve the fact that it would not work..</sentcont>
+<sentcont>they do promise a fix via an update in the future, but programs can be updated manually from their site anyway..</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1246124#237#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1246124</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Light, very responsive and fast especially after using Vista</sentcont>
+<sentcont> I cannot recommend this enough</sentcont>
+<sentcont> The NC10 has taken everything I've thrown at it including Office 2007 and Vista 2007</sentcont>
+<sentcont> Syncing with my HP IPAQ via Bluetooth has never been easier</sentcont>
+<sentcont> So far the battery life has been well in excess of 5 hours</sentcont>
+<sentcont>Upgrade of RAM simple</sentcont>
+<sentcont> Brilliant</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> There are none provided you use the NC10 as a Netbook and not as a word processor as some deluded people think they can</sentcont>
+<sentcont> You also need to get used to not seeing a full web page</sentcont>
+<sentcont> Apart from that</sentcont>
+<sentcont>Nothing</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1413513#226#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1413513</reviewid>
+<reviewtitle>General home user</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Very good battery life Nice design, bright screen etc</sentcont>
+<sentcont>Easy to use keyboard Good range of ports </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> If you purchase the white NC10 the keyboard will inevitably get a few grubby marks, easily avoided though</sentcont>
+<sentcont>              I know its a netbook but the lack of a CD/DVD drive can get a little frustrating </sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1050058#373#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1050058</reviewid>
+<reviewtitle>Professional Software Developer</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Small, powerful, light, decent hard disk size, RAM is easy to upgrade, has Bluetooth & SD reader, trackpad</sentcont>
+<sentcont>Great keyboard</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> LCD screen   A lot of machines have 2 smudge marks in the left hand quadrant of the screen (including my own)</sentcont>
+<sentcont>Only really visible on a white background</sentcont>
+<sentcont>No optical drive</sentcont>
+<sentcont>Not easy to upgrade the hard drive</sentcont>
+<sentcont>Trackpad a bit small</sentcont>
+<sentcont>Only one button on the trackpad clicking</sentcont>
+<sentcont>Carrycase is flimsy</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1855377#539#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1855377</reviewid>
+<reviewtitle>General home user</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> The Samsung NC10 net book it's small compact and has great battery life</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The only bad thing I would say about it is that it comes with windows XP rather than Windows 7</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1831234#105#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1831234</reviewid>
+<reviewtitle>Business user</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Bought this as a back up for my MacBook for sending out sports pictures via ftp</sentcont>
+<sentcont>Performs admirably considering what I am comparing it to</sentcont>
+<sentcont>Small, light, great crystal clear screen with a matt finish, which is better for viewing in sunlight </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Have upgraded the RAM to 2GB to speed it up Samsung software updates can apparently conflict with the Windows updates so Samsung advise you to disable this facility</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1068617#7#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1068617</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Would recommend the Samsung NC10 to everyone</sentcont>
+<sentcont>It's light, compact and easy to use</sentcont>
+<sentcont>I can't believe how long I have muddled along with my "large" laptop for, when these little beauties are on the market</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I have only found two bad points the bag that comes ith the laptop is a bit flimsy and doesn't fasten and the keyboard comes set for the American market so make sure you change this setting before trying to use</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1249392#1237#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1249392</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> I chose this particular netbook for its excellent battery life and have not been disappointed</sentcont>
+<sentcont>The netbook itself looks great and is easy to use</sentcont>
+<sentcont>The sensor pad is "different" but easy to get used to (and I'm sure that I'd better understand how it works if I could be bothered to read the online instruction manual!)</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The slipcase that comes with the netbook is next to useless (only good for keeping the dust off) but does serve a purpose in being a receptacle in which to keep the Samsung paperwork.Microsoft Works or Corel software would have been a nice addition   the absence of such software is why I'm giving a 9 instead of a 10</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1604927#622#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1604927</reviewid>
+<reviewtitle>General home user</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Good looking laptop with bluetooth and a button that speeds up the processor</sentcont>
+<sentcont> Samsung is making some really great products</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None </sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+2100839#443#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2100839</reviewid>
+<reviewtitle>Music, gaming or video fan</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> I initially bought one of these for myself, at xmas, based on excellent reviews</sentcont>
+<sentcont>I was sufficiently impressed, to buy another as a gift for my parents, in April</sentcont>
+<sentcont>Sadly, it was a discontinued item, so these are getting hard to find, now</sentcont>
+<sentcont>The Samsung NC-10 has proved to be a great little machine - Good spec, small & light but still easy to use</sentcont>
+<sentcont>The 10" screen is much better than I expected - bright and clear with a good colour</sentcont>
+<sentcont>After getting a mobile broadband dongle, I can surf the web on my NC-10 wherever I go, & the battery lasts all day</sentcont>
+<sentcont>When at home, the WiFi connects easily to my broadband router</sentcont>
+<sentcont>With a pair of external speakers, or headphones, this netbook is more than adequate for watching movies</sentcont>
+<sentcont>As the NC-10 (like most netbooks) does not accommodate an internal optical drive, be prepared to spend money on an external DVD drive, as this is almost essential for installing software or watching DVDs</sentcont>
+<sentcont>After buying a small, cheap wireless mouse (with tiny unobtrusive receiver) I find the netbook much easier to use</sentcont>
+<sentcont>Internal SD card reader is very useful for transferring files - Supports SDHC and data transfer is fast (9.5MB/s compared to 650KB/s via my camera cable)</sentcont>
+<sentcont>Built-in webcam & microphone are handy when using msn for videochat</sentcont>
+<sentcont>(There is a mic/line-in socket but you'd only need that for stereo sound input)</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Weak tinny sound from internal speakers (good thru headphones or external speakers though)</sentcont>
+<sentcont>No optical drive (typical for a netbook, not specifically a NC 10 issue) need to buy an external drive, for playing dvd's or installing software</sentcont>
+<sentcont>Touchpad over sensitive and unpredictable</sentcont>
+<sentcont>(still better than my Sony laptop, but easier to use with a mouse) </sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1179217#292#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1179217</reviewid>
+<reviewtitle>Keen user not professional</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Beautiful machine, good in all respects</sentcont>
+<sentcont>Small, reasonably light, easy to use and very reliable</sentcont>
+<sentcont>I love my NC10 and often use it instead of my HP laptop or Dell laptop</sentcont>
+<sentcont>fantastic for use as a browser and mail machine when travelling abroad</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Heavier than some alternatives   but mainly due to HDD and if weight is the main criterion use an SSD</sentcont>
+<sentcont>I use 2 desktops and 2 laptops and find the NC10 a great machine for ultra portability, and the only noticable downside is the lack of a CD drive (but an external drive is easy to use)</sentcont>
+<sentcont>RAM a bit light on occassions but 1Gig enough for most uses</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1711285#215#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1711285</reviewid>
+<reviewtitle>General home user</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> The NC10 is light, stylish and does everything i need</sentcont>
+<sentcont>It is fast enough to cope with all internet applications and im able to get a good deal of work done from home now</sentcont>
+<sentcont>I'm extremely pleased with it </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Screen can sometimes be a little small but decrease the magnifying size of windows and it is a lot easier to use</sentcont>
+<sentcont>Remembering a notebook does not have a disc drive is also sometimes a problem</sentcont>
+<sentcont>Battery life is probably the one big hold up with the NC10 with a full nights charge only giving two hours of battery life</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1181504#288#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1181504</reviewid>
+<reviewtitle>great for daughter 14</reviewtitle>
+<rating>0.7</rating>
+<pro><sentence>
+<sentcont> small and lightweight</sentcont>
+<sentcont>fast start up and web browsing</sentcont>
+<sentcont>smart design </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> i bought for daughter to use web and as starts gcse schoolwork thinking pre installed with windows word and excell</sentcont>
+<sentcont>very disappointed when not and even looked back at adverts for nc10 and think little misleading </sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1061066#23#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1061066</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Battery life excellent - will run for over 7 hours on full charge with light use, eg</sentcont>
+<sentcont>surfing or word-processing</sentcont>
+<sentcont>Screen is clear, evenly lit, bright and glare resistant</sentcont>
+<sentcont>Sound through headphones is excellent</sentcont>
+<sentcont>Keyboard is almost full size, and very nice to type on</sentcont>
+<sentcont>My typing on this keyboard is actually slightly faster and more accurate than on a full-sized keyboard</sentcont>
+<sentcont>Keys are sensibly positioned eg</sentcont>
+<sentcont>'CTRL' is bottom left, 'Enter' key is good size and right-shift is easily found; much better than the keyboards on any other netbooks I looked at</sentcont>
+<sentcont>Can be left on standby by closing lid and returned to the following day with no apparent loss of battery life - an excellent machine</sentcont>
+<sentcont>SD / SD HC card slot useful for data backups</sentcont>
+<sentcont>Wireless connection quick to connect from boot-up and has good range</sentcont>
+<sentcont>There are numerous reviews of the NC10 on the web, mostly very positive; I haven't been disappointed</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Balance is slightly off   tends to tip backwards unless you support it correctly to compensate</sentcont>
+<sentcont>Having used for a couple of weeks now though I soon adjusted to this and no longer find it a problem</sentcont>
+<sentcont>Speakers are a bit weedy, but good enough for general use</sentcont>
+<sentcont>If I want to listen to music then I generally use headphones anyway</sentcont>
+<sentcont>No CD / DVD drive, but if you have another PC on your wireless network you can share the drives on that machine with the NC10 for data and applications</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1443433#955#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1443433</reviewid>
+<reviewtitle>General home user</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Looks great and works like a charm</sentcont>
+<sentcont> I've had no drama's at all since purchasing my NC10, and out of the box it was ready to roll</sentcont>
+<sentcont>Asthetically pleasing, and with a very nice feeling and responsive keyboard, the only one draw-back would have to be the limited space, positioning and feel of the touch-pad</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The mouse touch pad is very small, and could do with a better edge to let the user know exactly where about their finger is without having to look down</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1134747#25#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1134747</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> very attractive functional net book with excellent battery life</sentcont>
+<sentcont>I have upgraded the OS to windows 7, and upgraded RAM to 2Gb, bought a leather case and I finally extremely satisfied with my purchase</sentcont>
+<sentcont>Also purchased logitech Bluetooth mouse which compensates slightly for the small trackpad</sentcont>
+<sentcont>Very nice keyboard facilities and supplied samsung battery manager software gets the most out of the good battery</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Small trackpad, antiquated OS, 10.2" screen required a lot of scrolling and the processor struggles with BBC iplayer</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1919425#98#Samsung_NC10.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1919425</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> great machine, good keyboard, good display with no reflections, wifi and bluetooth means it works pretty much anywhere - bluetooth picks up mobile broadbrand via my phone if i need to </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> none really   if i wanted to be picky the mousepad's a bit fiddly but a bluetooth mouse soon sorted that neatly </sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1551938#720#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1551938</reviewid>
+<reviewtitle>Often on the move</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Compared to other netbooks, the Samsung NC10 has a great battery life</sentcont>
+<sentcont>It's neat and easy to carry around in my handbag</sentcont>
+<sentcont>Bonus</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1178155#19#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1178155</reviewid>
+<reviewtitle>Sales Assistant Photographer Writer</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> When I was researching the Netbooks on the market, I found they tended to fall into two groups;   1)Nice keyboard</sentcont>
+<sentcont>Shame about the screen</sentcont>
+<sentcont> 2) Nice screen, shame about the keyboard</sentcont>
+<sentcont>  I eventually realised that if I was going to live with the device for any period of time, I had better fork out the little bit extra for the Samsung NC10</sentcont>
+<sentcont> For the size of netbook, the keyboard is superb</sentcont>
+<sentcont>Unlike many of it's rivals, the NC10's 'RETURN' key is an inversed "L"</sentcont>
+<sentcont>This makes typing much easier</sentcont>
+<sentcont>It was one of the main reasons for buying this unit</sentcont>
+<sentcont> The screen is also excellent</sentcont>
+<sentcont>The brightness is lovely & punchy</sentcont>
+<sentcont>The screen surface is slightly matt to reduce reflection</sentcont>
+<sentcont>If you like your battery life long, let the supplied power-save programme controll the screen</sentcont>
+<sentcont>It will run at full brightness when on mains power</sentcont>
+<sentcont>But when on battery, it will dim the screen slightly and then dim it further after a period of non use</sentcont>
+<sentcont>As a result, the already high powered battery gives excellent performance</sentcont>
+<sentcont> The lid on the blue model has a lovely gloss finnish</sentcont>
+<sentcont>Considdering it has a traditional hard drive, the NC10 is surprisingly quiet</sentcont>
+<sentcont>The ram can be upgraded via a small access panel and the power pack is a nice size too</sentcont>
+<sentcont> I have used it for about an hour every day and I can safely say I made the right decision</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The battery (although a nice shape) adds weight</sentcont>
+<sentcont>But you cannot change the laws of physics</sentcont>
+<sentcont>A better battery is a heavier battery</sentcont>
+<sentcont>My previous laptop was a desk top emulating beast</sentcont>
+<sentcont>So the NC10 does not really offend</sentcont>
+<sentcont> Samsung have used a relatively proprietry power socket</sentcont>
+<sentcont>This limits your choice of car chargers ect..</sentcont>
+<sentcont>At least on the high street anyway</sentcont>
+<sentcont> It's lovely that Samsung has supplied a free case, but a little bit of padding, on the bottom at least would have made it perfect</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||samsung_nc10||
+
+1558466#690#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1558466</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Very nice machine</sentcont>
+<sentcont> Took on holiday and travelled with it</sentcont>
+<sentcont> Good battery life, a lot lighter than my laptop and managed to everything I normally do on the netbook that I do on my laptop when travelling</sentcont>
+<sentcont> Including email, remote server access, web page updates, banking etc etc</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None found yet</sentcont>
+<sentcont> a bit pu out that the Samsung recover set up is not more explanatory that it will partition the 160gb drive to two 80gb drives</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+2159438#410#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2159438</reviewid>
+<reviewtitle>General home user</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Don't look any further than the Samsung NC10 </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1117034#323#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1117034</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Battery Life, keyboard, performance there is only one thing to moan about, see below!!</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Horrible mouse pad, the solution is to use a good bluetooth enabled mouse such as the Targus AMB02 it works a dream with the NC10</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+2121676#435#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2121676</reviewid>
+<reviewtitle>General home user</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> excellent networking easy to use keyboard </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1179184#293#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1179184</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Very pleased with the samsung NC10</sentcont>
+<sentcont>It has a quick start up time so your using it  quicky</sentcont>
+<sentcont>the keyboard is very user friendly being quite large for a netbook</sentcont>
+<sentcont>The screen is very clear</sentcont>
+<sentcont>Overall i'm very pleased</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1257751#1214#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1257751</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Best of breed netbook with a great screen and keyboard in a smart, professional design</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No wireless N networking</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1131902#79#Samsung_NC10.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1131902</reviewid>
+<reviewtitle>Gadget Lovin Bargain Hunter</reviewtitle>
+<rating>0.7</rating>
+<pro><sentence>
+<sentcont> Good Size, clear screen, XP as appose to Linux which most netbooks have, good keyboard, webcam is good quality, very light, nice that it comes with a case</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> 1gb ram, first thing I did was upgrade it to 2gb</sentcont>
+<sentcont>Poor screen resolution, two buttons on the keyboard were blue not black like the rest, battery is approx 5hrs not the 7.5 as stated, keypad to small so we bought a wireless mouse, but got a bluetooth mouse as is has built in bluetooth meant no dongle sticking out the side</sentcont>
+<sentcont>Although there's many bad points it's competition has a lot more bad points so it's the best available albeit 30% more than the rest</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+2095198#189#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2095198</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Light and portable</sentcont>
+<sentcont> Good display</sentcont>
+<sentcont> I have improved mine by adding a touch screen</sentcont>
+<sentcont> Easy mod</sentcont>
+<sentcont> Built-in WiFi and B/T work without fuss</sentcont>
+<sentcont> Keyboard good size </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The m/c is no longer in production</sentcont>
+<sentcont>Could use a larger h/d</sentcont>
+<sentcont> Touch pad is too small, but mitigated by the use of a b/t mouse</sentcont>
+<sentcont> Rather slow processor</sentcont>
+<sentcont> It's replacement NC 130 doesn't have Bluetooth, and the built in webcam is lower res., so Samsung have sacrificed functionality for price</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1927012#508#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1927012</reviewid>
+<reviewtitle>General home user</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> I bought this for my teenage Daughter that needed a laptop for her studies and social networking sites</sentcont>
+<sentcont>As soon as it was opened I felt a pang of jealousy</sentcont>
+<sentcont> It looked fantastic in black, it was lightweight and the keyboard was nearly normal size too</sentcont>
+<sentcont>I have a large laptop and can honestly say that as soon as this one dies, I will be buying another NC10</sentcont>
+<sentcont>The battery outlasts mine 10 fold, it seems to last all day without charging, and it so light</sentcont>
+<sentcont> I purchased an external drive to load CDs etc so now it really is perfection</sentcont>
+<sentcont>Bluetooth is brilliant for transfering photos and music from phones too</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Very slightly slower than my big laptop but the benefits really outweigh this</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1040336#386#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1040336</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> For anyone who needs to use a laptop on the go without the burdon of carrying a larger computer about, the Samsung NC10 is a must</sentcont>
+<sentcont>For value for money there is othing better out there</sentcont>
+<sentcont>If you are looking to buy then look no further</sentcont>
+<sentcont>This netbook will not disappoint</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Can't find any </sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1259689#1211#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1259689</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> sleek design, fast power up, good wireless networking </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> no cd drive </sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1207750#1289#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1207750</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Perfect for a non-techy user, who simply wants what a netbook has to offer...surfing on the move </sentcont>
+<sentcont>The battery life is excellent (although not quite the 7.5 hrs as stated in some online reviews !)</sentcont>
+<sentcont>You'll be pleased you bought it...and I'd advise anybody who is thinking about a netbook to buy the Samsung NC10</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I don't have anything negative to say about it..</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1486314#889#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1486314</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> I am delighted with the Samsung NC10 blue</sentcont>
+<sentcont> It is lightweight and the battery seems to last for ages</sentcont>
+<sentcont> I read numerous reviews about all different makes of notebooks and am so glad that i decided to buy this one</sentcont>
+<sentcont>It is so handy, you can just pop it in your bag and take it anywhere with you</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> There aren't any</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1895269#521#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1895269</reviewid>
+<reviewtitle>General home user</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Keyboard exellent feel, superb 1.3 Mpix web camera , full loaded with Bluetooth and wireless tranceivers</sentcont>
+<sentcont>Lives up to the reviews in the mags</sentcont>
+<sentcont>Excellent Samsung build quality</sentcont>
+<sentcont>Highly recommended</sentcont>
+<sentcont>Need I say more</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> needs 2gb of internal dram but ony minor performance issue here</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+2151185#416#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2151185</reviewid>
+<reviewtitle>Often on the move</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> I bought the NC10 for travel purposes, size being the main issue, several friends had one and highly recommended it</sentcont>
+<sentcont> I take my NC10 everywhere now, it fits easily in my normal bag</sentcont>
+<sentcont> Battery is good, I run a program which is heavy on the battery use and the NC10 still gives me 4.5 to 5 hrs life, if I was just browsing or similar you can add a couple of hours to the battery life </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Just getting used to the small screen and touch pad, but that is nitpicking really </sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1923276#199#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1923276</reviewid>
+<reviewtitle>professional photographer</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Battery life and performance with a wide range of applications, including downloading and sorting image files from the built-in SD card reader make this little machine fantastic value for money</sentcont>
+<sentcont> It was a replacement for another Samsung (NV5000) now 8 years old but cost 4 times as much as the NC10</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Mouse pad can be tricky to use, especially in the dark as the click bar is flush with the rest of the casing</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1570310#218#Samsung_NC10.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1570310</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.4</rating>
+<pro><sentence>
+<sentcont> Made my Samsung, good build quality, intergrated 3G card </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Very poor battery, simply because Vodafone decided to remove the standard 6 cell (NC 10 battery 5hrs) and put in a 3 cell (about 2 hrs if lucky and not using 3G sim)</sentcont>
+<sentcont>Also Vodafone decided to remove the standard in all other NC 10's the bluetooth</sentcont>
+<sentcont>Be warned it may sound like a good deal but Vodafone have gone cheap on us and taken out most of the good bits that people have loved about the NC 10</sentcont>
+<sentcont> Im not sure how you can be very productive using the intergrated 3G sim card when out and about if the battery they supply only lasts about an hour</sentcont>
+<sentcont>I had to buy a bigger battery and put my own bluetooth module into the device to make it usable</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1196821#266#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1196821</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> I have had Samsung NC10 for about 3 weeks now and it is a brilliant product</sentcont>
+<sentcont> The battery life is about 6 hours, </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> There are two only bad points</sentcont>
+<sentcont> One is the screen does not go back beyond 45 degrees which can be frustrating depending on your seat position</sentcont>
+<sentcont>Also when using an external monitor the vga out connection should have a screw connection to hold it in as this can easily fall out</sentcont>
+<sentcont>If thinking of buying I would certainly consider the latest version of the NC10 which is available from the US but is slightly more expensive</sentcont>
+<sentcont> The new NC20 is 2" bigger and starts to creep towards not being as portable as the NC10</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+2203733#408#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2203733</reviewid>
+<reviewtitle>Often on the move</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> battery life</sentcont>
+<sentcont> speed, what it does, portability, keyboard(size and feel) with an external DVD recorder and a memory stick it does everything I need</sentcont>
+<sentcont>   Email, browsing, spreadsheets, documents  and presentations, games, skype, music,   What more do I need</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> cannot think of a  single one</sentcont>
+<sentcont>  I used to think there was nothing better than HP however the NC10 has opened my eyes</sentcont>
+<sentcont>   I recently used a samsung N150  but I prefer the NC10</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1035065#1579#Samsung_NC10.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1035065</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> small, light,  xp, features include bluetooth</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> none </sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1041475#385#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1041475</reviewid>
+<reviewtitle>middle aged gadget freak</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> The Samsung has proved to be a very good purchase, bought as a gift for my wife a computer novice and she is managing it very well</sentcont>
+<sentcont>The keyboard is larger than most net books and the design of the Samsung surpasses others</sentcont>
+<sentcont>The WiFi connection was excellant and set up very easy</sentcont>
+<sentcont>Thoroughly recommend </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None </sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1533483#797#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1533483</reviewid>
+<reviewtitle>General home user</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Love my new NC10 Netbook</sentcont>
+<sentcont>It is brilliant, use it non-stop every day</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No bad points</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1151645#67#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1151645</reviewid>
+<reviewtitle>Lovin the nc10</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Brilliant notebook...never known anything to load up so fast....love it</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> none</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1544697#762#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1544697</reviewid>
+<reviewtitle>Retired professional</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Excellent keyboard, good hard disk </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Track pad is a little indeterminate   you will probably prefer to have a USB mouse as there are 3 USB ports</sentcont>
+<sentcont> The Samsung Update Software is a little slow   at times, you wonder if it is working</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+000004#5#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Viewpoints</websource>
+<reviewid>000004</reviewid>
+<reviewtitle>Samsung Netbook is fast, light, cute</reviewtitle>
+<rating>1.0</rating>
+<freereview><sentence><sentcont>I needed a notebook computer for my work.</sentcont></sentence>
+<sentence><sentcont>I work in a school and go from classroom to classroom providing counseling and support to at-risk kids.</sentcont></sentence>
+<sentence><sentcont>The Samsung Netbook is perfect as it is small and light, but powerful and fast.</sentcont></sentence>
+<sentence><sentcont>It accommodates my needs perfectly and I have started using it at home -- before I only used my desktop.</sentcont></sentence>
+<sentence><sentcont>Now the desktop seems way too big and clunky!</sentcont></sentence>
+</freereview>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1387876#1120#Samsung_NC10.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1387876</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> An excellent product, stunning performance , great looks</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Touch pad can be trickly, best used with a bluetooth mouse   brilliant</sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1054729#1463#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1054729</reviewid>
+<reviewtitle>Female,24,web user</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> great looking and performing great up to now</sentcont>
+<sentcont>looked at a few other makes/models at the time of purchase but glad I went for the samsung - am more than happy with it</sentcont>
+<sentcont>x </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> nothing </sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1392026#1105#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1392026</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> My wife is delighted with the NC10</sentcont>
+<sentcont> Light weight, loads of battery life and easy to use</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Keyboard needs getting used to   slightly different layout </sentcont>
+</sentence></con>
+
+
+query=dose the samsung nc10 have bluetooth? networking||hardware||
+
+1132159#78#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1132159</reviewid>
+<reviewtitle>Happy NC10 owner</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Probably the best netbook at moment.XP boots quickly & big hard drive.Great for travelling</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Wireless N would be nice to have but no real bad points</sentcont>
+</sentence></con>
+
+

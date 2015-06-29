@@ -1,0 +1,1500 @@
+Result size=35
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1132159#78#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1132159</reviewid>
+<reviewtitle>Happy NC10 owner</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Probably the best netbook at moment.XP boots quickly & big hard drive.Great for travelling</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Wireless N would be nice to have but no real bad points</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+000003#4#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Viewpoints</websource>
+<reviewid>000003</reviewid>
+<reviewtitle>I absolutely love the Samsung NC10!</reviewtitle>
+<rating>1.0</rating>
+<freereview><sentence><sentcont>This netbook was exactly what i was looking for: compact, inexpensive, good quality, trusted name-brand, asthetically pleasing, the list goes on and on.</sentcont></sentence>
+<sentence><sentcont>I looked and looked for netbooks on many websites such as Walmart.com, Amazon, and Bestbuy.com.</sentcont></sentence>
+<sentence><sentcont>I did research on the netbooks at the time, and this was one that kept coming up with the top reviews.</sentcont></sentence>
+<sentence><sentcont>I absolutely love it.</sentcont></sentence>
+<sentence><sentcont>There isn't much that I can find wrong with it.</sentcont></sentence>
+<sentence><sentcont>The screen size is a little small if youre not used to it, but thats the way all netbooks are.</sentcont></sentence>
+<sentence><sentcont>A feature i love about this model is the font increase mode: you spread your fingers farther apart on the mouse-pad and the font becomes larger; pull your fingers closer together and the font becomes smaller.</sentcont></sentence>
+<sentence><sentcont>Its very nice.</sentcont></sentence>
+<sentence><sentcont>It has plenty of memory, a nice built in camera, and a nice keyboard.</sentcont></sentence>
+<sentence><sentcont>The battery lasts a long time, and for the price you pay, you are really getting a deal for this one.</sentcont></sentence>
+<sentence><sentcont>It is well worth it.</sentcont></sentence>
+<sentence><sentcont>Another thing that made me choose this netbook specifically was that it still had Windows XP.</sentcont></sentence>
+<sentence><sentcont>I haven't heard very many good reviews on the new Windows running system, and I specifically wanted XP.</sentcont></sentence>
+<sentence><sentcont>This is a good buy!</sentcont></sentence>
+</freereview>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1179184#293#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1179184</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Very pleased with the samsung NC10</sentcont>
+<sentcont>It has a quick start up time so your using it  quicky</sentcont>
+<sentcont>the keyboard is very user friendly being quite large for a netbook</sentcont>
+<sentcont>The screen is very clear</sentcont>
+<sentcont>Overall i'm very pleased</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+000001#2#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Viewpoints</websource>
+<reviewid>000001</reviewid>
+<reviewtitle>Samsung NC10 - Blazing speed, goes anywhere and so much fun!</reviewtitle>
+<rating>1.0</rating>
+<freereview><sentence><sentcont>This little laptop is quick to wake up, easy to use, awesome graphics, windows Xp,?? with the intel atom inside.??</sentcont></sentence>
+<sentence><sentcont>There is nothing better than a quality laptop when you are on the go.??</sentcont></sentence>
+<sentence><sentcont>The keyboard is comfortable and roomy and easy to navigate.??</sentcont></sentence>
+<sentence><sentcont>I added a mini mouse for the ease of surfing and email.??</sentcont></sentence>
+<sentence><sentcont>The price was under $300 and worth every penny!</sentcont></sentence>
+</freereview>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1464912#938#Samsung_NC10.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1464912</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> The Samsung NC10 has plenty of good points, the most imporant of which are: its compact size, a very bright evenly lit screen, a nicely weighted keyboard with near full size keys, battery life of about 6 hours on near full screen brightness (maximum brightness is VERY bright), a good but not overly sensitive track pad with scrolling, 1 gigabyte of RAM - enough for Windows XP which is the supplied operating system and a 160 gigabyte SATA hard drive</sentcont>
+<sentcont> There are 3 USB sockets, microphone and headphone sockets, a VGA socket and a Lan socket and a SD card slot - so plenty of connectivity</sentcont>
+<sentcont>Wi Fi connectivity is very good</sentcont>
+<sentcont>It feels solid and well put together (mostly - see below) and is fairly quiet running</sentcont>
+<sentcont>I am pleased with it</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No real bad points but a few issues   the case on mine can creak a little even though the build quality is good overall</sentcont>
+<sentcont>1 gig of RAM is not enough for Vista or Windows 7 which I have now installed so I have upgraded to 2 gig   a very easy task</sentcont>
+<sentcont>The sound could be better   it is very low in output but I find this acceptable for such good portability and very high degree of usability</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1044972#380#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1044972</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> great battery life</sentcont>
+<sentcont>Small Good build quality</sentcont>
+<sentcont>MUCH quicker than expected considering the technical specifications</sentcont>
+<sentcont>Good screen</sentcont>
+<sentcont>Good software pre-loaded (particularly Samsung battery management) Good keyboard,almost full size</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Battery not flush with base of the system</sentcont>
+<sentcont>Small track pad   awkward to use</sentcont>
+<sentcont>Don't like the gloss finish on the top of the system (finger prints!)</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1432845#986#Samsung_NC10.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1432845</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Looks good, nice clear display, large hard drive capacity</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I don't like the feel of the track pad, but thats about it really</sentcont>
+<sentcont> Keep getting "blue screen of death" every now and then, but I put that down to software issues not the netbook itself so need to try re installing</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1537745#786#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1537745</reviewid>
+<reviewtitle>Business user</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Amazing little machine</sentcont>
+<sentcont> Best of the netbooks and worth the extra money compared to the others on the market</sentcont>
+<sentcont>Over 6 hours of battery life with WiFi, good design, good sized keyboard - great little product</sentcont>
+<sentcont> Now running Windows 7 Enterprise - a great little product</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The NC10 doesnt have many bad points, the ones it does have it shares with most other netbooks    CPU is only a dual 1.6Ghz,    RAM only comes with 1Gb,   because there is only one memory slot to upgrade you need a 2Gb RAM Chip</sentcont>
+<sentcont>  Screen resolution is only 1024x600 </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1549158#733#Samsung_NC10.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1549158</reviewid>
+<reviewtitle>Business user</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Small, compact, good battery life & screen </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Not so happy with screen lid, seems a bit flimsy, no catch to lock shut </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1896396#203#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1896396</reviewid>
+<reviewtitle>Computing Guru Linux Platform</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Light</sentcont>
+<sentcont>Good Keyboard, Good display</sentcont>
+<sentcont>Wi-fi</sentcont>
+<sentcont>Can install Linux on it fairly easily (and Wi-fi works)</sentcont>
+<sentcont>Plenty of connection options</sentcont>
+<sentcont>Scrollable screen when running downloaded Windows driver (this driver takes ages to download so don't give up when waiting for the update)</sentcont>
+<sentcont>Quiet operation</sentcont>
+<sentcont>Easy to upgrade RAM</sentcont>
+<sentcont>I like it (it's now running a Linux OS)</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Difficult to upgrade hard drive: lots of screws have to come out and the lower case is a little difficult to detach   just take care</sentcont>
+<sentcont>Western Digital Scorpio Black installed now</sentcont>
+<sentcont>I marked down the design category due to the hard drive issue</sentcont>
+<sentcont>Glossy case attracts fingerprints like a magnet attracts iron fillings (you just try to get them all off!)</sentcont>
+<sentcont>Samsung carry "case" is flimsy and pointless</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1046990#378#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1046990</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Exquisite design, which looks fabulous in white</sentcont>
+<sentcont>Keyboard is plenty big enough to type on for extended periods</sentcont>
+<sentcont>Boots to a useable state in around a minute - not bad considering its loading XP Home</sentcont>
+<sentcont>Build quality seems fine so far</sentcont>
+<sentcont>Peripheral connectivity is well-catered for, with three USB ports, the wi-fi has been faultless at every location I've tried and even the on-board Bluetooth paired with a Logitech Bluetooth mouse (also white!) and has connected every time since, without any lag</sentcont>
+<sentcont>Battery life is great (around 5 hours whilst running a 3D game)</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Low screen resolution means a lot of scrolling is needed whilst web browsing</sentcont>
+<sentcont>This is OK with the Logitech wheel mouse (V470), but is a chore using the rather small touch pad</sentcont>
+<sentcont>The on board speakers sound tinny and lack power and the supplied slip case is next to useless at offering any real protection whilst transporting the NC10</sentcont>
+<sentcont>The NC10 is quite expensive, considering how little one needs to pay for a standard, entry level notebook these days, but in the world of netbooks, the NC10 stands head and shoulders above the competition and for very good reason</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1840703#556#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1840703</reviewid>
+<reviewtitle>General home user</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> It's a good little netbook which would benefit most user</sentcont>
+<sentcont>Nice design and styling</sentcont>
+<sentcont>Performance and battery life is good</sentcont>
+<sentcont>If you read the other reviews it generally has the best rating for similarly products</sentcont>
+<sentcont>Definately worth the money</sentcont>
+<sentcont>I picked the NC-10 as it appears to have better comments that the more modern versions</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Mouse takes a little getting use too and the cover is proven to finger prints</sentcont>
+<sentcont>Samsung updater also does appear to work properly (apparently the updater needs an update to work?????)</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1163187#54#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1163187</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> I love thescrren size I think a smaller one would have been to small to work with, the resolution is very good</sentcont>
+<sentcont> The keyboard is a nice size</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Although I use the mousepad on my laptop without problem I cannot get on with the one on the Samsung netbook so use an external mouse</sentcont>
+<sentcont> Overall I am very pleased with the netbook</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+2168248#409#Samsung_NC10.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2168248</reviewid>
+<reviewtitle>Often on the move</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Nice sleek looking sexy netbook (well done Samsung!), good battery life, though normally it lasts upto 4 hours when it says 6</sentcont>
+<sentcont>Nice layout with good screen size</sentcont>
+<sentcont>Has all the usual bits/features</sentcont>
+<sentcont>This netbook has nearly all the features of top end lightweight laptops like Sony T series except for the price</sentcont>
+<sentcont> You actually don't need a laptop, this netbook does all the job plus you can purchase Samsung SE-S084C, External USB 2.0 Slimline 8X DVD Writer, Black which is perfect compliment to it</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The mouse/track pad can be a bit tricky/too sensitive as sometimes when navigating the the screen/image can be zoomed without untending to</sentcont>
+<sentcont> Software should have come with MS Office at least with trial version if not the full version as it cannot be easily installed without having to use an external DVD/CD drive and downloading MS office is not an ideal option as only MS office 2010 is available online when given its operating system is Windows XP, it is better suited to MS office 2003</sentcont>
+<sentcont>  Could have done better with internal mobile broadband SIM option and would have prefferred by having an extra USB port, totalling to 4 USB</sentcont>
+<sentcont> Also the display, thought good, it could have done better with a much higher resolution as some programme and website requires this (though Samsung has explained of getting around this on its website)</sentcont>
+<sentcont>  When starting netbook for the 1st time, it gives the option of partitioning the hard drive, but the option of determining the size of the drive can be easily be missed as it happened in my case, hence partitioning 50% of the entire drive which would sendomnly be used accept for recovery</sentcont>
+<sentcont>This can distort the normal perception of having 160 GB hard drive</sentcont>
+<sentcont> Make sure to carefully select the size of hard drive when given the option of partitioning at startup as once selected, it cannot be changed</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1060238#181#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1060238</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Fantastic battery life - nearly 8 hours</sentcont>
+<sentcont>Great connectivity through built-in bluetooth, SD card reader & wireless</sentcont>
+<sentcont>Good size keyboard</sentcont>
+<sentcont>Generally quick performance wise</sentcont>
+<sentcont>Comes with XP for a real laptop feel</sentcont>
+<sentcont>Excellent build quality, weight & style</sentcont>
+<sentcont>Comes with a neat protective wallet & small charger with long lead</sentcont>
+<sentcont>Screen quality is excellent</sentcont>
+<sentcont>Half the size of a standard laptop</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Samsung bloat ware needs removing straight away</sentcont>
+<sentcont>Sound quality not the best</sentcont>
+<sentcont>The sheer size of the thing takes some getting used to</sentcont>
+<sentcont>No CD drive due to size</sentcont>
+<sentcont>No built in 3G</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1475383#923#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1475383</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> A great product</sentcont>
+<sentcont>Well built, solidd and very portable</sentcont>
+<sentcont>Wifi works very well, keyboard is a decent size for the size of the NC10, and screen resoultion and display are very good</sentcont>
+<sentcont>It does just slip into the briefcase and you hardly notice its there, compared to the brick I used to carry around</sentcont>
+<sentcont>The battery life is excellent, I'm getting around 7hrs, running multiple applications at the same time</sentcont>
+<sentcont>The Intel atom is slightly slower that 'standard' processors, but not significantly so, and does not affect the use of the system</sentcont>
+<sentcont>I'm very happy with my purchase</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Speakers are pretty basic and lack decent volume for SKYPE if not using a headset, but you would not expect great sound from this size anyway</sentcont>
+<sentcont>It does work never the less</sentcont>
+<sentcont>The NC10 comes with Samsung software called 'Samsung udate plus' which should automatically update programs and drivers..</sentcont>
+<sentcont>this has never worked, and Samsung support themselves describe the program as irratic and could not resolve the fact that it would not work..</sentcont>
+<sentcont>they do promise a fix via an update in the future, but programs can be updated manually from their site anyway..</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1413513#226#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1413513</reviewid>
+<reviewtitle>General home user</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Very good battery life Nice design, bright screen etc</sentcont>
+<sentcont>Easy to use keyboard Good range of ports </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> If you purchase the white NC10 the keyboard will inevitably get a few grubby marks, easily avoided though</sentcont>
+<sentcont>              I know its a netbook but the lack of a CD/DVD drive can get a little frustrating </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1050058#373#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1050058</reviewid>
+<reviewtitle>Professional Software Developer</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Small, powerful, light, decent hard disk size, RAM is easy to upgrade, has Bluetooth & SD reader, trackpad</sentcont>
+<sentcont>Great keyboard</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> LCD screen   A lot of machines have 2 smudge marks in the left hand quadrant of the screen (including my own)</sentcont>
+<sentcont>Only really visible on a white background</sentcont>
+<sentcont>No optical drive</sentcont>
+<sentcont>Not easy to upgrade the hard drive</sentcont>
+<sentcont>Trackpad a bit small</sentcont>
+<sentcont>Only one button on the trackpad clicking</sentcont>
+<sentcont>Carrycase is flimsy</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1855377#539#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1855377</reviewid>
+<reviewtitle>General home user</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> The Samsung NC10 net book it's small compact and has great battery life</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The only bad thing I would say about it is that it comes with windows XP rather than Windows 7</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1521488#806#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1521488</reviewid>
+<reviewtitle>Business user</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Long battery life, nice colour  (I have the dark blue one!), quality speakers, webcam and screen display, 160GB HD is a good size</sentcont>
+<sentcont>It is not the smallest netbook in the market but size and weight are fine, as it ensures good size keyboard</sentcont>
+<sentcont> In general good value for money</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Design wise, could be prettier but still a nice looking netbook</sentcont>
+<sentcont> Why they don??t sell the LINUX version</sentcont>
+<sentcont>I would have preferred it than MS Windows version</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1365348#1183#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1365348</reviewid>
+<reviewtitle>Female, 51.</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Clear screen, very quiet operation and light weight</sentcont>
+<sentcont> Only bought the NC10 to use for emailing and keeping in touch when on holiday so perfect for my needs</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Minor point   touch pad is a bit tricky to get the hang of so have bought a mouse to use instead</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1199959#1329#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1199959</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> An excellent all round netbook, brilliant battery life, beautiful crystal clear display and excellent peformance</sentcont>
+<sentcont>The design is excellent, sturdy, well made and very easy to carry around</sentcont>
+<sentcont>This is by far the best notebook I have seen and used</sentcont>
+<sentcont> I have no hesitation in thoroughly recommending this netbook as a first class 5 star product</sentcont>
+<sentcont>Nice one Samsung</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1831234#105#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1831234</reviewid>
+<reviewtitle>Business user</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Bought this as a back up for my MacBook for sending out sports pictures via ftp</sentcont>
+<sentcont>Performs admirably considering what I am comparing it to</sentcont>
+<sentcont>Small, light, great crystal clear screen with a matt finish, which is better for viewing in sunlight </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Have upgraded the RAM to 2GB to speed it up Samsung software updates can apparently conflict with the Windows updates so Samsung advise you to disable this facility</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1068617#7#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1068617</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Would recommend the Samsung NC10 to everyone</sentcont>
+<sentcont>It's light, compact and easy to use</sentcont>
+<sentcont>I can't believe how long I have muddled along with my "large" laptop for, when these little beauties are on the market</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I have only found two bad points the bag that comes ith the laptop is a bit flimsy and doesn't fasten and the keyboard comes set for the American market so make sure you change this setting before trying to use</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1151863#73#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1151863</reviewid>
+<reviewtitle>Broadcst Engineer</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Size battery life </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Sreen back is flimsy, touching rear of lid results in screen distortion screen resolution, only possible to see small potion of web page slip case does not have velcro to keep closed </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1895269#521#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1895269</reviewid>
+<reviewtitle>General home user</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Keyboard exellent feel, superb 1.3 Mpix web camera , full loaded with Bluetooth and wireless tranceivers</sentcont>
+<sentcont>Lives up to the reviews in the mags</sentcont>
+<sentcont>Excellent Samsung build quality</sentcont>
+<sentcont>Highly recommended</sentcont>
+<sentcont>Need I say more</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> needs 2gb of internal dram but ony minor performance issue here</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1249392#1237#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1249392</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> I chose this particular netbook for its excellent battery life and have not been disappointed</sentcont>
+<sentcont>The netbook itself looks great and is easy to use</sentcont>
+<sentcont>The sensor pad is "different" but easy to get used to (and I'm sure that I'd better understand how it works if I could be bothered to read the online instruction manual!)</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The slipcase that comes with the netbook is next to useless (only good for keeping the dust off) but does serve a purpose in being a receptacle in which to keep the Samsung paperwork.Microsoft Works or Corel software would have been a nice addition   the absence of such software is why I'm giving a 9 instead of a 10</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+2100839#443#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2100839</reviewid>
+<reviewtitle>Music, gaming or video fan</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> I initially bought one of these for myself, at xmas, based on excellent reviews</sentcont>
+<sentcont>I was sufficiently impressed, to buy another as a gift for my parents, in April</sentcont>
+<sentcont>Sadly, it was a discontinued item, so these are getting hard to find, now</sentcont>
+<sentcont>The Samsung NC-10 has proved to be a great little machine - Good spec, small & light but still easy to use</sentcont>
+<sentcont>The 10" screen is much better than I expected - bright and clear with a good colour</sentcont>
+<sentcont>After getting a mobile broadband dongle, I can surf the web on my NC-10 wherever I go, & the battery lasts all day</sentcont>
+<sentcont>When at home, the WiFi connects easily to my broadband router</sentcont>
+<sentcont>With a pair of external speakers, or headphones, this netbook is more than adequate for watching movies</sentcont>
+<sentcont>As the NC-10 (like most netbooks) does not accommodate an internal optical drive, be prepared to spend money on an external DVD drive, as this is almost essential for installing software or watching DVDs</sentcont>
+<sentcont>After buying a small, cheap wireless mouse (with tiny unobtrusive receiver) I find the netbook much easier to use</sentcont>
+<sentcont>Internal SD card reader is very useful for transferring files - Supports SDHC and data transfer is fast (9.5MB/s compared to 650KB/s via my camera cable)</sentcont>
+<sentcont>Built-in webcam & microphone are handy when using msn for videochat</sentcont>
+<sentcont>(There is a mic/line-in socket but you'd only need that for stereo sound input)</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Weak tinny sound from internal speakers (good thru headphones or external speakers though)</sentcont>
+<sentcont>No optical drive (typical for a netbook, not specifically a NC 10 issue) need to buy an external drive, for playing dvd's or installing software</sentcont>
+<sentcont>Touchpad over sensitive and unpredictable</sentcont>
+<sentcont>(still better than my Sony laptop, but easier to use with a mouse) </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1489224#878#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1489224</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Great little Netbook - very well designed</sentcont>
+<sentcont>Fantastic screen, the keyboard is well layed out and with the bigger keys it's very easy to use</sentcont>
+<sentcont>It's very light weight and compact, perfect size to take on the move</sentcont>
+<sentcont>Absolutely delighted with this product would highly recommend it</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The Samsung Netbook cover provided isn't very good, I suppose it's OK as a dust cover</sentcont>
+<sentcont>Had to buy a proper padded 10" Netbook case for better protection</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1061066#23#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1061066</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Battery life excellent - will run for over 7 hours on full charge with light use, eg</sentcont>
+<sentcont>surfing or word-processing</sentcont>
+<sentcont>Screen is clear, evenly lit, bright and glare resistant</sentcont>
+<sentcont>Sound through headphones is excellent</sentcont>
+<sentcont>Keyboard is almost full size, and very nice to type on</sentcont>
+<sentcont>My typing on this keyboard is actually slightly faster and more accurate than on a full-sized keyboard</sentcont>
+<sentcont>Keys are sensibly positioned eg</sentcont>
+<sentcont>'CTRL' is bottom left, 'Enter' key is good size and right-shift is easily found; much better than the keyboards on any other netbooks I looked at</sentcont>
+<sentcont>Can be left on standby by closing lid and returned to the following day with no apparent loss of battery life - an excellent machine</sentcont>
+<sentcont>SD / SD HC card slot useful for data backups</sentcont>
+<sentcont>Wireless connection quick to connect from boot-up and has good range</sentcont>
+<sentcont>There are numerous reviews of the NC10 on the web, mostly very positive; I haven't been disappointed</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Balance is slightly off   tends to tip backwards unless you support it correctly to compensate</sentcont>
+<sentcont>Having used for a couple of weeks now though I soon adjusted to this and no longer find it a problem</sentcont>
+<sentcont>Speakers are a bit weedy, but good enough for general use</sentcont>
+<sentcont>If I want to listen to music then I generally use headphones anyway</sentcont>
+<sentcont>No CD / DVD drive, but if you have another PC on your wireless network you can share the drives on that machine with the NC10 for data and applications</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1443433#955#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1443433</reviewid>
+<reviewtitle>General home user</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Looks great and works like a charm</sentcont>
+<sentcont> I've had no drama's at all since purchasing my NC10, and out of the box it was ready to roll</sentcont>
+<sentcont>Asthetically pleasing, and with a very nice feeling and responsive keyboard, the only one draw-back would have to be the limited space, positioning and feel of the touch-pad</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The mouse touch pad is very small, and could do with a better edge to let the user know exactly where about their finger is without having to look down</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1134747#25#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1134747</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> very attractive functional net book with excellent battery life</sentcont>
+<sentcont>I have upgraded the OS to windows 7, and upgraded RAM to 2Gb, bought a leather case and I finally extremely satisfied with my purchase</sentcont>
+<sentcont>Also purchased logitech Bluetooth mouse which compensates slightly for the small trackpad</sentcont>
+<sentcont>Very nice keyboard facilities and supplied samsung battery manager software gets the most out of the good battery</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Small trackpad, antiquated OS, 10.2" screen required a lot of scrolling and the processor struggles with BBC iplayer</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1551938#720#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1551938</reviewid>
+<reviewtitle>Often on the move</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Compared to other netbooks, the Samsung NC10 has a great battery life</sentcont>
+<sentcont>It's neat and easy to carry around in my handbag</sentcont>
+<sentcont>Bonus</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1178155#19#Samsung_NC10.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>1178155</reviewid>
+<reviewtitle>Sales Assistant Photographer Writer</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> When I was researching the Netbooks on the market, I found they tended to fall into two groups;   1)Nice keyboard</sentcont>
+<sentcont>Shame about the screen</sentcont>
+<sentcont> 2) Nice screen, shame about the keyboard</sentcont>
+<sentcont>  I eventually realised that if I was going to live with the device for any period of time, I had better fork out the little bit extra for the Samsung NC10</sentcont>
+<sentcont> For the size of netbook, the keyboard is superb</sentcont>
+<sentcont>Unlike many of it's rivals, the NC10's 'RETURN' key is an inversed "L"</sentcont>
+<sentcont>This makes typing much easier</sentcont>
+<sentcont>It was one of the main reasons for buying this unit</sentcont>
+<sentcont> The screen is also excellent</sentcont>
+<sentcont>The brightness is lovely & punchy</sentcont>
+<sentcont>The screen surface is slightly matt to reduce reflection</sentcont>
+<sentcont>If you like your battery life long, let the supplied power-save programme controll the screen</sentcont>
+<sentcont>It will run at full brightness when on mains power</sentcont>
+<sentcont>But when on battery, it will dim the screen slightly and then dim it further after a period of non use</sentcont>
+<sentcont>As a result, the already high powered battery gives excellent performance</sentcont>
+<sentcont> The lid on the blue model has a lovely gloss finnish</sentcont>
+<sentcont>Considdering it has a traditional hard drive, the NC10 is surprisingly quiet</sentcont>
+<sentcont>The ram can be upgraded via a small access panel and the power pack is a nice size too</sentcont>
+<sentcont> I have used it for about an hour every day and I can safely say I made the right decision</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The battery (although a nice shape) adds weight</sentcont>
+<sentcont>But you cannot change the laws of physics</sentcont>
+<sentcont>A better battery is a heavier battery</sentcont>
+<sentcont>My previous laptop was a desk top emulating beast</sentcont>
+<sentcont>So the NC10 does not really offend</sentcont>
+<sentcont> Samsung have used a relatively proprietry power socket</sentcont>
+<sentcont>This limits your choice of car chargers ect..</sentcont>
+<sentcont>At least on the high street anyway</sentcont>
+<sentcont> It's lovely that Samsung has supplied a free case, but a little bit of padding, on the bottom at least would have made it perfect</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||samsung_nc10||
+
+1558466#690#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1558466</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Very nice machine</sentcont>
+<sentcont> Took on holiday and travelled with it</sentcont>
+<sentcont> Good battery life, a lot lighter than my laptop and managed to everything I normally do on the netbook that I do on my laptop when travelling</sentcont>
+<sentcont> Including email, remote server access, web page updates, banking etc etc</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None found yet</sentcont>
+<sentcont> a bit pu out that the Samsung recover set up is not more explanatory that it will partition the 160gb drive to two 80gb drives</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+2159438#410#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2159438</reviewid>
+<reviewtitle>General home user</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Don't look any further than the Samsung NC10 </sentcont>
+</sentence></pro> 
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+2095198#189#Samsung_NC10.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>2095198</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Light and portable</sentcont>
+<sentcont> Good display</sentcont>
+<sentcont> I have improved mine by adding a touch screen</sentcont>
+<sentcont> Easy mod</sentcont>
+<sentcont> Built-in WiFi and B/T work without fuss</sentcont>
+<sentcont> Keyboard good size </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The m/c is no longer in production</sentcont>
+<sentcont>Could use a larger h/d</sentcont>
+<sentcont> Touch pad is too small, but mitigated by the use of a b/t mouse</sentcont>
+<sentcont> Rather slow processor</sentcont>
+<sentcont> It's replacement NC 130 doesn't have Bluetooth, and the built in webcam is lower res., so Samsung have sacrificed functionality for price</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1072607#349#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1072607</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Excellent Battery Life good build quality & Nice Design</sentcont>
+<sentcont>Excellent Display Screen</sentcont>
+<sentcont>  Large Hard Drive</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Touch Pad a tad too small</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1069234#174#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1069234</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> I would recommend buying the nc10 my daughter loves it</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1040336#386#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1040336</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> For anyone who needs to use a laptop on the go without the burdon of carrying a larger computer about, the Samsung NC10 is a must</sentcont>
+<sentcont>For value for money there is othing better out there</sentcont>
+<sentcont>If you are looking to buy then look no further</sentcont>
+<sentcont>This netbook will not disappoint</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Can't find any </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1520950#807#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1520950</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Good dimentions,both unit and keyboard Samsung device manager is usefull and easy to use Ease of RAM upgrade Screen easy to see outdoors (On sunny days) Blutooth usefull and responsive </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None so far </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1193471#121#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1193471</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Excellent battery life,very good screen size and quality of display </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Slightly more expensive than the competitors,but in my opinion well worth it </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1946338#186#Samsung_NC10.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1946338</reviewid>
+<reviewtitle>Often on the move</reviewtitle>
+<rating>0.2</rating>
+<pro><sentence>
+<sentcont> Cheap price, lots of excellent reviews - which suggest that it is one of the best netbooks around (I haven't had experience of any others)</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I bought the machine because it was cheap in comparison to others and was happy to use a basic word processor</sentcont>
+<sentcont>However, the netbook that I was delivered didn't have Works on it</sentcont>
+<sentcont>There is no CD rom drive so it is significantly more expensive to purchase word processing packages because downloads are not discounted (unlike CD versions)</sentcont>
+<sentcont>It is worth checking software installed before you buy</sentcont>
+<sentcont>  I also had problems uploading the antivirus program I wanted because the pre installed version would not totally remove and I was therefore unable to upload the antivirus I wanted</sentcont>
+<sentcont> After downloading an update from Samsung, the wireless on the machine stopped working completely</sentcont>
+<sentcont>Following advice on the Samsung website I had to restore the machine from backup</sentcont>
+<sentcont> Overall, having had a number of unexpected problems in the first few days of ownership I returned the netbook</sentcont>
+<sentcont> The mouse pad is small and uncomfortable to use   I ended up with pain in my fingers for some time afterwards</sentcont>
+<sentcont>However, this may be the case for all netbooks</sentcont>
+<sentcont>Another issue to watch for   due to the smaller screen, it is closer to the table and I hunched over when using it</sentcont>
+<sentcont>Netbooks don't seem to be that ergonomic   so I would definitely recommend something with a larger screen and mouse pad for comfortable home use</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+2125731#433#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2125731</reviewid>
+<reviewtitle>Often on the move</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Portability, attractive design, sufficient ports   card reader, excellent wireless connectivity, good inbuilt camera and mic</sentcont>
+<sentcont>I would definitely put Samsung at the top of my list for a full size lap-top</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> screen not quite big enough for some rogrammes I want to use</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1207750#1289#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1207750</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Perfect for a non-techy user, who simply wants what a netbook has to offer...surfing on the move </sentcont>
+<sentcont>The battery life is excellent (although not quite the 7.5 hrs as stated in some online reviews !)</sentcont>
+<sentcont>You'll be pleased you bought it...and I'd advise anybody who is thinking about a netbook to buy the Samsung NC10</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I don't have anything negative to say about it..</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1389762#227#Samsung_NC10.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1389762</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Battery life is great, lasts all day</sentcont>
+<sentcont> Nice and lightweight</sentcont>
+<sentcont> I was worried about the keyboard being small as I'm used to a regular laptop but it's fine, not that much smaller really</sentcont>
+<sentcont> It's really cute</sentcont>
+<sentcont> The choice of colours is good but I'm glad I went for black, didn't fancy a white keyboard (get dirty too quick I bet)</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> It took ages to set up, and has done a 50/50 disk split which I now can't reverse</sentcont>
+<sentcont> What's the point of this</sentcont>
+<sentcont> The backup only needs 10gb max so why isn't this the default??</sentcont>
+<sentcont>Also, the screen settings can't be adjusted to fit some things on</sentcont>
+<sentcont> The settings obviously assume you have a bigger screen and you don't get a scroll bar to scroll down</sentcont>
+<sentcont> For example, if you reply to an email in hotmail with people cc'd in you can't actually get to the bit where you write the message as it's off the bottom of the screen</sentcont>
+<sentcont>For everything else it's great, I love it</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1194156#71#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1194156</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> It seems a perfect balance of portability, performance (including a really functional keyboard) and looks</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I don't seem able to get it to output a larger resolution of display onto a subsidiary screen, but I'm working on that</sentcont>
+<sentcont>I'm using a dongle for the internet, but an internal mobile modem would perhaps have been preferable</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1486314#889#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1486314</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> I am delighted with the Samsung NC10 blue</sentcont>
+<sentcont> It is lightweight and the battery seems to last for ages</sentcont>
+<sentcont> I read numerous reviews about all different makes of notebooks and am so glad that i decided to buy this one</sentcont>
+<sentcont>It is so handy, you can just pop it in your bag and take it anywhere with you</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> There aren't any</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+2151185#416#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>2151185</reviewid>
+<reviewtitle>Often on the move</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> I bought the NC10 for travel purposes, size being the main issue, several friends had one and highly recommended it</sentcont>
+<sentcont> I take my NC10 everywhere now, it fits easily in my normal bag</sentcont>
+<sentcont> Battery is good, I run a program which is heavy on the battery use and the NC10 still gives me 4.5 to 5 hrs life, if I was just browsing or similar you can add a couple of hours to the battery life </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Just getting used to the small screen and touch pad, but that is nitpicking really </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1923276#199#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1923276</reviewid>
+<reviewtitle>professional photographer</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Battery life and performance with a wide range of applications, including downloading and sorting image files from the built-in SD card reader make this little machine fantastic value for money</sentcont>
+<sentcont> It was a replacement for another Samsung (NV5000) now 8 years old but cost 4 times as much as the NC10</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Mouse pad can be tricky to use, especially in the dark as the click bar is flush with the rest of the casing</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1196821#266#Samsung_NC10.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1196821</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> I have had Samsung NC10 for about 3 weeks now and it is a brilliant product</sentcont>
+<sentcont> The battery life is about 6 hours, </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> There are two only bad points</sentcont>
+<sentcont> One is the screen does not go back beyond 45 degrees which can be frustrating depending on your seat position</sentcont>
+<sentcont>Also when using an external monitor the vga out connection should have a screw connection to hold it in as this can easily fall out</sentcont>
+<sentcont>If thinking of buying I would certainly consider the latest version of the NC10 which is available from the US but is slightly more expensive</sentcont>
+<sentcont> The new NC20 is 2" bigger and starts to creep towards not being as portable as the NC10</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+2203733#408#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2203733</reviewid>
+<reviewtitle>Often on the move</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> battery life</sentcont>
+<sentcont> speed, what it does, portability, keyboard(size and feel) with an external DVD recorder and a memory stick it does everything I need</sentcont>
+<sentcont>   Email, browsing, spreadsheets, documents  and presentations, games, skype, music,   What more do I need</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> cannot think of a  single one</sentcont>
+<sentcont>  I used to think there was nothing better than HP however the NC10 has opened my eyes</sentcont>
+<sentcont>   I recently used a samsung N150  but I prefer the NC10</sentcont>
+</sentence></con>
+
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1955755#492#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1955755</reviewid>
+<reviewtitle>Often on the move</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Had mine for well over a year and travel around a lot so great for travelling</sentcont>
+<sentcont>Loved mine so much that i got one for my 7 year old son as a first computer</sentcont>
+<sentcont>He loves it too!</sentcont>
+<sentcont> Would highly recommend the NC10 or one of sansung newer model but NC10 is great </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1422010#1002#Samsung_NC10.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1422010</reviewid>
+<reviewtitle>Business user</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Good design, keyboard feel really good</sentcont>
+<sentcont> Performance better than my laptop</sentcont>
+<sentcont>Battery life very nearly meets the manufacturers claims</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Widescreen does not always display all of a screen when running certain games </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1246289#236#Samsung_NC10.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1246289</reviewid>
+<reviewtitle>Gadget freak</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Battery life</sentcont>
+<sentcont>Full extended desktop graphics support</sentcont>
+<sentcont>3 USB ports</sentcont>
+<sentcont>Bundled Samsung utilities don't lock you out of any of the normal XP configuration options</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Sometimes a bit slow to load apps</sentcont>
+<sentcont>Wide ratio screen is a pain because you have to scroll down to see the bottom of conventional web pages</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1711285#215#Samsung_NC10.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1711285</reviewid>
+<reviewtitle>General home user</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> The NC10 is light, stylish and does everything i need</sentcont>
+<sentcont>It is fast enough to cope with all internet applications and im able to get a good deal of work done from home now</sentcont>
+<sentcont>I'm extremely pleased with it </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Screen can sometimes be a little small but decrease the magnifying size of windows and it is a lot easier to use</sentcont>
+<sentcont>Remembering a notebook does not have a disc drive is also sometimes a problem</sentcont>
+<sentcont>Battery life is probably the one big hold up with the NC10 with a full nights charge only giving two hours of battery life</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1548370#734#Samsung_NC10.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1548370</reviewid>
+<reviewtitle>Often on the move</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Quick to boot up, Good bright display, Good keyboard</sentcont>
+<sentcont>Seems to be well made </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Some times get the dreaded blue screen when using Skype and have to re boot </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1046406#379#Samsung_NC10.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>1046406</reviewid>
+<reviewtitle>Careful buyer intermediate knowledge</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Superb display, good keyboard, excellent battery life</sentcont>
+<sentcont> All worked brilliantly straight from the box - after configuring language settings etc</sentcont>
+<sentcont>in Windows XP and installing the various bits of software (Samsung Backup etc.)</sentcont>
+<sentcont>Picked up my wireless network immediately and connected no problem</sentcont>
+<sentcont>Should be on anyone's netbook shortlist</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> left shift key smaller than I'm used to and I keep missing it</sentcont>
+<sentcont> Very minor when you consider what has to be crammed into such a small size</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1097336#166#Samsung_NC10.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>1097336</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> The battery seems to last forever</sentcont>
+<sentcont>Small design with a big feel</sentcont>
+<sentcont>Excellent sized keyboard and screen, no more horizontal scrolling on web pages unlike 7" screen on my previous netbook</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> A bit more expensive than some of the comparable offers in the market place</sentcont>
+<sentcont>Hopefully the Samsung reliability will be worth the extra</sentcont>
+<sentcont>The only other downside is the touch pad, it's not central underneath the excellent keyboard and the sensitivity can be a bit hit and miss, but neither of these points are bad enough to stop me recommending it to friends and family</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1096062#1429#Samsung_NC10.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1096062</reviewid>
+<reviewtitle>IT consultant 40ish</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Great all round, surprising punch and performance</sentcont>
+<sentcont>It's only going to be top end gaming etc that you can't do on this</sentcont>
+<sentcont>Bought as student tool for daughter....I want one now, my Lenovo thinkpad feels like some sort of malformed hulk!!</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> widescreen layout of screen takes some getting used to</sentcont>
+<sentcont>display resolution is limited to 1024x768 </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1533483#797#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1533483</reviewid>
+<reviewtitle>General home user</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Love my new NC10 Netbook</sentcont>
+<sentcont>It is brilliant, use it non-stop every day</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No bad points</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1193136#1362#Samsung_NC10.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1193136</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Excellent battery life</sentcont>
+<sentcont>Good quality display</sentcont>
+<sentcont>Easy to use </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1151645#67#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1151645</reviewid>
+<reviewtitle>Lovin the nc10</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Brilliant notebook...never known anything to load up so fast....love it</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> none</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1392026#1105#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1392026</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> My wife is delighted with the NC10</sentcont>
+<sentcont> Light weight, loads of battery life and easy to use</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Keyboard needs getting used to   slightly different layout </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1416744#1018#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1416744</reviewid>
+<reviewtitle>General home user</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> battery life, user friendly, stylish , very portable </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> doesn't interface with our video camera.</sentcont>
+<sentcont>very upsetting since we bought the nc10 for that function </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1041475#385#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1041475</reviewid>
+<reviewtitle>middle aged gadget freak</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> The Samsung has proved to be a very good purchase, bought as a gift for my wife a computer novice and she is managing it very well</sentcont>
+<sentcont>The keyboard is larger than most net books and the design of the Samsung surpasses others</sentcont>
+<sentcont>The WiFi connection was excellant and set up very easy</sentcont>
+<sentcont>Thoroughly recommend </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1438830#972#Samsung_NC10.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1438830</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Two weeks between charges, small and lightweight, loads of disk spare</sentcont>
+<sentcont>An ideal download box for the digital photographer, with a big enough screen to do minor touch-ups for upload or instant display</sentcont>
+<sentcont>Especially when used with a portable USB powered DVD burner</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Mouse pad is so small and has a habit of going into scroll mode unexpectedly, would have been better to you a joystick style "mouse tit" instead</sentcont>
+<sentcont>But a small USB mouse as an extra soon takes care of that</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1980623#478#Samsung_NC10.txt####Manual Annotation Score =1
+
+<websource>Reevoo</websource>
+<reviewid>1980623</reviewid>
+<reviewtitle>Often on the move</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> great little netbook...considered a macbook air but how can you justify it with perfomnce and price rartio of the NC10</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1471963#935#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1471963</reviewid>
+<reviewtitle>Often on the move</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Overall very pleased with the Samsun NC10</sentcont>
+<sentcont>Portability, style and performance all very good as is the battery life</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No bad points yet, although the touchpoint mouse takes some getting used to</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1246124#237#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1246124</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Light, very responsive and fast especially after using Vista</sentcont>
+<sentcont> I cannot recommend this enough</sentcont>
+<sentcont> The NC10 has taken everything I've thrown at it including Office 2007 and Vista 2007</sentcont>
+<sentcont> Syncing with my HP IPAQ via Bluetooth has never been easier</sentcont>
+<sentcont> So far the battery life has been well in excess of 5 hours</sentcont>
+<sentcont>Upgrade of RAM simple</sentcont>
+<sentcont> Brilliant</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> There are none provided you use the NC10 as a Netbook and not as a word processor as some deluded people think they can</sentcont>
+<sentcont> You also need to get used to not seeing a full web page</sentcont>
+<sentcont> Apart from that</sentcont>
+<sentcont>Nothing</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1179217#292#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1179217</reviewid>
+<reviewtitle>Keen user not professional</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Beautiful machine, good in all respects</sentcont>
+<sentcont>Small, reasonably light, easy to use and very reliable</sentcont>
+<sentcont>I love my NC10 and often use it instead of my HP laptop or Dell laptop</sentcont>
+<sentcont>fantastic for use as a browser and mail machine when travelling abroad</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Heavier than some alternatives   but mainly due to HDD and if weight is the main criterion use an SSD</sentcont>
+<sentcont>I use 2 desktops and 2 laptops and find the NC10 a great machine for ultra portability, and the only noticable downside is the lack of a CD drive (but an external drive is easy to use)</sentcont>
+<sentcont>RAM a bit light on occassions but 1Gig enough for most uses</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1346605#1197#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1346605</reviewid>
+<reviewtitle>Photographer and NC10 user</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Wonderful battery life which is still working for much longer than I expected...it just seems to keep going</sentcont>
+<sentcont>Excellent netbook, does everything you expect and does it very, very well</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None found yet over the last six months</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1835495#104#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1835495</reviewid>
+<reviewtitle>Often on the move</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Bought for my teenage daughters who were a bit sceptical about having a netbook having had laptops previously but they absolutely love the NC10</sentcont>
+<sentcont>Very light and great size for moving around with, good performance and reasonable battery life in comparison to similar models</sentcont>
+<sentcont>Would definatley recommend</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> cant think of anything bad to say, kids love them</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1076381#347#Samsung_NC10.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1076381</reviewid>
+<reviewtitle>i have an nc10</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> with a sleek black finish it looks the business (until the dreaded fingerprints arrive) but with a fantastic battery life of almost 4 hours when running games applications and 5 -6 hours when surfing its all your going to need for a netbook</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The mouse pad is a little small but you get used to it</sentcont>
+</sentence></con>
+
+
+query=broken samsung nc10 screen? hardware||display||
+
+1478782#910#Samsung_NC10.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1478782</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> excellent display, battery life brilliant </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> none </sentcont>
+</sentence></con>
+
+

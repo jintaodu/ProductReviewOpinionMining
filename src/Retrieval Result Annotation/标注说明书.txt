@@ -1,0 +1,125 @@
+	
+	大家好，我现在在做一个opinion retrieval from product review 的问题，烦请大家帮忙标注数据。
+
+	opinion retrieval的定义是检索到与query中的topic相关且含有opinion的文档。
+	那么这里面有两个关键点：1）和topic相关；2）文档中对topic含有评价信息，即opinion信息
+
+	本实验中，例如Softwares For Nokia N95? 这样的query，用户的查询意图是想检索到对这款手机软件当面的总体评价，
+	query中隐含的信息（||为topic之间的分隔符，隐含查询信息会在文档给出，是重要的参考）：
+	Softwares For Nokia N95?  nokia n95||voice||operating system||e-mail||copy cut and paste||voice recorder||hscsd||internet access||voicemail||graphics||ringtone||cell phone||
+	multi-tasking||video||accessibility||texting||keyboard||microphone||messaging_data services||third party application||connectivity||
+	vibrating alert||interface||gps system||app store||wifi||data service||multimedia||mobileme||3g network||apps||internet||browsing||
+	
+	因此对于这个query，topic就是上面列的那些。
+
+	打分规则：
+		Unrelevant to the topics: 0
+		Relevant to the topics without opinions : 1
+		Relevant to some topics(less than three topics, <=3) with opinions : 2
+		Strong relevant to most topics(more than three topics, >3) with opinions : 3
+		Strong relevant with higher helpfulness(语言简洁明了，文字规整，能够突出对topic的评价，并且最好是已经买过该商品的用户，因为用过的人更有发言权,含有对情感的解释，为什么持有这样的观点)：4
+
+	需要说明的是分值是相对的概念，大部分query的隐含信息较少（就不能以3个相关的topic的界限判定2分和3分），那么含有topic多的为3分，少的为2分。
+	4分是把文档的质量信息考虑进来，就是你觉得这篇文档对你有用没有。（类似于在amazon上的“此评论是否有用”投票功能）
+	标注文档中的检索结果顺序已经被打乱，检索时候先把全部文档预览一下，标注完成之后，回过头来对前面的觉得打分不合理的再进行调整。
+	文档的内容用XML格式呈现，<sentcont>是句子内容标签。
+	
+	在每篇文档的“Manual Annotation Score =”处给你的打分。例如下面两篇文档的打分分别为3和4（第一篇没有第二篇的opinion信息多，第二篇是消费者写的，第一篇貌似是手机测评机构写的）
+
+1. 1111834#13734#nokia_n95.txt####Manual Annotation Score =3
+<websource>Gsmarena</websource>
+<reviewid>1111834</reviewid>
+<reviewtitle></reviewtitle>
+<rating></rating>
+<freereview><sentence><sentcont>Nokia N95 3G SmartPhone Review  The Nokia N95 is a 3G smartphone which comes is a clever two way slider opening mechanism.</sentcont></sentence>
+<sentence><sentcont>The phone can be opened either way which provides the user with a keypad when the screen is moved in the up position, a set of multimedia controls when the screen is moved in the down position & when in the closed position the user can use the navigation & shortcut keys.</sentcont></sentence>
+<sentence><sentcont>The user can use their Nokia N95 in landscape mode which is when the screen is moved to the down position which is ideal for all multimedia purposes & accessing the Internet.</sentcont></sentence>
+<sentence><sentcont>The screen is 2.6 Inches in size & provides a 240 x 320 pixel screen resolution on a 16 million colour TFT display.</sentcont></sentence>
+<sentence><sentcont>The mobile handset weighs only 120 gram which is unbelievable considering all the built in technology & capabilities.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 measures 99 x 53 x 21 mm which provides the user with a useable handset which has a solid feel to it.</sentcont></sentence>
+<sentence><sentcont>The phone comes with 160 bytes of internal memory & the user can expand the phones memory capabilities by adding a MicroSD?</sentcont></sentence>
+<sentence><sentcont>memory card up to 2 Gbytes.</sentcont></sentence>
+<sentence><sentcont>The N95 comes with a 128 Mbytes MicroSD?</sentcont></sentence>
+<sentence><sentcont>memory card included wit the start up kit.</sentcont></sentence>
+<sentence><sentcont>The phone comes with an integrated GPS navigation feature which supports maps for more than one hundred countries.</sentcont></sentence>
+<sentence><sentcont>The GPS navigation system displays the maps in clear detail on the 2.6 inch colour screen & will assist the user to find their desired location.</sentcont></sentence>
+<sentence><sentcont>The N95 works on a Symbian operating system with S60 which provides the user with high quality smartphone applications which include photo & video editing programs, music player programs & management applications.</sentcont></sentence>
+<sentence><sentcont>The user can enjoy their phone world wide as the N95 works over a quad band network which includes GSM 850, GSM 900, GSM 1800, GSM 1900 & the Nokia N95 supports HSDPA which provides high speed data.</sentcont></sentence>
+<sentence><sentcont>The user can enjoy an advanced Internet experience on their mobile phone as the phone supports XHTML & HTML Internet browsing.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 is a highly capable mobile handset that offers the user high quality connectivity to compatible devices & fast speed data transfer rate thanks to EDGE technology, WLAN Wi-Fi, USB cable connection, infra red Pop Port?</sentcont></sentence>
+<sentence><sentcont>connection & Bluetooth?</sentcont></sentence>
+<sentence><sentcont>wireless technology.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 comes with a fitted battery which will provide the user with up to 220 hours of standby battery time & approximately six & a half hours talk time.</sentcont></sentence>
+<sentence><sentcont>The user can take a still photo or record video clips using the built in 5 megapixel camera feature which comes with a Carl Zeiss optics tessar?</sentcont></sentence>
+<sentence><sentcont>lens.</sentcont></sentence>
+<sentence><sentcont>The camera facility is both user friendly & a high quality feature for the user to enjoy.</sentcont></sentence>
+<sentence><sentcont>The camera comes with a digital zoom, flash option & an auto focus feature.</sentcont></sentence>
+<sentence><sentcont>The user can select a style of scene they wish to capture & change the colour tones to they desire for their photo or video clip.</sentcont></sentence>
+<sentence><sentcont>The N95 makes it all so easy for the user to capture the perfect finish to their photos & video clips.</sentcont></sentence>
+<sentence><sentcont>The video recorder feature provides the user with the high quality viewing experience that is gained from a DVD type recording.</sentcont></sentence>
+<sentence><sentcont>The user can use the second camera to take part in a video call which brings a real feel to a face to face call experience.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 comes with music features which include a stereo FM radio, visual radio & a music player which supports MP3, AAC, AAC+, eAAC+ & WMA music formats.</sentcont></sentence>
+<sentence><sentcont>The user can use their music playing features when the phones screen is in it's slide down position which allows the user to view their music information in the landscape mode.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 has been designed with high quality & easy to operate multimedia features.</sentcont></sentence>
+<sentence><sentcont>The phone comes complete with a set of headphones which allows the user to have a private listening experience.</sentcont></sentence>
+<sentence><sentcont>The visual radio feature allows the user to gain access to information which has been provided by the radio station which is being listened too.</sentcont></sentence>
+<sentence><sentcont>The music management application will assist the user when transferring music files & managing their music.</sentcont></sentence>
+<sentence><sentcont>The user can stay in contact with compatible contacts by using the messaging service on their N95 which include text messaging, multimedia messaging, email service & instant messaging.</sentcont></sentence>
+<sentence><sentcont>The multimedia messaging service allows the user to create, send & receive messages with text input, with either a photo or a video clip which can be enhanced with music.</sentcont></sentence>
+<sentence><sentcont>The email service allows the user to stay in contact with any compatible email contacts & the email service supports file attachments in popular file formats.</sentcont></sentence>
+<sentence><sentcont>The user can have an online conversation which other instant messaging contacts which works like an online chat with text & symbols.</sentcont></sentence>
+<sentence><sentcont>The Nokia N95 comes with voice features which include voice dialling, a voice record which is ideal for recording a reminder or memorandum & voice commands.</sentcont></sentence>
+<sentence><sentcont>The user can user the handsfree speakerphone which allows the user to have a call over the phones speakers without having to hold the handset.</sentcont></sentence>
+</freereview>
+	
+19. 2437538#3#nokia_n95.txt####Manual Annotation Score =4
+<websource>Cnet</websource>
+<reviewid>2437538</reviewid>
+<reviewtitle>One phone to suit all your needs</reviewtitle>
+<rating>0.7</rating>
+<pro><sentence>
+<sentcont> Great connectivity and wide range of software change the way you use the internet</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Low Battery Life, Easily heated up during long calls or VoIP calls, Music player errors, GPS cant connect, 2-way slider</sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I eagerly awaited the launch of this phone and got it on the first day of launch.</sentcont></sentence>
+<sentence><sentcont>It was great in terms of design.</sentcont></sentence>
+<sentence><sentcont>Although in many ways it looks like a brick, compared to the N80, the N95 is slimmer and lighter and packs more features.The</sentcont></sentence>
+<sentence><sentcont>best part was the wifi connectivity it offered.</sentcont></sentence>
+<sentence><sentcont>Although in terms of battery life, you may not be able to sustain the handphone while surfing wirelessly all day, it did change the way i used the internet.</sentcont></sentence>
+<sentence><sentcont>Booking tickets online was a breeze (i could just connect in a hotspot at starbucks).</sentcont></sentence>
+<sentence><sentcont>I could still be on MSN while away from my computer.</sentcont></sentence>
+<sentence><sentcont>I used the VoIP whenever i could find a hotspot, thus saving on hefty phone bills through free calls.</sentcont></sentence>
+<sentence><sentcont>There were many.</sentcont></sentence>
+<sentence><sentcont>Surely the E65 would have offered me the same wifi advantages plus a longer battery life, but this was running on Symbian OS 9.2 and had a larger and clearer display.The</sentcont></sentence>
+<sentence><sentcont>2-way slider was great when it came to viewing videos.</sentcont></sentence>
+<sentence><sentcont>Having such a large screen and speakers that could go real loud, it was almost an ipod video by itself.</sentcont></sentence>
+<sentence><sentcont>I rarely used the music player buttons however and the only reason i found myself sliding the other way often is to rotate the display view.The 5 megapixel camera is a godsend.</sentcont></sentence>
+<sentence><sentcont>Although i could not really take clear pictures compared to a normal 7megapix camera, it was great for a camera phone.</sentcont></sentence>
+<sentence><sentcont>The bigger deal was the video.</sentcont></sentence>
+<sentence><sentcont>Videos have never been this clear on a camera phone before.I didn't try using the visual radio service as i wanted to avoid any GPRS charges so as to keep my bill as low as possible.</sentcont></sentence>
+<sentence><sentcont>So far my bill dropped by about 30% with VoIP calls and wifi surfing instead of GPRS.Here comes the sad news - This phone can be equally as bad.I used it almost as i would use PC.</sentcont></sentence>
+<sentence><sentcont>Although i cannot view videos on youtube, i was able to download some and view on the realplayer.</sentcont></sentence>
+<sentence><sentcont>While i was at it, once i stumbled upon some 50mb video.</sentcont></sentence>
+<sentence><sentcont>Halfway through the download i was worried if the phone could support such a large file and cancelled the download.</sentcont></sentence>
+<sentence><sentcont>My web became inaccessible.</sentcont></sentence>
+<sentence><sentcont>Everytime i clicked on web, it would auto-close application.</sentcont></sentence>
+<sentence><sentcont>Even after a few restarts the phone was still the same.</sentcont></sentence>
+<sentence><sentcont>I then had to install a browser software to clear the cache (the root of the problem).Another</sentcont></sentence>
+<sentence><sentcont>major problem is that the N95 auto-closes applications when they are not in use for a small period of time.</sentcont></sentence>
+<sentence><sentcont>Supposing you were in the middle of a game and had to attend a 2 minute call.</sentcont></sentence>
+<sentence><sentcont>Once you're done, your game has already been closed.I also had some embarrassing moments with the Music player.</sentcont></sentence>
+<sentence><sentcont>I'm happy that it came with the headphone jack.</sentcont></sentence>
+<sentence><sentcont>However, when i accidentally loosened the connection between the jack and the phone, the music player automatically switched to speakers and started blasting my music in public.Another</sentcont></sentence>
+<sentence><sentcont>problem was that when using the provided earphones with the music control, the music is momentarily played on the speaker for a second or two when you're switching tracks while playing the music.</sentcont></sentence>
+<sentence><sentcont>Yet another embarrassing moment.The 2 way slider is another big problem.</sentcont></sentence>
+<sentence><sentcont>So much for advertising "What's in your pocket?" when the phone is so pocket unfriendly.</sentcont></sentence>
+<sentence><sentcont>Imagine this, when the phone is put inside the jeans pocket, it tends to slide upwards to reveal the keypad since the slider is that smooth.</sentcont></sentence>
+<sentence><sentcont>It slides the other way when it is removed from the pocket.</sentcont></sentence>
+<sentence><sentcont>So usually when i take it out, the display is in landscape mode and that makes me look unprofessional sliding my phone all the time.My 1.5 month old N95 recently went for repairs after the display light died.</sentcont></sentence>
+<sentence><sentcont>The phone was still perfectly working.</sentcont></sentence>
+<sentence><sentcont>Just the display backlight.</sentcont></sentence>
+<sentence><sentcont>It was a slow death from the heavy usage from someone like me.</sentcont></sentence>
+<sentence><sentcont>Thankfully there's a firmware upgrade for this phone and i hope it will solve some of the many problems for the N95.</sentcont></sentence>
+</freereview>

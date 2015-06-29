@@ -1,0 +1,1101 @@
+Result size=26
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+1880928#195#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1880928</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Very good image quality, great lense from very wide to telephoto, intergrates well with the Panasonic TV we have</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Blank section on rotary control makes it possible to set the camera to no mode, it should have a stop to prevent this</sentcont>
+</sentence></con>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+1559703#43#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1559703</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> There's just so many to list..</sentcont>
+<sentcont>went out on a day trip to Go Ape and took this camera round with me</sentcont>
+<sentcont>and filmed people and myself jumping off things and going down zip wires, All i can say for such a easy camera to use its photos and videos are out of this world.</sentcont>
+<sentcont>if your looking for one at this price and size then this is the one for you.</sentcont>
+<sentcont>Hope it helps </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> i would say to get a memory card made by PANASONIC as i went on holiday with a diffrent make of memory card and after a few days of taking photos it stopped working, this is nothing to do with the TZ7..</sentcont>
+<sentcont>I'm just saying don't go cheap on HDSC....!!!</sentcont>
+</sentence></con>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+000003#26#Panasonic_Lumix_DMC.txt####Manual Annotation Score =4
+
+<websource>Viewpoints</websource>
+<reviewid>000003</reviewid>
+<reviewtitle>Panasonic Lumix DMC-ZS3</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Optical image stabilization, Compact size, Large LCD display, Fast performance </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Slightly soft images, Short battery life, Few manual options, No RAW support </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>Most ultra-zoom digital cameras are big and bulky, but the 10.1-megapixel,        12x Panasonic Lumix DMC-ZS3?? has a unique optical system that        makes it one of the only pocket-sized ultra-zoom digital cameras.</sentcont></sentence>
+<sentence><sentcont>The Panasonic        Lumix DMC-ZS3 measures a minuscule 2.35 inches by 4.07 inches by 1.29 inches        and weighs 7.2 ounces.</sentcont></sentence>
+<sentence><sentcont>Compared to more advanced ultra-zooms like the,        that's up to an inch shorter, three-quarters of an inch narrower and two        inches thinner.</sentcont></sentence>
+<sentence><sentcont>The Panasonic Lumix DMC-ZS3 is also more than 12 ounces      lighter than the heavyweight SX10 and 6 ounces less than the middleweight      FZ28.</sentcont></sentence>
+<sentence><sentcont>The advantage in size comes with trade-offs in features.</sentcont></sentence>
+<sentence><sentcont>Simply put, the      Panasonic Lumix DMC-ZS3 is strictly a point-and-shoot camera.</sentcont></sentence>
+<sentence><sentcont>The 12x zoom      lens has optical image stabilization but a relatively short 25 mm to 300      mm focal length range.</sentcont></sentence>
+<sentence><sentcont>There's no electric viewfinder, only the 3-inch LCD      display, which is larger those found on the SX10 and FZ28.</sentcont></sentence>
+<sentence><sentcont>And while Panasonic      Lumix ZS3 comes with HD movie mode and can record to SD, SDHC (high capacity)      and MultiMedia memory cards (MMC), it lacks RAW (uncompressed image file)      support, manual modes, a high-speed shutter and burst modes.</sentcont></sentence>
+<sentence><sentcont>However, reviewers      say it's easy to use, with 22 scene modes, an intelligent ISO feature for      reducing image blur, zippy performance and good picture but slightly soft      image quality.</sentcont></sentence>
+<sentence><sentcont>However, anyone wanting more control might take a look at      the highly rated Panasonic Lumix DMC-FZ28.</sentcont></sentence>
+<sentence><sentcont>It isn't nearly as compact, but      the Panasonic Lumix FZ28 has an 18x zoom lens, more manual controls, and      supports RAW image and HD format -- and all for a lower price.????</sentcont></sentence>
+</freereview>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+2237990#229#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2237990</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Easy to use Great to be able to plug into our Panasonic TV - and it plays music along with the slide show too!</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+1541730#386#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1541730</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> 24 - 300mm stepless zoom</sentcont>
+<sentcont>Ultra-wide-angle Leica lens</sentcont>
+<sentcont>3" monitor</sentcont>
+<sentcont>Clear, easily navigable menus</sentcont>
+<sentcont>Ability to shoot indoors without flash (tripod recommended though!)</sentcont>
+<sentcont>Intelligent operation & auto-focus</sentcont>
+<sentcont>Bought this instead of a Canon Powershot G10 (zoom shorter and suffers chromatic abberations) and a Panasonic Lumix DMC-LX3 (zoom too short) due to price differentials of ?100 and ?60 respectively, and being the better all-rounder compact overall</sentcont>
+<sentcont>Have recommended it to two friends who have now bought 5 between them!!</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> 3" monitor stands proud of the body and is easily scratched</sentcont>
+<sentcont>Top plate options dial far too loose</sentcont>
+<sentcont>?45 for a spare Panasonic branded battery is extortionate</sentcont>
+<sentcont>Finger grip inadequate, and fingers of left hand can easily obscure the infra red assist lamp </sentcont>
+</sentence></con>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+10025748#16#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Cnet</websource>
+<reviewid>10025748</reviewid>
+<reviewtitle>Great ultra zoom camera.</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Great image quality Price 10x Zoom in compact case Superb quality HD video High quality Leica lenses Work fast in all conditions (fast auto focus with firmware ver</sentcont>
+<sentcont>1.2) Small battery charger Brilliant screen </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Battery life for about 300 shots Not so easy to use Small menu buttons Microphone placement No manual controls </sentcont>
+</sentence></con>
+<freereview></freereview>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+000006#29#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Viewpoints</websource>
+<reviewid>000006</reviewid>
+<reviewtitle>The Panasonic Lumix ZS3 is a great camera.</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> HD Video </sentcont>
+</sentence></pro>
+<freereview><sentence><sentcont>The Panasonic ZS3 is a great camera.</sentcont></sentence>
+<sentence><sentcont>It shoots HD video and this looks quite good.</sentcont></sentence>
+<sentence><sentcont>It does have some focusing issues when you are zooming in while recording video, but most cameras cannot even zoom in while recording so this is still a positive for the camera.</sentcont></sentence>
+<sentence><sentcont>The camera does not have very many manual settings, but there are a lot of pre-set settings,so there is always a setting for your location.?? Overall this is a great camera and you will be glad you purchased it.</sentcont></sentence>
+</freereview>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+1552250#71#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1552250</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Excellent easy to use with AI turned on just point and shot; also great to be able to see results on large three inch screen </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Lack of guidance from Panasonic on card capacityies and likely configurations </sentcont>
+</sentence></con>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+1544354#155#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1544354</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Quality of image, easy to switch between stills and video, compact , good lens excellent rear screen </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> slightly confusing menu system, mode dial is too easy to know out of position, limited connectivity , flash not great</sentcont>
+</sentence></con>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+000004#27#Panasonic_Lumix_DMC.txt####Manual Annotation Score =1
+
+<websource>Viewpoints</websource>
+<reviewid>000004</reviewid>
+<reviewtitle>Panasonic Lumix ZS3 - Great Camera! Recommended!</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> great color and quality of pictures, has lots of features </sentcont>
+</sentence></pro>
+<freereview><sentence><sentcont>I purchased this camera a couple months ago and it has great quality.</sentcont></sentence>
+<sentence><sentcont>One of its best characteristics is the AVHCD Lite HD Video, which can record for longer amounts of time using less storage capacity.</sentcont></sentence>
+<sentence><sentcont>I bought a 16gb SDHC card, and I can record up to 2 hours of HD Video at 1280 x 720 px!</sentcont></sentence>
+<sentence><sentcont>It also has many good preset configurations in the Exposure Control Mode such as: Candle, Beach, Transfor, Beach & Surf, Snow, High sensitivity, Starry sky, Soft Skin, Baby1, Baby2, Portrait mode, Aerial photo, Hi-speed burst, Film Grain, pin hole, party/indoor, night portrait, self-portrait, Pet, Scenery, Food, Fireworks, Low light, Night scene, underwater, sports mode, sunset.</sentcont></sentence>
+<sentence><sentcont>I love taking pictures at night or at sunset and that last option is great for that, it takes some beautiful picture.</sentcont></sentence>
+<sentence><sentcont>Oh, and the 12x optical zoom in such a small camera is just great, fantastic.?? Pictures when there's not too much light tend to be a bit grainy, but you can take some really nice shots.</sentcont></sentence>
+</freereview>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+000001#24#Panasonic_Lumix_DMC.txt####Manual Annotation Score =1
+
+<websource>Viewpoints</websource>
+<reviewid>000001</reviewid>
+<reviewtitle>great for taking family pictures use the panasonic camra.</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> taking pix's of great moments </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> missing out of those moments </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>the panasonic camra is one of the best.it</sentcont></sentence>
+<sentence><sentcont>has a very good use for outdoors and indoors pictures...you can zoom in and zoom out with out a bloor.great for parties and just for goofing off with a friend or a family member.ever</sentcont></sentence>
+<sentence><sentcont>sence i got my panasonic camra ive used it to take all kinda of pictures.</sentcont></sentence>
+<sentence><sentcont>it is great taking pictures of my little emily monster,watching her growing up is the best thing in the world,and catching it on camra is so wonderful.</sentcont></sentence>
+<sentence><sentcont>and when my little girl gets older,i can show her the crazy tings she did.</sentcont></sentence>
+<sentence><sentcont>and also im the type of person that loves taking crazy pictures of myself too lol.</sentcont></sentence>
+<sentence><sentcont>and the veido on it is wonderful.</sentcont></sentence>
+<sentence><sentcont>my.</sentcont></sentence>
+<sentence><sentcont>husband is in a band and it catches everything.sound is awsome too lol.this product is a very wonderful product that very body should have one of lol.i know im very glad that i have one.so</sentcont></sentence>
+<sentence><sentcont>there for i think that the panasonic camra is the best camra to buy,use and have.</sentcont></sentence>
+</freereview>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+1606270#81#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1606270</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Image quality easy to use build quality Panasonic had done it again with the DMC, wither you are an amateur or professional photographer this provides everything you require</sentcont>
+<sentcont>With the zoom capability while filming a video if HD you can reduce what you have to carry around in a convience excellent pirece of kit</sentcont>
+<sentcont>It did look at the Canon sx200 is, however this did not meet the all round quality of the Panasonic DMC0-TZ7 </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> As yet not found any real bad points which would put anybody of seriouly considering this model again any of the competition</sentcont>
+</sentence></con>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+10061138#13#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Cnet</websource>
+<reviewid>10061138</reviewid>
+<reviewtitle>Don't buy this product.</reviewtitle>
+<rating>0.4</rating>
+<pro><sentence>
+<sentcont> It took very good outdoor pictures</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The LCD picture broke in 9 months after purchase went on the internet and found it is a problem with that screen</sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>We went to Costco where we purchased the camera for $270.00 and they referred us to Panasonic who said send the camera back to a Texas address and we willl send you a refurbished camera for free.</sentcont></sentence>
+<sentence><sentcont>That was not the truth we got a letter stating the refurbished camera would cost $192.34.</sentcont></sentence>
+<sentence><sentcont>We called Costco and a one hour exchange took place and the bottom line is we are getting our broken camera back and never buying a Panasonic product again dropping out of our Costco memembership there are more relieable stores to shop in.</sentcont></sentence>
+<sentence><sentcont>They should have given us a credit but this way they are willing to lose thousands of customers because at least 1,000 people pass through my office a month and this story will be posted in the waiting room for all to see.</sentcont></sentence>
+</freereview>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+000005#28#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Viewpoints</websource>
+<reviewid>000005</reviewid>
+<reviewtitle>Lumix is perfect for on-the-go photography</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> HD Video </sentcont>
+</sentence></pro>
+<freereview><sentence><sentcont>We own a large Canon Digital Rebel, but my only complaint was that I wanted to be able to take pictures and video of our kids without having to always lug that big camera (and the video camera).??</sentcont></sentence>
+<sentence><sentcont>I asked my hubby (the techy in our family) and after much research, this is what we ended up with.??</sentcont></sentence>
+<sentence><sentcont>I love this camera.??</sentcont></sentence>
+<sentence><sentcont>It is extremely portable and does just what I need.??</sentcont></sentence>
+<sentence><sentcont>It fits in my purse or diaper bag, so I can always have it handy.??</sentcont></sentence>
+<sentence><sentcont>The LCD screen is very clear and the video camera does a nice job with recording.</sentcont></sentence>
+<sentence><sentcont>I have been pleased with the picture quality of the pictures I have gotten out of this camera.??</sentcont></sentence>
+<sentence><sentcont>This is the kind of camera that anyone with little or lots of photo experience can use and enjoy.??</sentcont></sentence>
+<sentence><sentcont>For the price, this has been an excellent camera.??</sentcont></sentence>
+<sentence><sentcont>I would definitely recommend this camera to anyone who is looking for a higher megapixel camera that can also do video recording, as this is great at both.</sentcont></sentence>
+</freereview>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+2250107#227#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>2250107</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Nicely built camera, quality Panasonic</sentcont>
+<sentcont> Very good zoom</sentcont>
+<sentcont>Nice images</sentcont>
+<sentcont>facial recognition</sentcont>
+<sentcont> lots of manual controls if you want to use them</sentcont>
+<sentcont> Pretty fast press-to-shutter time</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Zoom is slow while doing movies</sentcont>
+<sentcont>The shutter button is a bit confusing   I keep pressing on the selection wheel instead</sentcont>
+<sentcont>It doesn't use a standard mini usb connector, yet another special cable to cart around</sentcont>
+</sentence></con>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+1967240#31#Panasonic_Lumix_DMC.txt####Manual Annotation Score =4
+
+<websource>Reevoo</websource>
+<reviewid>1967240</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> The DMC TZ7 is a brilliant camera</sentcont>
+<sentcont>It takes great quality photos with vibrant colours, and lots of detail</sentcont>
+<sentcont>The 12x optical zoom and wide-angle lens are great for people who want to take shots of landscapes and large group shots</sentcont>
+<sentcont> The HD video quality is excellent too, filming in 720p at highest settings</sentcont>
+<sentcont>The great things about the video are: the ability to use the full 12x optical zoom, the dedicated record button, and the stereo microphone which does a great job of picking up all your sounds from high, low and mid frequencies in crystal clear quality</sentcont>
+<sentcont> The camera has lots of useful features such as 2 "my scene" settings on the mode dial which allow you to select your 2 favourite scene modes and give them dedicated positions on the dial</sentcont>
+<sentcont>I for example chose panorama and landscape</sentcont>
+<sentcont>Other great features include the ability to save up to 6 of your friend's faces in the camera so when they're in a shot it focuses on them</sentcont>
+<sentcont>You can edit everything from white balance to colour tone and it has standard Panasonic menus</sentcont>
+<sentcont>For the nerds amongst you it also features a mini HDMI out to connect straight to your TV</sentcont>
+<sentcont> Definitely a perfect choice for anyone who wants a compact camera which packs many features seen in SLRs but at a much lower price</sentcont>
+<sentcont>I'd suggest that anyone buying this camera get a 16GB SDHC memory card at least as this will give you about 2 hours of HD video at highest quality</sentcont>
+<sentcont>I highly recommend this camera</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The supplied battery is rechargeable, but a bit small</sentcont>
+<sentcont>It should last you a reasonable time on full charge taking photos, but using the flash and taking video will take its toll</sentcont>
+<sentcont>I'd recommend getting a second battery as they are not cumbersome</sentcont>
+<sentcont>The problem is the latest firmware doesn't support third party batteries, so you'll have to fork out on an expensive Panasonic one</sentcont>
+<sentcont> Although technically a compact camera, it's a little on the bulky side due largely to the zoom lens</sentcont>
+<sentcont>If you have large pockets it should be OK, but you're unlikely to get it in there inside a case</sentcont>
+<sentcont> There have been complaints about the mode dial being a bit loose</sentcont>
+<sentcont>Panasonic seem to have improved the dial making it a bit stiffer</sentcont>
+<sentcont>However, it could still get turned when inside your pocket</sentcont>
+<sentcont>Due to the camera's size</sentcont>
+<sentcont>The camera might also turn on in your pocket too</sentcont>
+<sentcont> My only other niggles are the fact you have to remove the camera's battery and put it in a charge unit rather than charging it in the camera, and the supplied USB cable is propriety, so you have to take the cable with you if you want to connect the camera to anyone else's computer</sentcont>
+<sentcont> They could have packed in a case and HDMI cable, but there camera is great value as it is, so these would only up the price</sentcont>
+</sentence></con>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+1601675#366#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1601675</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> I'm not a photographer, but I have been amazed by the quality of some of the photo's I've taken with my TZ7</sentcont>
+<sentcont>As long as I leave it on intelligent auto it does every thing, it even bleeps to tell me it doesn't want to take a photo</sentcont>
+<sentcont>I can't compare it with other cameras, the last one I bought was an Olympus 1.3mp, 9 years ago and still going strong, but I read every report I could find and the TZ7 came out best..</sentcont>
+<sentcont>I'm very happy with it</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The worst thing about the camera is the greedy company who made it PANASONIC, they charge nearly ?50 for a spare battery, they want us to be ggratefulbecause now we can't over charge the thing, it has some sort of chip in it to stop that happening...</sentcont>
+<sentcont>when was the last time you overcharged a battery?</sentcont>
+<sentcont>If your camera was made after some time in June, or had the firmware updated to ver 1.2, you must buy their battery, I tied a cheap replacement and a message came up telling me it would not work with that battery and switched off</sentcont>
+<sentcont>Panasonic are just getting two bites of the cherry.</sentcont>
+<sentcont>the same way as the inkjet printer people tried</sentcont>
+<sentcont>I can buy a heavy duty battery for my car for less.</sentcont>
+<sentcont>Still it's a great camera</sentcont>
+</sentence></con>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+1658191#69#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1658191</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Picture quality, HD video quality played back on Panasonic HD plasma TV blew my mind</sentcont>
+<sentcont>Superb</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Battery cover and lens cover a bit flimsy</sentcont>
+</sentence></con>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+000000#23#Panasonic_Lumix_DMC.txt####Manual Annotation Score =4
+
+<websource>Viewpoints</websource>
+<reviewid>000000</reviewid>
+<reviewtitle>$50 for batteries! The Panasonic DMC-ZS3 camera is worth it</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> great color and quality of pictures, has lots of features </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> expensive batteries </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>To the Point Two and half years ago I bought a Casio Exilim.</sentcont></sentence>
+<sentence><sentcont>I upgraded to the Panisonic Lumix??DMC-ZS3 Digital Camera, which is has 10.1-megapixels, a 25mm ultra-wide-angle lens and 12x optical zoom.</sentcont></sentence>
+<sentence><sentcont>Pros Panisonic Lumix??DMC-ZS3 Digital Camera's ??zoom is great.</sentcont></sentence>
+<sentence><sentcont>??For example, in the picture below of the turtle from my naked eye I??could just see his shell.</sentcont></sentence>
+<sentence><sentcont>Once I uploaded the photo of him I was amazed at how clear he was and that his head was sticking out and I could see his legs.</sentcont></sentence>
+<sentence><sentcont>And please look at the picture of the hermit crab.</sentcont></sentence>
+<sentence><sentcont>Panisonic Lumix??DMC-ZS3 Digital Camera??has a compact body.</sentcont></sentence>
+<sentence><sentcont>It weighs almost 1/2 a pound.??It measure??2.4 inches by 1.3inches by 4.1 inches.</sentcont></sentence>
+<sentence><sentcont>The record button is on the camera.</sentcont></sentence>
+<sentence><sentcont>There is an intelligent auto mode (IA) which is what I use 99% of the time.</sentcont></sentence>
+<sentence><sentcont>The colors and picture quality are terrific.</sentcont></sentence>
+<sentence><sentcont>The focus on this camera is super.</sentcont></sentence>
+<sentence><sentcont>It truly does find the best shot.</sentcont></sentence>
+<sentence><sentcont>Cons You will read that??a con to the ??Panisonic Lumix??DMC-ZS3 Digital Camera is the lack of manual features.</sentcont></sentence>
+<sentence><sentcont>That may be true but I have 27 settings and that works great for me.</sentcont></sentence>
+<sentence><sentcont>There is no viewfinder so using it in bright sunlight is difficult i.e. the LCD display is hard to see.</sentcont></sentence>
+<sentence><sentcont>The batteries, which are on back order, are expensive.</sentcont></sentence>
+<sentence><sentcont>I just ordered one for $46.00!</sentcont></sentence>
+<sentence><sentcont>?? Jo's Viewpoint The Panasonic Lumix DMC-ZS3 comes in red, silver, blue and red.</sentcont></sentence>
+<sentence><sentcont>I chose the blue.</sentcont></sentence>
+<sentence><sentcont>I really love my camera.???? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??</sentcont></sentence>
+</freereview>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+1783922#118#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1783922</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> This camera is very good value for money</sentcont>
+<sentcont>I also have a finepix S7000 but that is to bulky to cary around, were as the Lumix just fits in your pocket, and does everything and more</sentcont>
+<sentcont>The 3" screen is great, plus loads of other features.</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Can't find any </sentcont>
+</sentence></con>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+1640423#217#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1640423</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> very easy to use</sentcont>
+<sentcont>a very good lumix product perfect video HD </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> the price?...ok,I have personnal problem with new technology and world business but I think it s the good price for this item..</sentcont>
+</sentence></con>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+10024264#17#Panasonic_Lumix_DMC.txt####Manual Annotation Score =4
+
+<websource>Cnet</websource>
+<reviewid>10024264</reviewid>
+<reviewtitle>Great all around camera</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> 10Xoptical lens (leica) fast flash, long lasting battery, wide selection of auto settings,huge display, compact size, good lens cover, outstanding quality of pictures, (people are always amazed) </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> When I was looking to buy, I insisted on a separate viewfinder</sentcont>
+<sentcont>Finding very few that had one, I opted for the biggest and best display from the lumix</sentcont>
+<sentcont>So while it is not a real "con" (I've grown to like it) I do sometimes miss the viewfinder </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I am tired of dragging around full size SLR camera bodies and different lens'.</sentcont></sentence>
+<sentence><sentcont>I'm getting old enough now, that I don't like "fiddling" with f-stops, lenses, light meters, blah blah blah.</sentcont></sentence>
+<sentence><sentcont>I like to point and shoot and let the camera think for me.</sentcont></sentence>
+<sentence><sentcont>My daughter is in the advertising business (fortune 500 type) and she said the techies at her firm use the lumix in their stuff.</sentcont></sentence>
+<sentence><sentcont>But!.. I said, Canon is rated best by consumer mags, the lumix is barely in the top 5. She said, who ya gonna believe?</sentcont></sentence>
+<sentence><sentcont>The magazine for college nerds, or the professionals that actually use it?</sentcont></sentence>
+<sentence><sentcont>I took her advice and have not been disappointed.</sentcont></sentence>
+</freereview>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+10012595#4#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Cnet</websource>
+<reviewid>10012595</reviewid>
+<reviewtitle>Unbeatable Value. HD Video, 10x Zoom, in your pocket!!</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Shoots HD video at 720p/30fps - 10x zoom in point and shoot frame - You can zoom while taking video!!</sentcont>
+<sentcont>- IMHO most features available for your $$$</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No optical viewfinder - No manual focus - No video camera lights </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I'm no fanboy of Panasonic; I'd never even heard of Lumix before I started shopping for a new digital camera about a year ago.</sentcont></sentence>
+<sentence><sentcont>The blogs reported about 2 cameras that were coming out that shot HD video, a feature I absolutely wanted, this and the Cannon.</sentcont></sentence>
+<sentence><sentcont>The TZ5 also came with a 10x zoom, as well.</sentcont></sentence>
+<sentence><sentcont>This is definitely a rare feature, and I can't remember how many times I cursed my old Pentax for only having 3x.</sentcont></sentence>
+<sentence><sentcont>The icing on the cake was the availability to zoom while recording video!</sentcont></sentence>
+<sentence><sentcont>This feature is awesome and essentially makes your picture camera a camcorder.</sentcont></sentence>
+<sentence><sentcont>The picture quality IMO is amazing.</sentcont></sentence>
+<sentence><sentcont>I constantly get compliments about them, and am able to do a lot of cropping etc; however, Im sure most cams output good quality at 9MP.</sentcont></sentence>
+<sentence><sentcont>Ill defer to CNET on that issue, but I'm certainly happy with it...  Now things that annoy me: no optical viewfinder- meh I don't really miss one, but some ppl might be annoyed by it.</sentcont></sentence>
+<sentence><sentcont>In the camera's defense, the screen is SUPER bright and SUPER crisp (i think it was the highest resolution at the time).</sentcont></sentence>
+<sentence><sentcont>No manual focus... this one kinda upsets me.</sentcont></sentence>
+<sentence><sentcont>my old optioS had a basic manual zoom function that i LOVED (I'm certainly no professional, but I'd consider myself a hobbyist).</sentcont></sentence>
+<sentence><sentcont>Alas, there is no manual focus here.</sentcont></sentence>
+<sentence><sentcont>in fact everything is pretty much automated for you.</sentcont></sentence>
+<sentence><sentcont>so if you don't know jack about cameras this is good for you, if not, you can change the ISO, flash, focus settings, but no manual focus.</sentcont></sentence>
+<sentence><sentcont>No video camera light.</sentcont></sentence>
+<sentence><sentcont>I don't know any point and shoots that have this, but CMON ppl!</sentcont></sentence>
+<sentence><sentcont>I'd love to take video at night.</sentcont></sentence>
+<sentence><sentcont>Finally, I think it shoots in H.264, but I hate using QuickTime, I'd rather it record to Divx directly...  Here are some example shots I've taken (last one is a video): http://flickr.com/photos/robstak/2441745295/in/set-72157604732261074/ http://flickr.com/photos/robstak/2483601950/in/set-72157605001595717/ http://flickr.com/photos/robstak/2485882077/in/set-72157605001595717/</sentcont></sentence>
+<sentence><sentcont>In summary, I absolutely LOVE this camera, and couldn't recommend it more...</sentcont></sentence>
+<sentence><sentcont>It has its shortcomings, but as point and shoots go I dont' see a better value.</sentcont></sentence>
+<sentence><sentcont>I shopped for a replacement for my optioS for months and months and waited till this came around (if only it still fit in an altoids tin, lol).</sentcont></sentence>
+<sentence><sentcont>So look at this and look at the Cannon, but my money is on the TZ5</sentcont></sentence>
+</freereview>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+1721968#185#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1721968</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> This is an excellent compact camera, my third digital camera, second Panasonic camera after my last one was lost</sentcont>
+<sentcont>   The wide angle and macro are excellent for geting panoramics and close-ups</sentcont>
+<sentcont>   I notice it is often described as a travel camera in reviews, which is a good description, I have been on 2 trips away and have many excellent photos thanks to its versatility and intelligent auto functions</sentcont>
+<sentcont>    According to reviews I read, the battery life was supposed to be poor, however I find it very good</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Very few bad points, don't expect SLR quality pictures when you zoom in on detail, but it is still very impressive quality and probably best in its class (as a travel compact)</sentcont>
+<sentcont>   Flash looks small but comes out pretty good, may have been better with a shoe for additional flash capability</sentcont>
+</sentence></con>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+10004434#21#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Cnet</websource>
+<reviewid>10004434</reviewid>
+<reviewtitle>Audio in movie mode sub-par</reviewtitle>
+<rating>0.5</rating>
+<pro><sentence>
+<sentcont> HD movie mode, great zoom </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Placement of microphone, sound levels on video </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>I bought this camera because it works smoothly with my Mac and because it shoots HD movies.</sentcont></sentence>
+<sentence><sentcont>I know the purists say you should have a dedicated movie camera if you are into shooting home video, but I find a good quality compact digital camera is much easier to carry around and less intimidating to your subjects when you're shooting footage at friendly gatherings.</sentcont></sentence>
+<sentence><sentcont>I have a Sony DSC t100 which is an awesome little camera and created great video, but it doesn't interface well with my Mac (no audio on movies), and I have to run the footage through Roxio program on my PC to convert to AVi, then copy the AVI files to my Mac.</sentcont></sentence>
+<sentence><sentcont>Tedious and time-consuming.</sentcont></sentence>
+<sentence><sentcont>I also wanted to upgrade to a compact digital that shot movies in HD.</sentcont></sentence>
+<sentence><sentcont>I like to use stills from my video footage in my finished IMovies and HD video allows for pretty good stills.</sentcont></sentence>
+<sentence><sentcont>I loved so much about the DMC TZ5, but the audio for my finished movies was very poor compared to the Sony.</sentcont></sentence>
+<sentence><sentcont>You can really only hear the person shooting the footage clearly (if he/she avoids covering the poorly-located microphone with his/her left index finger), and you miss a lot of the dialogue of the subjects.</sentcont></sentence>
+<sentence><sentcont>This is a huge flaw if you're doing home movies, since some of the best audio comes from side comments and reactions--I'm not filming just to hear myself speak.</sentcont></sentence>
+<sentence><sentcont>I used the camera for a few weeks and did some short films on my Mac, but I just couldn't get past the low volume of the audio track.</sentcont></sentence>
+<sentence><sentcont>The microphone barely picks up audio more than a couple of feet away.</sentcont></sentence>
+<sentence><sentcont>I did extensive research before buying the TZ5 and did not see this issue mentioned anywhere.</sentcont></sentence>
+<sentence><sentcont>The superb quality of my Sony may have spoiled me, but I had to send the Lumix back.</sentcont></sentence>
+<sentence><sentcont>I may just stick to Sony and hope the company eventually decides to play well with Macs in the future.</sentcont></sentence>
+</freereview>
+
+
+query=Panasonic Lumix DMC-GF1 lenses? panasonic_lumix_dmc||lens system||
+
+000002#25#Panasonic_Lumix_DMC.txt####Manual Annotation Score =4
+
+<websource>Viewpoints</websource>
+<reviewid>000002</reviewid>
+<reviewtitle>standing "O" for the ZS3</reviewtitle>
+<rating>1.0</rating>
+<freereview><sentence><sentcont>I have owned two prior digital cameras- the first was a Canon that took good pictures, but was too bulky to pocket around and required AA batteries to power it.</sentcont></sentence>
+<sentence><sentcont>The second was a Sony CyberShot DSC-W150 that took crappy, blurry pictures in low light.</sentcont></sentence>
+<sentence><sentcont>Needless to say, I felt an upgrade was in order.</sentcont></sentence>
+<sentence><sentcont>So I'm going on an east coast trip next month.</sentcont></sentence>
+<sentence><sentcont>My buddy and I are avid baseball fans.</sentcont></sentence>
+<sentence><sentcont>One problem: as we do not always have great seats, taking close-up pictures of ballplayers is a real pain with 99% of the compact point and shoots out there.</sentcont></sentence>
+<sentence><sentcont>This is because the camera's size will only allow it 5X optical zoom.</sentcont></sentence>
+<sentence><sentcont>You can combine this with digital zooming, but I don't need to tell you how terrible and pixilated this looks.</sentcont></sentence>
+<sentence><sentcont>Thus my conundrum.</sentcont></sentence>
+<sentence><sentcont>So I really wanted a compact, pocketable camera with a long range optical lens, without having to lug around an expensive digital SLR.</sentcont></sentence>
+<sentence><sentcont>Enter the Panasonic Lumix DMC-ZS3.</sentcont></sentence>
+<sentence><sentcont>When I read the specs on it, I was in awe. 10 megapixel, 12X OPTICAL zoom.</sentcont></sentence>
+<sentence><sentcont>Here's the sweetest part about the zoom- if you planning to use smaller prints (i.e. 4X6), you can quickly adjust the camera's Megapixel (MP) count from 10 to 7, 5, and 3 to yield maximum OPTICAL zooms of 14.3, 17.1, and 21.4 respectably, without much loss of detail on such prints.</sentcont></sentence>
+<sentence><sentcont>I wish Panasonic would have allowed the camera to adjust the MP count automatically as you zoom, but it's not too much trouble to change the MP settings manually from the quick menu.</sentcont></sentence>
+<sentence><sentcont>Another great feature: the camera's screen is beautiful at 460,000 pixels, twice the count as the rival Canon Powershot SX200 IS (more on that camera later).</sentcont></sentence>
+<sentence><sentcont>From the moment you view your first picture, you'll quickly notice how much sharper photos look on this camera.</sentcont></sentence>
+<sentence><sentcont>It's a nice convenience to view photos on the camera in a manner closer to the quality that will actually be seen when you're viewing them on the computer (and ultimately printing them).</sentcont></sentence>
+<sentence><sentcont>I also want to give Panasonic kudos for the build quality and compactness of this camera.</sentcont></sentence>
+<sentence><sentcont>The ZS3 is a replacement for the popular TZ5 model, which was 9MP and 10X Optical Zoom.</sentcont></sentence>
+<sentence><sentcont>So they increased the resolution, and added a wider range lens, and REDUCED the size by .4 cubic inches.</sentcont></sentence>
+<sentence><sentcont>Specifications aside, I was more than pleased that this camera will comfortably fit inside my jeans pocket.</sentcont></sentence>
+<sentence><sentcont>It's a bit bulkier than an ultracompact for sure, but not objectionably so.</sentcont></sentence>
+<sentence><sentcont>Note that the SX200 is a full 2.0 cubic inches thicker, another reason I passed on the Canon.</sentcont></sentence>
+<sentence><sentcont>Here's a few more reasons the Canon falls short: the Canon has a cheesy looking popup flash that sticks out at the top of the camera, whether you're using flash or not (bad design decision).</sentcont></sentence>
+<sentence><sentcont>It has less rated battery life than the Lumix.</sentcont></sentence>
+<sentence><sentcont>Also, when shooting video, the Canon does NOT allow you to use optical zooming.</sentcont></sentence>
+<sentence><sentcont>Photo quality on the Lumix is excellent, although I've only snapped samples around my place so far.</sentcont></sentence>
+<sentence><sentcont>However, I've taken quite a few pictures at low light, and at maximum zoom levels to try to get a bad shot.</sentcont></sentence>
+<sentence><sentcont>So far, there's none to be found.</sentcont></sentence>
+<sentence><sentcont>I'll put this through its paces more when I travel next month, but I'm extremely pleased so far.</sentcont></sentence>
+<sentence><sentcont>As for video shooting, I've sampled it a bit, and it seems pretty solid.</sentcont></sentence>
+<sentence><sentcont>The camera gives you the choice of shooting video in its touted AVCHD Lite format (ideal for watching it on your TV in HD with an optional mini to standard HDMI cable), or JPEG if you prefer to email video clips to friends.</sentcont></sentence>
+<sentence><sentcont>This year's model also added stereo sound on video playback versus last year's monaural effort.</sentcont></sentence>
+<sentence><sentcont>One thing I found a bit strange, was the incredibly slow zooming when shooting video.</sentcont></sentence>
+<sentence><sentcont>I guess Panasonic was trying to give the user a more controlled, deliberate zoom, but unlike the snappy photo zooming, it's a bit slow for my liking.</sentcont></sentence>
+<sentence><sentcont>Some other minor quibbles: The dial that controls the shooting mode is extremely loose.</sentcont></sentence>
+<sentence><sentcont>If you lightly rub it against anything (a camera bag, your pocket), there's a good chance it will shift.</sentcont></sentence>
+<sentence><sentcont>When you turn the camera on, it will digitally tell you what mode you're in, but it's still annoying when it happens by accident.</sentcont></sentence>
+<sentence><sentcont>Second, when making a quick zoom on an object, it will appear blurry on the camera's screen until the shutter button is pressed.</sentcont></sentence>
+<sentence><sentcont>There are modes to continually focus the object when zooming, but this drains the camera's battery life more rapidly.</sentcont></sentence>
+<sentence><sentcont>It would be nice if this feature was incorporated automatically without any such sacrifice.</sentcont></sentence>
+<sentence><sentcont>Also, I'm not a huge fan of the included PhotofunStudio software bundled with this camera, as there are other, more compelling programs to view, edit, and print photos (I like Canon's Zoombrowser program better).</sentcont></sentence>
+<sentence><sentcont>Finally, this is not the camera to buy if you're into manual controls.</sentcont></sentence>
+<sentence><sentcont>There's a ton of preset scenes that can be used (nighttime, portrait, baby, sunset, food, etc.), and you can adjust items like flash, white balance, and max ISO level, but this is meant to be a simple point and shoot for casual photographers.</sentcont></sentence>
+<sentence><sentcont>Note that the Lumix has an intelligent auto mode (IA) that will analyze the shooting conditions and pick the right scene, flash, and exposure without any adjustments by the user.</sentcont></sentence>
+<sentence><sentcont>This camera screams simplicity, but there's enough tweaking on the Normal and Scene modes to keep the vast majority of amateur photographers happy.</sentcont></sentence>
+<sentence><sentcont>Regardless of these nitpicks, the Panasonic Lumix DMC-ZS3 is an awesome camera, unbeatable for those that want the best of both worlds- a great zoom lens and compact body.</sentcont></sentence>
+<sentence><sentcont>It's a bit pricey at $399, but you're getting quite a lot of camera for your hard earned dollars.</sentcont></sentence>
+<sentence><sentcont>I have no doubt that my third digital camera is a terrific buy and a long-term staple for my travels.</sentcont></sentence>
+<sentence><sentcont>??</sentcont></sentence>
+</freereview>
+
+
+query=panasonic lumix dmc-gf1 lenses? panasonic_lumix_dmc||lens system||
+
+1689851#190#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1689851</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> Nice camera with loads of features</sentcont>
+<sentcont>The image quality is excellent in well lit conditions</sentcont>
+<sentcont>In low light, subjects at a distance can suffer</sentcont>
+<sentcont>The person recognition works quite well and overall I am very pleased with the camera</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> It unit is a little chunky and heavy</sentcont>
+<sentcont>Panasonic battery and charger so I can't use my high powered AA's</sentcont>
+<sentcont>The camera requires a mini HDMI cable to connect to a TV that you have to purchase seperately</sentcont>
+</sentence></con>
+
+
+query=panasonic lumix dmc-gf1 lenses? panasonic_lumix_dmc||lens system||
+
+1648795#337#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1648795</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Nice fit in hand, intuitive handling and set-up</sentcont>
+<sentcont>Excellent video recording</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Some features are just a gimmick   face recognition, babies etc</sentcont>
+<sentcont>Beware to buy generic replacement battery   the firmware does not recognise it</sentcont>
+<sentcont>Nasty move from Panasonic</sentcont>
+</sentence></con>
+
+
+query=panasonic lumix dmc-gf1 lenses? panasonic_lumix_dmc||lens system||
+
+1601803#365#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1601803</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> As a point and shoot picture-taker, I love this camera</sentcont>
+<sentcont>In Intelligent auto mode it works brilliantly and is very easy to use</sentcont>
+<sentcont>I am still coming to terms with all the additional facilities - hence only 9/10 for Ease of use above</sentcont>
+<sentcont>I was very impressed when I experimented with videoing part of a football match from the TV screen</sentcont>
+<sentcont>The quality was outstanding</sentcont>
+<sentcont>Mind you, the TV is  Panasonic Viera</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> The camera did not fit in the camera case supplied</sentcont>
+<sentcont>Also, without a view finder, the screen is difficult to see in bright sunlight</sentcont>
+</sentence></con>
+
+
+query=panasonic lumix dmc-gf1 lenses? panasonic_lumix_dmc||lens system||
+
+1743982#183#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1743982</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Very good all round camera for both photos and video </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Video uses up battery life quickly</sentcont>
+<sentcont>Can only buy Panasonic back up battery, which is very expensive</sentcont>
+</sentence></con>
+
+
+query=panasonic lumix dmc-gf1 lenses? panasonic_lumix_dmc||lens system||
+
+1575594#128#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1575594</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> easy to use and navigate, with 16gb memory card it will do all your holiday photos and vids</sentcont>
+<sentcont>quality of pictures and videos is fab </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> spare panasonic battery expensive, time required to write to dvd from computer</sentcont>
+</sentence></con>
+
+
+query=panasonic lumix dmc-gf1 lenses? panasonic_lumix_dmc||lens system||
+
+1553868#100#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1553868</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> So easy to use and the quality of the zoom and HD recordings is increddible for being a camera</sentcont>
+<sentcont> No need for a seperate Camcorder with this Panasonic </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Struggling to find any at present</sentcont>
+</sentence></con>
+
+
+query=panasonic lumix dmc-gf1 lenses? panasonic_lumix_dmc||lens system||
+
+1725467#184#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1725467</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Powerful optical zoom,  excellent photos produced under miost conditions, easy to get going with intelligent auto mode and point and shoot</sentcont>
+<sentcont> Some reviews have said the battery life is too short - I 'm quite happy at present with the battery capacity</sentcont>
+<sentcont> Getting good photos is easy</sentcont>
+<sentcont> Not a cheap camera but lots of features for the money </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Mode selection switch turns too easily   some times when you don't intend it to move</sentcont>
+<sentcont> No HDMI / mini USB lead supplied</sentcont>
+<sentcont> Expensive spare battery and HDMI lead from Panasonic</sentcont>
+<sentcont> Should come with a class 6 SDHC memory card and protective case for the money</sentcont>
+<sentcont>High visibility jackets at night give it a problem</sentcont>
+</sentence></con>
+
+
+query=panasonic lumix dmc-gf1 lenses? panasonic_lumix_dmc||lens system||
+
+1550111#83#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1550111</reviewid>
+<reviewtitle></reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Easy to use , HD video capability ,Panasonic Quality </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No case Image transfer slow via PIC Bridge need to use USB card reader </sentcont>
+</sentence></con>
+
+
+query=panasonic lumix dmc-gf1 lenses? panasonic_lumix_dmc||lens system||
+
+1877954#41#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1877954</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Sturdy design and construction of camera</sentcont>
+<sentcont>Excellent features on the camera when using manual intelligent mode</sentcont>
+<sentcont>Excellent software provided by Panasonic, especially the panoramic picture creator</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Wish I had bought it sooner</sentcont>
+</sentence></con>
+
+
+query=panasonic lumix dmc-gf1 lenses? panasonic_lumix_dmc||lens system||
+
+1704600#293#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1704600</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.5</rating>
+<pro><sentence>
+<sentcont> focal size </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> panasonic making a spare battery so expensive,you have to buy a panasonic battery as they have made it so other re placements will not work.So on this anti competetive stance from panasonic i would have chosen a different make of camera if i had known this at the time</sentcont>
+</sentence></con>
+
+query=panasonic lumix dmc-gf1 lenses? panasonic_lumix_dmc||lens system||
+
+1657032#335#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+<websource>Reevoo</websource>
+<reviewid>1657032</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> lens, many  good  features ,zoom  in and out without having to change lens</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> handle it sometimes,is difficulty to hold because it has somany good things about it</sentcont>
+</sentence></con>
+
+query=panasonic lumix dmc-gf1 lenses? panasonic_lumix_dmc||lens system||
+
+1590430#99#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+<websource>Reevoo</websource>
+<reviewid>1590430</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> GOOD QUALITY VIDEO AND STILL IMAGES SOLID FEEL </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> LENS COVER COULD GET DAMAGED EASILY </sentcont>
+</sentence></con>
+
+query=panasonic lumix dmc-gf1 lenses? panasonic_lumix_dmc||lens system||
+
+10043446#14#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+<websource>Cnet</websource>
+<reviewid>10043446</reviewid>
+<reviewtitle>superb . great zoom. clarity of image , a Leica lens!</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> leica lens; excellent zoom , stability function; wide angle ; superb looking </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> no negative comments </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>positive experience with this brilliant camera ;travelling thousands of miles ;a hardy piece of kit with everything you need in a pocket size camera --10x zoom ; wide angle leica lens;and lots more</sentcont></sentence>
+</freereview>
+
+query=panasonic lumix dmc-gf1 lenses? panasonic_lumix_dmc||lens system||
+
+1674701#323#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+<websource>Reevoo</websource>
+<reviewid>1674701</reviewid>
+<reviewtitle>Experienced amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Excellent wide angle lens and zoom </sentcont>
+<sentcont>Excellent pictures </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+query=panasonic lumix dmc-gf1 lenses? lens system||
+
+1638674#56#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1638674</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Intelligent Auto system works very well</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> A little more control over individual settings like exposure time would be nice</sentcont>
+</sentence></con>
+
+
+query=panasonic lumix dmc-gf1 lenses? lens system||
+
+10019101#20#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Cnet</websource>
+<reviewid>10019101</reviewid>
+<reviewtitle>Solid Point and Shoot</reviewtitle>
+<rating>0.7</rating>
+<pro><sentence>
+<sentcont> HD Video10X zoomGreat Picture Quality </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Heavy and Not a very compact Point and ShootMenu System is overly cluttered and complex for a P&S user </sentcont>
+</sentence></con>
+<freereview></freereview>
+
+
+query=panasonic lumix dmc-gf1 lenses? lens system||
+
+1655761#336#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1655761</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Size,handling,quality lens,build quality,screen </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> None really </sentcont>
+</sentence></con>
+
+query=panasonic lumix dmc-gf1 lenses? lens system||
+
+1505652#147#Panasonic_Lumix_DMC.txt####Manual Annotation Score =0
+
+<websource>Reevoo</websource>
+<reviewid>1505652</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.8</rating>
+<pro><sentence>
+<sentcont> I like panasonic cameras they are sturdy, reliable and produce excellent photographs </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I think overall its a little expensive for what features it has in comparance to say tz6 (Which is not that much different and cheaper) also Dial on top of camera always moves when taking in/out of camera case, and when you want to take picture in a hurry screen tells you "dial not in correct position" other than that i think its an excellent camera </sentcont>
+</sentence></con>
+
+2242962#228#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>2242962</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> wide angle lens, big zoom, image quality</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Reviewer left no comment </sentcont>
+</sentence></con>
+
+query=panasonic lumix dmc-gf1 lenses? lens system||
+
+1696387#189#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1696387</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Excellent HiDef video capability</sentcont>
+<sentcont>Most cameras allow you to choose video mode by turning the dial on the top of the camera</sentcont>
+<sentcont>I prefer the way it is selected in this camera ie with a single button on the back of the camera</sentcont>
+<sentcont>I bought this camera in anticipatio of the birth of my first child</sentcont>
+<sentcont>I have therefore found the baby setting on it useful</sentcont>
+<sentcont>It records the name and age of the child on the picture</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> I struggle to think of any but the system of menus is a little long and complicated</sentcont>
+<sentcont>The shutter release button should be where the scene dial is, in my opinion</sentcont>
+</sentence></con>
+
+
+query=panasonic lumix dmc-gf1 lenses? lens system||
+
+1979700#103#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1979700</reviewid>
+<reviewtitle>Point &amp; shoot</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> WIDE ANGLE LENS GREAT OPTICAL ZOOM COMPACT BODY EXTRA DIGITAL ZOOM </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> BATTERY LIFE NOT AS GOOD AS THEY SAY </sentcont>
+</sentence></con>
+
+
+query=panasonic lumix dmc-gf1 lenses? lens system||
+
+1585958#132#Panasonic_Lumix_DMC.txt####Manual Annotation Score =3
+
+<websource>Reevoo</websource>
+<reviewid>1585958</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> great  screen image.Excellent video and easy operation with dedicated push operation.Great zoom lens also wide angle for larger angle shots.Sound quality also very good.Digital zoom also v</sentcont>
+<sentcont>good</sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Battery life could be better</sentcont>
+</sentence></con>
+
+
+query=panasonic lumix dmc-gf1 lenses? lens system||
+
+1945678#246#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1945678</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> wide angle lens hd video is great quality </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> slightly bulky hd videos are very large files   too big for facebook</sentcont>
+</sentence></con>
+
+
+query=panasonic lumix dmc-gf1 lenses? lens system||
+
+1921867#171#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1921867</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>1.0</rating>
+<pro><sentence>
+<sentcont> Excellent Build, Brilliant viewing screen, face recognition & a great wide angle lens, </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> No Viewfinder to use in very bright sunlight</sentcont>
+</sentence></con>
+
+
+query=panasonic lumix dmc-gf1 lenses? lens system||
+
+1604309#361#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1604309</reviewid>
+<reviewtitle>Keen amateur</reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Fantastic lens & zoom Big screen I mage quality is excellent </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> none so far </sentcont>
+</sentence></con>
+
+
+query=panasonic lumix dmc-gf1 lenses? lens system||
+
+2608740#22#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+
+<websource>Cnet</websource>
+<reviewid>2608740</reviewid>
+<reviewtitle>great potential, but that's all</reviewtitle>
+<rating>0.4</rating>
+<pro><sentence>
+<sentcont> lens, zoom </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> display, battery </sentcont>
+</sentence></con>
+<freereview><sentence><sentcont>battery good for 60 pics, awful screen in bright outdoors</sentcont></sentence>
+</freereview>
+
+
+query=panasonic lumix dmc-gf1 lenses? lens system||
+
+1509588#400#Panasonic_Lumix_DMC.txt####Manual Annotation Score =2
+
+<websource>Reevoo</websource>
+<reviewid>1509588</reviewid>
+<reviewtitle></reviewtitle>
+<rating>0.9</rating>
+<pro><sentence>
+<sentcont> Able to zoom whilst shooting video</sentcont>
+<sentcont>12X zoom Wide angle lens is great for indoor shots </sentcont>
+</sentence></pro>
+<con><sentence>
+<sentcont> Pictures taken with flash seem underexposed</sentcont>
+</sentence></con>
+
+
